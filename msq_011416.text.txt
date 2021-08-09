@@ -1,0 +1,13 @@
+msq_011416.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 496 bytes
+
+msq_011416
+Group 0
+msq_011416_0010 - 攻撃の前に、刀が光るわ。<br>見逃さないようにして。
+name010 - マノン
+
+Group 1
+msq_011416_0010 - Their blade lights up just before they attack. Keep an eye out for it.
+name010 - Manon
+
+

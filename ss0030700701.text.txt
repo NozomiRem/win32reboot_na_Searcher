@@ -1,0 +1,27 @@
+ss0030700701.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1040 bytes
+
+Required
+Group 0
+Title - トレイニアの覇者・エアリオ編
+Summary - オペレーターのリューリンから、<br>エアリオにあるすべての<br>トレイニアの踏破を頼まれる。
+
+Group 1
+Title - Trainia Dominator (Aelio)
+Summary - Operator Liu Lin asks the crew to explore<br>all the Trainia sites in Aelio.
+
+
+SubObjectives
+Group 0
+text0101 - エアリオの全コクーンを踏破する
+text0102 - エアリオの全タワーを踏破する
+text0103 - エアリオの全タワーを踏破する
+text0104 - エアリオの全タワーを踏破する
+
+Group 1
+text0101 - Explore all Aelio Cocoon facilities
+text0102 - Explore all Aelio towers
+text0103 - Explore all Aelio towers
+text0104 - Explore all Aelio towers
+
+

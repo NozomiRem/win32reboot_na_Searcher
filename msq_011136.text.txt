@@ -1,0 +1,17 @@
+msq_011136.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 784 bytes
+
+msq_011136
+Group 0
+msq_011136_0010 - あっ、またあのドールズ？<br>……ん？　でも、さっきとちょっと違うような……。
+msq_011136_0020 - あいつは強化型だ。注意しろ！
+name010 - アイナ
+name020 - ブルーダー
+
+Group 1
+msq_011136_0010 - Ah, that same DOLLS unit again? Actually, something's a little different about this<br>one...
+msq_011136_0020 - It's been enhanced. Be on your guard!
+name010 - Aina
+name020 - Dozer
+
+

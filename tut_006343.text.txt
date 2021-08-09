@@ -1,0 +1,13 @@
+tut_006343.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 928 bytes
+
+TutorialText
+Group 0
+Title - ギガンティクス
+text0001 - “ギガンティクス”は、<br>特定の天候になった際に現れる<yellow>非常に強力なエネミー<c>です。<br><br>クラスレベルや装備強化などの準備が充分に整っていない場合は、<br>戦闘を避ける判断も必要となります。
+
+Group 1
+Title - Gigantix
+text0001 - Gigantix are <yellow>incredibly powerful enemies<c> that appear in certain <br>weather conditions.<br><br>If your class level and equipment are not up to the task, it is best <br>to avoid them.
+
+

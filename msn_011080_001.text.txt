@@ -1,0 +1,15 @@
+msn_011080_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 608 bytes
+
+msn_011080_001
+Group 0
+name_7006 - ラン
+msn_011080_001_0101 - あの、すみません。<br>少しお話ししたいのですが。
+msn_011080_001_0102 - こちらに来てもらえますか？
+
+Group 1
+name_7006 - Ran
+msn_011080_001_0101 - Um, do you have a minute to talk?
+msn_011080_001_0102 - If you could come over here, that'll be great.
+
+

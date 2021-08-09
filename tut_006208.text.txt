@@ -1,0 +1,13 @@
+tut_006208.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1488 bytes
+
+TutorialText
+Group 0
+Title - サブパレット
+text0001 - “サブパレット”とは、アイテムやクラススキルなどを事前に登録し、<br>簡単な操作ですぐに使うことができる機能です。<br>ひとつのパレットには、最大10種類まで登録できます。<br><br><%SubPaletteLeft><pict 4space><%SubPaletteRight><pict 4space>でカーソルを左右に移動し<pict 4space><%SubPalette><pict 4space>で実行します。<br>キーボード利用時は、[1]～[0]キーを押すと直接実行できます。
+
+Group 1
+Title - Sub-Palettes
+text0001 - The Sub-Palette allows you to add items or Class Skills to it for easy access.<br>One palette can hold a maximum of ten slots.<br><br>You can move the cursor left and right using <%SubPaletteLeft> and <%SubPaletteRight>, <br>and select slots using <%SubPalette>.<br>When using a keyboard, the 1 through 0 keys are mapped to each slot.
+
+

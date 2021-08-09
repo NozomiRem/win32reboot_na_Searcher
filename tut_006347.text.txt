@@ -1,0 +1,13 @@
+tut_006347.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 912 bytes
+
+TutorialText
+Group 0
+Title - ステップカウンター
+text0001 - ステップカウンター：<br>　エネミーの攻撃を<br>　<%Avoid><pict 4space>で回避した直後に<pict 4space><%NormalAttack><br><br><yellow>※回避成功時は演出が発生<c><br>
+
+Group 1
+Title - Sidestep Counters
+text0001 - Sidestep Counter:<br>Press <%NormalAttack> right after you dodge <br>with <%Avoid><br><br><yellow>Note: A notification will be given when <br>you successfully dodge.<c>
+
+

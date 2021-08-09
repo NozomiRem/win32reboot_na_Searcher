@@ -1,0 +1,17 @@
+tut_006281.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 2000 bytes
+
+TutorialText
+Group 0
+Title - デイリー／ウィークリータスク
+text0001 - “デイリータスク”は日替わりの、<br>“ウィークリータスク”は週替わりの“タスク”です。<br><br>デイリータスクは毎朝<utc>19:00</utc>、<br>ウィークリータスクは毎週<utcdow>水曜日2:00</utcdow>に更新されます。
+text0001_na - “デイリータスク”は日替わりの、<br>“ウィークリータスク”は週替わりの“タスク”です。<br><br>デイリータスクは毎朝<utc>19:00</utc>、<br>ウィークリータスクは毎週<utcdow>水曜日2:00</utcdow>に更新されます。
+text0002 - １アカウントにつき、<yellow>デイリータスクは１日に１回、<br>ウィークリータスクは１週間に１回だけ<c>達成でき、<br><yellow>進行状況を翌日・翌週に持ち越すことはできません。<c><br><br>また、通常のタスクのほかに、<br>期間限定で発生する特別なタスクもあります。
+
+Group 1
+Title - Daily and Weekly Tasks
+text0001 - Daily Tasks are tasks that change daily and Weekly Tasks are tasks that <br>change weekly. <br><br>Daily Tasks will reset every morning at <utc>19:00</utc> and Weekly Tasks will reset <br>on <utcdow>Wednesday 2:00</utcdow>.
+text0001_na - Daily Tasks are tasks that change daily and Weekly Tasks are tasks that <br>change weekly. <br><br>Daily Tasks will reset every morning at <utc>19:00</utc> and Weekly Tasks will reset <br>on <utcdow>Wednesday 2:00</utcdow>.
+text0002 - You can complete <yellow>one Daily Task per day and one Weekly Task per week<c>, per account.  <br><yellow>You also cannot carry over your progression to the next day/week.<c><br><br>Additionally, besides normal tasks, there are also special limited time <br>only tasks.
+
+

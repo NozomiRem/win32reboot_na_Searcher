@@ -1,0 +1,17 @@
+qst_1200040100.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1104 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+text010 - 腹部の装甲がはがれたな。
+text020 - エネミーの中には、特定の部位を壊せるものもいる。<br>どこが弱いのか、よく見極めるんだ。
+text030 - 部位破壊をすることで、動きが鈍くなったり、<br>弱点が露出したり、有利に戦えるようになるぞ。
+
+Group 1
+name010 - Dozer
+text010 - The armor's come off from its abdomen.
+text020 - Some of the enemies have destructible parts.<br>Keep an eye out for any that could be a vulnerability.
+text030 - Destroying certain parts can slow the enemy down, or reveal a weak point. Take them<br>out to gain the upper hand.
+
+

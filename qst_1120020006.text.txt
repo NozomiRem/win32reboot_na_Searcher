@@ -1,0 +1,13 @@
+qst_1120020006.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 560 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - <pure_red>ホワイトの採掘リグ<c>が攻撃を受けています!<br>周囲のエネミーを掃討してください。
+
+Group 1
+name010 - Ran
+text001 - The <pure_red>white rig<c> is under attack! Please clear out all nearby enemies!
+
+

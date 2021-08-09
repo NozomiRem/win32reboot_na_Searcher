@@ -1,0 +1,17 @@
+tut_006419.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 3584 bytes
+
+TutorialText
+Group 0
+Title - 資源採掘リグ防衛戦：エアリオ
+text0001 - <yellow>“資源採掘リグ防衛戦：エアリオ”<c>は、<br>資源採掘のために展開したリグを、<br>エネミーの攻撃から守る緊急クエストです。<br><br>エネミーの襲撃は、<br><yellow>“ウェーブ（Wave）”<c>という単位で断続的に行われます。<br>他のプレイヤーたちと協力して、最後のウェーブまで<br>資源採掘リグを守りぬくことがクエストの目標です。
+text0002 - フィールド上には、エネミーとの交戦中に<br><yellow>“コレクトサイン”<c>と呼ばれるフォトンの結晶が出現します。<br>これを拾うと<yellow>“取得ポイント”<c>として蓄積され、<br>“資源採掘リグ”や“デリバリーデバイス”の支援機能が<br>使用可能になります。<br><br><yellow>※取得ポイントは参加プレイヤー全員に共有され、<br>　各々がそれぞれの機能を使用することができます。<c>
+text0003 - 資源採掘リグにアクセスすると、<br>“コレクトサイン”の取得ポイントに応じて、<br><yellow>“耐久値回復”<c>や<yellow>“バリアシールド”<c>といった<br>支援機能が使用できます。<br><br><yellow>“モバイルキャノン”<c>は、<br>デリバリーデバイスで呼び出すことのできる強力な特殊兵装です。<br>装備中は、通常の武器が使用できなくなり、<br>プレイヤーキャラクターのアクションが専用のものになります。
+
+Group 1
+Title - Mining Rig Defense: Aelio
+text0001 - <yellow>Mining Rig Defense: Aelio<c> is an Urgent Quest in which you defend a resource<br>mining rig from enemy attack.<br><br>The enemy attacks come in successive <yellow>Waves<c>. Your goal is to work with other<br>players to successfully defend the rig until the end of the final Wave.
+text0002 - Photon crystals known as <yellow>"Collectasigne"<c> will appear on the field as you<br>do battle with enemies. When you collect them, they are stored as<br><yellow>"Earned Points"<c> that you can use at the Mining Rig and Delivery<br>Device support modules.<br><br><yellow>Points earned are shared by all players and everyone may make use of them.<c>
+text0003 - Accessing the Mining Rig will allow you to spend varying amounts of<br>Earned Points for Support Modules such as <yellow>Recover Structural Integrity<c><br>and <yellow>Barrier Shield<c>.<br><br><yellow>Mobile Cannons<c> are powerful special equipment that you can call in via<br>Delivery Devices.
+
+

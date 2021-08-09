@@ -1,0 +1,15 @@
+tut_006296.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1664 bytes
+
+TutorialText
+Group 0
+Title - トライアル
+text0001 - “トライアル”は、<br>探索や戦闘セクションで突発的に発生する<yellow>インタラプトイベント<c>です。<br><br>群れをなすエネミーとの戦闘や、指定されたアイテムの回収など、<br>さまざまなトライアルが発生します。
+text0002 - <yellow>トライアルが発生した場所<c>には、<br>“Ｔマーカー（トライアルマーカー）”が表示されます。<br><br>Ｔマーカーが表示された場所に向かうことで、<br>同じＴマーカーに向かっているほかのプレイヤーと合流できます。
+
+Group 1
+Title - Trials
+text0001 - Trials are <yellow>Interrupting Events<c> that will suddenly occur in both exploration and<br>combat sectors.<br><br>They will require to fight certain enemy groups, or obtain designated items,<br>among other objectives.
+text0002 - <yellow>When a trial is active<c>, a Trial Marker (T Marker) will be displayed.<br><br>By heading towards a T Marker's location, you can meet up with other players<br>who are going to that same T Marker.
+
+

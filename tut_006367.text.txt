@@ -1,0 +1,13 @@
+tut_006367.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 912 bytes
+
+TutorialText
+Group 0
+Title - メッセージパック
+text0001 - 各地に配置された“メッセージパック”から、<br>ハルファで暮らしていく上で役に立つ情報を得られます。<br><br>また、メッセージパックの中には、初めてアクセスした時に、<br>アイテムを入手できるものもあります。
+
+Group 1
+Title - Datapods
+text0001 - You can learn more about life on Halpha or other useful information from the<br>Datapods placed in various areas.<br><br>Some Datapods will grant you items when they are first accessed.
+
+

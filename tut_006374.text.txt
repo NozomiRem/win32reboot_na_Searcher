@@ -1,0 +1,13 @@
+tut_006374.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 960 bytes
+
+TutorialText
+Group 0
+Title - リューカーデバイス
+text0001 - “リューカーデバイス”は、行ったことがある特定の場所に<br>すぐに飛べる“テレポート”などの便利な機能があります。<br><br>各地の“リューカーデバイス”を発見することで、<br>冒険を進めやすくなります。
+
+Group 1
+Title - Ryuker Devices
+text0001 - Ryuker Devices are handy devices that allow you to quickly teleport to certain<br>places that you've travelled to before.<br><br>Discovering the Ryuker Devices in each area will make your travels much easier.
+
+

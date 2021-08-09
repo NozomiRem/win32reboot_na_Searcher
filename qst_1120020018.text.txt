@@ -1,0 +1,13 @@
+qst_1120020018.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 576 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 拠点襲撃機<pure_red>バックハック<c>の反応多数！<br>採掘リグから排除してください。
+
+Group 1
+name010 - Ran
+text001 - Multiple <pure_red>Backhack<c> assault drones detected! Please remove them<br>from the mining rig.
+
+

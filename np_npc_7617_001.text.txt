@@ -1,0 +1,15 @@
+np_npc_7617_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 608 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 話は聞いてるわ。<br>大変だったみたいね……。
+HELLO_ALLDAYS_002 - やっほー！
+HELLO_BYE - バイバーイ！
+
+Group 1
+HELLO_ALLDAYS - I heard about what happened.<br>Sounds like things got rough out there...
+HELLO_ALLDAYS_002 - Hey, hey!
+HELLO_BYE - Bye-bye!
+
+

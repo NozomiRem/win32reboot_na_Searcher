@@ -1,0 +1,13 @@
+tut_006228.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 720 bytes
+
+TutorialText
+Group 0
+Title - ダイブアタック
+text0001 - ダイブアタック：<br>　空中で<pict 4space><%Jump><pict 4space>を押しながら<pict 4space><%NormalAttack><br>
+
+Group 1
+Title - Diving Attack
+text0001 - Diving Attack:<br><pict 4space><%NormalAttack> while pressing <pict 4space><%Jump><pict 4space> in mid-air.<br>
+
+

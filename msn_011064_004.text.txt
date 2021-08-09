@@ -1,0 +1,27 @@
+msn_011064_004.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2496 bytes
+
+msn_011064_004
+Group 0
+name_7009 - オランジェ
+msn_011064_004_0010 - どうでした？　味は……、じゃなくて効果は？<br>身体の底から、力が湧いてくるような気がしません？
+msn_011064_004_0020 - 身体の底から、力が湧いてくるような気がしません？
+msn_011064_004_0030 - 食材の組み合わせかたで、<br>その効果が変わるから、いろいろと試してみてくださいね。
+msn_011064_004_0040 - 大きな戦いの前などは、<br>クイックフードを食べておくといいですよ。
+msn_011064_004_0050 - えーと、私からはこれでおしまい。
+msn_011064_004_0060 - もうちょっと、お話ししたかったけど、<br>ロッサが待ちくたびれてるから、バトンタッチします。
+msn_011064_004_0070 - あ！　そうそう、今回はお試しなので、<br>フードスタンドで払ったぶんのN-メセタを渡しますね。
+msn_011064_004_0080 - それじゃあ、<br>引き続き頑張ってくださいね。
+
+Group 1
+name_7009 - Oranje
+msn_011064_004_0010 - How was it? Not the flavor... The effect?<br>Don't you feel like power is swelling up from deep within?
+msn_011064_004_0020 - Can you feel the power radiating throughout your body?
+msn_011064_004_0030 - The effect changes depending on the combination of ingredients, so be sure to try a<br>bunch out.
+msn_011064_004_0040 - It's always a good idea to chow down on some Quick Food before a big battle.
+msn_011064_004_0050 - And that's all from me.
+msn_011064_004_0060 - There's a lot more I wanted to tell you about, but I'm keeping Rossa waiting, so I'll<br>hand you over.
+msn_011064_004_0070 - Ah! Almost forgot. Since this time was just a trial, here's the N-Meseta back for the<br>Quick Food.
+msn_011064_004_0080 - Well then, best of luck with everything.
+
+

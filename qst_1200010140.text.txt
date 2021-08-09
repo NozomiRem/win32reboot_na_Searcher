@@ -1,0 +1,15 @@
+qst_1200010140.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 656 bytes
+
+MainText
+Group 0
+name010 - ボージ
+text010 - ……って、あれ？<br>なんだ、もう持ってるじゃないか！
+text020 - 渡したかったのはその防具だよ！<br>さっそく装備してみてくれよ。
+
+Group 1
+name010 - Bosy
+text010 - Huh?<br>What, you already have it!
+text020 - That's the armor I wanted to give you!<br>Go ahead, try it on.
+
+

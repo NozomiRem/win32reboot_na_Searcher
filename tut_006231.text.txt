@@ -1,0 +1,15 @@
+tut_006231.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1200 bytes
+
+TutorialText
+Group 0
+Title - コクーン
+text0001 - “コクーン”は各地に点在する、<br><yellow>トレイニア<c>と呼ばれる訓練施設の一種です。<br><br>各コクーンには、さまざまなクリア目標が用意されています。<br>クリア目標を達成すると、“スキルポイント”が得られます。
+text0002 - コクーンのなかには、<br>一定条件を満たすことで初めてアクセスできるものがあります。
+
+Group 1
+Title - Cocoons
+text0001 - Cocoons are a type of training facility called <yellow>Trainia<c> that exist in every area.<br><br>Each Cocoon has its own clear conditions; upon achieving them, you will receive<br>Skill Points.
+text0002 - Some Cocoons can only be accessed once you meet certain conditions.
+
+

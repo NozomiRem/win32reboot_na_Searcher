@@ -1,0 +1,13 @@
+tut_006353.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1248 bytes
+
+TutorialText
+Group 0
+Title - デイナイトシフト
+text0001 - “デイナイトシフト（デイシフト／ナイトシフト）”とは、<br>“アルターズ”と呼ばれるエネミーが、<br>昼夜で外見や性質を変化させる現象です。<br><br>特に夜間の<yellow>“ナイトシフト”<c>の状態は、特徴的な部位が変化し、<br>攻撃力が大幅に上昇するので注意が必要です。
+
+Group 1
+Title - Day and Night Transitions
+text0001 - Day and Night Transitions are a phenomenon in which the appearance and<br>properties of enemies known as ALTERS change between night and day.<br><br>Be especially cautious when they are in their <yellow>"Night Shift"<c> state, as their<br>bodies transform and their attack power is greatly increased.
+
+

@@ -1,0 +1,13 @@
+tut_006406.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1264 bytes
+
+TutorialText
+Group 0
+Title - シーズンエネミー
+text0001 - シーズナルイベント期間中は、<br>特定のセクションに行くと特殊な模様のついた<br>通常とは弱点属性の異なる<yellow>“シーズンエネミー”<c>が出現します。<br><br>これらのエネミーや、<br>通常とは見た目や名前の異なるラッピーを倒すと、<br>期間限定のアイテムや<yellow>“シーズナルポイント”<c>を獲得できます。
+
+Group 1
+Title - Seasonal Enemies
+text0001 - During Seasonal Events, <yellow>"Seasonal Enemies"<c> with special skins and<br>different weakness attributes will appear in certain sectors.<br><br>By defeating these enemies, as well as Rappies with unusual names and<br>appearances, you can earn limited edition items and "Seasonal Points."
+
+

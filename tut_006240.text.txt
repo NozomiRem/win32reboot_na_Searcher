@@ -1,0 +1,15 @@
+tut_006240.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1408 bytes
+
+TutorialText
+Group 0
+Title - レンジャー
+text0001 - “レンジャー”は、<br>遠距離からの射撃攻撃で、<br>エネミーのリアクションを積極的に狙うクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。
+text0002 - クラススキル<yellow>“ウィークバレット”<c>は、<br>ヒットしたエネミーの部位を“弱点化”させ、<br>味方全員が与えるダメージを上昇させるスキルです。<br><br>ボスエネミーなど、強力なエネミーに有効です。
+
+Group 1
+Title - Rangers
+text0001 - Rangers can use long range attacks and excel at activating enemy reactions.<br><br>Here are a few of the Class Skills they can learn.
+text0002 - <yellow>Blight Rounds<c> is a Class Skill that weakens the area where it hits an enemy,<br>allowing all allies to deal increased damage. It's effective against stronger<br>enemies such as bosses.
+
+

@@ -1,0 +1,15 @@
+msn_011063_003.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 944 bytes
+
+msn_011063_003
+Group 0
+name_7007 - リューリン
+msn_011063_003_0010 - 新しいリューカーデバイスとリンクできたみたいですね。<br>コクーンも同じ要領で見つけられるはずです。
+msn_011063_003_0020 - マグの反応を確認しつつ、<br>こちらで指定したコクーンに向かってみてください。
+
+Group 1
+name_7007 - Liu Lin
+msn_011063_003_0010 - Looks like you've linked up with a new Ryuker Device.<br>You should be able to find Cocoons in the same manner.
+msn_011063_003_0020 - While observing your Mag's reaction, please make your way to the specified Cocoon.
+
+

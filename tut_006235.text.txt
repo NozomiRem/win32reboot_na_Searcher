@@ -1,0 +1,15 @@
+tut_006235.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1424 bytes
+
+TutorialText
+Group 0
+Title - スキルポイント
+text0001 - “スキルポイント”は、<br>クラスごとに用意されたさまざまな“クラススキル”を<br>習得するために必要なポイントです。<br><br>スキルポイントは、“コクーン”や“タワー”といった<br>訓練施設“トレイニア”で、目標を達成すると入手できます。
+text0002 - “クラススキル”は、<br>セントラルシティにある“クラスカウンター”で習得できます。<br><br>一度入手したスキルポイントは、<br><yellow>すべてのクラス<c>で使用できます。
+
+Group 1
+Title - Skill Points
+text0001 - Skill Points are needed to learn Class Skills for each Class.<br><br>You can obtain them by completing objectives in Trainia training facilities, such<br>as Cocoons and Towers.
+text0002 - You can learn Class Skills from the Class Counter in Central.<br><br>Obtained Skill Points can be used for <yellow>any Class<c>.
+
+

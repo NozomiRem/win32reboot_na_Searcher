@@ -1,0 +1,77 @@
+ui_achievements.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 3904 bytes
+
+Achievements
+Group 0
+Achievements_Fullsize_Title - 称号
+Achievements_Form_Title - 称号一覧
+Achievements_Filter_Accomplished - 獲得済みの称号
+Achievements_Filter_InProgress - 未獲得の称号
+Achievements_Filter_All - 全ての称号
+Achievements_Tab_All - 全て
+Achievements_Tab_Player - プレイヤー
+Achievements_Tab_Item - アイテム
+Achievements_Tab_Quest - クエスト
+Achievements_Tab_Task - タスク
+Achievements_Tab_Community - コミュニティ
+Achievements_Tab_Map - マップ
+Achievements_Sort_Normal - 標準ソート
+Achievements_Sort_Get - 獲得順
+Achievements_Point_Title - 実績ポイント
+Achievements_Point - $(0) pt
+Achievements_Unknown - ??????
+Achievements_Progress_Title - 進行度
+Achievements_Progress - $(0)/$(0)
+Achievements_Button_Back - 戻る
+Achievements_Empty_List - 対象の称号はありません
+Achievements_Please_Wait - 少々お待ちください
+Achievements_Details_Title - 「$(0)」の詳細
+Achievements_Details_RewardCheck1 - <%Function>で報酬詳細
+Achievements_Details_RewardCheck2 - <%Function>で基本情報
+Achievements_Details_Rewind_Condition - 再受注条件
+Achievements_Details_Rewind_Condition_Account - アカウント1回限り
+Achievements_Details_Rewind_Condition_Character - キャラクター1回限り
+Achievements_Details_Overview - 概要
+Achievements_Details_Overview_Template - この称号を獲得すると、アークスカードで<br>「$(0)」が<br>使用可能になります。
+Achievements_Details_Reward - 報酬
+Achievements_Details_NoReward - 報酬アイテムはありません。
+Achievements_Basic_Info - 基本情報
+Achievements_Reward_Info - 報酬情報
+
+Group 1
+Achievements_Fullsize_Title - Titles
+Achievements_Form_Title - Title List
+Achievements_Filter_Accomplished - Obtained Titles
+Achievements_Filter_InProgress - Unobtained Titles
+Achievements_Filter_All - All Titles
+Achievements_Tab_All - All
+Achievements_Tab_Player - Player
+Achievements_Tab_Item - Items
+Achievements_Tab_Quest - Quests
+Achievements_Tab_Task - Tasks
+Achievements_Tab_Community - Community
+Achievements_Tab_Map - Map
+Achievements_Sort_Normal - Default Sorting
+Achievements_Sort_Get - Sort by Obtained
+Achievements_Point_Title - Achievement Points
+Achievements_Point - $(0) pts
+Achievements_Unknown - ???
+Achievements_Progress_Title - Title Progress
+Achievements_Progress - $(0)/$(0)
+Achievements_Button_Back - Back
+Achievements_Empty_List - No applicable title
+Achievements_Please_Wait - Please wait a moment
+Achievements_Details_Title - "$(0)" Details
+Achievements_Details_RewardCheck1 - <%Function> for Reward Details
+Achievements_Details_RewardCheck2 - <%Function> for Basic Info
+Achievements_Details_Rewind_Condition - Reacceptance Conditions
+Achievements_Details_Rewind_Condition_Account - Once per Account
+Achievements_Details_Rewind_Condition_Character - Once per Character
+Achievements_Details_Overview - Summary
+Achievements_Details_Overview_Template - Obtaining this title will allow you to use "$(0)" on your ARKS ID.
+Achievements_Details_Reward - Reward
+Achievements_Details_NoReward - There are no reward items.
+Achievements_Basic_Info - Basic Info
+Achievements_Reward_Info - Reward Details
+
+

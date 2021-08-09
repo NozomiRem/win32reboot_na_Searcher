@@ -1,0 +1,17 @@
+tut_006322.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 2704 bytes
+
+TutorialText
+Group 0
+Title - サブクラス
+text0001 - “クラスカウンター”の“クラス変更”では、<br>“メインクラス”だけでなく、“サブクラス”も設定できます。<br><br>サブクラスを設定すると、そのクラスの武器が装備可能になります。<br>また、メインクラスでの使用時より威力は低下しますが、<br>フォトンアーツ、テクニック、一部のクラススキルも<br>使用できるようになります。
+text0002 - たとえば、メインクラスをハンター、<br>サブクラスをフォースとした場合、<br>ハンター武器に加えて、ロッドなどが装備可能になります。<br><br>ロッド装備時は、テクニックも使用できます。
+text0003 - また、サブクラスに設定したクラスは、<br>メインクラスが獲得した経験値の一部を獲得できます。<br><br>ただし、サブクラスの経験値獲得は、<br><yellow>現在のレベル上限より５低いレベル<c>までとなります。
+
+Group 1
+Title - Sub-Classes
+text0001 - You can have a Sub-Class in addition to your Main Class. Set a Sub-Class<br>through the [Change Class] option at the Class Counter. <br><br>By setting a Sub-Class, you can use its weapons. Furthermore, you will <br>also able to use the Photon Arts, Techniques and some of the Class Skills <br>of your Sub-Class with a slightly decreased potency.
+text0002 - For example, if your Main Class is Hunter and your Sub-Class is Force,<br>you will also be able to use Rods in addition to Hunter weapons. <br><br>While equipping a Rod, you can use Techniques.
+text0003 - Additionally, if you have a Sub-Class set, when you gain EXP, some additional<br>EXP will go to it.<br><br>However, the Level of the Sub-Class cannot be raised further than the<br><yellow>maximum Level of your Main Class minus 5.<c>
+
+

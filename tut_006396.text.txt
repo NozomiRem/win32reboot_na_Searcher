@@ -1,0 +1,13 @@
+tut_006396.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 864 bytes
+
+TutorialText
+Group 0
+Title - テクター
+text0001 - <yellow>シフタ・デバンド：<c><br>　味方キャラクターに<br>　<yellow>"シフタ(与えるダメージ増加)"<c>と、<br>　<yellow>"デバンド(受けるダメージ軽減)"<c>を<br>　付与するクラススキル<br>
+
+Group 1
+Title - Techters
+text0001 - <yellow>Shifta/Deband<c><br> is a Class Skill that confers <yellow>Shifta<br>(increases damage dealt)<c> and <yellow>Deband<br>(reduces damage taken)<c>.
+
+

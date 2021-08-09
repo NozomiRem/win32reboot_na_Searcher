@@ -1,0 +1,115 @@
+ui_rebops.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 5072 bytes
+
+Common
+Group 0
+Accomplished - 達成済
+InProgress - 攻略中
+
+Group 1
+Accomplished - Completed
+InProgress - In Progress
+
+
+MainMenu
+Group 0
+CATEGORY_STORY - メイン
+CATEGORY_SUB_STORY - サイド
+CATEGORY_DAILY - デイリー
+CATEGORY_WEEKLY - ウィークリー
+CATEGORY_LIMITED - 期間限定
+SORT_NORMAL - 標準ソート
+SORT_ASC_DATE - 日付昇順ソート
+SORT_DESC_DATE - 日付降順ソート
+BUTTON_BACK - 戻る
+NOT_FOUND_ANY_TASKS - 攻略中のタスクがありません。
+NOT_FOUND_ANY_TASKS_2 - 達成済みのタスクがありません。
+NOT_FOUND_ANY_TASKS_3 - 受注可能なタスクがありません。
+PLEASE_WAIT - お待ちください
+FOCUS_TASK - ガイド情報を表示する
+UNFOCUS_TASK - ガイド情報を表示しない
+CHECK_TASK_DETAILS - タスク詳細を確認する
+ACCEPT_TASK - タスクを受注する
+CONFIRM_ACCEPT_TASK_TITLE - 受注確認
+CONFIRM_ACCEPT_TASK_MESSAGE - $(0)を受注しますか？
+DISCARD_TASK - タスクを破棄する
+WINDOW_TITLETELOP - タスク
+WINDOW_CONTROLGUIDE - <%Decide>：決定　　<%Cancel>：キャンセル　　<%NextWidget>：カーソル移動
+FULLSIZE_FORM_TITLE - タスク
+RemainingDays - あと$(0)日
+RemainingHour - あと約$(0)時間
+RemainingMinutes - あと約$(0)分
+Task_Requester - 依頼者
+Task_Requester_None - -
+Task_List_Tilte - タスク一覧
+
+Group 1
+CATEGORY_STORY - Main
+CATEGORY_SUB_STORY - Side
+CATEGORY_DAILY - Daily
+CATEGORY_WEEKLY - Weekly
+CATEGORY_LIMITED - Limited-Time
+SORT_NORMAL - Default Sorting
+SORT_ASC_DATE - Ascending by Date
+SORT_DESC_DATE - Descending by Date
+BUTTON_BACK - Back
+NOT_FOUND_ANY_TASKS - There are no tasks underway.
+NOT_FOUND_ANY_TASKS_2 - There are no completed tasks.
+NOT_FOUND_ANY_TASKS_3 - There are no tasks available.
+PLEASE_WAIT - Please Wait
+FOCUS_TASK - Focus on Task
+UNFOCUS_TASK - Do Not Display Task Information
+CHECK_TASK_DETAILS - View Task Details
+ACCEPT_TASK - Accept Task
+CONFIRM_ACCEPT_TASK_TITLE - Confirm Acceptance
+CONFIRM_ACCEPT_TASK_MESSAGE - Accept $(0)?
+DISCARD_TASK - Abandon Task
+WINDOW_TITLETELOP - Tasks
+WINDOW_CONTROLGUIDE - <%Decide>: Confirm  <%Cancel>: Cancel  <%NextWidget>: Move Cursor
+FULLSIZE_FORM_TITLE - Tasks
+RemainingDays - $(0) Days Remaining
+RemainingHour - Roughly $(0) Hours Remaining
+RemainingMinutes - Roughly $(0) Minutes Remaining
+Task_Requester - Client
+Task_Requester_None - -
+Task_List_Tilte - Task List
+
+
+TaskDetails
+Group 0
+FORM_TITLE - $(0)の詳細
+REWIND_CONDITION - 再受注条件
+TASK_OVERVIEW - 概要
+TASK_REWARD - 報酬
+TASK_PROGRESSES - 詳細進行度
+TASK_TO_ACHIEVEMENT - 達成まで
+ITEMDETAIL_CONTROLGUIDE - <%Function><pict 4space>で報酬詳細
+BASICINFO_CONTROLGUIDE - <%Function><pict 4space>で基本情報
+NO_REWARD_ITEM - 報酬アイテムはありません。
+Task_Detial_Tilte - タスク詳細
+TASK_PROGRESSES_2 - 進行度
+BASIC_INFO - 基本情報
+REWARD_INFO - 報酬情報
+REWARD_ITEMNAME - アイテム名
+REWARD_QUANTITY - 入手数量
+TASK_DETAILS_UNSELECTED - タスクが選択されていません。
+
+Group 1
+FORM_TITLE - $(0) Details
+REWIND_CONDITION - Reacceptance Requirements
+TASK_OVERVIEW - Summary
+TASK_REWARD - Reward
+TASK_PROGRESSES - Progress
+TASK_TO_ACHIEVEMENT - Remaining
+ITEMDETAIL_CONTROLGUIDE - <%Function> to Reward Details
+BASICINFO_CONTROLGUIDE - <%Function> to Basic Info
+NO_REWARD_ITEM - There are no reward items.
+Task_Detial_Tilte - Task Details
+TASK_PROGRESSES_2 - Progress
+BASIC_INFO - Basic Info
+REWARD_INFO - Reward Details
+REWARD_ITEMNAME - Item Name
+REWARD_QUANTITY - Number Obtained
+TASK_DETAILS_UNSELECTED - No task selected.
+
+

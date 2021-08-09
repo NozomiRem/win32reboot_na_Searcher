@@ -1,0 +1,15 @@
+tut_006378.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 2208 bytes
+
+TutorialText
+Group 0
+Title - 緊急クエスト（パスワードマッチング）
+text0001 - “パスワードマッチング”とは、クエストにパスワードを設定し、<br>パスワードを共有したプレイヤーたちとクエストを受注する機能です。<br><br><yellow>“クエスト情報”<c>から<yellow>“すぐ出発する”<c>を選択し、<br><yellow>“パーティー情報入力メニュー”<c>でパスワードを設定してください。
+text0002 - “パスワードマッチング”から通常のマッチングに変更したい場合は、<br><yellow>“メニュー”<c>から<yellow>“コミュニケーション”<c>を選択し、<br><yellow>“パーティーコマンド”<c>を開いてください。<br><br>パーティー設定から参加パスワードを削除し、変更を反映することで、<br>通常のマッチングに変更されます。
+
+Group 1
+Title - Password Matchmaking
+text0001 - Password Matchmaking is when you set a password for a quest and take it on<br>with players you have shared the password with.<br><br>Select <yellow>[Depart Immediately]<c> under <yellow>[Quest Info]<c>, then set a password in <br><yellow>[Party Settings]<c>.
+text0002 - When you want to switch back to regular matchmaking from Password Matchmaking, <br>go to <yellow>[Party Commands]<c> under <yellow>[Communications]<c> in the <yellow>Main Menu<c>.<br><br>Deselect Join Password within the party settings and then apply changes to switch to <br>normal matchmaking.
+
+

@@ -1,0 +1,31 @@
+ui_play_achievement.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1072 bytes
+
+MainForm
+Group 0
+Title - プレイ実績
+
+Group 1
+Title - PLAY ACHIEVEMENTS
+
+
+Player
+Group 0
+TitleQuestTotal - クエストクリア回数
+TitleMissCount - 戦闘不能回数
+TitlePlayTimeTotal - 総プレイ時間
+Count - $(0)回
+PlayTime - $(0)時間$(1)分
+TitlePlayTime_Classic - 『PSO2』プレイ時間
+TitlePlayTime_Reboot - 『PSO2：NGS』プレイ時間
+
+Group 1
+TitleQuestTotal - QUEST COMPLETIONS
+TitleMissCount - TIMES INCAPACITATED
+TitlePlayTimeTotal - TOTAL PLAY TIME
+Count - $(0) Times
+PlayTime - $(0) Hours $(1) Minutes
+TitlePlayTime_Classic - PSO2 PLAY TIME
+TitlePlayTime_Reboot - PSO2:NGS PLAY TIME
+
+

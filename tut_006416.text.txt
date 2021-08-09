@@ -1,0 +1,13 @@
+tut_006416.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1136 bytes
+
+TutorialText
+Group 0
+Title - サドンインシデント
+text0001 - <yellow>“サドンインシデント”<c>は、<br>ドールズウェポンやエンハンスドエネミーをはじめ、<br>厄介なエネミーが多数出現する突発事象です。<br><br>レーダーマップを確認して、敵の規模や味方の位置を把握し、<br>冷静に対処する必要があります。
+
+Group 1
+Title - Emergency Alerts
+text0001 - <yellow>Emergency Alerts<c> are sudden incidents in which multiple dangerous enemies such<br>as DOLLS Weapons and Enhanced Enemies appear.<br><br>It's important to check your radar map to assess the enemy's strength, find<br>your allies, and calmly formulate a response.
+
+

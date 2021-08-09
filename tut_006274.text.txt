@@ -1,0 +1,13 @@
+tut_006274.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 976 bytes
+
+TutorialText
+Group 0
+Title - クイックフード
+text0001 - ギャザリングで手に入れた野菜や果物を使用すると、<br><yellow>プレイヤーの能力を一時的に向上させる<c><br>“クイックフード”を作ることができます。<br><br>クイックフードは、“フードスタンド”のほか、<br>“リューカーデバイス”でも作成できます。
+
+Group 1
+Title - Quick Food
+text0001 - Vegetables or fruits you’ve gathered can be used to make Quick Food that<br><yellow>temporarily boosts a player's abilities<c>.<br><br>Quick Food can be made from a Food Stand or Ryuker Device.
+
+

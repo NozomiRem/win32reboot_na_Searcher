@@ -1,0 +1,23 @@
+ss0030765651.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1248 bytes
+
+Required
+Group 0
+Title - 潜在能力の解放
+Summary - アークスのひとりセグレットから、<br>アイテムラボで装備の“潜在能力”を<br>解放する方法を教わる。<br><br>初めに、触媒となる素材を入手する。<br><yellow>※ギャザリング推奨セクション：<br>南エアリオ<c>
+
+Group 1
+Title - Unlocking Potentials
+Summary - ARKS defender Segreto tells to unlock <br>equipment Potentials at the Item Lab.<br><br>First, obtain a catalytic material.<br><yellow>Recommended sector for gathering: South Aelio<c>
+
+
+SubObjectives
+Group 0
+Objective311 - フォトンチャンクを入手する
+Objective321 - 武器の潜在能力を解放する
+
+Group 1
+Objective311 - Obtain photon chunks
+Objective321 - Unlock a weapon Potential
+
+

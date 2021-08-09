@@ -1,0 +1,15 @@
+tut_006364.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1200 bytes
+
+TutorialText
+Group 0
+Title - ダウンゲージ
+text0001 - 緊急クエストのエネミーには、<br>“ダウンゲージ”が表示されている場合があります。<br><br>エネミーを攻撃することでダウンゲージが減少し、<br>なくなるとエネミーがダウンします。
+text0002 - ダウンしたエネミーはしばらく攻撃できないため、<br>一気にダメージを与えるチャンスです。
+
+Group 1
+Title - The Down Gauge
+text0001 - During Urgent Quests, some enemies will have a Down Gauge.<br><br>This gauge depletes as you attack the enemy, and when it is completely<br>drained, the enemy will be downed.
+text0002 - Downed enemies cannot attack for a while, giving you a prime opportunity to<br>deal some damage.
+
+

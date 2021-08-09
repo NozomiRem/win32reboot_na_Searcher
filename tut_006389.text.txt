@@ -1,0 +1,13 @@
+tut_006389.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1184 bytes
+
+TutorialText
+Group 0
+Title - ロッサの課題：武器の強化
+text0001 - セントラルシティのオペレーター“ロッサ”からの依頼です。<br><br>武器の強化について知ることができます。<br>本来は“N-メセタ”や“N-グラインダー”のほか、<br>素材として別の武器や防具を用意する必要がありますが、<br>この依頼ではロッサがそれらを分けてくれます。
+
+Group 1
+Title - Rossa's Task: Enhancing Weapons
+text0001 - This is a request from operator Rossa in Central City.<br><br>It will teach you about weapon enhancement. Normally, you would need <br>N-Meseta, N-Grinders, and other weapons and armor as materials, but Rossa<br>will provide you with some as part of the request.
+
+

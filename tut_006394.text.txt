@@ -1,0 +1,13 @@
+tut_006394.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 672 bytes
+
+TutorialText
+Group 0
+Title - ファイター
+text0001 - <yellow>リミットブレイク：<c><br>　一定時間、与えるダメージと<br>　受けるダメージの両方が<br>　増加するクラススキル<br>
+
+Group 1
+Title - Fighters
+text0001 - <yellow>Overload<c><br>is a Class Skill that increases both damage<br>taken and damage dealt for a set time.
+
+

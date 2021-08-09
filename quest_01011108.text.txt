@@ -1,0 +1,11 @@
+quest_01011108.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 272 bytes
+
+AreaName
+Group 0
+Area0S - エアリオ海岸(バトルゾーン)
+Area0L - エアリオ海岸(バトルゾーン)
+
+Group 1
+
+

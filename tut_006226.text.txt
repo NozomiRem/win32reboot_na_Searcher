@@ -1,0 +1,13 @@
+tut_006226.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1120 bytes
+
+TutorialText
+Group 0
+Title - 弱点部位
+text0001 - 一部のエネミーには、“弱点部位”があります。<br>この部位を攻撃すると、ダメージ表示が青色になり、<br>より多くのダメージを与えられます。<br><br>また、弱点部位を攻撃することで、<br>“物理ダウン”という特殊なダウン状態になるエネミーもいます。
+
+Group 1
+Title - Weak Points
+text0001 - Some enemies have weak points. When you attack this area, your damage<br>numbers will be blue and you will do more damage than usual.<br><br>Additionally, you can trigger a special downed state known as a Physical Down<br>by attacking the weak points of certain enemies.
+
+

@@ -1,0 +1,27 @@
+access_info.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 880 bytes
+
+AccessInfo
+Group 0
+Common - アクセス
+Npc - 話す
+Gather - とる
+Sit - 座る
+TransferSingle - テレポート
+TransferMultiStart - テレポーター起動
+TransferMultiStop - テレポート中断
+ItemStorage - 倉庫にアクセス
+Jump - ジャンプ
+
+Group 1
+Common - Access
+Npc - Talk
+Gather - Take
+Sit - Sit
+TransferSingle - Teleport
+TransferMultiStart - Activate Teleporter
+TransferMultiStop - Cancel Teleportation
+ItemStorage - Access Storage
+Jump - Jump
+
+

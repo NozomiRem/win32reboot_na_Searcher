@@ -1,0 +1,37 @@
+qst_1100050010.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1648 bytes
+
+MainText
+Group 0
+name010 - グイーデン
+name020 - ブルーダー
+text010 - 次は、光る“ポイントキューブ”を取りつつ、<br>段差を登ってみてくれ。
+
+Group 1
+name010 - Guiden
+name020 - Dozer
+text010 - Next, try jumping up while obtaining glowing Point Cubes.
+
+
+GuideText
+Group 0
+Text_Dash - ダッシュ：
+Button_Dash_Pad - 移動しながら<pict 4space><%Avoid><pict 4space>長押し
+Button_Dash_Key - 移動キーを２回押す
+Button_Dash_Key2 - ２回目を長押し
+Text_DashJump - ダッシュジャンプ：
+Button_DashJump - ダッシュ中に<pict 4space><%Jump>
+Text_DoubleJump - 二段ジャンプ：
+Button_DoubleJump - ジャンプ中に<pict 4space><%Jump>
+
+Group 1
+Text_Dash - Dash:
+Button_Dash_Pad - Hold <%Avoid> while moving.
+Button_Dash_Key - Press a directional key twice.
+Button_Dash_Key2 - Press and hold the second time.
+Text_DashJump - Dash Jump:
+Button_DashJump - Press <%Jump> while dashing.
+Text_DoubleJump - Double Jump:
+Button_DoubleJump - Press <%Jump> while jumping.
+
+

@@ -1,0 +1,25 @@
+ss0030700601.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1008 bytes
+
+Required
+Group 0
+Title - PSEバーストの観測
+Summary - オペレーターのランから、<br>大気中のPSEの変化によって発生する<br>“PSEバースト”の観測を頼まれる。
+
+Group 1
+Title - PSE Burst Observation
+Summary - Operator Ran asks the group to observe<br>PSE Bursts, caused by PSE disturbances<br>in the atmosphere.
+
+
+SubObjectives
+Group 0
+text0101 - マグナス山に向かう
+text0102 - PSEバーストを発生させる
+text0103 - ランと話す
+
+Group 1
+text0101 - Head to Mt Magnus
+text0102 - Cause PSE Bursts
+text0103 - Talk to Ran
+
+

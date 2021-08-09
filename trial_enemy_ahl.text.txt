@@ -1,0 +1,33 @@
+trial_enemy_ahl.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1552 bytes
+
+common
+Group 0
+TrialName_1Enemy - $(0)討伐
+TrialBeginMsg_1Enemy - 出現した$(0)を倒せ！
+TrialAbstract_1Enemy - $(0)を倒す
+TrialName_Multi - エネミー討伐
+TrialBeginMsg_Multi - 出現したエネミーを倒せ！
+TrialAbstract_Multi - エネミーを倒す
+
+Group 1
+TrialName_1Enemy - $(0) Suppression
+TrialBeginMsg_1Enemy - Defeat the $(0)!
+TrialAbstract_1Enemy - Defeat the $(0).
+TrialName_Multi - Enemy Suppression
+TrialBeginMsg_Multi - Defeat the enemies!
+TrialAbstract_Multi - Defeat the enemies.
+
+
+type102
+Group 0
+NpcComOnForetaste - その付近に要警戒エネミーがいるようです！<br>至急、討伐をお願いします。
+NpcComOnSuccess - エネミーの殲滅を確認しました！<br>即応、ありがとうございます。
+NpcComOnFailure - エネミーが撤退しました。<br>……ひとまず、脅威は去りましたね。
+
+Group 1
+NpcComOnForetaste - Enemy assembly point discovered nearby!
+NpcComOnSuccess - The enemy has been eradicated.<br>Good work!
+NpcComOnFailure - The enemy has fled.<br>There's always next time, I guess.
+
+

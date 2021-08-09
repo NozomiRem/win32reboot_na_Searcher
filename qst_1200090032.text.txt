@@ -1,0 +1,15 @@
+qst_1200090032.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 672 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+text010 - くっ……体勢を立て直したみたいだな。
+text020 - だが、攻撃を続ければ、また隙を見せるはずだ。<br>機会をうかがおう。
+
+Group 1
+name010 - Dozer
+text010 - Ugh... It's righted itself again.
+text020 - But if we keep attacking, we may find another opening. Look for a good opportunity.
+
+

@@ -1,0 +1,13 @@
+np_npc_7646_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 368 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 鍛えてるか！
+HELLO_BYE - んじゃ！
+
+Group 1
+HELLO_ALLDAYS - You been workin' out?
+HELLO_BYE - Later!
+
+

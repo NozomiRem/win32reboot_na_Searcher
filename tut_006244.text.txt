@@ -1,0 +1,15 @@
+tut_006244.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 2208 bytes
+
+TutorialText
+Group 0
+Title - テクター
+text0001 - “テクター”は、<br>味方の補助が得意なクラスです。ウォンドでの近接攻撃が主体ですが、<br>エネミーに攻撃を当てると、武器属性に応じた“法撃爆発”が発生し、<br>“属性ダウン”を狙うことができます。<br><br>習得可能なクラススキルのうち、一部をご紹介します。
+text0002 - クラススキル<yellow>“シフタ・デバンド”<c>は、<br><yellow>“シフタ（エネミーに与えるダメージが増加）”<c>と<br><yellow>“デバンド（エネミーから受けるダメージ減少）”<c>の<br>効果を、周囲にいる味方全員に付与するスキルです。<br>交戦開始時に使用したり、長期戦で継続的に使用することで<br>ほかのプレイヤーが戦いやすくなります。
+
+Group 1
+Title - Techters
+text0001 - Techters excel at aiding their allies. While they mainly use short range attacks<br>with their Wands, when an attack hits an enemy, they can unleash an attack<br>called Photonic Fury that takes on their weapon's elemental properties, and<br>apply an Elemental Down.<br><br>Here are a few of the Class Skills they can learn.
+text0002 - <yellow>Shifta/Deband<c> is a Class Skill that confers Shifta (increases damage dealt) and<br>Deband (reduces damage taken) to allies in the area. Use it at the beginning<br>of a battle or intermittently throughout a long battle to help other players have<br>an easier time of it.
+
+

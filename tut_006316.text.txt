@@ -1,0 +1,13 @@
+tut_006316.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1024 bytes
+
+TutorialText
+Group 0
+Title - プリセット能力
+text0001 - エネミーを倒したときにドロップする武器や防具には、<br>低確率で特殊な効果を持つ“プリセット能力”が付与されます。<br><br>通常の特殊能力と異なり、“プリセット能力”は<br>“アイテムラボ”で<yellow>追加や合成ができません<c>。
+
+Group 1
+Title - Preset Skills
+text0001 - On rare occasions, weapons and armor dropped by defeated enemies will award<br>a special effect known as a Preset Skill.<br><br>Unlike normal augments, Preset Skills <yellow>cannot be added or synthesized<c> at the<br>Item Lab.
+
+

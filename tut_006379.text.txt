@@ -1,0 +1,15 @@
+tut_006379.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 2144 bytes
+
+TutorialText
+Group 0
+Title - マイショップ
+text0001 - “マイショップ”では、ほかのプレイヤーが出品したアイテムの購入や<br>自分が使わないアイテムを出品できます。<br><br>購入したい時は、“商品検索”で細かな条件を選んで検索できます。<br>出品するには、“プレミアムセット”もしくは“マイショップ出店”が<br>有効期限内である必要があります。
+text0002 - “マイショップ管理”では、<br>自分が使わないアイテムを出品したり、ほかのプレイヤーに購入された<br>アイテムの売り上げを回収できます。<br><br>出品時に価格設定する際は、最低価格が定められていること、また<br>実際の購入時は税額などが上乗せされることに注意が必要です。
+
+Group 1
+Title - Personal Shop
+text0001 - Your Personal Shop is where you can sell items you don't need or purchase<br>items that other players have put up for sale.<br><br>If you wish to make a purchase, narrow the conditions within Product Search.<br>To put items up for sale, you will need a valid Premium Set or <br>Personal Shop Ticket.
+text0002 - Use [Run Personal Shop] to put items you don't need up for sale or<br>retrieve your earnings from items that other players have purchased.<br><br>Be aware when you set a price for an item that the lowest price cannot be<br>changed and that fees like tax will be added when the item is purchased.
+
+

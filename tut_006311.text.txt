@@ -1,0 +1,13 @@
+tut_006311.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1408 bytes
+
+TutorialText
+Group 0
+Title - 操作設定
+text0001 - メインメニューの<yellow>“システム”<c>から<yellow>“操作設定”<c>を選択すると、<br>“キーボード＆マウス”や“ゲームパッド”における、<br>操作の割り当てなどが設定できます。<br><br>また、メインメニューの<yellow>“システム”<c>から<yellow>“オプション”<c>を選択し、<br>コントロール、グラフィック、サウンドなどを詳細に設定できます。
+
+Group 1
+Title - Control Settings
+text0001 - You can adjust the button mapping of your keyboard and mouse, or gamepad,<br>by going to <yellow>[Control Settings]<c> under <yellow>[System]<c> in the Main Menu.<br><br>Furthermore, by selecting <yellow>[Options]<c> under <yellow>[System]<c> in the Main Menu, you can<br>adjust your controls, graphics, and sound settings, among other things.
+
+

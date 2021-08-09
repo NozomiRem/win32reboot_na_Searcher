@@ -1,0 +1,23 @@
+ss0030761951.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 944 bytes
+
+Required
+Group 0
+Title - クイックフードの作成
+Summary - レストコーナー案内員のバルメから、<br>フードスタンドで“クイックフード”を<br>作成する方法を教わる。
+
+Group 1
+Title - How to Cook Quick Foods
+Summary - ARKS defender Balme explains how to <br>cook Quick Foods at the Food Stand.
+
+
+SubObjectives
+Group 0
+Objective311 - テイムズからシャキリッタ肉を入手する
+Objective321 - クイックフードを作成する
+
+Group 1
+Objective311 - Obtain a Crispino Meat from TAMES
+Objective321 - Cook a Quick Food
+
+

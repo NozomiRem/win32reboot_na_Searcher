@@ -1,0 +1,13 @@
+tut_006227.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 560 bytes
+
+TutorialText
+Group 0
+Title - ダッシュアタック
+text0001 - ダッシュアタック：<br>　ダッシュ中に<pict 4space><%NormalAttack><br>
+
+Group 1
+Title - Dash Attack
+text0001 - Dash Attack:<br>Press<pict 4space><%NormalAttack> while dashing.<br>
+
+

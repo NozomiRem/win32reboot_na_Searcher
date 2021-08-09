@@ -1,0 +1,15 @@
+qst_1120020102.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 624 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - また、エネミーが来ます！
+text002 - 採掘リグへの急襲や、<br>遠距離からの攻撃にも警戒してください！
+
+Group 1
+name010 - Ran
+text001 - More enemies on the way!
+text002 - Be on your guard for sudden raids and long range attacks on the Mining Rig!
+
+

@@ -1,0 +1,25 @@
+msn_011063_002.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2640 bytes
+
+msn_011063_002
+Group 0
+name_7007 - リューリン
+msn_011063_002_0010 - 見つけられたみたいですね。<br>そのリューカーデバイスは、テレポーターの一種です。
+msn_011063_002_0020 - ハルファの各地に点在していて、近づくことで<br>自動的にパーソナルデータが登録されて、使えるようになります。
+msn_011063_002_0030 - はるか昔から、この地に存在するらしくて、<br>その仕組みなど、詳しいことはよくわかってません。
+msn_011063_002_0040 - パーソナルデータは、<br>デバイスに近づけば自動的に登録されます。
+msn_011063_002_0050 - そしてこのリューカーデバイスや、コクーンなどを<br>探すときに役立つのが、マグの“アクティブソナー”という機能です。
+msn_011063_002_0060 - 今、そちらに新しい位置情報を送りました。<br>もうひとつのリューカーデバイスに向かってください。
+msn_011063_002_0070 - リューカーデバイスに近づくと、マグが反応するはずです。<br>見逃さないようにしてください。
+
+Group 1
+name_7007 - Liu Lin
+msn_011063_002_0010 - Looks like you found one.<br>That Ryuker Device is a type of teleporter.
+msn_011063_002_0020 - You can find them scattered throughout Halpha. <br>Get close to the device and your personal data will be automatically registered to use it.
+msn_011063_002_0030 - The devices predate our records, and how they work exactly remains unknown.
+msn_011063_002_0040 - Your personal data should be automatically registered to a device once you approach it.
+msn_011063_002_0050 - Mags have a handy function called Active Sonar, for finding things like Ryuker Devices<br>and Cocoons.
+msn_011063_002_0060 - I've just sent over some new location data.<br>Please make your way to the next Ryuker Device.
+msn_011063_002_0070 - As you approach the Ryuker Device, your Mag should react.<br>Keep an eye out for it.
+
+

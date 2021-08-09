@@ -1,0 +1,21 @@
+ss0030700801.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 832 bytes
+
+Required
+Group 0
+Title - 赤いコンテナ
+Summary - オペレーターのロッサから、<br>エアリオにあるすべての<br>アイテムコンテナ[赤]の破壊を頼まれる。
+
+Group 1
+Title - Red Containers
+Summary - Operator Rossa asks the team to destroy<br>all the Item Containers: Red in Aelio.
+
+
+SubObjectives
+Group 0
+text0101 - エアリオの全コンテナ[赤]を破壊する
+
+Group 1
+text0101 - Destroy all the Item Containers: Red in Aelio
+
+

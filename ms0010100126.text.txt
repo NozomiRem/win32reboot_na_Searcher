@@ -1,0 +1,25 @@
+ms0010100126.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1168 bytes
+
+Required
+Group 0
+Title - ブルーダー救出
+Summary - レゾルの森で消息を絶った<br>ブルーダーを探すため、<br><%me>たちは、<br>ネクス・エアリオが待ち受ける<br>敵の巣窟へと足を踏み入れる。
+
+Group 1
+Title - Rescuing Dozer
+Summary - In search of Dozer, who has vanished in Resol<br>Forest, <%me> and<br>crew stumble across an enemy den - the home<br>of Nex Aelio.
+
+
+SubObjectives
+Group 0
+Objective311 - レゾルの森の入口でアイナと話す
+Objective321 - ブルーダーを探す
+Objective331 - ネクス・エアリオを倒す
+
+Group 1
+Objective311 - Talk to Aina at the entrance to Resol Forest
+Objective321 - Find Dozer
+Objective331 - Defeat Nex Aelio
+
+

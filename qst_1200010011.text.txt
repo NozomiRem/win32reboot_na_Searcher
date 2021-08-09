@@ -1,0 +1,23 @@
+qst_1200010011.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 752 bytes
+
+MainText
+Group 0
+name010 - ラル
+text010 - まず、的への“ロックオン”はわかるかい？<br>それで狙いを定めるんだ。
+
+Group 1
+name010 - Ral
+text010 - First off, do you know how to lock on to targets?<br>It's great for aiming your attacks.
+
+
+GuideText
+Group 0
+Text_Lock - ロックオン：
+Button_Lock - <%LockOn>
+
+Group 1
+Text_Lock - Lock On: 
+Button_Lock - <%LockOn>
+
+

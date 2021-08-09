@@ -1,0 +1,13 @@
+qst_1120020003.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 560 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - <pure_red>オレンジの採掘リグ<c>の被害甚大！<br>早急にエネミーの殲滅を！
+
+Group 1
+name010 - Ran
+text001 - The <pure_red>orange rig<c> has taken heavy damage!<br>We need to eradicate the enemy at once!
+
+

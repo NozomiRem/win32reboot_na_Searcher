@@ -1,0 +1,17 @@
+npc_763602.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1104 bytes
+
+npc_763602
+Group 0
+76360201 - この前のマノンといい、<br>最近“星渡り”がよく降りてくるのね。
+76360202 - 何だか町がにぎやかになってきたわ。
+76360203 - “エアリオタウン”は、食べ物が美味しいの。<br>魚や野菜、果物、どれもとっても新鮮で。
+76360204 - 栄養も満点だから、<br>お肌がつるつるになるわよ。
+
+Group 1
+76360201 - Últimamente han llegado un montón de Meteorn, como Manon.
+76360202 - La ciudad empieza a animarse.
+76360203 - La comida en Ciudad Aelio es deliciosa. El pescado, las verduras y las frutas son muy frescos.
+76360204 - Está lleno de nutrientes y hará que tu piel sea más suave.
+
+

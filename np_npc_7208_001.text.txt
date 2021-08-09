@@ -1,0 +1,15 @@
+np_npc_7208_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 608 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - もう少し経験を積んでから、<br>また来てくれ。
+HELLO_ALLDAYS_002 - よく来たな。
+HELLO_BYE - いつでも来てくれよな。
+
+Group 1
+HELLO_ALLDAYS - Come back when you have a little more experience.
+HELLO_ALLDAYS_002 - Good to see you.
+HELLO_BYE - Come by anytime, okay?
+
+

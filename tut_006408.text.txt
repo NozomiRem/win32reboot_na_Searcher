@@ -1,0 +1,19 @@
+tut_006408.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 3376 bytes
+
+TutorialText
+Group 0
+Title - 戦闘力の上げ方・２
+text0001 - 戦闘力を上げるには、<br><yellow>・クラススキルを習得する<br>・装備品に特殊能力を追加する<c><br>などの方法もあります。
+text0002 - クラススキルは、<br>セントラルシティにある<yellow>“クラスカウンター”<c>で習得できます。<br><br>サブクラスのクラススキルを習得することでも、<br>戦闘力を上げることができます。
+text0003 - <yellow>装備品への特殊能力追加<c>は、<br>セントラルシティにある<yellow>“アイテムラボ”<c>のメニューから、<br>“特殊能力の追加”を選ぶことで行えます。<br><br>特殊能力を追加するには、<br><yellow>“特殊能力カプセル”<c>とN-メセタが必要です。
+text0004 - <yellow>戦闘力950の達成<c>に必要な行動目安は以下のとおりです。<br>・メインクラス <yellow>Lv.10<c><br>・メインクラスとサブクラスあわせて、<yellow>クラススキルを８つ<c>習得<br>・装備中の<yellow>レアリティ★１の武器を+20<c>まで強化<br>・装備中の<yellow>レアリティ★１の防具を+10<c>まで強化<br>・装備中の武器および防具に対して、<yellow>特殊能力を合計４つ<c>追加
+
+Group 1
+Title - Increasing Your Battle Power II
+text0001 - You can also increase your Battle Power by<br><yellow>・ Acquiring Class Skills<br>・ Adding Augments to equipment, etc.<c>
+text0002 - Class Skills can be learned from the <yellow>Class Counter<c> in Central City.<br><br>You can increase your Battle Power by learning the Class Skills of a Sub-Class.
+text0003 - You can <yellow>add Augments to equipment<c> by selecting Add Augments<br>from the <yellow>Item Lab<c> in Central City.<br><br>An Augment Capsule and N-Meseta are required for adding Augments.
+text0004 - The following are recommended actions for <yellow>increasing your Battle Power to 950.<c><br>・ Main Class <yellow>Lv. 10<c><br>・ <yellow>Learn 8 Class Skills<c> between the Main and Sub-Classes.<br>・ Strengthen an equipped <yellow>Rarity 1★ weapon to +20<c>.<br>・ Strengthen an equipped <yellow>Rarity 1★ armor to +10<c>.<br>・ Add a <yellow>total of 4 Augments<c> to currently equipped weapons and armor.
+
+

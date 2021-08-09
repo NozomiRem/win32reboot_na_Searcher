@@ -1,0 +1,23 @@
+qst_1200070010.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1056 bytes
+
+MainText
+Group 0
+name010 - 負傷したアークス
+name020 - マノン
+name030 - アイナ
+text010 - 救援か！　助かる！
+text020 - このバイタル……、負傷者がいるみたいね。
+text030 - だったら、あとはあたしたちに任せて！<br>ケガした人を連れて逃げて。
+text040 - すまない！　撤退する！
+
+Group 1
+name010 - Injured ARKS Defender
+name020 - Manon
+name030 - Aina
+text010 - We sure could use some help!
+text020 - These vitals... Looks like we've got wounded.
+text030 - We'll take it from here!<br>Get the injured out of here.
+text040 - Thank you...! Falling back!
+
+

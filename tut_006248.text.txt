@@ -1,0 +1,15 @@
+tut_006248.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1696 bytes
+
+TutorialText
+Group 0
+Title - 大剣（ソード）
+text0001 - “大剣（ソード）”は、<br>攻撃範囲とダメージのバランスが良く、扱いやすい近接武器です。<br><br>武器アクションの“ソードガード”で被ダメージを軽減できますが、<br>エネミーの攻撃を受ける瞬間に発動することで、さらに強力な<br>“JG”（ジャストガード）になります。
+text0002 - PA“スパイラルエッジ”は、<br>単体のエネミーに対して、高いダメージを与えられます。<br><br>また、チャージしてから放つと、<br>さらに高いダメージを与えられます。
+
+Group 1
+Title - Swords
+text0001 - Swords have a balanced attack range and damage output, making them short<br>range weapons that are easy to use.<br><br>Their Weapon Action "Sword Guard" will reduce the damage you take from<br>an attack, and by activating it just when an enemy attack connects,<br>you'll perform a stronger Perfect Guard (PGRD).
+text0002 - The Photon Art "Spiral Edge" can deal high damage to a single enemy. Charging<br>it up will allow you to deal even more damage.
+
+

@@ -1,0 +1,13 @@
+tut_006260.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 960 bytes
+
+TutorialText
+Group 0
+Title - スペシャルウェポン
+text0001 - “スペシャルウェポン”は、エネミーを倒すと低確率で入手できる、<br><yellow>特殊な能力を持つ可能性のある<c>装備品です。<br><br>“アイテムラボ”で、鑑定することにより、<br>性能が明らかとなり、武器として使用できるようになります。
+
+Group 1
+Title - Special Weapons
+text0001 - Special Weapons drop infrequently from enemies and may have <yellow>unique abilities<c>.<br><br>By appraising them at an Item Lab, you can discover their abilities and use<br>them as weapons.
+
+

@@ -1,0 +1,17 @@
+msq_011411.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 864 bytes
+
+msq_011411
+Group 0
+msq_011411_0010 - ここにもいない……。<br>別の場所を探してみよう。
+msq_011411_0020 - レスタサインの残りは大丈夫？<br>ここは、多めに持っておいた方がいいわ。
+name010 - アイナ
+name020 - マノン
+
+Group 1
+msq_011411_0010 - Not here, either...<br>Let's continue the search elsewhere.
+msq_011411_0020 - How are your Restasigne reserves holding up? Best to have as much as possible, for<br>whatever lies ahead.
+name010 - Aina
+name020 - Manon
+
+

@@ -1,0 +1,37 @@
+qst_1200000016.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1360 bytes
+
+MainText
+Group 0
+name010 - マノン
+text010 - 敵の動きをよく見て。
+text020 - あなた、フォトンアーツや、<br>テクニックは使える？
+
+Group 1
+name010 - Manon
+text010 - Watch the enemy's movements carefully.
+text020 - You, can you use Photon Arts or Techniques?
+
+
+GuideText
+Group 0
+Text_NormalAttack - 通常攻撃：
+Button_NormalAttack - <%NormalAttack>
+Text_PA - フォトンアーツ（PA）：
+Text_TEC - テクニック：
+Button_PATEC - <%PhotonArts>
+Text_Avoid - 回避：
+Button_Avoid_Pad - <%Avoid>
+Button_Avoid_Key - 移動キーを２回押す
+
+Group 1
+Text_NormalAttack - Normal Attack: 
+Button_NormalAttack - <%NormalAttack>
+Text_PA - Photon Arts (PA): 
+Text_TEC - Techniques: 
+Button_PATEC - <%PhotonArts>
+Text_Avoid - Dodge: 
+Button_Avoid_Pad - <%Avoid>
+Button_Avoid_Key - Press a directional key twice.
+
+

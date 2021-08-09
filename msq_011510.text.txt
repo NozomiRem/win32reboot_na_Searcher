@@ -1,0 +1,15 @@
+msq_011510.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 496 bytes
+
+msq_011510
+Group 0
+msq_011510_0010 - って、ドールズ……!?
+msq_011510_0020 - <%me>！<br>連携して倒そう！
+name010 - アイナ
+
+Group 1
+msq_011510_0010 - Is that DOLLS...!?
+msq_011510_0020 - <%me>, let's take them out!
+name010 - Aina
+
+

@@ -1,0 +1,13 @@
+msq_011419.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 448 bytes
+
+msq_011419
+Group 0
+msq_011419_0010 - どこへ行くの？<br>ブルーダーを探すんでしょう？
+name010 - マノン
+
+Group 1
+msq_011419_0010 - Where are you going? You given up on finding Dozer?
+name010 - Manon
+
+

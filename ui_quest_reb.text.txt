@@ -1,0 +1,322 @@
+ui_quest_reb.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 27968 bytes
+
+UrgencyQuest
+Group 0
+E_Quest_Common_End - 異常事態の収束を確認。作戦協力に感謝します。
+E_Section11101_Notice - 【通達】エアリオ草原西周辺にて異変を感知。
+E_Section11101_Open - 【緊急連絡】エアリオ草原西周辺にて緊急事態発生。アークス各員は至急現場に向かってください。
+E_Section11102_Notice - 【通達】エアリオの断崖周辺にて異変を感知。
+E_Section11102_Open - 【緊急連絡】エアリオの断崖周辺にて緊急事態発生。アークス各員は至急現場に向かってください。
+E_Section11110_Notice - 【通達】エアリオ遺跡周辺にて異変を感知。
+E_Section11110_Open - 【緊急連絡】エアリオ遺跡周辺にて緊急事態発生。アークス各員は至急現場に向かってください。
+E_eario_Dolls_1120000_Notice - 緊急警報発令。エアリオリージョンに、強力なドールズの反応を確認。アークス各員は出撃の準備をお願いします。<yellow>（戦闘力950以上のプレイヤーが対象）<c>
+E_eario_Dolls_1120000_Open - アークス各員に通達。エアリオリージョンに出現したドールズに対し、撃退作戦を開始します。アークス各員は任務への参加をお願いします。<yellow>（戦闘力950以上のプレイヤーが対象）<c>
+E_eario_Common_End - 作戦成功。協力いただき、ありがとうございました。
+W_Trial_Gold_Notice - 緊急警報発令。上空に多数の飛翔体を確認。まもなく、こちらに到達します。アークス各員は出撃の準備をお願いします。
+W_Trial_Gold_Open - アークス各員に通達。落下したステラーグレイスの回収作戦が進行中です。任務への参加をお願いします。
+W_Trial_Gold_End - ステラーグレイスの回収作戦は終了しました。任務に協力いただき、ありがとうございました。
+E_eario_Dolls_1120001_Notice - 緊急警報発令。エアリオリージョンに、強力なドールズの反応を確認。アークス各員は出撃の準備をお願いします。<yellow>（戦闘力$(0)以上のプレイヤーが対象）<c>
+E_eario_Dolls_1120001_Open - アークス各員に通達。エアリオリージョンに出現したドールズに対し、撃退作戦を開始します。アークス各員は任務への参加をお願いします。<yellow>（戦闘力$(0)以上のプレイヤーが対象）<c>
+E_defense_Common_End - ドールズの殲滅ならびに防衛対象の健在を確認。任務に協力いただき、ありがとうございました。
+E_eario_defense_1120003_Notice - 緊急警報発令。エアリオリージョンに出現した多数のドールズに対し、防衛作戦を準備中です。アークス各員は出撃の準備をお願いします。<yellow>（戦闘力$(0)以上のプレイヤーが対象）<c>
+E_eario_defense_1120003_Open - アークス各員に通達。エアリオリージョンに出現した多数のドールズに対し、防衛作戦を開始します。アークス各員は任務への参加をお願いします。<yellow>（戦闘力$(0)以上のプレイヤーが対象）<c>
+
+Group 1
+E_Quest_Common_End - Anomaly eliminated. Your support is appreciated.
+E_Section11101_Notice - [ATTENTION] An anomaly has been detected in the western region of Aelio Plains.
+E_Section11101_Open - [URGENT] Emergency in west Aelio Plains. ARKS ops, please respond immediately.
+E_Section11102_Notice - [ATTENTION] An anomaly has been detected near Aelio Cliffs.
+E_Section11102_Open - [URGENT] Emergency near Aelio Cliffs. ARKS ops, please respond immediately.
+E_Section11110_Notice - [ATTENTION] An anomaly has been detected near Aelio Ruins.
+E_Section11110_Open - [URGENT] Emergency near Aelio Ruins. ARKS ops, please respond immediately.
+E_eario_Dolls_1120000_Notice - Emergency announcement: Powerful DOLLS detected in the Aelio region. All ARKS defenders, please prepare for deployment. <yellow>(For players with 950 Battle Power and higher).<c>
+E_eario_Dolls_1120000_Open - Attention ARKS defenders: We are beginning a counter-offensive against DOLLS in the Aelio region. We request the participation of all ARKS defenders. <yellow>(For players with 950 Battle Power and higher).<c>
+E_eario_Common_End - Mission accomplished. Thank you for your contribution.
+W_Trial_Gold_Notice - Emergency announcement: Numerous projectiles detected overhead. They will reach us momentarily. All ARKS defenders, please prepare for deployment.
+W_Trial_Gold_Open - Attention all ARKS defenders. We are launching a Stella Grace recovery operation. We request the participation of all available ARKS defenders.
+W_Trial_Gold_End - The Stella Grace recovery operation is complete. Thank you for your contribution.
+E_eario_Dolls_1120001_Notice - Emergency announcement: Powerful DOLLS detected in the Aelio region. All ARKS defenders, please prepare for deployment. <yellow>(For players with $(0) Battle Power and higher).<c>
+E_eario_Dolls_1120001_Open - Attention ARKS defenders: We are beginning a counter-offensive against DOLLS in the Aelio region. We request the participation of all ARKS defenders. <yellow>(For players with $(0) Battle Power and higher).<c>
+E_defense_Common_End - Eradication of DOLLS in accordance with defense directive confirmed. Thank you for your contribution to the mission.
+E_eario_defense_1120003_Notice - Emergency announcement: We are preparing for a defensive operation against a large number of DOLLS appearing in the Aelio region. All ARKS defenders, please prepare for deployment. <yellow>(For players with $(0) Battle Power and higher).<c>
+E_eario_defense_1120003_Open - Attention ARKS defenders: We are beginning a defensive operation against multiple DOLLS in the Aelio region. We request the participation of all ARKS defenders. <yellow>(For players with $(0) Battle Power and higher).<c>
+
+
+MissonList
+Group 0
+Title_Quest_Info_1 - 簡易クエスト情報
+Title_Quest_Info_2 - クエスト名
+Title_Quest_Info_3 - クエスト参加人数
+Title_Quest_Info_4 - クエスト目標
+Mes_Failure_Confirm - クエスト失敗!
+
+Group 1
+Title_Quest_Info_1 - Simple Quest Info
+Title_Quest_Info_2 - Name
+Title_Quest_Info_3 - Participants
+Title_Quest_Info_4 - Objective
+Mes_Failure_Confirm - Quest Failure!
+
+
+QuestResult
+Group 0
+Title_Mission_Achievement - ミッション達成度
+Title_Mainmission - メインミッション
+Title_Submission - サイドミッション
+Title_Quest_Cleartime - クリアタイム
+SubTitle_Quest_Cleartime - Clear Time
+SubTitle_Quest_Besttime - Best Time 
+SubTitle_Quest_newRecord - NEW RECORD！
+Title_Quest_Reward - 報酬
+Window_ControlGuide_1 - <%Decide>：次へ
+Window_ControlGuide_2 - <%Decide>：閉じる
+UrgencyQuest_Result_Reward - 報酬
+UrgencyQuest_Result_TotalEvalution - 総合評価
+UrgencyQuest_Result_Experience - 経験値
+UrgencyQuest_Result_Meseata - メセタ
+UrgencyQuest_Result_NoRetryBonus - 復活ボーナス
+UrgencyQuest_Result_SeasonPoint - シーズナルポイント
+Quest_Result_OtherItems - その他$(0)個――
+UrgencyQuest_Result_HPRatio - 全防衛対象の耐久値
+UrgencyQuest_Result_Percent - %
+
+Group 1
+Title_Mission_Achievement - Mission Success Level
+Title_Mainmission - Main Mission
+Title_Submission - Side Mission
+Title_Quest_Cleartime - Clear Time
+SubTitle_Quest_Cleartime - Clear Time
+SubTitle_Quest_Besttime - Best Time 
+SubTitle_Quest_newRecord - NEW RECORD!
+Title_Quest_Reward - Reward
+Window_ControlGuide_1 - <%Decide>: Next
+Window_ControlGuide_2 - <%Decide>: Close
+UrgencyQuest_Result_Reward - Reward
+UrgencyQuest_Result_TotalEvalution - Total Evaluation
+UrgencyQuest_Result_Experience - EXP
+UrgencyQuest_Result_Meseata - Meseta
+UrgencyQuest_Result_NoRetryBonus - Revive Bonus
+UrgencyQuest_Result_SeasonPoint - Seasonal Points
+Quest_Result_OtherItems - And $(0) other(s)
+UrgencyQuest_Result_HPRatio - Total Structural Integrity
+UrgencyQuest_Result_Percent - %
+
+
+NewPartyMatching
+Group 0
+Window_Title_PartyMatching1 - マッチング中
+Window_Title_PartyMatching2 - パスワードでマッチング中
+Title_PartyMatching1 - 受注予定のクエスト
+Title_PartyMatching2 - マッチング状況
+Title_PartyMatching3 - パーティー状況
+Label_Participants - 参加人数
+Label_ElapsedTime - マッチング経過時間
+Label_MenberName - メンバー名
+Participation_Participation_OK - <c 00ff00>準備OK<c>
+Participation_Participation_NG - <light_red>参加NG<c>
+Participation_Non_Participation - <gray>不参加<c>
+Mes_Matching_Error1 - 進行していたマッチングをキャンセルしました。
+Mes_Matching_Error2 - $(0)により、<br>マッチングがキャンセルされました。
+Mes_Matching_Error3 - パーティー情報が更新されたため、<br>マッチングがキャンセルされました。
+Mes_Matching_Error4 - マッチングのやり直しが規定数に達したため、<br>マッチングをキャンセルしました。
+Mes_Matching_Error5 - パーティー情報が更新されたため、<br>マッチングをリセットします。
+Mes_Matching_Error6 - マッチング中のパーティーから離脱しました。
+Mes_Matching_Timeout - マッチングがタイムアウトしました。
+Mes_Matching_Countdown_1 - クエスト開始まであと $(0)秒
+Mes_Matching_Countdown_2 - クエスト開始まであと $(0)分
+Mes_Matching_Starttransfer - マッチングが完了しました。5秒後に転送します。
+Mes_Matching_SectionMove - セクション移動を行うと、マッチングの<br>対象外となりますのでご注意ください。
+Mes_Matching_ClassChange - マッチング中はクラスを変更できません。
+Mes_Matching_MainTaskStop - マッチング中はメインタスク進行が中断されます。
+Mes_Matching_Election_Titile1 - クエスト即時開始の同意
+Mes_Matching_Election_Titile2 - 同意人数
+Mes_Matching_Election_Titile3 - 残り時間
+Mes_Matching_Election_Param1 - $(0)人
+Mes_Matching_Election_Param2 - $(0):$(1)
+Mes_Matching_Election_Com1 - クエスト即時開始の提案
+Mes_Matching_Election_Com2 - マッチングをやめる
+Mes_Matching_Election_Msg1 - 最大参加人数に満たない状態で、<br>現メンバーにクエストの即時開始を提案します。<br>よろしいですか？
+Mes_Matching_Election_Error1 - クエスト即時開始の再提案が可能になるまで<br>あと $(0) 秒です。
+Mes_Matching_Election_Error2 - 一度投票を否決されたプレーヤーは<br>再度投票を開始できません。
+Mes_Matching_Election_Error3 - この機能はパーティーリーダーのみが使用できます。
+Mes_Matching_Election_Com3 - クエスト即時開始
+Mes_Matching_Election_Countdown1 - ：残り時間$(0)秒
+Mes_Matching_Election_Title - クエスト即時開始の同意
+Mes_Matching_Election_Msg2 - 最大参加人数に満たない状態ですが、<br>クエストの即時開始に同意しますか？<br>あと$(0)回反対すると、マッチングから離脱します。<br>
+Mes_Matching_Election_Countdown2 - <center>残り時間 $(0) 秒</center>
+Mes_Matching_Election_Yes - 同意する
+Mes_Matching_Election_No - 反対する
+Mes_Matching_Election_End1 - 全員の同意によりクエストを開始します。
+Mes_Matching_Election_End2 - 全員の同意が得られなかったため、クエスト即時開始を中止します。
+Mes_Matching_Election_End3 - 必要人数が揃ったため投票を中止し、クエストを開始します。
+Mes_Matching_Election_End4 - マッチング中の一部メンバーが離脱したため、クエスト即時開始を中止します。
+Mes_Matching_Election_End5 - 無効票があったため、クエスト開始は否決されました。
+Mes_Matching_Election_End6 - 定員オーバーです。
+Mes_Matching_Number_Limit - このクエストは、あと$(0)回クリアできます。
+Mes_Matching_Start - クエスト"$(0)"のマッチングを開始しました。
+Mes_Quest_Desorption - $(0)に帰還します。
+Mes_Matching_Election_non - ---
+Mes_Matching_Election_Desp1 - クエスト受注メニューから“クエスト即時開始の提案”を<br>選択することで、現メンバーでクエストを開始できます。
+Mes_Matching_Election_Desp2 - 現メンバーでのクエスト即時開始が提案されました。<br>“新着通知”より内容を確認してください。
+Mes_Matching_Election_Start1 - 現メンバーでのクエスト即時開始が提案されました。<br>“新着通知”より内容を確認してください。
+Mes_Matching_Election_Start2 - 参加メンバーの回答を待っています。
+Mes_Matching_Election_Start3 - 現メンバーでのクエスト即時開始が提案されました。<br>回答はパーティーリーダーのみ行うことができます。
+Mes_Matching_Election_Com4 - クエスト即時開始に同意しました。
+Mes_Matching_Election_Com5 - パーティーリーダーがクエスト即時開始に同意しました。
+Mes_Matching_AutoStart_Mes1 - 緊急クエスト開始確認が届きました。（クエスト開始まで あと $(0)秒）
+Mes_Matching_AutoStart_Arrival1 - 緊急クエスト開始確認
+Mes_Matching_AutoStart_Title1 - 緊急クエスト開始確認
+Mes_Matching_AutoStart_Mes2 - 緊急クエストの受注可能期限になりました。<br>現在のマッチングメンバーでクエストを自動的に開始します。<br>このメンバーでクエストに参加しますか？<br>※参加しない場合はマッチングがキャンセルされます。<br>クエスト開始まで あと $(0)秒
+Mes_Matching_AutoStart_Btn1 - 参加する
+Mes_Matching_AutoStart_Btn2 - マッチングから離脱する
+Mes_Matching_AutoStart_Sub1 - 参加表明
+Mes_Matching_AutoStart_Sub2 - 参加表明人数
+Mes_Matching_AutoStart_Sub3 - 参加表明残り時間
+Mes_Matching_AutoStart_Mes3 - 参加表明しました。
+Mes_Matching_AutoStart_Mes4 - リーダーが参加表明しました。
+Mes_Matching_AutoStart_Mes5 - マッチングから離脱しました。
+
+Group 1
+Window_Title_PartyMatching1 - Matchmaking in Progress
+Window_Title_PartyMatching2 - Matchmaking in Progress via Password
+Title_PartyMatching1 - Quest to be Accepted
+Title_PartyMatching2 - Matchmaking Status
+Title_PartyMatching3 - Party Status
+Label_Participants - Number of Participants
+Label_ElapsedTime - Matchmaking Elapsed Time
+Label_MenberName - Member Name
+Participation_Participation_OK - <c 00ff00>Ready<c>
+Participation_Participation_NG - <light_red>Cannot Join<c>
+Participation_Non_Participation - <gray>Not Joining<c>
+Mes_Matching_Error1 - Matchmaking in progress canceled.
+Mes_Matching_Error2 - Matchmaking in progress canceled by $(0).
+Mes_Matching_Error3 - Matchmaking in progress canceled due to a change in party info.
+Mes_Matching_Error4 - Maximum number of retries exceeded. Matchmaking canceled.
+Mes_Matching_Error5 - Restarting matchmaking due to a change in party info.
+Mes_Matching_Error6 - You have withdrawn from a matchmaking party.
+Mes_Matching_Timeout - Matchmaking timed out.
+Mes_Matching_Countdown_1 - $(0) seconds to quest start
+Mes_Matching_Countdown_2 - $(0) minutes to quest start
+Mes_Matching_Starttransfer - Matchmaking complete! Beginning transfer in 5 seconds.
+Mes_Matching_SectionMove - Please be aware, moving to another Sector will remove you from matchmaking.
+Mes_Matching_ClassChange - Classes cannot be changed while matchmaking is in progress.
+Mes_Matching_MainTaskStop - Main Tasks cannot be advanced while matchmaking is in progress.
+Mes_Matching_Election_Titile1 - Accept Quest Immediate Start
+Mes_Matching_Election_Titile2 - Accepted Players
+Mes_Matching_Election_Titile3 - Time Remaining
+Mes_Matching_Election_Param1 - $(0)
+Mes_Matching_Election_Param2 - $(0): $(1)
+Mes_Matching_Election_Com1 - Quest Immediate Start Proposal
+Mes_Matching_Election_Com2 - Quit Matchmaking
+Mes_Matching_Election_Msg1 - Propose to current members to begin the quest immediately <br>with less than the maximum number of participants?
+Mes_Matching_Election_Error1 - $(0) second(s) until another Quest Immediate Start can be proposed.
+Mes_Matching_Election_Error3 - This feature can only be used by the party leader.
+Mes_Matching_Election_Com3 - Quest Immediate Start
+Mes_Matching_Election_Countdown1 - : $(0) second(s) remaining
+Mes_Matching_Election_Title - Accept Quest Immediate Start
+Mes_Matching_Election_Msg2 - Agree to begin the quest immediately with less than the <br>maximum number of participants? You will be withdrawn <br>from matchmaking by disagreeing $(0) more time(s).<br>
+Mes_Matching_Election_Countdown2 - <center>$(0) second(s) remaining</center>
+Mes_Matching_Election_Yes - Agree
+Mes_Matching_Election_No - Disagree
+Mes_Matching_Election_End1 - All are in favor! Starting the quest.
+Mes_Matching_Election_End2 - Quest Immediate Start has been cancelled, as not all members agreed to do so.
+Mes_Matching_Election_End4 - Quest Immediate Start has been canceled, as a member has withdrawn from matchmaking.
+Mes_Matching_Election_End6 - There are too many people.
+Mes_Matching_Number_Limit - This quest can be cleared $(0) more time(s).
+Mes_Matching_Start - Matchmaking for [$(0)] started.
+Mes_Quest_Desorption - Returning to $(0).
+Mes_Matching_Election_non - ---
+Mes_Matching_Election_Desp1 - Select [Quest Immediate Start] from [Quest Acceptance<br>Menu] to begin the quest with the current members.
+Mes_Matching_Election_Desp2 - Immediate quest start proposed.<br>Check your notifications for details.
+Mes_Matching_Election_Start1 - Immediate quest start proposed.<br>Check your notifications for details.
+Mes_Matching_Election_Start2 - Waiting for a response from participating members.
+Mes_Matching_Election_Start3 - Immediate quest start proposed.<br>Only the party leader can accept or decline.
+Mes_Matching_Election_Com4 - You agreed to Quest Immediate Start.
+Mes_Matching_Election_Com5 - The Party Leader agreed to Quest Immediate Start.
+Mes_Matching_AutoStart_Mes1 - Urgent Quest Start Confirmation received. (Quest starts in $(0) seconds)
+Mes_Matching_AutoStart_Arrival1 - Urgent Quest Start Confirmation
+Mes_Matching_AutoStart_Title1 - Urgent Quest Start Confirmation
+Mes_Matching_AutoStart_Mes2 - The Urgent Quest can now be accepted.<br>The quest will start automatically with the current matchmaking members.<br>Would you like to join the quest with these members?<br>Note: Matchmaking will be canceled if you do not join.<br>Quest starts in $(0) seconds
+Mes_Matching_AutoStart_Btn1 - Join the quest
+Mes_Matching_AutoStart_Btn2 - Withdraw from matchmaking
+Mes_Matching_AutoStart_Sub1 - Joining
+Mes_Matching_AutoStart_Sub2 - Number of people joining
+Mes_Matching_AutoStart_Sub3 - Time left to join
+Mes_Matching_AutoStart_Mes3 - You have expressed your will to join.
+Mes_Matching_AutoStart_Mes4 - The leader has expressed their will to join.
+Mes_Matching_AutoStart_Mes5 - You were withdrawn from matchmaking.
+
+
+Defense
+Group 0
+DefenseTerminal_Title - 資源採掘リグ
+DefenseTerminal_Title_BLUEFULL - 資源採掘リグ[ブルー]
+DefenseTerminal_Title_WHITILL - 資源採掘リグ[ホワイト]
+DefenseTerminal_Title_VIRIDIA - 資源採掘リグ[グリーン]
+DefenseTerminal_Title_ORAN - 資源採掘リグ[オレンジ]
+DefenseTerminal_Title_PURPLENUM - 資源採掘リグ[パープル]
+DefenseTerminal_Title_Weapon - デリバリーデバイス
+DefenseTerminal_Help - このウィンドウを閉じます。
+DefenseTerminal_Sub_Title1 - デバイス機能
+DefenseTerminal_Sub_Title2 - 使用可能回数
+DefenseTerminal_Sub_Title3 - 回数追加まで
+DefenseTerminal_Pt - $(0)Pt
+DefenseTerminal_Pt2 - あと$(0)Pt
+DefenseTerminal_Back - 閉じる
+DefenseTerminalList_Title - 機能開放の必要ポイント
+DefenseTerminalList_Help - コレクトサインの<yellow>“取得ポイント（Pt）”<c>が<br>一定数蓄積すると、以下の機能が開放されます。
+DefenseTerminalList_Sub_Title1 - 現在のコレクトサイン
+DefenseTerminalList_Sub_Title2 - 必要ポイント
+DefenseTerminalList_Sub_Title3 - デバイス機能
+DefenseTerminal_Check_Window1 - “$(0)” を使用しますか？
+DefenseTerminal_Check_Window2 - <center>使用可能回数：$(0) → $(1)
+DefenseTerminal_Uesed - 使用済み
+DefenseTerminal_Starting - <yellow>“$(0)”<c>を使用しました。
+DefenseTerminal_StartingWeapon - <yellow>“$(0)”<c>を呼び出しました。
+DefenseTerminal_Starting_Other - $(2)が$(0)に<yellow>“$(1)”<c>を使用しました。
+DefenseTerminal_Starting_OtherWeapon - $(1)が<yellow>“$(0)”<c>を呼び出しました。
+DefenseTerminal_Help2 - 一定時間、資源採掘リグへのダメージを防ぎます。
+DefenseTerminal_Help3 - 資源採掘リグの耐久値が回復します。
+DefenseTerminal_Help4 - 一定時間、モバイルキャノンを使用することができます。
+DefenseTerminal_command1 - バリアシールドを展開する
+DefenseTerminal_command2 - 損傷箇所を修復する
+DefenseTerminal_command3 - 特殊兵装を使用する
+DefenseTerminal_command4 - モバイルキャノンを使用する
+
+Group 1
+DefenseTerminal_Title - Mining Rig
+DefenseTerminal_Title_BLUEFULL - Mining Rig [Blue]
+DefenseTerminal_Title_WHITILL - Mining Rig [White]
+DefenseTerminal_Title_VIRIDIA - Mining Rig [Green]
+DefenseTerminal_Title_ORAN - Mining Rig [Orange]
+DefenseTerminal_Title_PURPLENUM - Mining Rig [Purple]
+DefenseTerminal_Title_Weapon - Delivery Device
+DefenseTerminal_Help - Close this window.
+DefenseTerminal_Sub_Title1 - Device Features
+DefenseTerminal_Sub_Title2 - No. of Uses
+DefenseTerminal_Sub_Title3 - Until Addtnl Use
+DefenseTerminal_Pt - $(0) Pts
+DefenseTerminal_Pt2 - $(0) Pts Needed
+DefenseTerminal_Back - Close
+DefenseTerminalList_Title - Points Required to Unlock
+DefenseTerminalList_Help - The following feature will unlock once you have <yellow>earned a certain <br>amount of points<c> by collecting Collectasigne.
+DefenseTerminalList_Sub_Title1 - Current Collectasigne
+DefenseTerminalList_Sub_Title2 - Required Points
+DefenseTerminalList_Sub_Title3 - Device Features
+DefenseTerminal_Check_Window1 - Use "$(0)"?
+DefenseTerminal_Check_Window2 - No. of Uses: $(0) → $(1)
+DefenseTerminal_Uesed - Used
+DefenseTerminal_Starting - Used <yellow>"$(0)"<c>.
+DefenseTerminal_StartingWeapon - Called <yellow>"$(0)"<c>.
+DefenseTerminal_Starting_Other - $(2) used <yellow>“$(1)”<c> on $(0).
+DefenseTerminal_Starting_OtherWeapon - $(1) called <yellow>"$(0)"<c>.
+DefenseTerminal_Help2 - Prevents damage to the Mining Rig for a set time.
+DefenseTerminal_Help3 - Repairs structural damage to the Mining Rig.
+DefenseTerminal_Help4 - Allows you to use the Mobile Cannon for a set time.
+DefenseTerminal_command1 - Deploy Barrier Shield
+DefenseTerminal_command2 - Repair Damage
+DefenseTerminal_command3 - Use Special Equipment
+DefenseTerminal_command4 - Use Mobile Cannon
+
+

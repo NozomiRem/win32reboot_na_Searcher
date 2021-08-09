@@ -1,0 +1,15 @@
+tut_006424.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1488 bytes
+
+TutorialText
+Group 0
+Title - シーズナルイベント
+text0001 - シーズナルイベント期間中は、<yellow>セントラルタワー<c>の近くに、<br>アークス特異現象研究員の<yellow>シャンディー<c>が出現します。<br><br>シャンディーからは、<yellow>“期間限定タスク”<c>を受注したり、<br><yellow>“シーズナルポイント”<c>でアイテムを交換することができます。
+text0002 - 同じく期間中は、<br>イベント用の“デイリー/ウィークリータスク”が追加発生します。
+
+Group 1
+Title - Seasonal Event
+text0001 - During Seasonal Events, the ARKS peculiar phenomenon researcher <yellow>Xiandy<c><br>will appear near <yellow>Central Tower<c>.<br><br>From Xiandy, you can receive <yellow>limited-time-only tasks<c> and exchange<br><yellow>Seasonal Points<c> for items.
+text0002 - Additional Daily Tasks and Weekly Tasks<br>for the event will be active during this period.
+
+

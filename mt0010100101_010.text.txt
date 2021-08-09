@@ -1,0 +1,13 @@
+mt0010100101_010.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 800 bytes
+
+MainText
+Group 0
+line01 - デイリータスクが開放されました。<br>メインメニューのタスクから確認できます。
+line02 - ウィークリータスクが開放されました。<br>メインメニューのタスクから確認できます。
+
+Group 1
+line01 - Daily Tasks have been unlocked.<br>They can be confirmed under [Tasks] from the Main Menu.
+line02 - Weekly Tasks have been unlocked.<br>They can be confirmed under [Tasks] from the Main Menu.
+
+

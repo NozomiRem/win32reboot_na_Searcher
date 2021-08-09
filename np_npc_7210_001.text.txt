@@ -1,0 +1,15 @@
+np_npc_7210_001.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 592 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 取扱品の検品中です。<br>少々お待ちください。
+HELLO_ALLDAYS_002 - どうも。
+HELLO_BYE - ありがとうございました。
+
+Group 1
+HELLO_ALLDAYS - Just checking inventory.<br>Will be done in just a moment.
+HELLO_ALLDAYS_002 - Hello, there.
+HELLO_BYE - Thank you.
+
+

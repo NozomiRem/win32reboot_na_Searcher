@@ -1,0 +1,19 @@
+msc_010090.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1504 bytes
+
+msc_010090
+Group 0
+msc_010090_0010 - ……で、ここを渡るんだが……。<br>お前さん、グライドのやり方はわかるか？
+msc_010090_0020 - 体内にあるエネルギー、“フォトン”を<br>両腕と両足に集中させて……。
+msc_010090_0030 - そいつを使って、ここから飛ぶんだ。
+msc_010090_0040 - ……まあ、失敗しても下は海だ。<br>ぶっつけ本番で、やってみてくれ。
+msc_010090_0050 - ……相変わらず、スパルタね……。
+
+Group 1
+msc_010090_0010 - Entonces, tenemos que cruzar esto... ¿Estás familiarizado con la forma de deslizarse?
+msc_010090_0020 - Lo haces reuniendo la energía de los fotones en tu cuerpo y extendiéndola hacia abajo, hacia tus dos pies.
+msc_010090_0030 - Si haces eso, empezarás a flotar
+msc_010090_0040 - ...Y oye, incluso si te equivocas, es sólo el océano. El fracaso es la mejor manera de aprender, así que ve a por ello.
+msc_010090_0050 - Como siempre el sargento instructor...
+
+

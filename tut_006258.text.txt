@@ -1,0 +1,17 @@
+tut_006258.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1792 bytes
+
+TutorialText
+Group 0
+Title - 双機銃（ツインマシンガン）
+text0001 - “双機銃（ツインマシンガン）”は、<br>接近戦で真価を発揮する射撃武器です。<br><br>クラススキル“チェイントリガー”で<br>ヒット数に応じた強力なダメージを与えられます。
+text0002 - クラススキル“チェインブースト”で、<br>攻撃速度を上昇させ続けることで<br>ツインマシンガンの真価を発揮できます。
+text0003 - PA“バレットレイヴ”は、<br>単体のエネミーに高いダメージを与えられます。<br><br>ヒット回数が多く、チェインを稼ぎやすいのが特徴です。
+
+Group 1
+Title - Twin Machine Guns
+text0001 - Twin Machine Guns are Ranged Weapons that shine their brightest in close range combat.<br><br>The Class Skill "Chain Trigger" can deal powerful damage based on the number of hits.
+text0002 - The value of Twin Machine Guns improves even further with the Class Skill "Chain<br>Boost", which continuously increases the speed of attacks.
+text0003 - The Photon Art "Bullet Rave" can deal high damage to a single enemy. It has a large hit count, making it easy to build up a chain.
+
+

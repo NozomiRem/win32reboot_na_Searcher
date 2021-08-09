@@ -1,0 +1,13 @@
+qst_1120020001.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 464 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - エネミー、残りわずかです。<br>一気に殲滅しちゃってください！
+
+Group 1
+name010 - Ran
+text001 - Only a few enemies are left.<br>Please take them out!
+
+

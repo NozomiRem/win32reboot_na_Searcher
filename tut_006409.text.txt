@@ -1,0 +1,17 @@
+tut_006409.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 2944 bytes
+
+TutorialText
+Group 0
+Title - 戦闘力の上げ方・３
+text0001 - 戦闘力を上げるには、<br><yellow>・装備品の潜在能力を解放する<c><br>などの方法もあります。
+text0002 - <yellow>装備品の潜在能力解放<c>は、<br>セントラルシティにある<yellow>“アイテムラボ”<c>のメニューから、<br>“潜在能力解放”を選ぶことで行えます。<br><br>潜在能力の解放には、<br><yellow>“鉱石などのギャザリング素材”<c>とN-メセタが必要です。
+text0003 - <yellow>戦闘力1100の達成<c>に必要な行動目安は以下のとおりです。<br>・メインクラス <yellow>Lv.15<c><br>・メインクラスとサブクラスあわせて、<yellow>クラススキルを12個<c>習得<br>・装備中の<yellow>レアリティ★１の武器を+30<c>まで強化<br>　および<yellow>潜在能力をLv.2<c>まで解放<br>・装備中の<yellow>レアリティ★１の防具を+20<c>まで強化<br>・装備中の武器および防具に対して、<yellow>特殊能力を合計11個<c>追加
+
+Group 1
+Title - Increasing Your Battle Power III
+text0001 - You can also increase your Battle Power by <yellow>unlocking your equipment's potential.<c>
+text0002 - You can <yellow>unlock your equipment's potential<c> by selecting<br>Unlock Potential in the <yellow>Item Lab<c> in Central City.<br><br><yellow>Gathering materials such as Minerals<c>, and N-Meseta<br>are necessary for unlocking Potential.
+text0003 - The following are recommended actions for <yellow>increasing your Battle Power to 1100.<c><br>・ Main Class <yellow>Lv. 15<c><br>・ <yellow>Learn 12 Class Skills<c> between the Main and Sub-Classes.<br>・ Strengthen an equipped <yellow>Rarity 1★ weapon to +30, and unlock potential to Lv. 2<c>.<br>・ Strengthen an equipped <yellow>Rarity 1★ armor to +20<c>.<br>・ Add a <yellow>total of 11 Augments<c> to currently equipped weapons and armor.
+
+

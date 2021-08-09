@@ -1,0 +1,13 @@
+tut_006269.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1200 bytes
+
+TutorialText
+Group 0
+Title - テレポート
+text0001 - 任意の“リューカーデバイス”、または“ワールドマップ”から、<br>選択したリューカーデバイスへと、瞬時に移動できます。<br>選択できるリューカーデバイスは、発見することで増えていきます。<br><br>なお、ワールドマップではリューカーデバイスのほかに、<br>特定の場所へのテレポートも可能です。
+
+Group 1
+Title - Teleporting
+text0001 - You can instantly move to a selected Ryuker Device from the World Map or<br>when accessing any Ryuker Device.<br>Discover more Ryuker Devices to expand your teleportation options.<br><br>It is also possible to teleport to certain locations from the World Map apart<br>from just Ryuker Devices.
+
+

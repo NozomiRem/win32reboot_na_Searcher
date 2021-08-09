@@ -1,0 +1,23 @@
+quest_01130000.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 720 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+a1 - Complete a special Client Order
+a2 - Complete a special Client Order
+a3 - Possess a Super Hard Difficulty Permit
+
+
+QuestTarget
+Group 0
+SimpleExplanation - マップ最深部に到達せよ！
+
+Group 1
+SimpleExplanation - Reach the final area of the map!
+
+

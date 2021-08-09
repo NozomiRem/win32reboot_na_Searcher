@@ -1,0 +1,33 @@
+trial_common.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1456 bytes
+
+common
+Group 0
+ProgressCount - $(0)/$(1)
+TrialSuccessMsg - トライアル<br>"$(0)"成功
+TrialFailureMsg - トライアル<br>"$(0)"失敗
+TrialCancelMsg - トライアル<br>"$(0)"から離脱
+RewardTextClear - トライアル<br>"$(0)"成功
+RewardTextRew - 報酬
+RewardTextMeseta - <pict reb_meseta>$(0)
+RewardTextItemNameNum - $(0)×$(1)
+RewardTextItemName - $(0)
+ProgDefenceWave - Wave．
+FLineMsg_TimeOver - トライアル失敗<br>タイムオーバー！
+FLineMsg_DefenceTarget_Dead - トライアル失敗<br>防衛対象の被害大！
+
+Group 1
+ProgressCount - $(0)/$(1)
+TrialSuccessMsg - Trial $(0) Success!
+TrialFailureMsg - Trial $(0) Failed!
+TrialCancelMsg - Withdrew from $(0).
+RewardTextClear - $(0) Clear
+RewardTextRew - Reward
+RewardTextMeseta - <pict reb_meseta>$(0)
+RewardTextItemNameNum - $(0)x(2_Num)
+RewardTextItemName - $(0)
+ProgDefenceWave - Wave
+FLineMsg_TimeOver - Trial Failed<br>Time Limit Exceeded
+FLineMsg_DefenceTarget_Dead - Trial Failed<br>Unable to Defend $(0)
+
+

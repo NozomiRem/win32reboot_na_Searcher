@@ -1,0 +1,13 @@
+tut_006430.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 976 bytes
+
+TutorialText
+Group 0
+Title - ミスチーフシンボル
+text0001 - シーズナルイベント期間中は、セントラルシティのなかに、<br>通常のホログラフィックとは異なる<br><yellow>“ミスチーフシンボル”<c>が出現します。<br><br>このミスチーフシンボルを探す、期間限定タスクもあります。
+
+Group 1
+Title - Mischief Symbols
+text0001 - During Seasonal Events, the holographs normally found in Central City are<br>replaced by various <yellow>Mischief Symbols<c>.<br><br>Find these symbols to do Tasks limited to the Seasonal Event period.
+
+

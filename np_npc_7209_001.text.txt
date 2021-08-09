@@ -1,0 +1,15 @@
+np_npc_7209_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 608 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - なんか、調整中なんだって。<br>ちょっとだけ、待っててねー。
+HELLO_ALLDAYS_002 - いらっしゃーい。
+HELLO_BYE - また来てねー。
+
+Group 1
+HELLO_ALLDAYS - Apparently, they're not quite ready.<br>Do you mind waiting?
+HELLO_ALLDAYS_002 - Come on in!
+HELLO_BYE - Come again!
+
+

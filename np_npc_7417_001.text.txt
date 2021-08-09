@@ -1,0 +1,21 @@
+np_npc_7417_001.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 720 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 少し、休んだほうがいいんじゃないか？<br>無理しないようにな。
+HELLO_ALLDAYS_002 - おう！
+HELLO_ALLDAYS_003 - おう！
+HELLO_ALLDAYS_004 - おう！
+HELLO_ALLDAYS_005 - おう！
+HELLO_BYE - じゃあな！
+
+Group 1
+HELLO_ALLDAYS - You should get some rest.<br>Don't push yourself too hard.
+HELLO_ALLDAYS_002 - Yo!
+HELLO_ALLDAYS_003 - Yo!
+HELLO_ALLDAYS_004 - Yo!
+HELLO_ALLDAYS_005 - Yo!
+HELLO_BYE - See ya!
+
+

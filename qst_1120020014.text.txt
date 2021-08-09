@@ -1,0 +1,13 @@
+qst_1120020014.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 544 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - <pure_red>エネミーが自爆<c>しようとしています！<br>採掘リグを守ってください！
+
+Group 1
+name010 - Ran
+text001 - The <pure_red>enemy is engaging self-destruct protocols<c>! Please defend the rig!
+
+

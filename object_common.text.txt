@@ -1,0 +1,113 @@
+object_common.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 4464 bytes
+
+ObjectName
+Group 0
+ob_ep01_hv_mango - ソーテピッチ
+ob_ep01_hv_banana - ソーテバナン
+ob_ep01_hv_apple - ソーテアッポウ
+ob_ep01_hv_pear - ソーテナッシィ
+ob_5000_0388 - レスタサイン
+ob_5000_0470 - リバーサーサイン
+ob_5000_0601 - モノタイト
+ob_5000_0603 - デュアロマイト
+ob_5000_0605 - ソッドサザイエ
+ob_5000_0819 - ソッドアザーリ
+ob_5000_0820 - ソウカブラナ
+ob_5000_0821 - ソウマシュル
+ob_5000_0862 - ソッドクラーブ
+ob_5000_0889 - ソッドローブス
+ob_5000_0972 - ソウハーヴ
+ob_5000_0973 - ソウトマーテ
+ob_5000_0967 - フォトンチャンク
+ob_5000_0968 - トライナイト
+ob_5000_0969 - フォトンクォーツ
+ob_9990_0010 - 輸送トラック
+ob_9990_0017 - アイテムコンテナ[黒]
+ob_9990_0017_Setter - アイテムコンテナ[黒]
+ob_9990_0018 - アイテムコンテナ[緑]
+ob_9990_0018_Setter - アイテムコンテナ[緑]
+ob_9990_0021 - アイテムコンテナ[金]
+ob_9990_0024_111020001 - 常勝のリージョンマグ
+ob_9990_0024_111090001 - 練達のリージョンマグ
+ob_9990_0024_111060001 - 千金のリージョンマグ
+ob_9990_0025 - 訓練標的
+ob_9990_0025_0001 - 訓練標的
+ob_9990_0025_0002 - 訓練標的
+ob_9990_0025_0003 - 訓練標的
+ob_9990_0025_0004 - 訓練標的
+ob_9990_0026 - 訓練標的
+ob_9990_0026_0001 - 訓練標的
+ob_9990_0026_0002 - 訓練標的
+ob_9990_0026_0003 - 訓練標的
+ob_9990_0026_0004 - 訓練標的
+ob_9990_0038 - アイテムコンテナ[赤]
+ob_9990_0053 - バリアポッド
+ob_9990_0035 - ドールズ管制機
+ob_9990_0040 - ビーハイヴ
+ob_9990_0050 - テンダール
+ob_9990_0051 - 資源採掘リグ
+ob_9990_0052 - プロテクトコンテナ
+ob_9990_0054 - 資源採掘リグ
+ob_9990_0055 - 資源採掘リグ
+ob_9990_0056 - 資源採掘リグ
+ob_9990_0057 - 資源採掘リグ
+ob_9990_0063 - バックハック
+ob_9990_0064 - バリゲールコア
+ob_9990_0068 - メルドラーム
+
+Group 1
+ob_ep01_hv_mango - Saute Peach
+ob_ep01_hv_banana - Saute Banana
+ob_ep01_hv_apple - Saute Apple
+ob_ep01_hv_pear - Saute Pear
+ob_5000_0388 - Restasigne
+ob_5000_0470 - Reversasigne
+ob_5000_0601 - Monotite
+ob_5000_0603 - Dualomite
+ob_5000_0605 - Sodhe Turban Shell
+ob_5000_0819 - Sodhe Clam
+ob_5000_0820 - Soh Turnip
+ob_5000_0821 - Soh Mushroom
+ob_5000_0862 - Sodhe Crab
+ob_5000_0889 - Sodhe Lobster
+ob_5000_0972 - Soh Herb
+ob_5000_0973 - Soh Tomato
+ob_5000_0967 - Photon Chunk
+ob_5000_0968 - Trinite
+ob_5000_0969 - Photon Quartz
+ob_9990_0010 - Transport Truck
+ob_9990_0017 - Item Container: Black
+ob_9990_0017_Setter - Item Container: Black
+ob_9990_0018 - Item Container: Green
+ob_9990_0018_Setter - Item Container: Green
+ob_9990_0021 - Item Container: Gold
+ob_9990_0024_111020001 - Invincible Region Mag
+ob_9990_0024_111090001 - Expert Region Mag
+ob_9990_0024_111060001 - Priceless Region Mag
+ob_9990_0025 - Training Target
+ob_9990_0025_0001 - Training Target
+ob_9990_0025_0002 - Training Target
+ob_9990_0025_0003 - Training Target
+ob_9990_0025_0004 - Training Target
+ob_9990_0026 - Training Target
+ob_9990_0026_0001 - Training Target
+ob_9990_0026_0002 - Training Target
+ob_9990_0026_0003 - Training Target
+ob_9990_0026_0004 - Training Target
+ob_9990_0038 - Item Container: Red
+ob_9990_0053 - Barrier Pod
+ob_9990_0035 - DOLLS Control System
+ob_9990_0040 - Beehive
+ob_9990_0050 - Tendal
+ob_9990_0051 - Mining Rig
+ob_9990_0052 - Protected Container
+ob_9990_0054 - Mining Rig
+ob_9990_0055 - Mining Rig
+ob_9990_0056 - Mining Rig
+ob_9990_0057 - Mining Rig
+ob_9990_0063 - Backhack
+ob_9990_0064 - Barrigale Core
+ob_9990_0068 - Meldrum
+
+

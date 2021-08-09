@@ -1,0 +1,23 @@
+qst_1200090023.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1024 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+name020 - マノン
+name030 - アイナ
+text010 - ……大丈夫か!?
+text020 - こちらは平気……。<br>アイナは？
+text030 - な、なんとか……！
+text040 - 奴が赤く発光したら、今の攻撃をしてくるようだ。<br>次からは、注意しておこう……。
+
+Group 1
+name010 - Dozer
+name020 - Manon
+name030 - Aina
+text010 - Are you okay!?
+text020 - I'm fine. What about you, Aina?
+text030 - I-I think I'm okay!
+text040 - Seems like it unleashes that attack when it glows red. We'll have to watch out for<br>that.
+
+

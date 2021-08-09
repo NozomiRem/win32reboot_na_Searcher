@@ -1,0 +1,15 @@
+tut_006329.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1264 bytes
+
+TutorialText
+Group 0
+Title - 潜在能力解放
+text0001 - “アイテムラボ”の“潜在能力解放”では、<br>ギャザリング素材とN-メセタを消費することで、<br>各武器固有の“潜在能力”を解放できます。<br>
+text0002 - 潜在能力解放後も、<br>再度ギャザリング素材とN-メセタを消費することで、<br>潜在能力をレベルアップさせることができます。
+
+Group 1
+Title - Unlocking Potentials
+text0001 - By selecting [Unlock Potential] at the Item Lab and consuming gathering<br>materials and N-Meseta, you can unleash the hidden Potential that is unique to<br>that weapon.
+text0002 - Even after unlocking a Potential, you can consume gathering materials <br>and N-Meseta again to raise the level of that Potential.
+
+

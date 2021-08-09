@@ -1,0 +1,216 @@
+ui_scratch_reb.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 18400 bytes
+
+ScratchMain
+Group 0
+ScratchMenue_Title - スクラッチを引く
+ScratchMenue_Help - 対応した通貨、チケットでスクラッチを購入し景品を入手できます。
+ScratchChoice_Title - スクラッチ選択
+ScratchChoice_Possession - 所持金
+ScratchChoice__FreebieListButton - 景品リスト
+ScratchChoice__PossessionTicket - 所持スクラッチ券
+ScratchChoice__PossessionTicketCount - $(0)枚
+ScratchChoice__StepUp1 - １周
+ScratchChoice__StepUp2 - ２周
+ScratchChoice__StepUp3 - ３周
+ScratchChoice__BuyScratchAC - ACで$(1)回引く<br>$(0)<pict 4space><pict ac_icon_22>
+ScratchChoice__BuyScratchSG - SGで$(1)回引く<br>$(0)<pict 4space><pict sg_icon_22>
+ScratchChoice__BuyScratchNoCharge - 無料で$(0)回引く<br>毎日<utc>8:00</utc>にリセット
+ScratchChoice__CountBonus - あと$(0)回でプレゼント！
+ScratchChoice__CouponButton - 引換券交換<br>$(0)
+ScratchChoice__ScratchCategory_AC - ACスクラッチ
+ScratchChoice__ScratchCategory_SG - SGスクラッチ
+ScratchChoice__ScratchCategory_NoCharge - 無料スクラッチ
+ScratchChoice__ScratchCategory_StepUp - ステップアップ
+ScratchChoice_ConfirmationAC - <pict Arcscash>AC消費コンテンツ<br>$(1)を<br>$(0)ACで購入します。<br>よろしいですか？
+ScratchChoice_ConfirmationSG - <pict StarGem>SG消費コンテンツ<br>$(1)を<br>$(0)SGで購入します。<br>よろしいですか？
+ScratchChoice_ConfirmationNoCharge - $(0)を<br>一回、無料で引きます。<br>※毎日、<utc>8:00</utc>に引けます。<br>よろしいですか？
+ScratchChoice_ConfirmationACre - <pict Arcscash>AC消費コンテンツ<br>続けて$(1)を<br>$(0)ACで購入します。<br>よろしいですか？
+ScratchChoice_ConfirmationSGre - <pict StarGem>SG消費コンテンツ<br>続けて$(1)を<br>$(0)SGで購入します。<br>よろしいですか？
+ScratchChoice_ConfirmationTicketRe - 続けて$(3)を<br><pict $(0)>$(1)  $(2)枚で購入します。<br>よろしいですか？
+ScratchChoice_ConfirmationNoChargeRe - 続けて$(0)を<br>一回、無料で引きます。<br>※毎日、<utc>15:00</utc>に引けます。<br>よろしいですか？
+ScratchResult_Title - スクラッチ結果
+ScratchResult_Explanation - 以下の景品が当たりました！<br>「スクラッチ倉庫」にからお受取りください。<br><yellow>※受け取りに有効期限がありますので<br>　ご注意ください。<c>
+ScratchResult_UseTicket_Title - チケット使用確認
+ScratchResult_UseTicket_Mess - 選択したアイテムを使用します。<br>よろしいですか？
+ScratchResult_UseTicket_Mess_NoUse - 以下のチケットアイテムを使用できます。<br>このまま使用しますか？<br><br>※リストから選択し、1つずつ使用することもできます。
+ScratchResult_1UseTicket_Mess - $(0)を使用することができます。<br>このまま使用しますか？
+ScratchResult_UseTicket_AllUse - すべて使う
+ScratchResult_AllUseTicket_Title - チケット使用確認
+ScratchResult_AllUseTicket_Mess - 使用可能なチケットアイテムをすべて使用します。<br>よろしいですか？
+ScratchError_StorageMax_Title - スクラッチ倉庫容量不足
+ScratchError_StorageMax_Mess - スクラッチ倉庫の容量がいっぱいのため<br>スクラッチを購入できません。<br><br>スクラッチ倉庫から景品を受け取ってから<br>再度購入してください。
+ScratchError_AC_Shortage_Title - 所持AC不足
+ScratchError_AC_Shortage_Mess - ACが不足しているため<br>購入できません。<br><br>ACを購入しますか？
+ScratchError_SG_Shortage_Title - 所持SG不足
+ScratchError_SG_Shortage_Mess - SGが不足しているため<br>購入できません。<br><br>SGを購入しますか？
+ScratchError_Ticket_Shortage_Title - 所持チケット不足
+ScratchError_Ticket_Shortage_Mess - <$item_name><br>が不足しているため<br>購入できません。
+ScratchPrizeList_Title - 景品リスト
+ScratchPrizeList_PrizeItem - 景品アイテム
+ScratchPrizeList_EmissionRate - 排出率
+Bonus_Title - 回数ボーナス確認
+Bonus_Text01 - このスクラッチを引いた回数
+Bonus_Text02 - <$Count>回
+Bonus_Text03 - すべて獲得すると、獲得状況がリセットされ<br>また回数ボーナスを受け取ることができます。
+PrizeChange_Check_Title - 交換券消費確認
+PrizeChange_Check_Mess01 - $(2)×1<br>と、$(0)を交換します。<br>よろしいですか？<br>※以下のアイテム以外は消費されません。<br><br>（所持交換チケット：$(1)枚）
+PrizeChange_Check_Complete - 景品と交換が完了しました。
+PrizeChange_Check_Error - アイテムパックの空き容量不足<br>または所持数の限界を超えているため<br>交換できませんでした。
+PrizeChange_Check_Error02 - 現在、選択したスクラッチは購入できません。<br>詳細はプレイヤーズサイトをご確認ください。
+EmissionParcent - $(0)%
+ScratchLabelBonus - ボーナス
+ScratchLabelStage1 - 1周目
+ScratchLabelStage2 - 2周目以降
+AllUse - すべて使う
+Title_scratch - 獲得アイテム一覧
+Title_useitem - アイテム使用
+scratch_message - 以下の景品が当たりました！
+bonus_message - 「1周目」の報酬をすべて獲得すると、「2周目以降」に進みます。<br>「2周目以降」は、繰り返し報酬を獲得できます。
+useitem_message - 使用可能な獲得チケットアイテムを、すべて使用しますか？<br>アイテムを選択して、１つずつ使用することもできます。<br><yellow>※倉庫に送られたアイテムは表示されません。<c>
+Tags01 - イチオシ！
+Tags02 - 人気！
+Tags03 - ボーナス！
+GachaBonusCommentNothing_re - このスクラッチは<br>回数ボーナスがありません。
+GachaBonusCommentAchieved_re - このスクラッチの<br>回数ボーナスは獲得済みです。
+ScratchChoice_LimitedTime - 陳列期限
+
+Group 1
+ScratchMenue_Title - Play Scratch Tickets
+ScratchMenue_Help - Purchase Scratch Tickets using currency or Tickets and get prizes.
+ScratchChoice_Title - Scratch Ticket Selection
+ScratchChoice_Possession - Current Cash
+ScratchChoice__FreebieListButton - Prize List
+ScratchChoice__PossessionTicket - Your Scratch Tickets
+ScratchChoice__PossessionTicketCount - $(0)
+ScratchChoice__StepUp1 - Stage 1
+ScratchChoice__StepUp2 - Stage 2
+ScratchChoice__StepUp3 - Stage 3
+ScratchChoice__BuyScratchAC - Play $(1) time(s) with<br>AC: $(0) <pict ac_icon_22>
+ScratchChoice__BuyScratchSG - Play $(1) time(s) with<br>SG: $(0) <pict sg_icon_22>
+ScratchChoice__BuyScratchNoCharge - Play $(0) times free<br>Resets Daily <utc>8:00</utc>
+ScratchChoice__CountBonus - $(0) more plays to get a gift!
+ScratchChoice__CouponButton - Exchange Tickets<br>$(0)
+ScratchChoice__ScratchCategory_AC - AC Scratch Tickets
+ScratchChoice__ScratchCategory_SG - SG Scratch Tickets
+ScratchChoice__ScratchCategory_NoCharge - Free Scratch Ticket
+ScratchChoice__ScratchCategory_StepUp - Step Up
+ScratchChoice_ConfirmationAC - <pict Arcscash> AC Payment Required<br>Purchase $(1)<br>for $(0)AC.<br>Proceed?
+ScratchChoice_ConfirmationSG - <pict StarGem> SG Payment Required<br>Purchase $(1)<br>for $(0)SG.<br>Proceed?
+ScratchChoice_ConfirmationNoCharge - Play $(0) one time for free.<br>Note: You can play every day at <utc>8:00</utc>.<br>Are you sure you wish to proceed?
+ScratchChoice_ConfirmationACre - <pict Arcscash> AC Payment Required<br>Continue purchasing $(1)<br>for $(0)AC.<br>Proceed?
+ScratchChoice_ConfirmationSGre - <pict StarGem> SG Payment Required<br>Continue purchasing $(1)<br>for $(0)SG.<br>Proceed?
+ScratchChoice_ConfirmationTicketRe - Continue purchasing $(3)<br>for $(2)$(0)$(1)<br>Proceed?
+ScratchChoice_ConfirmationNoChargeRe - Continue and play $(0) one time for free.<br>Note: You can play every day at <utc>8:00</utc>.<br>Are you sure you wish to proceed?
+ScratchResult_Title - Scratch Ticket Result
+ScratchResult_Explanation - You won the following prizes!<br>Retrieve them from Scratch Ticket Storage.<br><yellow>Please note that there is a time limit for retrieval.<c>
+ScratchResult_UseTicket_Title - Confirm Ticket Use
+ScratchResult_UseTicket_Mess - Use the selected item?
+ScratchResult_1UseTicket_Mess - $(0) is available for use.<br>Continue as-is?
+ScratchResult_UseTicket_AllUse - Use All
+ScratchResult_AllUseTicket_Title - Confirm Ticket Use
+ScratchResult_AllUseTicket_Mess - Use all available Ticket items?
+ScratchError_StorageMax_Title - Scratch Ticket Storage Full
+ScratchError_StorageMax_Mess - Could not purchase Scratch Tickets because your Scratch<br>Ticket Storage is full.<br><br>Remove some prizes and try again.
+ScratchError_AC_Shortage_Title - Not Enough AC
+ScratchError_AC_Shortage_Mess - You do not have enough AC.<br><br>Purchase more?
+ScratchError_SG_Shortage_Title - Not Enough Star Gems
+ScratchError_SG_Shortage_Mess - You do not have enough Star Gems.<br><br>Purchase more?
+ScratchError_Ticket_Shortage_Title - Not Enough Tickets
+ScratchError_Ticket_Shortage_Mess - You do not have enough <$item_name>.<br>Purchase more?
+ScratchPrizeList_Title - Prize List
+ScratchPrizeList_PrizeItem - Prize Items
+ScratchPrizeList_EmissionRate - Win Rate
+Bonus_Title - Check Play Bonus
+Bonus_Text01 - Times You Have Played This Scratch Ticket
+Bonus_Text02 - <$Count> Times
+Bonus_Text03 - Once everything has been earned, the counter is reset and you can begin earning again.
+PrizeChange_Check_Title - Confirm Exchange Ticket Use
+PrizeChange_Check_Mess01 - Exchange 1 $(2) for $(0).<br>Are you sure?<br>Note: Only the below items will be consumed.<br><br>(Your Exchange Tickets: $(1))
+PrizeChange_Check_Complete - Prize exchanged.
+PrizeChange_Check_Error - Could not exchange. Either your inventory is full or you have exceeded your carry limit.
+PrizeChange_Check_Error02 - Unable to purchase the Scratch Ticket you selected. Please check the Player's Site for details.
+EmissionParcent - $(0)%
+ScratchLabelBonus - Bonus
+ScratchLabelStage1 - Stage 1
+ScratchLabelStage2 - Stage 2 (and up)
+AllUse - Use All
+Title_scratch - Acquired Items List
+Title_useitem - Use Item
+scratch_message - You won the following prizes!
+bonus_message - Acquire all of the prizes at Stage 1 to proceed to Stage 2 and up.<br>At Stage 2 and up you can repeatedly get prizes.
+useitem_message - Use all obtained available Ticket items?<br>You can also select which items to use one by one.<br><yellow>Note: Items sent to storage will not be displayed.<c>
+Tags01 - Featured
+Tags02 - HOT!
+Tags03 - Bonus!
+GachaBonusCommentNothing_re - This Scratch Ticket <br>doesn't have Count Bonus prizes.
+GachaBonusCommentAchieved_re - You have earned <br>all count bonus prizes for this Ticket.
+ScratchChoice_LimitedTime - Available until:
+
+
+ScratchStorage
+Group 0
+Title - スクラッチ倉庫
+Header_ItemName - アイテム名
+Header_SavePeriod - 保存期限
+Sort_Save - 保存期限
+Sort_Reality - レアリティ
+Sort_Costume - コスチューム/パーツ
+Sort_Camouflage - 武器迷彩
+Sort_Consumables - 消費アイテム
+Sort_etr - その他
+ReceiveButton - すべて受け取る
+SavePeriodNote_Title - 保存期限
+SavePeriodNote_Header1 - 保存期限が切れたアイテムについて
+SavePeriodNote_Header1Mess - スクラッチ倉庫は、<yellow>格納された<br>アイテムそれぞれに保存期限があります。<c><br>保存期限を過ぎたアイテムは<br>「リサイクルポイント」に自動変換されます。<br>アイテムは必ず受け取るようにお願いします。
+SavePeriodNote_Header2 - リサイクルポイントの変換
+SavePeriodNote_Header2Mess - 景品に対応したスクラッチ1回分に変換
+StorageCheck_Title - 受け取り倉庫確認
+StorageCheck_Mess - $(0)個のアイテムの受け取り先を選択してください。<br><yellow>※多すぎる場合、受け取れる分だけ受け取ります。<c>
+StorageCheck_BuckButton - 戻る
+StorageCheck_GetPrize - アイテムを受け取りました。
+StorageCheck_MaxError - 受け取り先に空きがないため、アイテムを受け取れません。<br>空いている受け取り先を選択するか<br>アイテムを整理してください。
+StorageCheck_GetPrize2 - 一部受け取れないアイテムがありました。
+ChangePoint_Title - スクラッチ
+ChangePoint_Text01 - 受け取り期限が過ぎたため<br>以下のアイテムをリサイクルポイントに変換しました。
+ChangePoint_Text02 - 景品名
+ChangePoint_Text03 - 保存期間
+ChangePoint_Text04 - ポイント
+ChangePoint_Text05 - $(0)まで
+ChangePoint_CloseButton - 閉じる
+ChangePoint_mess01 - スクラッチ倉庫に未受け取りアイテムがあります。
+ChangePoint_mess02 - スクラッチ倉庫に<pure_red>受取期限が近い未受け取りアイテム<c>があります。
+
+Group 1
+Title - Scratch Ticket Storage
+Header_ItemName - Item Name
+Header_SavePeriod - Storage Expiration
+Sort_Save - Storage Expiration
+Sort_Reality - Rarity
+Sort_Costume - Outfit/Parts
+Sort_Camouflage - Weapon Camo
+Sort_Consumables - Consumables
+Sort_etr - Other
+ReceiveButton - Take All
+SavePeriodNote_Title - Storage Expiration
+SavePeriodNote_Header1 - Items Beyond Their Storage Expiration
+SavePeriodNote_Header1Mess - <yellow>Items stored in Scratch Ticket Storage have an<br>expiration.<c>Items beyond their Storage Expiration<br>are automatically converted to Swap Points.<br>Please be sure to retrieve your items.
+SavePeriodNote_Header2 - Swap Point Conversion
+SavePeriodNote_Header2Mess - Convert to 1 Prize Scratch Ticket
+StorageCheck_Title - Select Retrieval Storage
+StorageCheck_Mess - Choose where to send $(0) items.<br><yellow>Note: Any items in excess of capacity will not be sent.<c>
+StorageCheck_BuckButton - Back
+StorageCheck_GetPrize - Item received.
+StorageCheck_MaxError - No space at destination.<br>Please select another destination or clear some space.
+StorageCheck_GetPrize2 - Some items could not be retrieved.
+ChangePoint_Title - Scratch Tickets
+ChangePoint_Text01 - Retrieval period expired.<br>The following items were converted to Swap Points.
+ChangePoint_Text02 - Prize Name
+ChangePoint_Text03 - Storage Period
+ChangePoint_Text04 - Points
+ChangePoint_Text05 - Until $(0)
+ChangePoint_CloseButton - Close
+ChangePoint_mess01 - You have unretrieved items in Scratch Ticket Storage.
+ChangePoint_mess02 - <pure_red>You have unretrieved items near expiration<c> in Scratch Ticket Storage.
+
+

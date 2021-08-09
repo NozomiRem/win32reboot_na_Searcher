@@ -1,0 +1,19 @@
+tut_006285.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 3216 bytes
+
+TutorialText
+Group 0
+Title - パーティー
+text0001 - “パーティー”は最大４人で組む、一時的なコミュニティです。<br>パーティーを組むと、メンバーのステータスが表示されるほか、<br>“パーティーチャット”というコミュニケーション手段が増えます。<br><br>これにより、広いフィールドにおいても、<br>お互いの場所や状況が把握しやすくなります。
+text0002 - 自分がパーティーリーダー、あるいはパーティーを組んでいない場合は<br>ほかのプレイヤーを、自分のパーティーに招待できます。<br><br>“キャラクターメニュー”か<br>“フレンドリスト”か“周囲のキャラクター”で相手を選び、<br>“パーティーに招待する”を選びましょう。
+text0003 - 自分がパーティーへの招待を受けた場合は、<br>承諾することで、そのパーティーに参加できます。
+text0004 - パーティーメンバーが別のセクションに移動しても、<br>HPの確認など、一部のパーティー機能は利用できます。<br><br>ただし、一定時間別々のセクションで行動すると、その後<br>合流しても、同じ空間でのプレイができなくなる場合があります。<br>リューカーデバイスで移動すると、再度合流できます。
+
+Group 1
+Title - Parties
+text0001 - A party can be composed of a maximum of four people. When in a party, party<br>members' stats are displayed and members can communicate with each other<br>via Party Chat, allowing them to know the others' locations and statuses,<br>even when separated in the field.
+text0002 - You can invite other players to your party when you are the party leader or<br>when you are not in a party.<br><br>To do this, select a player from [Character Menu] or <br>[Friend List/Nearby Characters], then choose [Invite to Party].
+text0003 - If you receive a party invitation, accept it to join the party.
+text0004 - When you're in a party, you can use various party features such as checking<br>party members' HP even when they are in different sectors.<br><br>However, if you remain in another sector for a set time, you may not be able<br>to play in the same space even if you try to meet up later. Teleport using a<br>Ryuker Device to meet up again.
+
+

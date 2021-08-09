@@ -1,0 +1,19 @@
+qst_1200020010.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1072 bytes
+
+MainText
+Group 0
+name010 - ガロア
+text010 - エネミーには、それぞれ“弱点属性”ってのがある！
+text020_TEC - テクニックを使って、弱点属性に合わせた攻撃をしてみるんだ！
+text020_PA1 - ……んだが、まだ属性の付いている武器は持っていないか。
+text020_PA2 - 今は真っ向勝負で行くしかないな。
+
+Group 1
+name010 - Garoa
+text010 - All enemies have an Elemental Weakness!
+text020_TEC - Try hitting them with Techniques that exploit their weaknesses!
+text020_PA1 - ...Seems you don't have a weapon with the right element yet.
+text020_PA2 - You'll just have to hit them hard with what you've got.
+
+

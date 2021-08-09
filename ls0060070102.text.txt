@@ -1,0 +1,21 @@
+ls0060070102.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 864 bytes
+
+Required
+Group 0
+Title - チームメンバーとの共闘・Ⅱ
+Summary - ひとり以上のチームメンバーと<br>パーティーを組んで、<br>緊急クエストをクリアする。
+
+Group 1
+Title - Fighting With Alliance Members II
+Summary - Form a party with one or more alliance members<br>and clear an urgent quest.
+
+
+SubObjectives
+Group 0
+text0101 - チームメンバーと緊急クエストをクリアする
+
+Group 1
+text0101 - Clear an urgent quest with an alliance member
+
+

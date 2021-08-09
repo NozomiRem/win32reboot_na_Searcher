@@ -1,0 +1,13 @@
+tut_006399.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 928 bytes
+
+TutorialText
+Group 0
+Title - かんたん操作
+text0001 - “かんたん操作”とは、<br>押すだけで、プレイヤーとエネミーの距離に適した<br>アクションが、自動的に発動する機能です。<br><br>メインパレット・サブパレットにセットすることで<br>使用できます。
+
+Group 1
+Title - Simplified Movement
+text0001 - Simplified Movement automatically moves you to the correct distance in order to<br>execute actions with the press of a button.<br><br>It can be used by setting it to your Main or Sub-Palette.
+
+

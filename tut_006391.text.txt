@@ -1,0 +1,13 @@
+tut_006391.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 752 bytes
+
+TutorialText
+Group 0
+Title - ハンター
+text0001 - <yellow>マッシブハンター：<c><br>　一定時間、受けるダメージを低減し、<br>　敵による吹き飛ばし攻撃などを<br>　無効化するクラススキル<br>
+
+Group 1
+Title - Hunters
+text0001 - <yellow>Hunter Physique<c><br>is a Class Skill that reduces the damage<br>you take for a set time, and negate<br>enemies' knockback attacks.
+
+

@@ -1,0 +1,15 @@
+tut_006299.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1408 bytes
+
+TutorialText
+Group 0
+Title - エステ
+text0001 - “エステ”ではキャラクターの体型、髪型、色や質感、コスチューム、<br>アクセサリーなどを自由に調整できます。<br><br>編集項目の一部には、“エステ利用パス”や、<br>“N-カラーチェンジパス”などの専用アイテムが必要です。
+text0002 - 有料の編集項目は、プレミアムセット効果中に限り<br>一定時間内であれば、何度でも調整をやりなおせます。
+
+Group 1
+Title - Salon
+text0001 - The Salon allows you to change your character's body type, hairstyle, colors,<br>textures, outfits, and accessories.<br><br>Some options will require special items, such as a "Salon Pass" or <br>"N-Color-Change Pass", in order to change them.
+text0002 - Paid customization options can be adjusted as many times as you like, as long<br>as you have an active Premium Set.
+
+

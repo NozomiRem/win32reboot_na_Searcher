@@ -1,0 +1,13 @@
+np_npc_7655_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 368 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - どうもです。
+HELLO_BYE - 失礼します。
+
+Group 1
+HELLO_ALLDAYS - Well met.
+HELLO_BYE - Until next time.
+
+

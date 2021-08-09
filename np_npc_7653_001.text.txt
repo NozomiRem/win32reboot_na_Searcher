@@ -1,0 +1,15 @@
+np_npc_7653_001.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 576 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - なんと声をかけたらいいか……。<br>お察ししますわ。
+HELLO_ALLDAYS_002 - ご機嫌いかがですか。
+HELLO_BYE - お気をつけて。
+
+Group 1
+HELLO_ALLDAYS - I'm not sure what to say...<br>I'm truly sorry.
+HELLO_ALLDAYS_002 - How are you?
+HELLO_BYE - Take care.
+
+

@@ -1,0 +1,13 @@
+tut_006222.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1424 bytes
+
+TutorialText
+Group 0
+Title - アイテムパック
+text0001 - “アイテム”のメニュー内にある“アイテムパック”では、<br>持っているアイテムの使用や確認、整理ができます。<br>また、“アイテム詳細”のウィンドウで<br>そのアイテムの使用方法や性能などが確認できます。<br><br>アイテムメニュー上部の“アイテムパック”にカーソルを合わせて、<br><swguidetype T_ItemWarehouse>で、表示内容を各倉庫に切り替えることができます。
+
+Group 1
+Title - The Inventory
+text0001 - The inventory, found in the Item Menu, is where you can check, organize,<br>and use any items you hold. You can check how to use the item and its<br>properties in the Item Details window.<br><br>Switch the display content for each inventory by moving the cursor to<br>"Inventory" at the top of the Item Menu and pressing <swguidetype T_ItemWarehouse>.
+
+

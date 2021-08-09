@@ -1,0 +1,13 @@
+tut_006253.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1248 bytes
+
+TutorialText
+Group 0
+Title - 長杖（ロッド）
+text0001 - “長杖（ロッド）”は様々な属性のテクニックを使用し、<br>エネミーの弱点属性で攻撃しやすい遠距離武器です。<br><br><yellow>属性ごとに特徴が違う<c>テクニックを使いこなすことで、<br>さらに効率よくダメージを与えられます。<br>詳しくは、<yellow>“テクニック”<c>の項目をご覧ください。
+
+Group 1
+Title - Rods
+text0001 - Rods can use Techniques of various elements, allowing them to easily exploit<br>enemies' elemental weaknesses from a distance. By mastering the <br><yellow>various traits<c> of each elemental Technique, you can deal damage even <br>more effectively.<br>Note: Please see <yellow>"Techniques"<c> for more details.
+
+

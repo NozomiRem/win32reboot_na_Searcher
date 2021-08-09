@@ -1,0 +1,29 @@
+ss0030719651.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1264 bytes
+
+Required
+Group 0
+Title - ファイターの基礎訓練
+Summary - アークスの教導官ダチュアから、<br>ファイタークラスの戦いかたを教わる。
+
+Group 1
+Title - Fighter Basic Training
+Summary - Learn Fighter class fighting techniques from<br>ARKS Instructor Da Chua.
+
+
+SubObjectives
+Group 0
+Objective311 - メインクラスをファイターにする
+Objective321 - マグナス山に向かう
+Objective322 - リミットブレイクを使用する
+Objective323 - ファイターでマグナス山のエネミーを倒す
+Objective331 - ダチュアに報告する
+
+Group 1
+Objective311 - Make Fighter your Main Class
+Objective321 - Head to Mt Magnus
+Objective322 - Use Overload
+Objective323 - Defeat the Mt Magnus enemies as Fighter
+Objective331 - Report in to Da Chua
+
+

@@ -1,0 +1,33 @@
+qst_1200010012.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1392 bytes
+
+MainText
+Group 0
+name010 - ラル
+text010 - 問題なさそうだね。
+text020 - 今度は、ロックオンするターゲットを切り替えてみて。<br>訓練標的を追加するから。
+
+Group 1
+name010 - Ral
+text010 - You made it look easy.
+text020 - Next, try switching targets to lock on.<br>I will add some targets.
+
+
+GuideText
+Group 0
+Text_Lock - ロックオン：
+Button_Lock - <%LockOn>
+Text_Lock2 - ロックオン切り替え：
+Button_Lock2_key - <%LockOn>でロックオンを外し
+Button_Lock2_key2 - 別の標的に再度<%LockOn>
+Button_Lock2_pad - ロックオン中に<pict 4space><pict Alpha_rs>
+
+Group 1
+Text_Lock - Lock On: 
+Button_Lock - <%LockOn>
+Text_Lock2 - Change Lock-on Target:
+Button_Lock2_key - <%LockOn> to unlock
+Button_Lock2_key2 - <%LockOn> again to a target
+Button_Lock2_pad - <pict Alpha_rs> during Lock-on
+
+

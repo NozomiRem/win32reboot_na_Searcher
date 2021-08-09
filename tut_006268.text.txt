@@ -1,0 +1,15 @@
+tut_006268.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1248 bytes
+
+TutorialText
+Group 0
+Title - リューカーデバイス
+text0001 - “リューカーデバイス”は、各地に設置された多機能端末です。<br><br>アクセスすると、“テレポート”や“フードスタンド”、<br>“倉庫”といった各種機能が利用できます。
+text0002 - 一度アクセスしたことがあるリューカーデバイスは、<br>ワールドマップから選ぶと、すぐに移動できます。
+
+Group 1
+Title - Ryuker Devices
+text0001 - Ryuker Devices are multipurpose terminals that are placed in every area.<br><br>Accessing them will allow you to teleport, use the Food Stand, or open your<br>Storage, among other things.
+text0002 - You can instantly move to a Ryuker Device you have previously accessed by<br>selecting it on the World Map.
+
+

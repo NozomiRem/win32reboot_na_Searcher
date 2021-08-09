@@ -1,0 +1,1908 @@
+ui_mainmode_reb.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 177904 bytes
+
+PlayerDeadMenu
+Group 0
+Title_DeadMenu - 戦闘不能メニュー
+Label_Return - キャンプシップへ戻る
+Label_Revival - この場で復活する
+Title_Return - キャンプシップへ戻る
+Message_Return - キャンプシップへ戻ります。<br>よろしいですか？
+Message_Return_NoReward - キャンプシップへ戻ります。<br>よろしいですか？<br><br><red>※一度キャンプシップに戻ると、<br>　報酬を受け取ることができなくなります。<c>
+Title_Revival - この場で復活する
+Message_Revival - この場で復活します。<br>よろしいですか？
+Message_Revival_NoReward - この場で復活します。<br>よろしいですか？<br><br><red>※一度復活すると、<br>　報酬を受け取ることができなくなります。<c>
+Message_ReturnFailure - 現在、キャンプシップへ戻ることはできません。 
+Message_RevivalFailure - 現在、復活することはできません。
+Label_Failure - クエストリタイア
+Message_Failure - クエストをリタイアします。<br>よろしいですか？
+Label_FailurePartyExit - クエストリタイア（パーティー脱退）
+Message_FailurePartyExit - クエストをリタイアして<br>パーティーを脱退します。<br>よろしいですか？
+Label_Chat - チャットする
+Label_UseHalf - ハーフドールを使用して復活
+Title_HalfDollUse - ハーフドールの使用
+Message_HalfDollUse - ハーフドールを使用して復活します。<br>よろしいですか？<br><br><yellow>※ハーフドールは、残り$(1)回使用することができます。<br>　使用回数は、キャンプシップに戻ることで回復します。<c><br>（所持数：$(0)）
+Message_HalfDollNotRemain - ハーフドール使用回数が$(1)回のため、復活できません。<br><br><yellow>※キャンプシップに戻ることで、$(2)回まで回復します。<c><br>（所持数：$(0)）
+Message_HalfDollNotHave - ハーフドールを持っていないため、復活できません。<br><br><yellow>※ハーフドールは、所持していることで<br>　$(0)回まで使用することができます。<br>　使用回数は、キャンプシップに戻ることで回復します。<c>
+Message_CanNowUseHalfDoll - ハーフドールの使用回数が回復しました。
+Message_Revive_count - 10秒後に自動で復活します。
+Message_Revive_count_5 - 5秒後に自動で復活します。
+Message_Revive_count_Time - $(0)秒後に自動で復活します。
+Title_RetryConform - リトライメニュー
+Label_Retry - リトライする
+Title_RetrySelect - リトライ選択
+Message_Retry - クエストをリトライしますか？<br><br><red>※リトライ後は、クエスト開始前の状態に戻ります。<c>
+FastTravelTerminal_Revival - リューカーデバイス前に戻る
+FastTravelTerminal_Revival_NoReward - リューカーデバイス前に戻ります<br>よろしいですか？
+FastTravelTerminal_Revival_NoReward_name - $(0)の<br>リューカーデバイス前に戻ります<br>よろしいですか？
+Central_Revival - セントラルシティに戻る
+Central_Revival_NoReward - セントラルシティに戻ります<br>よろしいですか？
+Emergency_Revival - この場で復活　
+Emergency_Revival_Count - $(0)秒後
+Prologue_Revival_message - このクエスト中は戦闘不能時に自動的に復活します。
+
+Group 1
+Title_DeadMenu - INCAPACITATION MENU
+Label_Return - Return to Gateway Ship
+Label_Revival - Revive at current location
+Title_Return - RETURN TO GATEWAY SHIP
+Message_Return - You are about to return to the Gateway Ship.<br>Are you sure you wish to proceed?
+Message_Return_NoReward - You are about to return to the Gateway Ship.<br>Are you sure you wish to proceed?<br><br><red>Note: Once you return to the Gateway Ship, you will<br>no longer be able to receive rewards.<c>
+Title_Revival - REVIVE AT THE CURRENT LOCATION
+Message_Revival - Are you sure you want to be <br>revived at this location?
+Message_Revival_NoReward - Are you sure you want to be <br>revived at this location?<br><br><red>Note: Once revived, you will no <br>longer be able to receive rewards. <c>
+Message_ReturnFailure - You are currently unable to return to the Gateway Ship. 
+Message_RevivalFailure - You can't be revived right now.
+Label_Failure - Retire from Quest
+Message_Failure - You are about to retire from your current quest.<br>Are you sure you wish to proceed?
+Label_FailurePartyExit - Retire from Quest (Leave Party)
+Message_FailurePartyExit - You are about to retire from your current<br>quest and leave your party. Are you sure<br>you wish to proceed?
+Label_Chat - Chat
+Label_UseHalf - Use Half Scape Doll and Revive
+Title_HalfDollUse - USE HALF SCAPE DOLL
+Message_HalfDollUse - You are about to use a Half Scape Doll and revive.<br>Are you sure you wish to proceed?<br><br><yellow>Note: You currently have $(1) Half Scape Doll<br>uses remaining.<br>You can reset your remaining uses by returning<br>to the Gateway Ship.<c><br>(You currently have: $(0) Uses)
+Message_HalfDollNotRemain - You currently can't revive because you have<br>$(1) Half Scape Doll uses remaining.<br><br><yellow>You can reset your remaining uses to the<br>maximum of $(2) by returning to the Gateway Ship.<c><br>(You currently have: $(0) Uses)
+Message_HalfDollNotHave - You currently can't revive because you don't<br>have a Half Scape Doll.<br><br><yellow>You can use Half Scape Dolls<br>in your possession up to $(0) times.<br>Reset your remaining uses by returning<br>to the Gateway Ship.<c>
+Message_CanNowUseHalfDoll - Your Half Scape Doll remaining uses have been reset.
+Message_Revive_count - You will automatically revive in 10 seconds.
+Message_Revive_count_5 - You will automatically revive in 5 seconds.
+Message_Revive_count_Time - You will automatically revive in $(0) second(s).
+Title_RetryConform - Retry Menu
+Label_Retry - Retry
+Title_RetrySelect - Select Retry
+Message_Retry - Are you sure you want to retry the quest?<br><br><red>(Note: If you retry, you will return to the <br>beginning of the quest.)<c>
+FastTravelTerminal_Revival - Return to Ryuker Device
+FastTravelTerminal_Revival_NoReward - You will return to the Ryuker Device.<br>Are you sure you wish to proceed?
+FastTravelTerminal_Revival_NoReward_name - You will return to $(0)'s Ryuker Device.<br>Are you sure you wish to proceed?
+Central_Revival - Return to Central City
+Central_Revival_NoReward - You will return to Central City.<br>Are you sure you wish to proceed?
+Emergency_Revival - Revive at current location 
+Emergency_Revival_Count - $(0) seconds
+Prologue_Revival_message - You will automatically revive if you are incapacitated on this quest.
+
+
+MainMenu
+Group 0
+Non_Text - テキスト表示なし
+Menu_Main - メインメニュー
+Menu_Sub - サブメニュー
+Menu_Money - AC・SGメニュー
+MainMenu_Equip_WeaponAvatar - <pict ba_camouflage><pict 4space>武器迷彩
+MainMenu_ACMenu_MyShop - <pict ba_task><pict 4space>マイショップ
+MainMenu_World_WorldMap - <pict ba_worldmap><pict 4space>ワールドマップ
+MainMenu_World_MessagePack - <pict ba_mpack><pict 4space>メッセージパック
+MainMenu_Quest_Rebops - <pict ba_task><pict 4space>タスク
+Category_Item - アイテム
+Category_Equip - 装備/サブパレット
+Category_SubPallet - サブパレット
+Category_Task - タスク / クエスト
+Category_WorldMap - ワールド
+Category_LogOut - ログアウト
+Category_Communication - コミュニケーション
+Category_Personal - パーソナル
+Category_Chat - チャット
+Category_Info - インフォメーション
+Category_System - システム
+Category_Scratch - スクラッチを引く
+Category_ACShop - <pict ba_acshop><pict 4space>AC・SGショップ<pict 4space><pict Arcscash><pict StarGem>
+Category_SGShop - <pict ba_sgshop><pict 4space>SGショップ<pict 4space><pict StarGem>
+Category_MyShop - マイショップ
+Category_RecycleShop - <pict ba_recycle><pict 4space>アイテムリサイクル
+Category_BuyHistory - <pict ba_history><pict 4space>購入履歴/有効期限
+Category_Shop - ショップ
+Popup_ItemPack - <pict ba_task><pict 4space>アイテムパック
+Popup_FriendList - <pict ba_friend><pict 4space>フレンドリスト
+Popup_PartyCommand - <pict ba_partycom><pict 4space>パーティーコマンド
+Popup_TeamCommand - <pict ba_guild><pict 4space>チームコマンド
+Popup_Mail - <pict ba_mail><pict 4space>メール
+Popup_ArksSearch - <pict ba_search><pict 4space>アークスサーチ
+Popup_CommuHistory - <pict ba_commu><pict 4space>コミュニケーション履歴
+Popup_NearCharacter - <pict ba_surround><pict 4space>周囲のキャラクター
+Popup_CharacterData - <pict ba_charainfo><pict 4space>キャラクター情報
+Popup_Honor - <pict ba_title><pict 4space>称号
+Popup_ArksCard - <pict ba_card><pict 4space>アークスカード
+Popup_Honor_ArksCard - 称号/アークスカード
+Popup_PlayLog - <pict ba_performance><pict 4space>プレイ実績
+Popup_GroupChat - <pict ba_gchat><pict 4space>グループチャット設定
+Popup_ShortcutWord - <pict ba_shortcut><pict 4space>ショートカットワード設定
+Popup_AutoWord - <pict ba_autoword><pict 4space>オートワード設定
+Popup_SymbolArt - <pict ba_symbol><pict 4space>シンボルアート
+Popup_Information - <pict ba_info><pict 4space>インフォメーション
+Popup_Help - <pict ba_help><pict 4space>ヘルプ
+Popup_Option - <pict ba_option><pict 4space>オプション
+Popup_CampaignItem - <pict ba_get><pict 4space>キャンペーンアイテム受け取り
+Popup_ItemCode - <pict ba_code><pict 4space>アイテムコード
+Popup_ControlSetting - <pict ba_conf><pict 4space>操作設定
+Popup_MagMenu - <pict ba_mag><pict 4space>マグ
+Popup_Stamp - <pict ba_stamp><pict 4space>スタンプ
+Popup_BuyScratch - <pict ba_scratch><pict 4space>スクラッチを引く<pict 4space><pict Arcscash>
+Popup_ScratchStorage - <pict ba_scwa><pict 4space>スクラッチ倉庫
+Popup_QuestInfo - <pict ba_questinfo><pict 4space>クエスト情報
+Popup_Equip_Weapon - <pict ba_weapon><pict 4space>武器装備
+Popup_Equip_Guard - <pict ba_unit><pict 4space>防具装備
+Popup_Equip_Subpalette - <pict ba_subp><pict 4space>サブパレット
+Popup_Equip_Fashion - <pict ba_cos><pict 4space>ファッション編集
+Popup_QuestMenue - クエストメニュー
+Operation_MenuCommon - メニュー配下のメニューガイドのコモン設定です。
+MenuEquipmentOpen - 選択中のアイテムを装備する
+MainMenu_Equip_WeaponPosition - <pict ba_positioning><pict 4space>武器納刀位置調整
+MainMenu_Loguin_Bonus - <pict icon_login_bonus>ログインボーナス
+Menu_Matching_Blockade - 緊急クエストのマッチング中は使用できません。
+
+Group 1
+Non_Text - No Display Text
+Menu_Main - Main Menu
+Menu_Sub - Sub Menu
+Menu_Money - AC/SG Menu
+MainMenu_Equip_WeaponAvatar - <pict ba_camouflage><pict 4space>Weapon Camo
+MainMenu_ACMenu_MyShop - <pict ba_task><pict 4space>Personal Shop
+MainMenu_World_WorldMap - <pict ba_worldmap><pict 4space>World Map
+MainMenu_World_MessagePack - <pict ba_mpack><pict 4space>Datapods
+MainMenu_Quest_Rebops - <pict ba_task><pict 4space>Tasks 
+Category_Item - Items
+Category_Equip - Gear/Sub-Palette
+Category_SubPallet - Sub-Palette
+Category_Task - Tasks/Quests
+Category_WorldMap - World
+Category_LogOut - Log Out
+Category_Communication - Communications
+Category_Personal - Personal
+Category_Chat - Chat
+Category_Info - Information
+Category_System - System
+Category_Scratch - Play Scratch Tickets
+Category_ACShop - <pict ba_acshop><pict 4space>AC/SG Shop <pict Arcscash><pict StarGem>
+Category_SGShop - <pict ba_sgshop><pict 4space>SG Shop<pict StarGem>
+Category_MyShop - Personal Shop
+Category_RecycleShop - <pict ba_recycle><pict 4space>Item Recycle
+Category_BuyHistory - <pict ba_history><pict 4space>Purchase History/Expiration
+Category_Shop - Shop
+Popup_ItemPack - <pict ba_task><pict 4space>Inventory
+Popup_FriendList - <pict ba_friend><pict 4space>Friend List 
+Popup_PartyCommand - <pict ba_partycom><pict 4space>Party Commands
+Popup_TeamCommand - <pict ba_guild><pict 4space>Alliance Commands
+Popup_Mail - <pict ba_mail><pict 4space>Mail
+Popup_ArksSearch - <pict ba_search><pict 4space>ARKS Search
+Popup_CommuHistory - <pict ba_commu><pict 4space>Communications Log
+Popup_NearCharacter - <pict ba_surround><pict 4space>Nearby Characters
+Popup_CharacterData - <pict ba_charainfo><pict 4space>Character Info
+Popup_Honor - <pict ba_title><pict 4space>Title 
+Popup_ArksCard - <pict ba_card><pict 4space>ARKS ID
+Popup_Honor_ArksCard - Titles/ARKS ID
+Popup_PlayLog - <pict ba_performance><pict 4space>Game Achievements
+Popup_GroupChat - <pict ba_gchat><pict 4space>Group Chat Settings
+Popup_ShortcutWord - <pict ba_shortcut><pict 4space>Chat Shortcut Settings
+Popup_AutoWord - <pict ba_autoword><pict 4space>Auto Chat Settings
+Popup_SymbolArt - <pict ba_symbol><pict 4space>Symbol Art
+Popup_Information - <pict ba_info><pict 4space>Notifications
+Popup_Help - <pict ba_help><pict 4space>Help
+Popup_Option - <pict ba_option><pict 4space>Options
+Popup_CampaignItem - <pict ba_get><pict 4space>Get Campaign Items
+Popup_ItemCode - <pict ba_code><pict 4space>Item Codes
+Popup_ControlSetting - <pict ba_conf><pict 4space>Control Settings
+Popup_MagMenu - <pict ba_mag><pict 4space>Mags
+Popup_Stamp - <pict ba_stamp><pict 4space>Stamps
+Popup_BuyScratch - <pict ba_scratch><pict 4space>Play Scratch Tickets <pict Arcscash>
+Popup_ScratchStorage - <pict ba_scwa><pict 4space>Scratch Ticket Storage
+Popup_QuestInfo - <pict ba_questinfo><pict 4space>Quest Info
+Popup_Equip_Weapon - <pict ba_weapon><pict 4space>Equip Weapons
+Popup_Equip_Guard - <pict ba_unit><pict 4space>Equip Armor
+Popup_Equip_Subpalette - <pict ba_subp><pict 4space>Sub-Palette
+Popup_Equip_Fashion - <pict ba_cos><pict 4space>Customize Looks
+Popup_QuestMenue - Quest Menu
+Operation_MenuCommon - Common Settings under Menu, Menu Guide.
+MenuEquipmentOpen - Equip selected item
+MainMenu_Equip_WeaponPosition - <pict ba_positioning><pict 4space>Adjust Sheathe Position
+MainMenu_Loguin_Bonus - <pict icon_login_bonus>Login Bonus
+Menu_Matching_Blockade - Cannot be used during Ugent Quest matchmaking.
+
+
+SkillExplanation
+Group 0
+HealTank - 自分のHPを最大値の50％回復する。
+RecoveryMoonAtomizer - 周囲の戦闘不能状態のプレイヤーを復活させる。
+HunterWarCry - <yellow>【アクティブスキル】<c><br>一定時間、周囲のエネミーの注意を<br>引きつける。さらに、攻撃を当てた<br>エネミーから狙われやすくなる。<br><yellow>※メインクラス専用<c>
+HunterIronWill - 残りHP以上のダメージを受けたときに<br>HPが１残る。<br>発動時に無敵時間が発生する。<br><yellow>※メインクラス専用<c>
+HunterMassiveHunter - <yellow>【アクティブスキル】<c><br>一定時間、受けるダメージを軽減し、<br>エネミーの攻撃による<br>打ち上げや吹き飛ばしを防ぐ。
+HunterParryingPa - PA発動から、<br>一定時間以内にエネミーの攻撃を受けると、<br>そのPAの威力が上昇する。<br><yellow>※ハンター武器専用<c>
+HunterSwordGuardCounterPlus - ソードガードカウンター発動時に、<br>通常攻撃を行うことで、<br>さらに追加でカウンターが発生する。
+HunterSwordNormalAttackPlus - ソードによる通常攻撃段数が、<br>最大５段階に増加する。
+HunterSwordAttackExtra - 通常攻撃段数が、最大５段階に増加する。<br><yellow>※ソード専用<c>
+HunterWeakHitAdvance - 仮テキスト
+HunterParryingCritical - 仮テキスト
+HunterCounterBoost - 仮テキスト
+HunterJustGuardDownBoost - 仮テキスト
+HunterSwordGuardCounter - 武器アクションによる<br>ジャストガード成功時に、<br>自動的にカウンターが発生する。<br><yellow>※ソード専用<c>
+HunterFlashGuard - 受けるダメージを軽減する。
+HunterAllGuard - 武器アクションによる<br>ガードが全方向に対応する。<br><yellow>※ハンター武器専用<c>
+HunterParryingPPHeal - ハンターアーツアヴェンジ発動時に、<br>PPが回復する。
+HunterParryingPaJustGuard - PA発動時に、<br>エネミーからの攻撃を無効化する。<br><yellow>※ハンター武器専用<c>
+HunterSlowFallCharge - PAチャージ中、落下速度が緩やかになる。<br><yellow>※ハンター武器専用<c>
+HunterTecArtsSkipAttack - 同一武器で、異なるPAを連続で使用した後の<br>通常攻撃が４段目に変化する。<br>最大段数が３段階以下の場合は、<br>最終段に変化する。<br><yellow>※ハンター武器専用<c>
+HunterSameArtsSkipAttack - 同一武器で、同じPAを連続で使用した後の<br>通常攻撃が３段目に変化する。<br><yellow>※ハンター武器専用<c>
+HunterPartisanVolgraptor - 武器アクションボタンを長押しすることで、<br>ダメージを蓄積するフォトンの槍を放つ。<br>フォトンの槍は、一定時間が経過するか、<br>一定ダメージを与えると爆発する。<br><yellow>※パルチザン専用<c>
+HunterPartisanAssaultCharge - PA発動後に、特定のタイミングで、<br>武器アクションボタンを押すことで、<br>チャージ可能な突き攻撃を行う。<br><yellow>※パルチザン専用<c>
+HunterPartisanParryingAssaultCharge - ハンターアーツアヴェンジ発動時に、<br>そのPAでアサルトチャージを行うと、<br>その威力が上昇する。
+HunterWLanceAttackExtra - 通常攻撃段数が、最大４段階に増加する。<br><yellow>※ワイヤードランス専用<c>
+HunterWLanceWAPlus - 武器アクション発動時に、<br>方向入力を行うことで、挙動が変化する。<br><yellow>※ワイヤードランス専用<c>
+HunterWLanceWAGuardPointPlus - 武器アクション発動時に、<br>エネミーからの攻撃を無効化する。<br><yellow>※ワイヤードランス専用<c>
+RangerGaugeShotGun - <yellow>【アクティブスキル】<c><br>攻撃により、<br>蓄積したゲージを消費することで、<br>特殊な近距離散弾を発射する。<br><yellow>※アサルトライフル専用<c>
+RangerGaugeShotGunAway - スプレッドショット発動時に、<br>無敵時間が発生する。<br>また、方向入力時の退避距離が延びる。
+RangerWeakBullet - <yellow>【アクティブスキル】<c><br>命中した部位に与えるダメージが<br>増加する弾丸を発射する。<br><yellow>※メインクラス／アサルトライフル専用<c>
+RangerWeakBulletParse - ウィークバレットが命中した部位に、<br>攻撃を一定回数当てることで、<br>与えるダメージが増加し、<br>スキルの効果時間が延長される。<br><yellow>※メインクラス専用<c>
+RangerWeaponActionAvoid - 武器アクション発動時に、<br>無敵時間が発生する。<br><yellow>※アサルトライフル専用<c>
+RangerGrenadeTrap - 武器アクションボタンを長押しすることで、<br>グレネードによる攻撃を行う。<br>同時に方向入力を行うと投擲し、<br>行わないとその場に設置する。<br><yellow>※アサルトライフル専用<c>
+RangerRangeBonus - 仮テキスト
+RangerDownChain - 仮テキスト
+RangerWeakHitAdvance - 仮テキスト
+RangerWeakBlastBonus - 仮テキスト
+RangerFallSlowAttack - 通常攻撃中、落下速度が緩やかになる。<br><yellow>※レンジャー武器専用<c>
+RangerFallSlowCharge - PAチャージ中、落下速度が緩やかになる。<br><yellow>※レンジャー武器専用<c>
+RangerClusterBombRecastReduce - 武器アクション発動後に、<br>再使用が可能になるまでの時間を短縮する。<br><yellow>※ランチャー専用<c>
+RangerLauncherChargeConvergence - チャージ状態で通常攻撃を行うときに、<br>前に方向入力することで、<br>集弾性が向上する。<br><yellow>※ランチャー専用<c>
+RangerConditionBadGuard - 状態異常になりにくくなる。
+RangerConditionBadEase - 状態異常の効果時間を短縮する。
+ForcePhotonFlare - <yellow>【アクティブスキル】<c><br>一定時間、最大PPが増加し、<br>武器の威力が上昇する。<br><yellow>※メインクラス／フォース武器専用<c>
+ForcePpConvert - <yellow>【アクティブスキル】<c><br>発動時に、最大HPを基準とした<br>一定割合のHPを消費するかわりに、<br>一定時間、PPの自然回復量が増加する。
+ForcePpConvertReCharge - PPコンバートのストック数が増加する。
+ForceChargePpRevival - テクニックチャージ中にも、<br>PPが自然回復するようになる。<br><yellow>※フォース武器専用<c>
+ForceChargeEscape - テクニックチャージ中に、武器アクションや<br>ステップを行っても、チャージ状態を<br>維持し、次の同一テクニック使用時に<br>PPを消費せず、チャージ時間も短縮される。<br><yellow>※ロッド専用<c>
+ForceHeal - レスタサイン使用時に、<br>周囲のキャラクターも回復する。<br><yellow>※メインクラス専用<c>
+ForceOverFlow - 仮テキスト
+ForcePhotonFlareTecShortCharge - フォトンフレアの発動中に、<br>テクニックの威力が低下するかわりに、<br>チャージ時間を短縮する。<br><yellow>※メインクラス／フォース武器専用<c>
+ForcePhotonFlareAfterBurst - 仮テキスト
+ForcePhotonFlareBoost - 仮テキスト
+ForceRodCounterTechnic - 武器アクションによるガード、<br>またはステップでの回避成功時に、<br>テクニックを使用すると、<br>無敵時間が発生する。<br><yellow>※ロッド専用<c>
+ForcePhotonFlarePpRefrain - フォトンフレア終了時に、<br>フォトンフレア中のPP消費量に応じて<br>PPが回復する。<br><yellow>※メインクラス専用<c>
+ForceNightmare - 自身の周囲でエネミーを<br>ダウンさせた、または撃破したときに、<br>PPが回復する。
+ForceReflectCounterShot - 武器アクションによる<br>ガード成功後のテクニック発動時に、<br>同じ属性の法撃弾による攻撃を追加する。<br><yellow>※ロッド専用<c>
+ForceRodCounterTecBonus - ロッド装備中、<br>ステップでの回避、<br>または武器アクションでのガード成功時、<br>テクニックを使用すると<br>無敵時間が発生する。
+ForceRodAbsorption - テクニック発動後に、<br>攻撃や回避を行わずにいると、<br>PPが回復する。<br><yellow>※ロッド専用<c>
+ForceTalisConcentrate - PA発動後のタリス展開時に、<br>展開時間が減少するかわりに、<br>テクニックの威力が上昇し、<br>消費PPが減少する。
+ForceTalisQuickMarkShot - 武器アクション発動時に、<br>方向入力を行わないことで、<br>一定時間、断続的に、<br>複数のエネミーを攻撃する。<br><yellow>※タリス専用<c>
+ForceTalisSetRevok - 武器アクションボタンを長押しすることで、<br>PAによるタリスの展開状態を解除する。<br><yellow>※タリス専用<c>
+ForcePpRestorate - PPの自然回復量が増加する。
+ForceSlowFallCharge - テクニックチャージ中、<br>落下速度が緩やかになる。<br><yellow>※フォース武器専用<c>
+ForceBartaBlot - チャージしていない氷属性テクニックを、<br>一定回数エネミーに当てることで、<br>氷の紋章を刻む。そこに、チャージした<br>同属性のテクニックを当てると、<br>紋章が起爆して、追加ダメージを与える。
+ForceZondeClad - チャージしていない雷属性テクニックを、<br>一定回数エネミーに当てることで、自身が<br>帯電状態になる。さらに、チャージした<br>同属性のテクニックを使用すると、帯電が<br>解除され、そのテクニックを強化する。
+FighterLimitBreak - <yellow>【アクティブスキル】<c><br>一定時間、<br>受けるダメージが増加するかわりに、<br>武器の威力が上昇する。<br><yellow>※メインクラス／ファイター武器専用<c>
+FighterLimitBreakPhotonCharge - リミットブレイク終了時に、<br>PPが回復する。<br><yellow>このスキルはメインクラスのみ適用される。
+FighterLimitBreakInsurance - リミットブレイク中に、<br>残りHP以上のダメージを受けたとき、<br>リミットブレイクが終了し、HPが１残る。<br>さらに、発動時に無敵時間が発生する。<br><yellow>※メインクラス専用<c>
+KnuckleDodgeHeatRevenge - 武器アクションによる<br>回避成功後の通常攻撃が、<br>５段目に変化する。<br><yellow>※ナックル専用<c>
+FighterKnuckleSwayCounterPlus - ナックルスウェーカウンター発動時に、<br>武器アクションを行うことで、<br>さらに追加でカウンターが発生する。
+FighterKnuckleNormalAttackPlus - 通常攻撃段数が、最大５段階に増加する。<br><yellow>※ナックル専用<c>
+FighterPhotonFlood - 仮テキスト
+FighterUnFlatBonus - 仮テキスト
+FighterTecArtsJABonus - 仮テキスト
+FighterPPSlayer - 仮テキスト
+FighterKnuckleSwayCounter - 武器アクションによる回避成功時に、<br>自動的にカウンターが発生する。<br><yellow>※ナックル専用<c>
+FighterChaseAdvance - ダウン中のエネミーに、<br>与えるダメージが増加する。
+FighterChaseAdvancePPRecovery - ダウン中のエネミーを、<br>攻撃したときのPP回復量が増加する。
+FighterTecArtsSkipAttack - 同一武器で、異なるPAを連続で使用した後の<br>通常攻撃が４段目に変化する。<br>最大段数が３段階以下の場合は、<br>最終段に変化する。<br><yellow>※ファイター武器専用<c>
+FighterSameArtsSkipAttack - 同一武器で、同じPAを連続で使用した後の<br>通常攻撃が３段目に変化する。<br><yellow>※ファイター武器専用<c>
+FighterSkipArts - 方向入力を行わずにPAを使用すると、<br>そのPAの後半部分から発動する。<br><yellow>※ファイター武器専用<c>
+FighterTDAnotherDerive - PA発動後に、特定のタイミングで、<br>通常攻撃ボタンを押すことで、<br>エネミーに突撃を行う。<br><yellow>※ツインダガー専用<c>
+FighterTDSpinCounter - 武器アクションによるガード成功時に、<br>通常攻撃を行うことで、<br>カウンターが発生する。<br><yellow>※ツインダガー専用<c>
+FighterTDAttackExtra - 通常攻撃段数が、最大４段階に増加する。<br><yellow>※ツインダガー専用<c>
+FighterDSDodgeWindCounter - 武器アクションによるガード成功時に、<br>通常攻撃を行うことで、<br>カウンターが発生する。<br><yellow>※ダブルセイバー専用<c>
+FighterDSDodgeWindWACounter - 武器アクションによるガード成功時に、<br>さらに武器アクションを行うことで、<br>特殊なカウンターが発生する。<br><yellow>※ダブルセイバー専用<c>
+FighterDSDeadlyArcher - ２段階目のカマイタチをまとった状態で、<br>武器アクションボタンを長押しすることで、<br>すべてのカマイタチをエネルギーに換えて、<br>エネミーに武器を投擲する。<br><yellow>※ダブルセイバー専用<c>
+FighterDSEnhanceAttack - ２段階目のカマイタチをまとった状態で、<br>通常攻撃ボタンを長押しすることで、<br>すべてのカマイタチをエネルギーに換えて、<br>つむじ風を発生させる。<br><yellow>※ダブルセイバー専用<c>
+GunnerChainTrigger - チャージPA発動後に、<br>攻撃によって“チェイン数”を増加させ、<br>再度チャージPAを当てることで、強力な<br>“チェインフィニッシュ”が発生する。<br><yellow>※メインクラス／ツインマシンガン専用<c>
+GunnerChainFinish - チェインフィニッシュ発生後に、<br>チェイントリガー中のチェイン数に応じて、<br>再発動が可能になるまでの<br>時間が短縮される。<br><yellow>このスキルはメインクラスのみ適用される。
+GunnerChainFinishTimeBonus - チェインフィニッシュ発動後に、<br>チェイン数に応じて、チェイントリガーの<br>再使用が可能になるまでの時間を短縮する。<br><yellow>※メインクラス専用<c>
+GunnerSRollArts - 武器アクション発動中に、<br>PAボタンを押すことで、PPを消費して、<br>通常よりも威力の高い攻撃を行う。<br><yellow>※ツインマシンガン専用<c>
+GunnerCounterPABurst - 武器アクションによる回避成功時に、<br>次に使用するPAの<br>PP消費量が増加するかわりに、<br>威力が上昇する。<br><yellow>※ツインマシンガン専用<c>
+GunnerChainBoost - チェインフィニッシュ発動後に、<br>一定時間、武器アクション中の<br>攻撃の挙動が変化し、チェイン数に応じて、<br>武器の攻撃速度が上昇する。<br><yellow>※メインクラス／ツインマシンガン専用<c>
+GunnerNeutralDeadApproach - 方向入力を行わずに<br>武器アクションを発動すると、<br>前方に突進する挙動に変化する。<br><yellow>※ツインマシンガン専用<c>
+GunnerPerfectKeeper - 仮テキスト
+GunnerChainFinishBonus - 仮テキスト
+GunnerNeoTime - 仮テキスト
+GunnerNeoTimeBlastBonus - 仮テキスト
+GunnerNeoTimePPRefresh - 仮テキスト
+GunnerAirAttackBonus - 仮テキスト
+GunnerReactionWeak - 仮テキスト
+GunnerFallSlowAttack - 通常攻撃中、落下速度が緩やかになる。<br><yellow>※ガンナー武器専用<c>
+GunnerFallSlowCharge - PAチャージ中、落下速度が緩やかになる。<br><yellow>※ガンナー武器専用<c>
+GunnerGaugeShotGun - <yellow>【アクティブスキル】<c><br>攻撃により、<br>蓄積したゲージを消費することで、<br>特殊な近距離散弾を発射する。<br><yellow>※アサルトライフル専用<c>
+GunnerGaugeShotGunAway - スプレッドショット発動時に、<br>無敵時間が発生する。<br>また、方向入力時の退避距離が延びる。
+GunnerAttackPPRestraint - 攻撃時のPP回復量が増加する。
+GunnerOverWhelm - ボス以外のエネミーを攻撃したときの<br>PP回復量が増加する。
+TechterShiftaDeband - <yellow>【アクティブスキル】<c><br>一定時間、自分と周囲のキャラクターの、<br>エネミーに与えるダメージが増加し、<br>受けるダメージを軽減する。<br><yellow>※メインクラス専用<c>
+TechterPartyAssist - シフタ・デバンド発動時に、<br>距離の離れた同一パーティーの<br>キャラクターにも効果を付与する。<br><yellow>※メインクラス専用<c>
+TechterWandElementChange - チャージテクニックを使用すると、<br>法撃爆発が同じ属性に変化する。<br><yellow>※ウォンド専用<c>
+TechterWandElementDiscard - 武器アクションボタンを長押しすることで、<br>ウォンドエレメントチェンジによって<br>変化した法撃爆発の属性を元に戻す。<br><yellow>※ウォンド専用<c>
+TechterHeal - レスタサイン使用時の回復量が増加し、<br>周囲のキャラクターも回復する。<br><yellow>※メインクラス専用<c>
+TechterWandGuardCounter - 武器アクションによるガード成功時に、<br>通常攻撃を行うことで、<br>カウンターが発生する。<br><yellow>※ウォンド専用<c>
+TechterAssistField - 仮テキスト
+TechterWandLovers - <yellow>【アクティブスキル】<c><br>一定時間、通常攻撃に、<br>エネミーの攻撃をはじく効果を追加し、<br>打ち上げや吹き飛ばしを防ぐ。<br><yellow>※ウォンド専用<c>
+TechterWandCounterReflection - 武器アクションなどによるガード成功時に、<br>法撃爆発が発生する。<br><yellow>※ウォンド専用<c>
+TechterShiftaStrike - シフタ・デバンドに、<br>エネミーに与えるダウン値が<br>増加する効果を追加する。<br><yellow>※メインクラス専用<c>
+TechterShiftaAdvance - シフタ・デバンドに、<br>ダウン中のエネミーに与えるダメージが<br>増加する効果を追加する。<br><yellow>※メインクラス専用<c>
+TechterDebandCut - シフタ・デバンドに、<br>状態異常になりにくくする効果を追加する。<br><yellow>※メインクラス専用<c>
+TechterDebandPpReStraight - シフタ・デバンドに、<br>PPの自然回復量が増加する効果を追加する。<br><yellow>※メインクラス専用<c>
+TechterExtendAssist - シフタ・デバンドの効果時間を延長する。<br><yellow>※メインクラス専用<c>
+TechterElementWeakBonus - エネミーを弱点の属性で攻撃したときに、<br>フォトンブラストゲージが増加する。
+TechterAwakeYell - ボスエネミーが近くにいるときに、<br>フォトンブラストゲージが<br>溜まりやすくなる。
+TechterReverseBonus - 復活させた味方に<br>シフタ・デバンドの効果を付与する。<br><yellow>※メインクラス専用<c>
+TechterWandGuardCounterEdge - ウォンドパリィカウンター発動時に、<br>衝撃波が発生する。
+TechterFallSlowCharge - PAとテクニックチャージ中、<br>落下速度が緩やかになる。<br><yellow>※テクター武器専用<c>
+TechterBartaBlot - チャージしていない氷属性テクニックを、<br>一定回数エネミーに当てることで、<br>氷の紋章を刻む。そこに、チャージした<br>同属性のテクニックを当てると、<br>紋章が起爆して、追加ダメージを与える。
+TechterZondeClad - チャージしていない雷属性テクニックを、<br>一定回数エネミーに当てることで、自身が<br>帯電状態になる。さらに、チャージした<br>同属性のテクニックを使用すると、帯電が<br>解除され、そのテクニックを強化する。
+FighterKnuckleAttackExtra - 通常攻撃段数が、最大５段階に増加する。<br><yellow>※ナックル専用<c>
+ForceTalisTecBurst - <yellow>【アクティブスキル】<c><br>攻撃により、<br>蓄積したゲージを消費することで、<br>特殊な遠距離攻撃を行う。<br><yellow>※タリス専用<c>
+TechterTalisTecBurst - <yellow>【アクティブスキル】<c><br>攻撃により、<br>蓄積したゲージを消費することで、<br>特殊な遠距離攻撃を行う。<br><yellow>※タリス専用<c>
+TechterTalisQuickMarkShot - 武器アクション発動時に、<br>方向入力を行わないことで、<br>一定時間、断続的に、<br>複数のエネミーを攻撃する。<br><yellow>※タリス専用<c>
+TechterTalisSetRevok - 武器アクションボタンを長押しすることで、<br>PAによるタリスの展開状態を解除する。<br><yellow>※タリス専用<c>
+BraverGuardRelief - 武器アクションによるガード時に、<br>受けるダメージとPP消費量を軽減する。
+BraverRestaHealUp - レスタサイン使用時の<br>HP回復量が増加する。
+BraverJustReversalCover - エネミーの攻撃による<br>打ち上げや吹き飛ばしを、<br>受け身でしのいだときにHPが回復する。
+BraverCombat - <yellow>【アクティブスキル】<c><br>一定時間、PP消費量が減少し、攻撃時の<br>PP回復量が増加する。スキル発動中に<br>再度使用することで強力な一撃を放つ。<br><yellow>※ブレイバー武器専用<c>
+BraverBraveCombatShortTime - ブレイブコンバットの<br>効果時間が減少するかわりに、<br>再使用が可能になるまでの時間を短縮する。
+BraverCombatCountAfterBonus - ブレイブコンバット終了時に、<br>スキル発動中の攻撃ヒット数に応じて<br>HPとPPが回復する。<br><yellow>※メインクラス／ブレイバー武器専用<c>
+Katana:LockonChase - ブレイブコンバット中、<br>ロックオン状態での通常攻撃に、<br>一定範囲内にいるエネミーに<br>接近する挙動を追加する。<br><yellow>※カタナ専用<c>
+BraverCompoundbowPaArmor - ブレイブコンバット中、<br>PAによる攻撃発動時の特定タイミングに、<br>エネミーの攻撃による打ち上げや<br>吹き飛ばしを防ぐ効果を追加する。<br><yellow>※バレットボウ専用<c>
+BraverKatanaGuardCounter - 武器アクションによる<br>ジャストガード成功時に、<br>自動的にカウンターが発生する。<br><yellow>※カタナ専用<c>
+Katana:CounterEdge - カタナガードカウンター発動時に、<br>衝撃波を追加する。
+Katana:ComboCountSkill - 異なるPAを使用しても<br>カタナPAのコンボ段数が<br>維持されるようになる。<br><yellow>※カタナ専用<c>
+Katana:Ambition - 通常攻撃後やPA発動後の特定タイミングに、<br>前方からのエネミーの攻撃を無効化し、<br>自動的にカウンターが発生する。<br><yellow>※カタナ専用<c>
+BraverCounterArrow - 武器アクションによる回避成功時に、<br>通常攻撃を行うことで、<br>カウンターが発生する。<br><yellow>※バレットボウ専用<c>
+BraverCompoundbowHoming - 通常攻撃で放つ矢が、<br>エネミーを追尾するようになる。<br><yellow>※バレットボウ専用<c>
+BraverCompoundbowSlideDodge - PA発動後に、特定タイミングで<br>方向入力を行いながら武器アクションを<br>発動すると、スライドしながら<br>攻撃する挙動に変化する。<br><yellow>※バレットボウ専用<c>
+
+Group 1
+HealTank - Recovers 50% of your max HP.
+RecoveryMoonAtomizer - Revives a nearby incapacitated player.
+HunterWarCry - <yellow>[Active Skill]<c><br>Draws the attention of nearby enemies for a<br>set time. Enemies you hit are more likely to<br>target you. <yellow>*Can only be used by a Main Class.<c>
+HunterIronWill - An incapacitating attack will leave you with 1 HP, and a moment of invulnerability when this skill is triggered.<br><yellow>*Can only be used by a Main Class.<c>
+HunterMassiveHunter - <yellow>[Active Skill]<c><br>Temporarily reduces damage taken, and stops you from being launched or knocked back by enemy attacks.
+HunterParryingPa - Taking a hit within a set time of using a Photon Art increases that Photon Art's potency.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterSwordGuardCounterPlus - Performing a Sword Guard and following<br>it with a Normal Attack will unleash an<br>additional counterattack.
+HunterSwordNormalAttackPlus - You can string 5 Normal Attacks with a Sword.
+HunterSwordAttackExtra - You can string up to 5 Normal Attacks.<br><yellow>*Can only be used with a Sword.<c>
+HunterSwordGuardCounter - Performing a Perfect Guard with Weapon Action will automatically unleash a counterattack. <br><yellow>*Can only be used with a Sword.<c>
+HunterFlashGuard - Reduces damage taken.
+HunterAllGuard - Guarding with Weapon Action will protect you from attacks from all directions.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterParryingPPHeal - Recovers PP upon executing Hunter Arts Avenger.
+HunterParryingPaJustGuard - Negates enemy attacks when you release a Photon Art.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterSlowFallCharge - Slows fall speed when charging a Photon Art.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterTecArtsSkipAttack - After using different PAs with the same<br>weapon, your next Normal Attack will begin from the fourth step. If the combo has fewer than four steps, it will skip to the final step.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterSameArtsSkipAttack - After using the same PA with the same weapon, your next Normal Attack will begin from the third step.<br><yellow>*Can only be used with Hunter Weapons.<c>
+HunterPartisanVolgraptor - Pressing and holding the Weapon Action button<br>will unleash a spear of photons that accumulate<br>damage. The spear will explode after a set time<br>or taking a certain amount of damage.<br><yellow>*Can only be used with a Partisan.<c>
+HunterPartisanAssaultCharge - Pressing the Weapon Action button at just the right time after a Photon Art will unleash a chargeable thrust attack.<br><yellow>*Can only be used with a Partisan.<c>
+HunterPartisanParryingAssaultCharge - After activating Hunter Arts Avenger, performing an Assault Charge with the Photon Art will increase its potency.
+HunterWLanceAttackExtra - You can string up to 4 Normal Attacks.<br><yellow>*Can only be used with a Wired Lance.<c>
+HunterWLanceWAPlus - Inputting a direction when Weapon Action is activated, will change its behavior.<br><yellow>*Can only be used with a Wired Lance<c>
+HunterWLanceWAGuardPointPlus - Negate enemy attacks when Weapon Action is activated.<br><yellow>*Can only be used with a Wired Lance<c>
+RangerGaugeShotGun - <yellow>[Active Skill]<c><br>Expend a gauge built up by attacks to fire a special close range shotgun blast.<br><yellow>*Can only be used with an Assault Rifle.<c>
+RangerGaugeShotGunAway - Triggers an invulnerability period when you use Spread Shot.<br>Inputting a direction will also extend the distance of the evasive action.
+RangerWeakBullet - <yellow>[Active Skill]<c><br>Fires a bullet that increases damage dealt to the hit part.<br><yellow>*Can only be used by a Main Class/Assault Rifle.<c>
+RangerWeakBulletParse - Parts hit by Blight Rounds that are hit a set number of times will take increased damage, and the effect duration of the skill will be extended.<br><yellow>*Can only be used by a Main Class.<c>
+RangerWeaponActionAvoid - Weapon Actions will trigger an invulnerability period.<br><yellow>*Can only be used with an Assault Rifle.<c>
+RangerGrenadeTrap - Press and hold the Weapon Action button to perform a grenade attack.<br>Input a direction at the same time to throw the grenade, or input none to place the grenade at the current location.<br><yellow>*Can only be used with an Assault Rifle.<c>
+RangerFallSlowAttack - Slows fall speed when performing a Normal Attack.<br><yellow>*Can only be used with Ranger weapons.<c>
+RangerFallSlowCharge - Slows fall speed when charging a Photon Art.<br><yellow>*Can only be used with Ranger weapons.<c>
+RangerClusterBombRecastReduce - Shortens the cooldown time between Weapon Actions.<br><yellow>*Can only be used with a Launcher.<c>
+RangerLauncherChargeConvergence - Inputting a direction forward will improve the accuracy of fire when performing a Normal Attack while charged. <br><yellow>*Can only be used with a Launcher.<c>
+RangerConditionBadGuard - Makes you more resistant to status ailments.
+RangerConditionBadEase - Reduces the effect duration of status ailments.
+ForcePhotonFlare - <yellow>[Active Skill]<c><br>Boosts your max PP and the potency of your weapons for a set time.<br><yellow>*Can only be used by a Main Class/Force weapons.<c>
+ForcePpConvert - <yellow>[Active Skill]<c><br>Consumes HP by a percentage of your Max HP in exchange for an increased natural PP recovery speed for a set time.
+ForcePpConvertReCharge - Increases the number of stocks of PP Conversion.
+ForceChargePpRevival - You can recover PP through natural recovery while charging Techniques.<br><yellow>*Can only be used with Force weapons.<c>
+ForceChargeEscape - Sidestepping or using Weapon Action while charging a Technique will still maintain the charge status. Also, no PP will be consumed the next time the same Technique is used, and the charge time will be shorter.<br><yellow>*Can only be used with a Rod.<c>
+ForceHeal - Nearby characters will also be healed when you use a Restasigne.<br><yellow>*Can only be used by a Main Class.<c>
+ForcePhotonFlareTecShortCharge - During a Photon Flare, your Technique potency is reduced, but charge time is shortened. <br><yellow>*Can only be used by a Main Class/Force weapons.<c>
+ForceRodCounterTechnic - Using a Technique while guarding with a<br>Weapon Action or successfully dodging<br>with Sidestep will make you invulnerable<br>for a while.<br><yellow>*Can only be used with a Rod.<c>
+ForcePhotonFlarePpRefrain - Any PP you use during a Photon Flare will be recovered when the Flare is over. <yellow>*Can only be used by a Main Class.<c>
+ForceNightmare - Recovers your PP when nearby enemies are defeated or are downed.
+ForceReflectCounterShot - Guard with a Weapon Action will add an attack by a Photonic bullet of the same element, when you next use a Technique.<br><yellow>*Can only be used with a Rod.<c>
+ForceRodCounterTecBonus - With a Rod equipped, using a Technique when you successfully dodge with Sidestep or guard with a Weapon Action will make you invulnerable for a while.
+ForceRodAbsorption - If you don't attack or dodge after using a Technique, your PP will recover.<br><yellow>*Can only be used with a Rod.<c>
+ForceTalisConcentrate - When your Talis is deployed after the PA, the time of the deployment is shortened, but your potency of the Technique is increased and your PP cost is reduced.
+ForceTalisQuickMarkShot - When Weapon Action is activated, attack multiple enemies intermittently for a set time by not performing a directional input.<br><yellow>*Can only be used with a Talis.<c>
+ForceTalisSetRevok - Pressing and holding the Weapon Action button will cancel your Talis deployment by a Photon Art.<br><yellow>*Can only be used with a Talis.<c>
+ForcePpRestorate - Increases natural PP recovery.
+ForceSlowFallCharge - Slows fall speed when charging a Technique.<br><yellow>*Can only be used with Force weapons.<c>
+ForceBartaBlot - Hitting an enemy with a certain number of uncharged Ice Techniques will engrave them with an Ice Sigil. A hit with a same elemental charged Technique will explode the sigil, resulting in an additional damage.
+ForceZondeClad - Hitting an enemy with a number of uncharged<br>Lightning Techniques will cause you to enter a<br>high-voltage state. Unleashing a same<br>elemental charged Technique in this state will<br>strengthen it and return you to normal.
+FighterLimitBreak - <yellow>[Active Skill]<c><br>Increases the damage you take for a set time in exchange for increased weapon potency.<br><yellow>*Can only be used by a Main Class/Fighter weapons.<c>
+FighterLimitBreakPhotonCharge - Recover PP at the end of Overload.<br><yellow>This skill can only be used by a Main Class.<c>
+FighterLimitBreakInsurance - During Overload, an incapacitating attack will leave you with 1 HP and end Overload. You also gain a moment of invulnerability when this activates.<br><yellow>*Can only be used by a Main Class.<c>
+KnuckleDodgeHeatRevenge - After successfully dodging with Weapon Action, your next Normal Attack will begin from its fifth step.<br><yellow>*Can only be used with Knuckles.<c>
+FighterKnuckleSwayCounterPlus - When Knuckle Sway Counter is activated, Perfoming a Weapon Action will unleash an additional counterattack.
+FighterKnuckleNormalAttackPlus - You can string up to 5 Normal Attacks.<br><yellow>*Can only be used with Knuckles.<c>
+FighterKnuckleSwayCounter - A successful dodge with Weapon Action will automatically unleash a counterattack.<br><yellow>*Can only be used with Knuckles.<c>
+FighterChaseAdvance - Increases damage against downed enemies.
+FighterChaseAdvancePPRecovery - Increases PP recovery when attacking downed enemies.
+FighterTecArtsSkipAttack - After using different PAs with the same<br>weapon, your next Normal Attack will begin from the fourth step. If the combo has fewer than four steps, it will skip to the final step.<br><yellow>*Can only be used with Fighter Weapons.<c>
+FighterSameArtsSkipAttack - After using the same PA with the same<br>weapon, your next Normal Attack will<br>begin from the third step.<br><yellow>*Can only be used with Fighter Weapons.<c>
+FighterSkipArts - Using a PA without pressing a directional button will cause the PA to start from its second half.<br><yellow>*Can only be used with Fighter weapons.<c>
+FighterTDAnotherDerive - Charge towards the enemy by pressing the Normal Attack button at a specific timing after a Photon Art.<br><yellow>*Can only be used with Twin Daggers.<c>
+FighterTDSpinCounter - Performing a Normal Attack upon a successful guard with a Weapon Action will unleash a counterattack.<br><yellow>*Can only be used with Twin Daggers.<c>
+FighterTDAttackExtra - You can string up to 4 Normal Attacks.<br><yellow>*Can only be used with Twin Daggers.<c>
+FighterDSDodgeWindCounter - Performing a Normal Attack upon a successful guard with a Weapon Action will unleash a counterattack.<br><yellow>*Can only be used with a Double Saber.<c>
+FighterDSDodgeWindWACounter - Pressing the Weapon Action button upon a successful guard with a Weapon Action will unleash a special counterattack.<br><yellow>*Can only be used with a Double Saber.<c>
+FighterDSDeadlyArcher - Pressing and holding the Weapon Action button while wearing the second state of whirlwind will convert all of whirlwind into energy and throw the weapon towards the enemy.<br><yellow>*Can only be used with a Double Saber.<c>
+FighterDSEnhanceAttack - Pressing and holding the Normal Attack button while wearing the second state of whirlwind will convert all of whirlwind into energy and spawn a cyclone.<br><yellow>*Can only be used with a Double Saber.<c>
+GunnerChainTrigger - After a charged Photon Art, continue attacking<br>to build a Chain, then land another charged<br>Photon Art to trigger a powerful Chain Finisher<br>Boost. <yellow>*Can only be used by a Main Class/Twin Machine Guns.<c>
+GunnerChainFinishTimeBonus - After Chain Finisher Boost has triggered, depending on the size of the Chain during Chain Trigger, the re-use time will be shortened.<br><yellow>*Can only be used by a Main Class.<c>
+GunnerSRollArts - While Weapon Action is active, pressing the PA button will consume PP to perform a high potency attack.<br><yellow>*Can only be used with Twin Machine Guns.<c>
+GunnerCounterPABurst - After a successful dodge with Weapon Actions, your next Photon Art will consume more PP but also have increased potency.<br><yellow>*Can only be used with Twin Machine Guns.<c>
+GunnerChainBoost - For a set time after Chain Finisher Boost has<br>triggered, Weapon Actions will change, and<br>attack speed will increase depending on the<br>size of the chain. <yellow>*Can only be used by a<br>Main Class/Twin Machine Guns.<c>
+GunnerNeutralDeadApproach - Performing Weapon Actions without any directional input will turn it into an advancing rush.<br><yellow>*Can only be used with Twin Machine Guns.<c>
+GunnerFallSlowAttack - Slows fall speed when performing a Normal Attack.<br><yellow>*Can only be used with Gunner weapons.<c>
+GunnerFallSlowCharge - Slows fall speed when charging a Photon Art.<br><yellow>*Can only be used with Gunner weapons.<c>
+GunnerGaugeShotGun - <yellow>[Active Skill]<c><br>Expend a gauge built up by attacks to fire a special close range shotgun blast.<br><yellow>*Can only be used with  an Assault Rifle.<c>
+GunnerGaugeShotGunAway - Triggers an invulnerability period when you use Spread Shot.<br>Inputting a direction will also extend the distance of the evasive action.
+GunnerAttackPPRestraint - Increases PP recovery when attacking.
+GunnerOverWhelm - Increases PP recovery when attacking any enemies other than bosses.
+TechterShiftaDeband - <yellow>[Active Skill]<c><br>Increases damage dealt to enemies, and decreases damage taken by you and nearby characters for a set time.<br><yellow>*Can only be used by a Main Class.<c>
+TechterPartyAssist - Distant characters in your party will still receive the effect of Shifta/Deband when it is used.<br><yellow>*Can only be used by a Main Class.<c>
+TechterWandElementChange - When you use a Charged Technique, your Photonic Fury will take on the element of that Technique.<br><yellow>*Can only be used with a Wand.<c>
+TechterWandElementDiscard - Press and hold the Weapon Action button to revert elemental changes applied to Photonic Fury by Wand Element Change.<br><yellow>*Can only be used with a Wand.<c>
+TechterHeal - Increases the amount of health recovered when you use Restasigne, and also heals nearby characters.<br><yellow>*Can only be used by a Main Class.<c>
+TechterWandGuardCounter - Successfully guarding with a Weapon Action and following it with a Normal Attack will unleash a counterattack.<br><yellow>*Can only be used with a Wand.<c>
+TechterWandLovers - <yellow>Active Skill<c><br>Adds the effect of attack deflection to Normal Attacks and negates knockback and launches for a set time.<br><yellow>*Can only be used with a Wand.<c>
+TechterWandCounterReflection - Causes a Photonic Fury when you successfully guard with a Weapon Action etc..<br><yellow>*Can only be used with a Wand.<c>
+TechterShiftaStrike - Shifta/Deband will additionally increase enemy Down Factor.<br><yellow>*Can only be used by a Main Class.<c>
+TechterShiftaAdvance - Shifta/Deband will additionally increase damage to downed enemies.<br><yellow>*Can only be used by a Main Class.<c>
+TechterDebandCut - Shifta/Deband will additionally increase status ailment resistance.<br><yellow>*Can only be used by a Main Class.<c>
+TechterDebandPpReStraight - Shifta/Deband will additionally increase natural PP recovery speed.<br><yellow>*Can only be used by a Main Class.<c>
+TechterExtendAssist - Extends the effect duration of Shifta/Deband.<br><yellow>*Can only be used by a Main Class.<c>
+TechterElementWeakBonus - Increases your Photon Blast Gauge when your attack element matches your enemy's elemental weakness.
+TechterAwakeYell - Makes your Photon Blast Gauge charge easier when a boss enemy is nearby.
+TechterReverseBonus - Confers Shifta/Deband to a revived ally.<br><yellow>*Can only be used by a Main Class.<c>
+TechterWandGuardCounterEdge - Adds a shockwave to Wand Parry Counters.
+TechterFallSlowCharge - Slows fall speed when charging Techniques and Photon Arts.<br><yellow>*Can only be used with Techter Weapons.<c>
+TechterBartaBlot - Hitting an enemy with a certain number of uncharged Ice Techniques will engrave them with an Ice Sigil. A hit with a same elemental charged Technique will explode the sigil, resulting in an additional damage.
+TechterZondeClad - Hitting an enemy with a number of uncharged<br>Lightning Techniques will cause you to enter a<br>high-voltage state. Unleashing a same<br>elemental charged Technique in this state will<br>strengthen it and return you to normal.
+FighterKnuckleAttackExtra - You can string up to 5 Normal Attacks.<br><yellow>*Can only be used with Knuckles.<c>
+ForceTalisTecBurst - <yellow>[Active Skill]<c><br>Expend a gauge built up by attacks to fire a special long range attack.<br><yellow>*Can only be used with a Talis.<c>
+TechterTalisTecBurst - <yellow>[Active Skill]<c><br>Expend a gauge built up by attacks to fire a special long range attack.<br><yellow>*Can only be used with a Talis.<c>
+TechterTalisQuickMarkShot - When Weapon Action is activated, attack multiple enemies intermittently for a set time by not performing a directional input.<br><yellow>*Can only be used with a Talis.<c>
+TechterTalisSetRevok - Pressing and holding the Weapon Action button will cancel your Talis deployment by a Photon Art.<br><yellow>*Can only be used with a Talis.<c>
+BraverGuardRelief - Reduces damage taken and PP consumption when you guard with a Weapon Action.
+BraverRestaHealUp - Increases HP recovery amount when you use Restasigne.
+BraverJustReversalCover - Recovers HP when you break-fall a launch or knockback caused by an enemy attack.
+BraverCombat - <yellow>[Active Skill] <c><br>Reduces PP consumption and increases attack<br>PP recovery for a fixed time. Using the skill<br>while activated will launch a powerful attack.<br><yellow>*Can only be used with Braver weapons.<c>
+BraverBraveCombatShortTime - Shortens the effect duration of Brave Combat, but also shortens the cooldown time.
+BraverCombatCountAfterBonus - When Brave Combat ends, you recover a certain amount of HP and PP according to your hit count while the skill was active.<br><yellow>*Can only be used by a Main Class or with Braver weapons.<c>
+Katana:LockonChase - During Brave Combat, using a normal attack while locked on will cause you to move closer to enemies within a certain distance.<br><yellow>*Can only be used with a Katana.<c>
+BraverCompoundbowPaArmor - During Brave Combat, adds resistance against launches and knockbacks caused by enemy attacks at a specific point when attacking with a Photon Art.<br><yellow>*Can only be used with a Bow.<c>
+BraverKatanaGuardCounter - Automatically unleashes a counter when you successfully execute a Perfect Guard using a Weapon Action.<br><yellow>*Can only be used with a Katana.<c>
+Katana:CounterEdge - Adds a shockwave to the Katana Guard Counter.
+Katana:ComboCountSkill - Using another Photon Art will not interrupt your Katana combo string.<br><yellow>*Can only be used with a Katana.<c>
+Katana:Ambition - Neutralizes enemy attacks to your front at a set time after releasing a Photon Art or normal attack, and automatically unleashes a counter.<br><yellow>*Can only be used with a Katana.<c>
+BraverCounterArrow - When you successfully dodge using a Weapon Action, using a normal attack will unleash a counter.<br><yellow>*Can only be used with a Bow.<c>
+BraverCompoundbowHoming - Arrows released using normal attacks gain homing ability.<br><yellow>*Can only be used with a Bow.<c>
+BraverCompoundbowSlideDodge - Using a Weapon Action while pressing the directional pad at just the right time after releasing a Photon Art will make you slide while attacking.<br><yellow>*Can only be used with a Bow.<c>
+
+
+SkillName
+Group 0
+HealTank - レスタサイン
+RecoveryMoonAtomizer - リバーサーサイン
+HunterWarCry - ウォークライ
+HunterIronWill - アイアンウィル
+HunterMassiveHunter - マッシブハンター
+HunterParryingPa - ハンターアーツ<br>アヴェンジ
+HunterSwordGuardCounterPlus - ソードガード<br>カウンタープラス
+HunterSwordNormalAttackPlus - ソードアタック<br>エクストラ
+HunterSwordAttackExtra - ソードアタック<br>エクストラ
+HunterWeakHitAdvance - ウィークヒット<br>アドバンスHu
+HunterParryingCritical - パリングクリティカル
+HunterCounterBoost - カウンター<br>ブースト
+HunterJustGuardDownBoost - ジャストガード<br>リアクションブースト
+HunterSwordGuardCounter - ソードガード<br>カウンター
+HunterFlashGuard - フラッシュガード
+HunterAllGuard - オールガード
+HunterParryingPPHeal - ハンターアーツ<br>アヴェンジPPゲイン
+HunterParryingPaJustGuard - ハンターアーツ<br>ジャストパリング
+HunterSlowFallCharge - スローランディング<br>チャージHu
+HunterTecArtsSkipAttack - アナザーアーツ<br>スキップアタックHu
+HunterSameArtsSkipAttack - セイムアーツ<br>スキップアタックHu
+HunterPartisanVolgraptor - ヴォルグラプター
+HunterPartisanAssaultCharge - アサルトチャージ
+HunterPartisanParryingAssaultCharge - アサルトチャージ<br>アヴェンジ
+HunterWLanceAttackExtra - ワイヤードアタック<br>エクストラ
+HunterWLanceWAPlus - ワイヤードアンカー<br>アドバンス
+HunterWLanceWAGuardPointPlus - ワイヤードアンカー<br>ジャストパリング
+RangerGaugeShotGun - スプレッドショット
+RangerGaugeShotGunAway - スプレッドショット<br>クイックエスケープ
+RangerWeakBullet - ウィークバレット
+RangerWeakBulletParse - ウィークバレット<br>リインフォース
+RangerWeaponActionAvoid - スライドショット<br>アドバンス
+RangerGrenadeTrap - ライフルグレネーダー
+RangerRangeBonus - 適正距離<br>リアクションボーナス
+RangerDownChain - リアクションチェーン
+RangerWeakHitAdvance - ウィークヒット<br>アドバンスRa
+RangerWeakBlastBonus - ウィークヒット<br>ブラストボーナス
+RangerFallSlowAttack - スローランディング<br>アタックRa
+RangerFallSlowCharge - スローランディング<br>チャージRa
+RangerClusterBombRecastReduce - スティッキーボム<br>クイックリロード
+RangerLauncherChargeConvergence - ランチャーチャージ<br>グルーピング
+RangerConditionBadGuard - バッドコンディション<br>レジスト
+RangerConditionBadEase - バッドコンディション<br>リデュース
+ForcePhotonFlare - フォトンフレア
+ForcePpConvert - PPコンバート
+ForcePpConvertReCharge - PPコンバート<br>インクリース
+ForceChargePpRevival - テクニックチャージ<br>PPウェルアップ
+ForceChargeEscape - ロッドテクニック<br>キープ
+ForceHeal - レスタフィールドFo
+ForceOverFlow - オーバーフロー
+ForcePhotonFlareTecShortCharge - フォトンフレア<br>ショートチャージ
+ForcePhotonFlareAfterBurst - フォトンフレア<br>アフターバースト
+ForcePhotonFlareBoost - フォトンフレア<br>ブースト
+ForceRodCounterTechnic - ロッドリアクト<br>アドバンス
+ForcePhotonFlarePpRefrain - フォトンフレア<br>アフターPPゲイン
+ForceNightmare - キリングPPゲイン
+ForceReflectCounterShot - エレメンタルバレット
+ForceRodCounterTecBonus - ロッドカウンター<br>アドバンス
+ForceRodAbsorption - ステイPPゲイン
+ForceTalisConcentrate - タリスブルーム<br>スティムレイト
+ForceTalisQuickMarkShot - フロートトーチカ<br>マルチロック
+ForceTalisSetRevok - タリスブルーム<br>リヴォーク
+ForcePpRestorate - PPリカバリーアップ
+ForceSlowFallCharge - スローランディング<br>チャージFo
+ForceBartaBlot - バータブロット
+ForceZondeClad - ゾンデクラッド
+FighterLimitBreak - リミットブレイク
+FighterLimitBreakPhotonCharge - リミットブレイク<br>PPリカバリー
+FighterLimitBreakInsurance - リミットブレイク<br>エンデュランス
+KnuckleDodgeHeatRevenge - ナックルアタック<br>スイッチ
+FighterKnuckleSwayCounterPlus - ナックルスウェー<br>カウンタープラス
+FighterKnuckleNormalAttackPlus - ナックルアタック<br>エクストラ
+FighterKnuckleAttackExtra - ナックルアタック<br>エクストラ
+FighterPhotonFlood - フォトンフラッド
+FighterUnFlatBonus - アンフラット<br>ボーナス
+FighterTecArtsJABonus - テックアーツボーナス
+FighterPPSlayer - PPスレイヤー
+FighterKnuckleSwayCounter - ナックルスウェー<br>カウンター
+FighterChaseAdvance - ディフィート<br>アドバンテージ
+FighterChaseAdvancePPRecovery - ディフィート<br>PPリカバリー
+FighterTecArtsSkipAttack - アナザーアーツ<br>スキップアタックFi
+FighterSameArtsSkipAttack - セイムアーツ<br>スキップアタックFi
+FighterSkipArts - ファイター<br>スキップアーツ
+FighterTDAnotherDerive - アクセルドライブ
+FighterTDSpinCounter - ダガースピン<br>カウンター
+FighterTDAttackExtra - ダガーアタック<br>エクストラ
+FighterDSDodgeWindCounter - セイバーパリィ<br>カウンター
+FighterDSDodgeWindWACounter - セイバーパリィ<br>アナザーカウンター
+FighterDSDeadlyArcher - デッドリーアーチャー
+FighterDSEnhanceAttack - スパイラルドライブ
+GunnerChainTrigger - チェイントリガー
+GunnerChainFinish - チェインフィニッシュ
+GunnerChainFinishTimeBonus - チェイントリガー<br>クイックリロード
+GunnerSRollArts - スタイリッシュロール<br>アーツ
+GunnerCounterPABurst - スタイリッシュロール<br>ストライクバック
+GunnerChainBoost - チェインブースト
+GunnerNeutralDeadApproach - スタイリッシュ<br>オンスロート
+GunnerPerfectKeeper - パーフェクト<br>キーパー
+GunnerChainFinishBonus - チェインフィニッシュ<br>ボーナス
+GunnerNeoTime - ネオタイム
+GunnerNeoTimeBlastBonus - ネオタイム<br>ブラストボーナス
+GunnerNeoTimePPRefresh - ネオタイム<br>PPリフレッシュ
+GunnerAirAttackBonus - エアアタック<br>ボーナス
+GunnerReactionWeak - リアクションウィーク
+GunnerFallSlowAttack - スローランディング<br>アタックGu
+GunnerFallSlowCharge - スローランディング<br>チャージGu
+GunnerGaugeShotGun - スプレッドショット
+GunnerGaugeShotGunAway - スプレッドショット<br>クイックエスケープ
+GunnerAttackPPRestraint - アタック<br>PPリカバリー
+GunnerOverWhelm - オーバーウェルム
+TechterShiftaDeband - シフタ・デバンド
+TechterPartyAssist - シフタ・デバンド<br>パーティーシェア
+TechterWandElementChange - ウォンドエレメント<br>チェンジ
+TechterWandElementDiscard - ウォンドエレメント<br>リヴォーク
+TechterHeal - レスタフィールドTe
+TechterWandGuardCounter - ウォンドパリィ<br>カウンター
+TechterAssistField - シフタ・デバンド<br>フィールド
+TechterWandLovers - ウォンドラバーズ
+TechterWandCounterReflection - ウォンドガード<br>リフレクション
+TechterShiftaStrike - シフタエフェクト<br>アンプリファイ
+TechterShiftaAdvance - シフタエフェクト<br>アドバンテージ
+TechterDebandCut - デバンドレジスト<br>バッドコンディション
+TechterDebandPpReStraight - デバンド<br>PPリカバリーアップ
+TechterExtendAssist - シフタ・デバンド<br>エクステンド
+TechterElementWeakBonus - ウィークエレメント<br>アンプリファイ
+TechterAwakeYell - アウェイクエール
+TechterReverseBonus - リバースバウンティ
+TechterWandGuardCounterEdge - ウォンドパリィ<br>カウンターアドバンス
+TechterFallSlowCharge - スローランディング<br>チャージTe
+TechterBartaBlot - バータブロット
+TechterZondeClad - ゾンデクラッド
+ForceTalisTecBurst - トリッキーキャパシタ
+TechterTalisTecBurst - トリッキーキャパシタ
+TechterTalisQuickMarkShot - フロートトーチカ<br>マルチロック
+TechterTalisSetRevok - タリスブルーム<br>リヴォーク
+BraverGuardRelief - マイティーガード
+BraverRestaHealUp - レスタエフェクト<br>アンプリファイ
+BraverJustReversalCover - ブレイクフォール<br>HPゲイン
+BraverCombat - ブレイブコンバット
+BraverBraveCombatShortTime - ブレイブコンバット<br>ショートサイクル
+BraverCombatCountAfterBonus - ブレイブコンバット<br>フィニッシュプライズ
+Katana:LockonChase - ブレイブコンバット<br>クロースレンジ
+BraverCompoundbowPaArmor - ブレイブコンバット<br>アローメイツ
+BraverKatanaGuardCounter - カタナガード<br>カウンター
+Katana:CounterEdge - カタナガード<br>カウンターアドバンス
+Katana:ComboCountSkill - カタナPAコンボ<br>リテンション
+Katana:Ambition - フェアレス<br>アティチュード
+BraverCounterArrow - バレットボウイルード<br>カウンター
+BraverCompoundbowHoming - トレーサーアロウ
+BraverCompoundbowSlideDodge - バレットボウイルード<br>エクスパンド
+
+Group 1
+HealTank - Restasigne
+RecoveryMoonAtomizer - Reversasigne
+HunterWarCry - War Cry
+HunterIronWill - Iron Will
+HunterMassiveHunter - Hunter Physique
+HunterParryingPa - Hunter Arts <br>Avenger
+HunterSwordGuardCounterPlus - Sword Guard <br>Counter Plus
+HunterSwordNormalAttackPlus - Sword Attack <br>Extra
+HunterSwordAttackExtra - Sword Attack <br>Extra
+HunterSwordGuardCounter - Sword Guard <br>Counter
+HunterFlashGuard - Flash Guard
+HunterAllGuard - Omnidirectional Guard
+HunterParryingPPHeal - Hunter Arts <br>Avenger PP Gain
+HunterParryingPaJustGuard - Hunter Arts <br>Perfect Parry
+HunterSlowFallCharge - Slow Landing <br>Charge-Hunter
+HunterTecArtsSkipAttack - Another Arts Skip <br>Attack-Hunter
+HunterSameArtsSkipAttack - Same Arts Skip <br>Attack-Hunter
+HunterPartisanVolgraptor - Volkraptor
+HunterPartisanAssaultCharge - Assault Charge
+HunterPartisanParryingAssaultCharge - Assault Charge <br>Avenger
+HunterWLanceAttackExtra - Wired Attack <br>Extra
+HunterWLanceWAPlus - Wired Anchor <br>Advanced
+HunterWLanceWAGuardPointPlus - Wired Anchor <br>Perfect Parry
+RangerGaugeShotGun - Spread Shot
+RangerGaugeShotGunAway - Spread Shot <br>Quick Getaway
+RangerWeakBullet - Blight Rounds
+RangerWeakBulletParse - Blight Rounds <br>Reinforce
+RangerWeaponActionAvoid - Slide Shot <br>Advance
+RangerGrenadeTrap - Rifle Grenadier
+RangerFallSlowAttack - Slow Landing <br>Attack-Ranger
+RangerFallSlowCharge - Slow Landing <br>Charge-Ranger
+RangerClusterBombRecastReduce - Sticky Bomb <br>Quick Reload
+RangerLauncherChargeConvergence - Launcher Charge <br>Grouping
+RangerConditionBadGuard - Bad Condition <br>Ward
+RangerConditionBadEase - Bad Condition <br>Reduction
+ForcePhotonFlare - Photon Flare
+ForcePpConvert - PP Conversion
+ForcePpConvertReCharge - PP Conversion <br>Increase
+ForceChargePpRevival - Technique Charge <br>PP Well Up
+ForceChargeEscape - Rod Technique <br>Hold
+ForceHeal - Resta Field <br>Force
+ForcePhotonFlareTecShortCharge - Photon Flare <br>Short Charge
+ForceRodCounterTechnic - Rod React <br>Advanced
+ForcePhotonFlarePpRefrain - Photon Flare <br>After PP Gain
+ForceNightmare - Eradication PP Gain
+ForceReflectCounterShot - Elemental Bullet
+ForceRodCounterTecBonus - Rod Counter<br>Advanced
+ForceRodAbsorption - Maintain PP Gain
+ForceTalisConcentrate - Talis Bloom <br>Stimulate
+ForceTalisQuickMarkShot - Floating Pillbox <br>Multirock
+ForceTalisSetRevok - Talis Bloom <br>Revoke
+ForcePpRestorate - PP Recovery Boost
+ForceSlowFallCharge - Slow Landing <br>Charge-Force
+ForceBartaBlot - Barta Blot
+ForceZondeClad - Zonde-Clad
+FighterLimitBreak - Overload
+FighterLimitBreakPhotonCharge - Limit Break <br>PP Recovery
+FighterLimitBreakInsurance - Overload <br>Endurance
+KnuckleDodgeHeatRevenge - Knuckle Attack <br>Switch
+FighterKnuckleSwayCounterPlus - Knuckle Sway <br>Counter Plus
+FighterKnuckleNormalAttackPlus - Knuckle Attack <br>Extra
+FighterKnuckleAttackExtra - Knuckle Attack <br>Extra
+FighterKnuckleSwayCounter - Knuckle Sway <br>Counter
+FighterChaseAdvance - Defeat <br>Advantage
+FighterChaseAdvancePPRecovery - Defeat <br>PP Recovery
+FighterTecArtsSkipAttack - Another Arts Skip <br>Attack-Fighter
+FighterSameArtsSkipAttack - Same Arts Skip <br>Attack - Fighter
+FighterSkipArts - Fighter <br>Skip Arts
+FighterTDAnotherDerive - Acceleration Drive
+FighterTDSpinCounter - Dagger Spin <br>Counter
+FighterTDAttackExtra - Dagger Attack <br>Extra
+FighterDSDodgeWindCounter - Saber Parry <br>Counter
+FighterDSDodgeWindWACounter - Saber Parry <br>Another Counter
+FighterDSDeadlyArcher - Deadly Archer
+FighterDSEnhanceAttack - Spiral Drive
+GunnerChainTrigger - Chain Trigger
+GunnerChainFinishTimeBonus - Chain Trigger <br>Quick Reload
+GunnerSRollArts - Stylish Roll <br>Arts
+GunnerCounterPABurst - Stylish Roll <br>Strike Back
+GunnerChainBoost - Chain Boost
+GunnerNeutralDeadApproach - Stylish <br>Onslaught
+GunnerFallSlowAttack - Slow Landing <br>Attack-Gunner
+GunnerFallSlowCharge - Slow Landing <br>Charge-Gunner
+GunnerGaugeShotGun - Spread Shot
+GunnerGaugeShotGunAway - Spread Shot <br>Quick Getaway
+GunnerAttackPPRestraint - Attack PP <br>Recovery
+GunnerOverWhelm - Overwhelm
+TechterShiftaDeband - Shifta/Deband
+TechterPartyAssist - Shifta/Deband <br>Party Share
+TechterWandElementChange - Wand Element <br>Change
+TechterWandElementDiscard - Wand Element <br>Revoke
+TechterHeal - Resta Field <br>Techter
+TechterWandGuardCounter - Wand Parry <br>Counter
+TechterWandLovers - Wand Lovers
+TechterWandCounterReflection - Wand Guard <br>Reflection
+TechterShiftaStrike - Shifta Effect <br>Amplifier
+TechterShiftaAdvance - Shifta Effect <br>Advantage
+TechterDebandCut - Deband Ward <br>Bad Condition
+TechterDebandPpReStraight - Deband <br>PP Recovery Boost
+TechterExtendAssist - Shifta/Deband <br>Extension
+TechterElementWeakBonus - Weak Element <br>Amplifier
+TechterAwakeYell - Awake Aile
+TechterReverseBonus - Reverse Bounty
+TechterWandGuardCounterEdge - Wand Parry <br>Counter Advanced
+TechterFallSlowCharge - Slow Landing <br>Charge-Techter
+TechterBartaBlot - Barta Blot
+TechterZondeClad - Zonde-Clad
+ForceTalisTecBurst - Tricky Capacitor
+TechterTalisTecBurst - Tricky Capacitor
+TechterTalisQuickMarkShot - Floating Pillbox <br>Multirock
+TechterTalisSetRevok - Talis Bloom <br>Revoke
+BraverGuardRelief - Mighty Guard
+BraverRestaHealUp - Resta Effect <br>Amplifier
+BraverJustReversalCover - Breakfall <br>HP Gain
+BraverCombat - Brave Combat
+BraverBraveCombatShortTime - Brave Combat <br>Short Cycle
+BraverCombatCountAfterBonus - Brave Combat <br>Final Bonus
+Katana:LockonChase - Brave Combat <br>Close Range
+BraverCompoundbowPaArmor - Brave Combat <br>Arrow Mates
+BraverKatanaGuardCounter - Katana Guard <br>Counter
+Katana:CounterEdge - Katana Guard <br>Counter Advanced
+Katana:ComboCountSkill - Katana PA Combo <br>Retention
+Katana:Ambition - Fearless <br>Attitude
+BraverCounterArrow - Bow Elusion <br>Counter
+BraverCompoundbowHoming - Tracer Arrow
+BraverCompoundbowSlideDodge - Bow Elusion <br>Plus
+
+
+Common
+Group 0
+YesText - はい
+NoText - いいえ
+CloseText - 閉じる
+OpenText - 開く
+MaxText - 最大化
+MinText - 最小化
+Sort - ソート
+Copy - コピー
+Peaste - 貼りつけ
+NextText - 次へ
+PrevText - 前へ
+DecideText - 決定
+CancelText - キャンセル
+OKText - OK
+ReturnText - 戻る
+TitleText - メッセージ
+CheckText - 以降、このウィンドウを開かない
+NoneText - なし
+Preview - プレビュー
+SimplePreview - 簡易プレビュー
+Skip - 次に表示される選択肢、または終了まで<br>イベントシーンをスキップします。<br><br>よろしいですか？
+SkipMovie - 動画再生を終了します。<br><br>よろしいですか？
+SymbolArt_BANtext - そのシンボルアートは、現在保存することができません。
+TimeText - $(0)分$(1)秒$(2)
+NumItem - $(0)を$(1)個
+NumItem2 - $(0)×$(1)
+Bracket - （$(0)）
+SquareBracket - 「$(0)」
+SkipNaviKey - <yellow>【[Esc]キー】<c>でスキップ
+SkipNaviButton - <yellow>【<c><%AllWindowClose><yellow>ボタン】<c>でスキップ
+PreviewZoom - <%Exception><pict 4space>モード切替（<c cfcfcf>回転拡大<c>/<yellow>平行移動<c>）
+PreviewZoom_mouse - <pict mouse_right><pict 4space>モード切替（<c cfcfcf>回転拡大<c>/<yellow>平行移動<c>）
+PreviewMove - <%Exception><pict 4space>モード切替（<yellow>回転拡大<c>/<c cfcfcf>平行移動<c>）
+PreviewMove_mouse - <pict mouse_right><pict 4space>モード切替（<yellow>回転拡大<c>/<c cfcfcf>平行移動<c>）
+CBT_BillingRestrictions - クローズドベータテストでは、<br>ACを購入できません。
+
+Group 1
+YesText - Yes
+NoText - No
+CloseText - Close
+OpenText - Open
+MaxText - Maximize
+MinText - Minimize
+Sort - Sort
+Copy - Copy
+Peaste - Paste
+NextText - Next
+PrevText - Previous
+DecideText - Confirm
+CancelText - Cancel
+OKText - OK
+ReturnText - Back
+TitleText - MESSAGE
+CheckText - This window won't open again.
+NoneText - None
+Preview - Preview
+SimplePreview - Simplified Preview
+Skip - Are you sure you want to skip the event scene and go <br>to the next set of choices or the end?
+SkipMovie - Playback of the current scene will end.<br><br>Are you sure?
+SymbolArt_BANtext - You currently can't save that Symbol Art.
+TimeText - $(0) minute(s), $(1) second(s) $(2)
+NumItem - $(1) $(0)(s)
+NumItem2 - $(0) × $(1)
+Bracket - ($(0))
+SquareBracket - [$(0)]
+SkipNaviKey - Press the <yellow>[Esc Key]<c> to skip.
+SkipNaviButton - Press the <yellow>[<c><%AllWindowClose><yellow> Button]<c> to skip.
+PreviewZoom - Toggle <%Exception> Mode: (<c cfcfcf>Rotate and Zoom<c>/<yellow>Lateral Movement<c>)
+PreviewZoom_mouse - Toggle <pict mouse_right> Mode: (<c cfcfcf>Rotate and Zoom<c>/<yellow>Lateral Movement<c>)
+PreviewMove - Toggle <%Exception> Mode: (<yellow>Rotate and Zoom<c>/<c cfcfcf>Lateral Movement<c>)
+PreviewMove_mouse - Toggle <pict mouse_right> Mode: (<yellow>Rotate and Zoom<c>/<c cfcfcf>Lateral Movement<c>)
+CBT_BillingRestrictions - クローズドベータテストでは、<br>ACを購入できません。*
+
+
+TargetInfo
+Group 0
+TargetInfo_Level - Lv.$(0)
+TargetInfo_Name - $(0) $(1)
+TargetInfo_WeekAndResist - $(0)
+TargetInfo_WeakPoint - 弱点
+TargetInfo_Resist - 耐性
+
+Group 1
+TargetInfo_Level - Lv. $(0)
+TargetInfo_Name - $(0) $(1)
+TargetInfo_WeekAndResist - $(0)
+TargetInfo_WeakPoint - Weak to:
+TargetInfo_Resist - Resistant to:
+
+
+PlayerStatus
+Group 0
+Title - 簡易ステータス
+StatusLabePower - 戦闘力
+StatusLabeJob - $(0) 
+StatusLabelLevel - Lv.
+StatusLabelExp - 経験値
+MainStatusLabelExp - 経験値
+StatusLabelNextExp - 次のレベルまで
+MainStatusLabelNextExp - 次のレベルまで
+SubStatusLabelNextExp - 次のレベルまで（サブクラス）
+StatusLabelMeseta - <pict reb_meseta><pict 4space>メセタ
+StatusLabelSeasonPoint - 9周年シーズナルポイント
+StatusLabelSeasonPoint_1 - 9周年シーズナルポイント
+StatusLabelSeasonPoint_3 - お月見シーズナルポイント
+StatusLabelSeasonPointValue - $(1) /$(0)
+StatusLabelFun - FUN
+StatusLabelAc - AC
+StatusLabelTicket - プレミアム有効期間
+StatusLabeMainClass - メインクラス
+StatusLabelSubClass - サブクラス
+MiKakin - 未使用
+IsPremium - <yellow>プレミアム有効期間中<c>
+NonPremium - <red>プレミアム有効期限切れ<c>
+KakinGire - <red>期限切れ<c>
+NetCafe - <green>ネットカフェプレミアム<c>
+NoJob - なし
+Excube - キューブ獲得まで
+MainExcube - キューブ獲得まで
+SubExcube - キューブ獲得まで（サブクラス）
+ExpBlank - －
+StatusLabelSg - スタージェム（SG）
+LevelMax - （$(0)）
+LevelMaxHide - （－）
+RemainingDaysUp - あと$(0)日以上
+RemainingDays - あと$(0)日
+RemainingHour - あと約$(0)時間
+RemainingHourLess - あと$(0)時間未満
+StatusLabePowerAndMaxPower - 戦闘力
+StatusLabePowerAndMaxPowerNumber - $(0)
+GoToTask - <%Function>でタスク一覧を開く
+RemainingDayHourMin - あと$(0)日$(1)時間$(2)分
+StatusLabelSeasonPointPossession - 所持ポイント
+StatusLabelSeasonPointWeeklyLimit - ウィークリー獲得ポイント
+
+Group 1
+Title - BASIC STATS
+StatusLabePower - Battle Power
+StatusLabeJob - $(0) 
+StatusLabelLevel - Lv.
+StatusLabelExp - EXP
+MainStatusLabelExp - EXP
+StatusLabelNextExp - Until Next Level
+MainStatusLabelNextExp - Until Next Level
+SubStatusLabelNextExp - Until Next Level (Sub-Class)
+StatusLabelMeseta - <pict reb_meseta><pict 4space>N-Meseta
+StatusLabelSeasonPoint - 9th Anniversary Seasonal Points
+StatusLabelSeasonPoint_1 - 9th Anniversary Seasonal Points
+StatusLabelSeasonPoint_3 - Moonlight Seasonal Points
+StatusLabelSeasonPointValue - $(1) /$(0)
+StatusLabelFun - FUN
+StatusLabelAc - AC
+StatusLabelTicket - Premium Expiration
+StatusLabeMainClass - Main Class
+StatusLabelSubClass - Sub-Class
+MiKakin - Not Used
+IsPremium - <yellow>Premium Currently in Effect<c>
+NonPremium - <red>Premium Currently Expired<c>
+KakinGire - <red>Expired<c>
+NetCafe - <green>Net Café Premium<c>
+NoJob - None
+Excube - Until Cube Acquisition
+MainExcube - Until Cube Acquisition
+SubExcube - Until Cube Acquisition (Sub-Class)
+ExpBlank - -
+StatusLabelSg - Star Gems (SG)
+LevelMax - ($(0))
+LevelMaxHide - (-)
+RemainingDaysUp - $(0)+ days remaining
+RemainingDays - $(0) day(s) remaining
+RemainingHour - $(0) hour(s) remaining
+RemainingHourLess - Less than $(0) hour(s)
+StatusLabePowerAndMaxPower - Battle Power
+StatusLabePowerAndMaxPowerNumber - $(0)
+GoToTask - <%Function> to open Task Menu
+RemainingDayHourMin - $(0) day(s) $(1) hour(s) $(2) minute(s)
+StatusLabelSeasonPointPossession - Your Points
+StatusLabelSeasonPointWeeklyLimit - Points Earned This Week
+
+
+SkillParameter
+Group 0
+HateTime - 効果時間
+HateEffectValue - 効果量
+HealRate - 回復量
+DownRateAll - ダメージ軽減率
+AtpDownRate - 威力低下率
+PpUseUpRate - PP消費増加率
+PpUseDownRate - PP消費低下率
+CriticalRate - 会心距離時ゲージ蓄積量
+AtpAndDownRate - 威力・ダウン値上昇率
+Range - 効果範囲
+AtpRateLow - HP75％以上時威力
+DownRateLow - HP75％以上時ダウン値
+AtpRateHigh - HP100％時威力
+DownRateHigh - HP100％時ダウン値
+AtpRateProper - 会心距離クリティカル威力
+AtpRateMiss - 非適正距離クリティカル威力
+CriticalInstantProper - 会心距離クリティカル率
+CriticalInstantMiss - 非適正距離クリティカル率
+AttackSpeedRateLv1 - 50チェイン以下時攻撃速度
+AttackSpeedRateLv2 - 80チェイン以下時攻撃速度
+AttackSpeedRateLv3 - 81チェイン以上時攻撃速度
+AttackSpeedRateMax - 攻撃速度上昇上限
+AddPpMax - 増加PP
+MulMaxHpRate - HP消費率
+PpRate - 基準PP
+RecoveryEffectRateOther - 回復威力上昇率
+RecoveryEffectRateSelf - 回復威力上昇率
+AtpRateDown - 威力低下率
+DownRateDown - ダウン値低下率
+DfpRate - 被ダメージ低下率
+MaxTime - 最大効果時間
+CriticalInstantNeoTimeM - 75～99%時クリティカル率
+PpHealRateNeoTimeM - 75～99%時PP自動回復量
+CriticalInstantNeoTimeH - 100%時クリティカル率
+PpHealRateNeoTimeH - 100%時PP自動回復量
+DamageRate - 被ダメージ率
+BasePoint - 基準値
+PlusHealRate - 追加回復量
+SkillPpRate - 基準PP
+AttackDownRate - 物理ダウン時威力
+Count - 最大ストック数
+PhotonBlastGaugeAddValue - フォトンブラストゲージ上昇率
+PreCount - 初期ストック数
+AddRate - ウィークバレット強化率
+AddTime - ウィークバレット延長時間
+PbBonus - フォトンブラストゲージ上昇率
+PPRecover - PP回復量
+GrenadeAtpRate - グレネード威力
+TrapAtpRate - トラップ威力
+ForcePhotonFlareTecShortChargeRate - チャージ時間短縮率
+StatusEffectValueMain - 状態異常蓄積値(メイン)
+StatusEffectValueSub - 状態異常蓄積値(サブ)
+StatusEffectDurationMain - 状態異常時間(メイン)
+StatusEffectDurationSub - 状態異常時間(サブ)
+DecreaseHP - 消費HP
+PPRecoverRateMain - PP回復速度(メイン)
+PPRecoverRateSub - PP回復速度(サブ)
+ChargeDuration - チャージ時間
+PPRecoverRate - PP回復率
+MaxPPRecover - 最大PP回復量
+KillingPPRecover - 撃破時PP回復量
+DownPPRecover - ダウン時PP回復量
+EffectRange - 効果範囲
+PPRecoverValue - PP回復量
+DurationDecreaseRate - 持続時間減少率
+PPRecoverValueMain - PP回復量(メイン)
+PPRecoverValueSub - PP回復量(サブ)
+PhysicalDownAtpRateMain - 物理ダウン時威力(メイン)
+PhysicalDownAtpRateSub - 物理ダウン時威力(サブ)
+ElementDownAtpRateMain - 属性ダウン時威力(メイン)
+ElementDownAtpRateSub - 属性ダウン時威力(サブ)
+PhysicalDownPPRecoverRateMain - 物理ダウン時PP回復(メイン)
+PhysicalDownPPRecoverRateSub - 物理ダウン時PP回復(サブ)
+ElementDownPPRecoverRateMain - 属性ダウン時PP回復(メイン)
+ElementDownPPRecoverRateSub - 属性ダウン時PP回復(サブ)
+DamageRateMain - 被ダメージ率(メイン)
+DamageRateSub - 被ダメージ率(サブ)
+DamageStoreRate - ダメージ蓄積率
+DownRate - ダウン値増加
+ElementDownRate - 属性ダウン値増加
+DonwAtpRate - ダウン時威力
+StatusEffectValue - 状態異常蓄積値
+PPRecoverSpeed - PP自然回復速度
+MaxDuration - 最大効果時間
+EffectTime - 効果時間
+PBRateMain - PBゲージ上昇量(メイン)
+PBRateSub - PBゲージ上昇量(サブ)
+DecreaseTime - 減少時間
+ReduceRecast - リキャスト短縮
+DamageReductionMainRate - ダメージ軽減率(メイン)
+DamageReductionSubRate - ダメージ軽減率(サブ)
+PPHealPoint - PP回復量
+AddPP - PP回復量
+AttackDownSubRate - 物理ダウン時威力(サブ)
+ElementDownSubRate - 属性ダウン時威力(サブ)
+AttackDownPPRate - 物理ダウン時PP回復率
+ElementDownPPRate - 属性ダウン時PP回復率
+AttackDownPPSubRate - 物理ダウン時PP回復率(サブ)
+ElementDownPPSubRate - 属性ダウン時PP回復率(サブ)
+GuardRateMain - 状態異常蓄積率(メイン)
+GuardRateSub - 状態異常蓄積率(サブ)
+GuardRate - 状態異常蓄積率
+EaseRateMain - 状態異常時間(メイン)
+EaseRateSub - 状態異常時間(サブ)
+ForceTalisConcentrateRate - 持続時間
+ActionPpRate - PP消費低下率
+PpActionRateAccumulation - 消費PP変換率
+PpHealMaxVolume - PP回復量
+PpHealValue - PP回復量
+PpRecoveryDeathState - エネミー撃破時PP回復量
+MainRecoveryRate - PP自然回復量(メイン)
+SubRecoveryRate - PP自然回復量(サブ)
+Stock - 最大ストック数
+PpHealVal - PP回復量
+PpRecoveryRateMain - PP自然回復量(メイン)
+PpRecoveryRateSub - PP自然回復量(サブ)
+PBGaugeAddValueMain - PBゲージ上昇量(メイン)
+PBGaugeAddValueSub - PBゲージ上昇量(サブ)
+NumberRequired - 必要回数
+PhysicalDownRate - 物理ダウン値増加
+ElementDownAtpRate - 属性ダウン時威力
+AttackDownRateMain - 物理ダウン時威力(メイン)
+AttackDownPPRateMain - 物理ダウン時PP回復率(メイン)
+ElementDownPPRateMain - 属性ダウン時PP回復率(メイン)
+PpUse - PP消費量
+HealRateMain - 回復威力上昇率(メイン)
+HealRateSub - 回復威力上昇率(サブ)
+HpRecoveryRateMain - HP回復率(メイン)
+HpRecoveryRateSub - HP回復率(サブ)
+HpConversionRate - 1ヒット毎のHP回復率
+HpHealLimit - HP回復率上限
+PpConversionRate - 1ヒット毎のPP回復率
+PpHealLimit - PP回復率上限
+HomingAngularVelocity - 追尾性能
+HomingEndTime - 追尾時間
+
+Group 1
+HateTime - Effect Duration
+HateEffectValue - Effect Amount
+HealRate - Heal Amount
+DownRateAll - Damage Reduction Rate
+AtpDownRate - Potency Decrease Rate
+PpUseUpRate - PP Consumption Increase Rate
+PpUseDownRate - PP Consumption Decrease Rate
+CriticalRate - Optimal Range Gauge Build
+AtpAndDownRate - Potency/Down Factor Increase
+Range - Area of Effect
+AtpRateLow - Potency at 75% or more HP
+DownRateLow - Down Factor at 75% or more HP
+AtpRateHigh - Potency at full HP
+DownRateHigh - Down Factor at full HP
+AtpRateProper - Optimal Range Critical Potency
+AtpRateMiss - Flawed Range Critical Potency
+CriticalInstantProper - Optimal Range Critical Rate
+CriticalInstantMiss - Flawed Range Critical Rate
+AttackSpeedRateLv1 - Below 50 Chain Attack Speed
+AttackSpeedRateLv2 - Below 80 Chain Attack Speed
+AttackSpeedRateLv3 - Above 81 Chain Attack Speed
+AttackSpeedRateMax - Attack Speed Max Increase
+AddPpMax - Added PP
+MulMaxHpRate - HP Consumption Rate
+PpRate - Standard PP
+RecoveryEffectRateOther - Heal Potency Increase Rate
+RecoveryEffectRateSelf - Heal Potency Increase Rate
+AtpRateDown - Potency Decrease Rate
+DownRateDown - Down Factor Decrease
+DfpRate - Damage Taken Decrease Rate
+MaxTime - Max Effect Duration
+CriticalInstantNeoTimeM - 75-99% Critical Rate
+PpHealRateNeoTimeM - 75-99% Auto PP Recovery Amount
+CriticalInstantNeoTimeH - 100% Critical Rate
+PpHealRateNeoTimeH - 100% Auto PP Recovery Amount
+DamageRate - Damage Taken Rate
+BasePoint - Standard Value
+PlusHealRate - Additional Heal Amount
+SkillPpRate - Standard PP
+AttackDownRate - Physical Down Potency
+Count - Max Stock
+PhotonBlastGaugeAddValue - Photon Blast Gauge Increase Rate
+PreCount - Initial Stock
+AddRate - Blight Rounds Enhanc. Rate
+AddTime - Blight Rounds Time Extension
+PbBonus - Photon Blast Gauge Increase Rate
+PPRecover - PP Recovery Amount
+GrenadeAtpRate - Grenade Potency
+TrapAtpRate - Trap Potency
+ForcePhotonFlareTecShortChargeRate - Charge Time Shorten Rate
+StatusEffectValueMain - Status Ailment Efficacy (Main)
+StatusEffectValueSub - Status Ailment Efficacy (Sub)
+StatusEffectDurationMain - Status Ailment Duration (Main)
+StatusEffectDurationSub - Status Ailment Duration (Sub)
+DecreaseHP - HP Cost
+PPRecoverRateMain - PP Recovery Speed (Main)
+PPRecoverRateSub - PP Recovery Speed (Sub)
+ChargeDuration - Charge Time
+PPRecoverRate - PP Recovery Rate
+MaxPPRecover - Max PP Recovery
+KillingPPRecover - Defeat PP Recovery
+DownPPRecover -  PP Recovery when Downed
+EffectRange - Area of Effect
+PPRecoverValue - PP Recovery
+DurationDecreaseRate - Duration Decrease Rate
+PPRecoverValueMain - PP Recovery (Main)
+PPRecoverValueSub - PP Recovery (Sub)
+PhysicalDownAtpRateMain - Phy. Down Potency (Main)
+PhysicalDownAtpRateSub - Phy. Down Potency (Sub)
+ElementDownAtpRateMain - Elem. Down Potency (Main)
+ElementDownAtpRateSub - Elem. Down Potency (Sub)
+PhysicalDownPPRecoverRateMain - Phy. Down PP Recovery (Main)
+PhysicalDownPPRecoverRateSub - Phy. Down PP Recovery (Sub)
+ElementDownPPRecoverRateMain - Elem. Down PP Recovery (Main)
+ElementDownPPRecoverRateSub - Elem. Down PP Recovery (Sub)
+DamageRateMain - Damage Taken Rate (Main)
+DamageRateSub - Damage Taken Rate (Sub)
+DamageStoreRate - Damage Accumulation Rate
+DownRate - Down Factor Increase
+ElementDownRate - Elem. Down Factor Increase
+DonwAtpRate - Down Potency
+StatusEffectValue - Status Ailment Efficacy
+PPRecoverSpeed - Natural PP Recovery Speed
+MaxDuration - Max Effect Duration
+EffectTime - Effect Duration
+PBRateMain - PB Gauge Fortification (Main)
+PBRateSub - PB Gauge Fortification (Sub)
+DecreaseTime - Decrease Duration
+ReduceRecast - Cooldown Reduction
+DamageReductionMainRate - Damage Reduction Rate (Main)
+DamageReductionSubRate - Damage Reduction Rate (Sub)
+PPHealPoint - PP Recovery
+AddPP - PP Recovery
+AttackDownSubRate - Phy. Down Potency (Sub)
+ElementDownSubRate - Elem. Down Potency (Sub)
+AttackDownPPRate - Phy. Down PP Recover Rate
+ElementDownPPRate - Elem. Down PP Recover Rate
+AttackDownPPSubRate - Phy. Down PP Recovery (Sub)
+ElementDownPPSubRate - Elem. Down PP Recovery (Sub)
+GuardRateMain - Status Ailment Accum. (Main)
+GuardRateSub - Status Ailment Accum. (Sub)
+GuardRate - Status Ailment Accum.
+EaseRateMain - Status Ailment Duration (Main)
+EaseRateSub - Status Ailment Duration (Sub)
+ForceTalisConcentrateRate - Duration
+ActionPpRate - PP Consumption Decrease Rate
+PpActionRateAccumulation - PP Cost Conversion Rate
+PpHealMaxVolume - PP Recovery
+PpHealValue - PP Recovery
+PpRecoveryDeathState - Enemy Death PP Recovery
+MainRecoveryRate - Natural PP Recovery (Main)
+SubRecoveryRate - Natural PP Recovery (Sub)
+Stock - Max Stock
+PpHealVal - PP Recovery
+PpRecoveryRateMain - Natural PP Recovery (Main)
+PpRecoveryRateSub - Natural PP Recovery (Sub)
+PBGaugeAddValueMain - PB Gauge Fortification (Main)
+PBGaugeAddValueSub - PB Gauge Fortification (Sub)
+NumberRequired - Number Required
+PhysicalDownRate - Phy. Down Factor Increase
+ElementDownAtpRate - Elem. Down Potency
+AttackDownRateMain - Phy. Down Potency (Main)
+AttackDownPPRateMain - Phy. Down PP Recovery (M)
+ElementDownPPRateMain - Elem. Down PP Recovery (M)
+PpUse - PP Consumption
+HealRateMain - Heal Potency Incrse Rate (Main)
+HealRateSub - Heal Potency Incrse Rate (Sub)
+HpRecoveryRateMain - HP Recovery Rate (Main)
+HpRecoveryRateSub - HP Recovery Rate (Sub)
+HpConversionRate - HP Recovery Rate/Hit
+HpHealLimit - HP Recovery Rate Limit
+PpConversionRate - PP Recovery Rate/Hit
+PpHealLimit - PP Recovery Rate Limit
+HomingAngularVelocity - Homing Ability
+HomingEndTime - Homing Time
+
+
+ActionDetails
+Group 0
+PATitle - フォトンアーツ詳細
+TechnicTitle - テクニック詳細
+OverloadTitle - 複合テクニック詳細
+SkillTitle - スキル詳細
+NoSelectPAMessage - フォトンアーツが選択されていません
+NoSelectTechnicMessage - テクニックが選択されていません
+NoSelectOverloadMessage - 複合テクニックが選択されていません
+Power - 威力
+Dex - 技量補正
+NeedPp - 消費PP
+PowerValue - $(0)
+DexValue - $(0)％
+EffectValue - $(0)％
+Burn - バーン
+Shock - ショック
+Freeze - フリーズ
+Bind - バインド
+Silence - サイレンス
+Poison - ポイズン
+Break - ブレイク
+Injury - インジュリー
+Curse - カース
+Stun - スタン
+Panic - パニック
+Mirage - ミラージュ
+TechnicCustomize - カスタマイズ性能
+Merit - メリット
+Demerit - デメリット
+Special - 特殊効果
+Custom1 - カスタムタイプ1
+Custom2 - カスタムタイプ2
+ActionChange - 挙動変化
+PetTitle - ペット詳細
+NeedGauge - 消費ストック
+NeedGaugeValue - $(0) (ストック数上限 $(1))
+NotFoundGaugeValue - 現在装備している武器では<br>解式PAは使用できません。
+
+Group 1
+PATitle - PHOTON ART DETAILS
+TechnicTitle - TECHNIQUE DETAILS
+OverloadTitle - FUSED TECHNIQUE DETAILS
+SkillTitle - SKILL DETAILS
+NoSelectPAMessage - No Photon Art currently selected.
+NoSelectTechnicMessage - No Technique currently selected.
+NoSelectOverloadMessage - No Fused Technique currently selected.
+Power - Potency
+Dex - DEX Correction
+NeedPp - PP Cost
+PowerValue - $(0)
+DexValue - $(0)%
+EffectValue - $(0)%
+Burn - Burned
+Shock - Shocked
+Freeze - Frozen
+Bind - Bound
+Silence - Silenced
+Poison - Poisoned
+Break - Broken
+Injury - Injured
+Curse - Cursed
+Stun - Stunned
+Panic - Panicked
+Mirage - Blinded
+TechnicCustomize - Customized Ability
+Merit - Merit
+Demerit - Demerit
+Special - Special Effect
+Custom1 - Custom Type 1
+Custom2 - Custom Type 2
+ActionChange - Action Change
+PetTitle - PET DETAILS
+NeedGauge - Stock Cost
+NeedGaugeValue - $(0) (Max stock: $(1))
+NotFoundGaugeValue - Buildup Photon Arts cannot be used with your currently equipped weapons.
+
+
+CostumeGauge
+Group 0
+MyshopTitle - 出品確認
+MyshopMessage - スタージェムを入手していない服を<br>登録しようとしています。<br>よろしいですか？
+TradeTitle - 登録確認
+TradeMessage - スタージェムを入手していない服を<br>登録しようとしています。<br>よろしいですか？
+TeamWarehouseTitle - メッセージ
+TeamWarehouseMessage - スタージェムを入手していない服を<br>チーム倉庫に預けようとしています。<br><br>チーム倉庫に預けた服の愛着度ゲージは<br>リセットされます。<br><br>よろしいですか？
+TeamWarehouseTitle2 - メッセージ
+TeamWarehouseMessage2 - このアイテムをチーム倉庫に移動します。<br>よろしいですか？<br><br>チーム倉庫に預けた服の愛着度ゲージは<br>リセットされます。<br><br><yellow>※チーム倉庫は他プレイヤーも利用するので<br>　ご利用の際はご注意ください。<c>
+PresentBoxTitle - メッセージ
+PresentBoxMessage - スタージェムを入手していない服を<br>プレゼントボックスに入れようとしています。<br>よろしいですか？
+GachaTitle - メッセージ
+GachaMessage - スタージェムを入手していない服を<br>フォトガチャンに入れようとしています。<br>よろしいですか？
+RecycleTitle - 確認
+RecycleMessage - <c f0df60>$(0)<c>×$(1)<br>と、選択したアイテムを交換します。<br><yellow>※以下のアイテム以外は消費されません。<c><br><red>※選択したアイテムにスタージェムを<br>入手していない服が含まれています。<c><br>よろしいですか？
+RecycleMessageVita - <c f0df60>$(0)<c>×$(1)<br>と、選択したアイテムを交換します。<br><yellow>※以下のアイテム以外は消費されません。<c><br><red>※選択したアイテムにスタージェムを<br>入手していない服が含まれています。<c><br>よろしいですか？
+RewardPopupMenu - スタージェムを入手する
+RewardTitle - スタージェム入手確認
+RewardMessage - 愛着度ゲージが最大になったため、<br>この服からスタージェムを入手できます。<br><br>スタージェムを入手しますか？
+RewardGetFailed - スタージェムを入手できませんでした。
+
+Group 1
+MyshopTitle - CONFIRM ITEM(S) FOR SALE
+MyshopMessage - You are about to register clothing for which<br>no Star Gems have been acquired.<br>Are you sure you wish to proceed?
+TradeTitle - CONFIRM REGISTRATION
+TradeMessage - You are about to register clothing for which<br>no Star Gems have been acquired.<br>Are you sure you wish to proceed?
+TeamWarehouseTitle - WARNING
+TeamWarehouseMessage - You are about to place clothing for which<br>no Star Gems have been acquired into your<br>Alliance Storage.<br><br>The Affinity Gauge will be reset for clothing placed<br>in Alliance Storage.<br><br>Are you sure you wish to proceed?
+TeamWarehouseTitle2 - WARNING
+TeamWarehouseMessage2 - You are about to move this item into your Alliance Storage. <br>Are you sure you wish to proceed?<br><br>The Affinity Gauge will be reset for clothing placed<br>in Alliance Storage.<br><br><yellow>Note: Your Alliance Storage may be used by other <br>players as well.<c>
+PresentBoxTitle - WARNING
+PresentBoxMessage - You are about to place clothing for which no<br>Star Gems have been acquired into a gift box.<br>Are you sure you wish to proceed?
+GachaTitle - WARNING
+GachaMessage - You are about to place clothing for which<br>no Star Gems have been acquired<br>into a Photon Capsule Machine.<br>Are you sure you wish to proceed?
+RecycleTitle - CONFIRM
+RecycleMessage - You are about to exchange <c f0df60>$(0)<c> × $(1) for the selected item(s).<br><yellow>No items other than those listed below will be consumed.<c><br><red>Note: The selected item(s) include clothing for which no Star Gems<br>have been acquired.<c><br>Are you sure you wish to proceed?
+RecycleMessageVita - You are about to exchange <c f0df60>$(0)<c> × $(1) for the selected item(s).<br><yellow>No items other than those listed below will be consumed.<c><br><red>Note: The selected item(s) include clothing for which no Star Gems<br>have been acquired.<c><br>Are you sure you wish to proceed?
+RewardPopupMenu - Acquire Star Gem(s)
+RewardTitle - CONFIRM STAR GEM ACQUISITION
+RewardMessage - You can acquire Star Gem(s) for this clothing<br>because its Affinity Gauge is now maxed out.<br><br>Would you like to acquire the Star Gem(s)?
+RewardGetFailed - Unable to acquire Star Gem(s).
+
+
+CharaMenu
+Group 0
+CharaMenu_Party00 - パーティー
+CharaMenu_Party01 - パーティーに招待する
+CharaMenu_Party02 - パーティーリーダー交代
+CharaMenu_Party03 - パーティーから外す
+CharaMenu_Party04 - パーティーに参加する
+CharaMenu_Bl01 - ブロックリストに登録
+CharaMenu_Bl02 - ブロックリスト登録解除
+CharaMenu_Guild00 - チーム
+CharaMenu_Guild01 - チームにスカウトする
+CharaMenu_Guild02 - チームマスターを譲る
+CharaMenu_Guild03 - チームから除名する
+CharaMenu_Guild04 - マネージャーに昇格する
+CharaMenu_Guild05 - コモンメンバーに昇格する
+CharaMenu_Guild06 - コモンメンバーに降格する
+CharaMenu_Guild07 - ビジターに降格する
+CharaMenu_Guild08 - チームの合併を申し込む
+CharaMenu_Chat01 - ウィスパーチャットを送る
+CharaMenu_Chat02 - -
+CharaMenu_Mail01 - メールを送る
+CharaMenu_Item01 - -
+CharaMenu_Item02 - アイテムトレードを申し込む<pict Arcscash>
+CharaMenu_Friend01 - フレンド登録を申し込む
+CharaMenu_Friend02 - フレンド登録解除
+CharaMenu_Friend03 - ログインコールを受け取る
+CharaMenu_Friend04 - ログインコールを受け取らない
+CharaMenu_Friend05 - このブロックに移動
+CharaMenu_Friend06 - アークスカードを見る
+CharaMenu_Friend07 - 表示優先度設定
+CharaMenu_Friend08 - グループ設定
+CharaMenu_MyRoom01 - マイルームから退室させる
+CharaMenu_MyRoom02 - マイルームを訪問する
+CharaMenu_Chara01 - グッジョブを送る
+CharaMenu_Chara02 - キャラクター情報を見る
+CharaMenu_Chara03 - ファッション情報を見る
+CharaMenu_Chara04 - コーデカタログを見る
+CharaMenu_Chara05 - アザーファッションに登録する
+CharaMenu_Apc01 - パーティーから外す
+CharaMenu_Action01 - モノマネ
+CharaMenu_Action02 - リアクション
+ClickCharaName - $(0)を選択しました。
+CharaMenu_Error01 - 自分のアカウントは選択することはできません。
+CharaMenu_Message_Delete01 - メッセージを削除する
+CharaMenu_GuildRoom01 - チームルームを訪問する
+CharaMenu_GuildRoom02 - チームルームから退室させる
+CharaMenu_moralskeeper_category - パーソナルコマンド
+CharaMenu_moralskeeper_menu - このプレイヤーを報告する
+CharaMenu_category00 - キャラクター
+CharaMenu_category01 - コミュニケーション
+CharaMenu_category02 - フレンド
+CharaMenu_category03 - その他
+CharaMenu_Error02 - このキャラクターは選択できません。
+CharaMenu_TypeChange - 表示形式の切り替え
+CharaMenu_ToastType1 - 表示をカテゴリー形式に切り替えました。
+CharaMenu_ToastType2 - 表示を一覧形式に切り替えました。
+CharaMenu_GroupChat - グループ
+CharaMenu_GroupChatChange - リーダーを交代する
+CharaMenu_GroupChatDelete - メンバーを除名する
+CharaMenu_Gamertag - ゲーマーカードを見る
+
+Group 1
+CharaMenu_Party00 - Party
+CharaMenu_Party01 - Invite to Party
+CharaMenu_Party02 - Change Party Leader
+CharaMenu_Party03 - Remove from Party
+CharaMenu_Party04 - Join party
+CharaMenu_Bl01 - Add to Blocklist
+CharaMenu_Bl02 - Remove from Blocklist
+CharaMenu_Guild00 - Alliance
+CharaMenu_Guild01 - Scout for Alliance
+CharaMenu_Guild02 - Surrender Alliance Leadership
+CharaMenu_Guild03 - Remove from Alliance
+CharaMenu_Guild04 - Promote to Officer
+CharaMenu_Guild05 - Promote to Member
+CharaMenu_Guild06 - Demote to Member
+CharaMenu_Guild07 - Demote to Provisional
+CharaMenu_Guild08 - Initiate Alliance Union
+CharaMenu_Chat01 - Send Whisper Chat
+CharaMenu_Chat02 - -
+CharaMenu_Mail01 - Send Mail
+CharaMenu_Item01 - -
+CharaMenu_Item02 - Initiate Item Trading <pict Arcscash>
+CharaMenu_Friend01 - Send Friend Request
+CharaMenu_Friend02 - Remove Friend
+CharaMenu_Friend03 - Receive Login Announcements
+CharaMenu_Friend04 - Don't Receive Login Announcements
+CharaMenu_Friend05 - Transfer to This Block
+CharaMenu_Friend06 - View ARKS ID
+CharaMenu_Friend07 - Display Priority Settings
+CharaMenu_Friend08 - Group Settings
+CharaMenu_MyRoom01 - Exit Personal Quarters
+CharaMenu_MyRoom02 - Visit Personal Quarters
+CharaMenu_Chara01 - Send Kudos
+CharaMenu_Chara02 - View Character Info
+CharaMenu_Chara03 - View Look Breakdown
+CharaMenu_Chara04 - View Lookbook
+CharaMenu_Chara05 - Add to Other Fashion
+CharaMenu_Apc01 - Remove from Party
+CharaMenu_Action01 - Impersonate
+CharaMenu_Action02 - Reaction
+ClickCharaName - You selected $(0).
+CharaMenu_Error01 - You can't select your own account.
+CharaMenu_Message_Delete01 - Delete Message
+CharaMenu_GuildRoom01 - Visit Alliance Quarters
+CharaMenu_GuildRoom02 - Exit Alliance Quarters
+CharaMenu_moralskeeper_category - Personal Commands
+CharaMenu_moralskeeper_menu - Report This Player
+CharaMenu_category00 - Characters
+CharaMenu_category01 - Communication
+CharaMenu_category02 - Friends
+CharaMenu_category03 - Miscellaneous
+CharaMenu_Error02 - You can't select this character.
+CharaMenu_TypeChange - Switch Display Mode
+CharaMenu_ToastType1 - Switch Display Mode to Category View
+CharaMenu_ToastType2 - Switch Display Mode to Summary View
+CharaMenu_GroupChat - Group
+CharaMenu_GroupChatChange - Change Leader
+CharaMenu_GroupChatDelete - Remove Member
+CharaMenu_Gamertag - View GamerCard
+
+
+ClassCounter
+Group 0
+OperationGuide - <%Decide>選択　<%Cancel>戻る
+Title - クラスカウンター
+MainClass - メインクラス
+SubClass - サブクラス
+Class - クラス
+MainClassSelect - メインクラス選択
+SubClassSelect - サブクラス選択
+ClassSelect - クラス選択
+SkillTree - スキルツリー
+SkillTreeConfig - クラススキル習得
+SkillTreeSelect - スキルツリー選択
+ClassChangeTitle - クラス変更
+AutoSkillTreeConfig - オススメ設定
+ClassLevel - Lv.(MAX)
+SkillTreeConfirmTitle - スキル確認
+MainClassChangeMessage - $(0) Lv.$(1)にメインクラスを変更します。<br>よろしいですか？
+MainClassChangeSuccess - メインクラスを変更しました。
+SubClassChangeMessage - $(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>　・ステータスの能力値が少し加算されます。<br>　・スキルが使用可能になります。<br>　・ＰＡ／テクニックが使用可能になります。<br><br>よろしいですか？
+SubClassChangeMessageVillain - $(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>　・ステータスの能力値が少し加算されます。<br>　・スキルが使用可能になります。<br>　・テクニックが使用可能になります。<br>　<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？
+SubClassChangeMessageMaster - $(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>　・ステータスの能力値が少し加算されます。<br>　・スキルが使用可能になります。<br>　<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？
+SubClassChangeMessageSlayer - $(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>　・ステータスの能力値が少し加算されます。<br>　・スキルが使用可能になります。<br>　<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？
+SubClassChangeSuccess - サブクラスを変更しました。
+ClassChangeMessage - $(0) Lv.$(1)にクラスを変更します。<br>よろしいですか？
+ClassChangeSuccess - クラスを変更しました。
+ClassChangeFailed - 現在クラスを変更することはできません。
+ClassChangeFailMessage - $(0)は現在のクラスです。<br>変更の必要はありません。
+MainClassChangeFailMessage - $(0)は現在のメインクラスです。
+SubClassChangeFailMessage - $(0)は現在のサブクラスです。
+SubClassChangeWpnmanFailMessage - $(0)はサブクラスを選択できません。
+MainClassChangeWpnmanMessage - <yellow>※$(0)を選択すると、サブクラスが外れます。<c>
+MainClassChangeWpnmanFailMessage - $(0)を選択するには<br>以下の条件を達成する必要があります。<br><br>・コフィーのクライアントオーダー<br>「$(0)クラス解放試験」のクリア<br><yellow>　※いずれかのクラスレベルを７５にすると発生します。<br>　※一度クライアントオーダーをクリアした場合、<br>　　以降のキャラクターは<br>　　レベル７５にする必要はありません。<c>
+MainClassChangeVillainFailMessage - $(0)を選択するには<br>以下の条件を達成する必要があります。<br><br>・コフィーのクライアントオーダー<br>「$(0)クラス解放試験」のクリア<br><yellow>　※いずれかのクラスレベルを７５にすると発生します。<br>　※一度クライアントオーダーをクリアした場合、<br>　　以降のキャラクターは<br>　　レベル７５にする必要はありません。<c>
+MainClassChangeEtoileFailMessage - $(0)を選択するには<br>以下の条件を達成する必要があります。<br><br>・コフィーのクライアントオーダー<br>「$(0)クラス解放試験」のクリア<br><yellow>　※いずれかのクラスレベルを７５にすると発生します。<br>　※一度クライアントオーダーをクリアした場合、<br>　　以降のキャラクターは<br>　　レベル７５にする必要はありません。<c>
+MainClassChangeSlayerFailMessage - $(0)を選択するには<br>以下の条件を達成する必要があります。<br><br>・コフィーのクライアントオーダー<br>「$(0)クラス解放試験」のクリア<br><yellow>　※いずれかのクラスレベルを７５にすると発生します。<br>　※一度クライアントオーダーをクリアした場合、<br>　　以降のキャラクターは<br>　　レベル７５にする必要はありません。<c>
+SkillTreeAdd - スキルツリー追加<pict Arcscash>
+SkillTreeReset - スキルツリー振り替え<pict Arcscash>
+SkillTreeResetSG - スキルツリー振り替え<pict StarGem>
+SkillTreeResetAll - 全スキルツリー初期化
+SkillTreeGet - クラススキル習得
+SkillTreeReturn - クラスカウンターを出る
+ClassList - クラスリスト
+SkillTreeList - セットしたいスキルツリーリスト
+SkillTreeAddAsk - スキルツリーを追加します。<br>よろしいですか？
+SkillTreeAddSuccess - スキルツリーを追加しました。
+SkillTreeAddFailed - スキルツリーの追加に失敗しました。
+SkillTreeAddFailedFull - これ以上追加できません。
+SkillTreeApplyAsk - このスキルツリーをセットします。<br>よろしいですか？
+SkillTreeApplySuccess - スキルツリーをセットしました。
+SkillTreeApplyFailed - スキルツリーのセットに失敗しました。
+SkillTreeApplyFailedCurrent - すでにこのスキルツリーをセットしています。
+SkillTreeApplyFailedQuest - クエスト受注中はクラスを変更することが<br>できません。
+SkillTreeResetAsk - このスキルツリーを振り替えます。<br>よろしいですか？
+SkillTreeResetSuccess - スキルツリーを振り替えました。
+SkillTreeResetFailed - スキルツリーの振り替えに失敗しました。
+SkillTreeResetFailedCurrent - セット中のスキルツリーは振り替えができません。
+SkillTreeResetAllAsk - “N-全スキルツリー初期化”を消費して<br>所持している全てのスキルツリーを<br>初期化し、SPを振り直しできるようにします。<br><br>よろしいですか？
+SkillTreeResetAllSuccess - すべてのスキルツリーを初期化しました。<br>再度、SPの割り振りを忘れず行ってください。
+SkillTreeResetAllFailed - すべてのスキルツリーの初期化に失敗しました。<br>時間をおいて再度実行してください。
+SkillTreeResetAllFailedNG - “N-全スキルツリー初期化”を<br>所持していないため、<br>初期化することはできません。
+ClassSelectExplain - <c f0df60>「クラス選択」で現在のクラスを変更できます。　「スキルツリー選択」は複数のスキルツリー所有時にセットするものを選択できます。<c>
+ClassSelectExplain_v - <c f0df61>「クラス選択」でクラスを変更、　「スキルツリー選択」でスキルツリー複数所有時に選択を行います。<c>
+SkillTreeAddPath - <pict Arcscash><pict 4space><c ff4f3f>AC消費コンテンツ<c><br>$(0)用のスキルツリーを追加します。<br><yellow>“N-スキルツリー追加”<c>の購入確認画面に<br>進みますか？<br><br>（所持数：$(1)）
+SkillTreeAddTicket - <pict Arcscash><pict 4space><c 5fdf00>購入済アイテムの使用<c><br><yellow>“N-スキルツリー追加”<c>を使用し、<br>$(0)用のスキルツリーを追加しますか？<br><br>（所持数：$(1)）
+SkillTreeResetPath - <pict Arcscash><c ff4f3f>AC消費コンテンツ<c><br><yellow>“N-追加スキルツリー振り替え”<c>の<br>購入確認画面に進みますか？<br><br>振り替え前　　/ $(1) 用スキルツリー<br>振り替え後　　/ $(0) 用スキルツリー<br><br>（所持数：$(2)）
+SkillTreeResetPathSG - <pict StarGem><c 1dedd7>SG消費コンテンツ<c><br><yellow>“N-追加スキルツリー振り替え”<c>の<br>購入確認画面に進みますか？<br><br>振り替え前　　 / $(1) 用スキルツリー<br>振り替え後　　 / $(0) 用スキルツリー<br><br>（所持数：$(2)）
+SkillTreeResetTicket - <pict Arcscash><pict 4space><c 5fdf00>購入済アイテムの使用<c><br><yellow>“N-追加スキルツリー振り替え”<c>を使用し、<br>スキルツリーを振り替えますか？<br><br>振り替え前　　/ $(1) 用スキルツリー<br>振り替え後　　/ $(0) 用スキルツリー<br><br>（所持数：$(2)）
+SkillTreeResetTicketSG - <pict StarGem><pict 4space><c 5fdf00>購入済アイテムの使用<c><br><yellow>“N-追加スキルツリー振り替え”<c>を使用し、<br>スキルツリーを振り替えますか？<br><br>振り替え前　　/ $(1) 用スキルツリー<br>振り替え後　　/ $(0) 用スキルツリー<br><br>（所持数：$(2)）
+SkillTreeExplain - <c f0df60>スキルポイント(SP)を消費して、クラススキルを習得できます。SPはレベルアップ時に獲得できます。<%NextTabDetails><c f0df60>で詳細を確認できます。<c>
+SkillTreeExplain_v - <c f0df60>スキルポイント(SP)を消費して、クラススキルを習得できます。SPはレベルアップ時に獲得できます。<c>
+SkillTreeAddExplain - <c f0df60>“N-スキルツリー追加”を使用またはACで購入して、スキルツリーを追加することができます。<c>
+SkillTreeResetExplain - <c f0df60>“N-追加スキルツリー振り替え”を使用またはACで購入して、スキルツリーを初期化できます。最初に、振り替えるツリーを選択してください。<c>
+SkillTreeResetExplainSG - <c f0df60>“N-追加スキルツリー振り替え”を使用またはＳＧで購入して、スキルツリーを初期化できます。最初に、振り替えるツリーを選択してください。<c>
+SkillTreeResetExplain_v - <c f0df61>“N-追加スキルツリー振り替え”を使用、またはACで購入して、スキルツリーを初期化できます。
+SkillTreeResetExplainSG_v - <c f0df61>“N-追加スキルツリー振り替え”を使用、またはＳＧで購入して、スキルツリーを初期化できます。<c>
+SkillTreeReset2Explain - <c f0df60>選択したツリーを、<yellow>別のクラス用に振り替えることも可能です。<c f0df60>どのクラス用に振り替えるか選択してください。<c>
+SkillTreeReset2Explain_v - <c f0df60>選択したツリーを、<yellow>別のクラス用に振り替えることも可能です。<c f0df61>クラスを選択してください。<c>
+ClassCounterExplain - <c f0df60>クラスを変更したり、スキルツリーでクラススキルを習得したりできます。<c>
+SkillTreeAddNum - スキルツリー追加可能数
+Check - 確認
+SkillTreeInfoTitle - クラス・スキルツリー情報
+SkillTreeTotal - 追加スキルツリー総数
+TreeListCaption - ツリー($(0)）
+TreeListPoint - 残りSP
+MoreDetails - <pict Sign_SELECT>で更に詳細
+MySetExplain - <c f0df60>マイセットを保存したり、適用することができます。<c>
+MySetExplain2button - <c f0df60>マイセットを保存したり、適用することができます。<c><red>※現在の操作タイプは2ボタンタイプです。<c>
+MySetExplain3button - <c f0df60>マイセットを保存したり、適用することができます。<c><red>※現在の操作タイプは3ボタンタイプです。<c>
+ManualSkillTreeGet - 自分で振り分ける
+AutoSkillTreeGet - オススメ設定
+AutoSkillTreeAsk - 自動的にスキルポイントを振り直します。<br>よろしいですか？<br><yellow>※習得済みスキルも含め<br>　スキルツリーが上書きされます。<c>
+AutoSkillTreeList - オススメ設定された以下のスキルを上書きします。<br>よろしいですか？<br><br><red>※任意で振り直したい場合は<br>全スキルツリー初期化パスが必要になります。<c>
+AutoSkillTreeListVita - オススメ設定された以下のスキルを上書きします。<br>よろしいですか？<br><red>※任意で振り直したい場合は<br>全スキルツリー初期化パスが必要になります。<c>
+AutoSkillTreeSuccess - オススメスキルを上書きしました。
+AutoSkillTreeFailed - オススメスキルの上書きに失敗しました。
+
+Group 1
+OperationGuide - <%Decide>Select <%Cancel>Back
+Title - CLASS COUNTER
+MainClass - Main Class
+SubClass - Sub-Class
+Class - Class
+MainClassSelect - Select Main Class
+SubClassSelect - Select Sub-Class
+ClassSelect - Select Class
+SkillTree - Skill Tree
+SkillTreeConfig - Learn Class Skill
+SkillTreeSelect - Select Skill Tree
+ClassChangeTitle - Change Class
+AutoSkillTreeConfig - Recommended Setup
+ClassLevel - Level (MAX)
+SkillTreeConfirmTitle - CHECK SKILLS
+MainClassChangeMessage - Are you sure you want to change your Main Class to<br>Level $(1) $(0)?
+MainClassChangeSuccess - You changed your Main Class.
+SubClassChangeMessage - You are about to select<br>Level $(1) $(0) as your Sub-Class.<br>The following effects will be applied<br>for the class you select as your Sub-Class:<br>- Stat ability values will be slightly supplemented.<br>- Skills will become usable.<br>- Photon Arts / Techniques will become usable.<br>Are you sure you wish to proceed?
+SubClassChangeMessageVillain - You are about to select<br>Level $(1) $(0) as your Sub-Class.<br>The following effects will be applied<br>to the class you select as your Sub-Class:<br>- Stat ability values will be slightly supplemented.<br>- Skills will become usable.<br>- Techniques will become usable.<br><yellow>$(0) Photon Arts won't be usable.<c><br>Are you sure you wish to proceed?
+SubClassChangeMessageMaster - You are about to select Level $(1) $(0) as your Sub-Class.<br>The following effects will be applied:<br><br>- Stat ability values will be slightly supplemented.<br>- Skills will become usable.<br><yellow>*$(0) Photon Arts won't be usable.<c><br><br>Are you sure you wish to proceed?
+SubClassChangeMessageSlayer - You are about to select Level $(1) $(0) as your Sub-Class.<br>The following effects will be applied:<br><br>- Stat ability values will be slightly supplemented.<br>- Skills will become usable.<br><yellow>*$(0) Photon Arts won't be usable.<c><br><br>Are you sure you wish to proceed?
+SubClassChangeSuccess - You changed your Sub-Class.
+ClassChangeMessage - Are you sure you want to change your class to<br>Level $(1) $(0)?
+ClassChangeSuccess - You changed your class.
+ClassChangeFailed - You can't change your current class.
+ClassChangeFailMessage - Your current class is $(0).<br>You don't need to change your class.
+MainClassChangeFailMessage - Your current Main Class is $(0).
+SubClassChangeFailMessage - Your current Sub-Class is $(0).
+SubClassChangeWpnmanFailMessage - The $(0) class doesn't support selection of a Sub-Class.
+MainClassChangeWpnmanMessage - <yellow>Note: Your current Sub-Class will be removed if you select $(0).<c>
+MainClassChangeWpnmanFailMessage - You must satisfy the following condition<br>in order to select the $(0) class.<br><br>- Complete the Cofy Client Order entitled<br>[$(0) Class Unlock Test].<br><yellow>Will become available when any<br>of your classes reach Level 75.<br>After completing the Client Order once,<br>you will no longer need to reach Level 75<br>with any subsequent characters.<c>
+MainClassChangeVillainFailMessage - You must satisfy the following condition<br>in order to select the $(0) class.<br><br>- Complete the Cofy Client Order entitled<br>[$(0) Class Unlock Test].<br><yellow>Will become available when any<br>of your classes reach Level 75.<br>After completing the Client Order once,<br>you will no longer need to reach Level 75<br>with any subsequent characters.<c>
+MainClassChangeEtoileFailMessage - You must satisfy the following condition<br>in order to select the $(0) class.<br><br>- Complete the Cofy Client Order entitled<br>"$(0) Class Unlock Test."<br><yellow>Will become available when any<br>of your classes reach Level 75.<br>After completing the Client Order once,<br>you will no longer need to reach Level 75<br>with any subsequent characters.<c>
+MainClassChangeSlayerFailMessage - You must satisfy the following condition<br>in order to select the $(0) class.<br><br>- Complete the Cofy Client Order entitled<br>"$(0) Class Unlock Test."<br><yellow>Will become available when any<br>of your classes reach Level 75.<br>After completing the Client Order once,<br>you will no longer need to reach Level 75<br>with any subsequent characters.<c>
+SkillTreeAdd - Add Skill Tree <pict Arcscash>
+SkillTreeReset - Move Skill Tree <pict Arcscash>
+SkillTreeResetSG - Move Skill Tree <pict StarGem>
+SkillTreeResetAll - Reset All Skill Trees
+SkillTreeGet - Learn Class Skill
+SkillTreeReturn - Leave Class Counter
+ClassList - Class List
+SkillTreeList - Skill Tree List to Set
+SkillTreeAddAsk - Are you sure you want to add this Skill Tree?
+SkillTreeAddSuccess - Skill Tree added.
+SkillTreeAddFailed - Failed to add Skill Tree.
+SkillTreeAddFailedFull - Further addition can't be performed.
+SkillTreeApplyAsk - Are you sure you want to set this Skill Tree?
+SkillTreeApplySuccess - Skill Tree set.
+SkillTreeApplyFailed - Failed to set Skill Tree.
+SkillTreeApplyFailedCurrent - This Skill Tree is already set.
+SkillTreeApplyFailedQuest - You can't change your class while<br>undertaking a quest.
+SkillTreeResetAsk - Are you sure you want to swap this Skill Tree?
+SkillTreeResetSuccess - Skill Tree swapped.
+SkillTreeResetFailed - Failed to swap Skill Tree.
+SkillTreeResetFailedCurrent - You can't swap a Skill Tree that is currently set.
+SkillTreeResetAllAsk - You are about to consume a [N-Reset All Skills]<br>to reset all of your Skill Trees,<br>allowing you to reassign your Skill Points.<br><br>Are you sure you wish to proceed?
+SkillTreeResetAllSuccess - All Skill Trees have been reset. <br>Don't forget to reassign your Skill Points.
+SkillTreeResetAllFailed - Reset of all Skill Trees failed. <br>Please wait a while and try again.
+SkillTreeResetAllFailedNG - Unable to perform a reset<br>because you don't possess a<br>[N-Reset All Skills].
+ClassSelectExplain - <c f0df60>You can change your current class via the [Select Class] option. If you have multiple Skill Trees, you can choose the one you want to set with the [Select Skill Tree] option.<c>
+ClassSelectExplain_v - <c f0df61>You can change your class with [Select Class]. If you have multiple Skill Trees, choose one with [Select Skill Tree].<c>
+SkillTreeAddPath - <pict Arcscash><c ff4f3f>AC Payment Required<c><br>This will add a $(0) Skill Tree.<br>Are you sure you wish to proceed to the <br><yellow>N-Skill Tree Addition<c> <br>Purchase Confirmation screen?<br><br>(You currently have: $(1))
+SkillTreeAddTicket - <pict Arcscash> <c 5fdf00>Use Previously Purchased Item<c><br>Are you sure you want to use a <yellow>N-Skill Tree Addition<c> to<br>add a $(0) Skill Tree?<br><br>(You currently have: $(1))
+SkillTreeResetPath - <pict Arcscash><c ff4f3f>AC Payment Required<c><br>Are you sure you wish to proceed to the <br><yellow>N-Additional Skill Tree Change<c> <br>Purchase Confirmation screen?<br><br>Before Change: $(1) Skill Tree<br>After Change: $(0) Skill Tree<br>(You currently have: $(2))
+SkillTreeResetPathSG - <pict StarGem><c 1dedd7>SG Payment Required<c><br>Are you sure you wish to proceed to the <br><yellow>N-Additional Skill Tree Change<c> <br>Purchase Confirmation screen?<br><br>Before Change: $(1) Skill Tree<br>After Change: $(0) Skill Tree<br>(You currently have: $(2))
+SkillTreeResetTicket - <pict Arcscash> <c 5fdf00>Use Previously Purchased Item<c><br>Are you sure you want to use an <yellow>N-Additional Skill Tree Change<c><br>to change your Skill Tree class?<br><br>Before Change: $(1) Skill Tree<br>After Change: $(0) Skill Tree<br><br>(You currently have: $(2))
+SkillTreeResetTicketSG - <pict StarGem> <c 5fdf00>Use Previously Purchased Item<c><br>Are you sure you want to use an <yellow>N-Additional Skill Tree Change<c><br>to change your Skill Tree class?<br><br>Before Change: $(1) Skill Tree<br>After Change: $(0) Skill Tree<br><br>(You currently have: $(2))
+SkillTreeExplain - <c f0df60>Consume Skill Points (SP) to learn Class Skills. You can earn SP by leveling up. <c f0df60>Check <%NextTabDetails> for more details.<c>
+SkillTreeExplain_v - <c f0df60>Consume Skill Points (SP) to learn Class Skills. You can earn SP by leveling up.<c>
+SkillTreeAddExplain - <c f0df60>Add a Skill Tree by using a previously purchased [N-Skill Tree Addition], or by purchasing one with ARKS Cash.<c>
+SkillTreeResetExplain - <c f0df60>Reset your Skill Tree by using a previously purchased [N-Additional Skill Tree Change], or by purchasing one with ARKS Cash. Start by selecting the Skill Tree you want to reset.<c>
+SkillTreeResetExplainSG - <c f0df60>Reset your Skill Tree by using a previously purchased [N-Additional Skill Tree Change], or by purchasing one with Star Gems. Start by selecting the Skill Tree you want to reset.<c>
+SkillTreeResetExplain_v - <c f0df61>Reset your Skill Tree by using a previously purchased [N-Additional Skill Tree Change], or purchasing one with ARKS Cash.
+SkillTreeResetExplainSG_v - <c f0df61>Reset your Skill Tree by using a previously purchased [N-Additional Skill Tree Change], or purchasing one with Star Gems.<c>
+SkillTreeReset2Explain - <c f0df60>Reset the selected Skill Tree. During the reset you can also <yellow>move the tree to another class. <c f0df60>Select the class you would like to move the Skill Tree to.<c>
+SkillTreeReset2Explain_v - <c f0df60>Reset the selected Skill Tree. During the reset you can also <yellow>move the tree to another class. <c f0df61>Select a class.<c>
+ClassCounterExplain - <c f0df60>You can change classes and learn Class Skills via Skill Trees.<c>
+SkillTreeAddNum - Number of Skill Trees Addable
+Check - Confirm
+SkillTreeInfoTitle - CLASS / SKILL TREE INFORMATION
+SkillTreeTotal - Total Skill Trees Added
+TreeListCaption - Trees ($(0))
+TreeListPoint - Remaining SP
+MoreDetails - Select <pict Sign_SELECT> for more details.
+MySetExplain - <c f0df60>You can save your Loadout for later use.<c>
+MySetExplain2button - <c f0df60>You can save your Loadout for later use.<c><red> Note: Your current control type is set to a 2-button configuration.<c>
+MySetExplain3button - <c f0df60>You can save your Loadout for later use.<c><red> Note: Your current control type is set to a 3-button configuration.<c>
+ManualSkillTreeGet - Custom Setup
+AutoSkillTreeGet - Recommended Setup
+AutoSkillTreeAsk - Your Skill Points will be automatically reassigned.<br>Are you sure you wish to proceed?<br><yellow>Note: Your existing Skill Tree will be overwritten,<br>including skills learned.<c>
+AutoSkillTreeList - The following skills that were configured based on<br>a Recommended Setup will be overwritten.<br>Are you sure you wish to proceed?<br><br><red>Note: A [Reset All Skill Trees Pass] is required if<br>you want to reassign Skill Points yourself.<c>
+AutoSkillTreeListVita - The following skills that were configured based on<br>a Recommended Setup will be overwritten.<br>Are you sure you wish to proceed?<br><red>Note: A [Reset All Skill Trees Pass] is required.<c>
+AutoSkillTreeSuccess - Recommended Skills overwritten.
+AutoSkillTreeFailed - Failed to overwrite Recommended Skills.
+
+
+ClassDetails
+Group 0
+Title - クラス詳細
+Experience - 経験値
+NextExperience - 次のLv.まで
+EquipableWeapon - 装備可能武器
+Blank - ―
+Together_EXP - 連動経験値
+Together_EXP_Max - 連動経験値上限
+ClassLevel - Lv.(MAX)
+
+Group 1
+Title - CLASS DETAILS
+Experience - EXP
+NextExperience - Until Next Level
+EquipableWeapon - Equippable Weapons
+Blank - -
+Together_EXP - Link EXP
+Together_EXP_Max - Maximum Link EXP
+ClassLevel - Level (MAX)
+
+
+ClassSkillDetails
+Group 0
+Title - クラススキル詳細
+NoSelectMessage - クラススキルが選択されていません
+MaxLevel - MAXLv.
+Percent - $(0)％
+Second - $(0)秒
+Piece - $(0)個
+Shot - $(0)発
+Plus - ＋$(0)
+Minus - －$(0)
+Times - $(0)回
+Blank - ―
+LevelZero - 未習得
+MaxLevelValue - （$(0)）
+Decimal - $(1).$(0)
+Prev - 前
+Next - 後
+
+Group 1
+Title - CLASS SKILL DETAILS
+NoSelectMessage - No Class Skill is currently selected.
+MaxLevel - MAX Level
+Percent - $(0)%
+Second - $(0) sec
+Piece - $(0) unit(s)
+Shot - $(0) shot(s)
+Plus - +$(0)
+Minus - -$(0)
+Times - $(0) times
+Blank - -
+LevelZero - Not Learned
+MaxLevelValue - ($(0))
+Decimal - $(1).$(0)
+Prev - Previous
+Next - Next
+
+
+PartyInfo
+Group 0
+PartyInfoReb_001 - メンバーが移動したため、あなたがサブリーダーになりました。
+PartyInfoReb_002 - メンバーが移動したため、あなたはサブリーダーではなくなりました。
+PartyInfoReb_003 - $(0)をパーティーから除外しました。
+PartyInfoReb_004 - $(0)にサブリーダー権限が移りました。
+PartyInfoReb_005 - $(0)にリーダー権限が移りました。
+
+Group 1
+PartyInfoReb_001 - You are now the sub-leader due to a change in Alliance Members.
+PartyInfoReb_002 - You are no longer the sub-leader due to a change in Alliance Members.
+PartyInfoReb_003 - $(0) removed from party.
+PartyInfoReb_004 - $(0) is now sub-leader.
+PartyInfoReb_005 - $(0) is now the leader.
+
+
+Esthetic
+Group 0
+EnterConfirmMessage - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br><red>※エステ内の表記はSGになっていますが<br>ACで購入したエステパスもご利用いただけます。<c>
+EnterConfirmMessage2 - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br>エステ利用パス　　　　再編集可能期間：$(0)
+EnterConfirmMessage3 - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br>カラーチェンジパス　再編集中アイテム：$(0)個<br>　　　　　　　　　　最短残り時間　　：$(1)<br>　　　　　　　　　　$(2)
+EnterConfirmMessage4 - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br>エステ利用パス　　　再編集可能期間　：$(0)<br>カラーチェンジパス　再編集中アイテム：$(1)個<br>　　　　　　　　　　最短残り時間　　：$(2)<br>　　　　　　　　　　$(3)
+EnterConfirmMessage5 - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br>キャラクター作成　　　再編集可能期間：$(0)
+EnterConfirmMessage6 - エステ内ではチャットができません。<br>※受信した内容はログウィンドウに残ります。<br><br>また、パーティーやクエスト関連の通知が行われず、<br>クエストのマッチング対象からも外れます。<br><br><yellow>アイテムパックに必要な空き容量がない場合<br>キャラ倉庫内のコスチュームには変更できません。<c><br><br>エステに入店しますか？<br><br>キャラクター作成　　再編集可能期間：$(0)<br><br>カラーチェンジパス　再編集中アイテム：$(1)個<br>　　　　　　　　　　最短残り時間　　：$(2)<br>　　　　　　　　　　$(3)
+
+Group 1
+EnterConfirmMessage - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, <br>you will be unable to change into outfits from your <br>Character Storage.<c><br><br>Enter the Salon?<br><br><red>Note: While SG will be displayed within the Salon,<br>you can also use a Salon Pass, purchasable with AC.<c>
+EnterConfirmMessage2 - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, you will be<br>unable to change into outfits from your Character Storage.<c><br><br>Enter the Salon?<br><br>Salon Pass<br>Remaining re-edit time: $(0)
+EnterConfirmMessage3 - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, you will<br>be unable to change into outfits from your Character<br>Storage.<c><br><br>Enter the Salon?<br><br>Color-Change Pass<br>Items being re-edited: $(0)<br>Soonest completion in: $(1)<br>$(2)
+EnterConfirmMessage4 - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, <br>you will be unable to change into outfits from your <br>Character Storage.<c><br><br>Enter the Salon?<br><br>Salon Pass<br>Remaining re-edit time: $(1)<br>Color-Change Pass<br>Items being re-edited: $(0)<br>Soonest completion in: $(1)<br>$(2)
+EnterConfirmMessage5 - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, you will be<br>unable to change into outfits from your Character Storage.<c><br><br>Enter the Salon?<br><br>Character Creation<br>Remaining re-edit time: $(0)
+EnterConfirmMessage6 - You cannot use Chat while in the Salon.<br>Note: Messages received will remain in the Log Window.<br><br>Party and quest related notifications will not be received,<br>and you will be exempt from quest matchmaking.<br><br><yellow>If there is not enough space in your inventory, <br>you will be unable to change into outfits from your <br>Character Storage.<c><br><br>Enter the Salon?<br><br>Character Creation<br>Remaining re-edit time: $(0)<br>Color-Change Pass<br>Items being re-edited: $(1)<br>Soonest completion in: $(2)<br>$(3)
+
+
+Parameter
+Group 0
+FightingPower - 戦闘力
+AttackPower - 攻撃力
+DefencePower - 防御力
+Label_WeaponRise - 武器上昇
+Labal_Resist_Condition - 状態異常耐性
+ValueZeroPercent - +0%
+Param_ComparePlus_Percent - <light_orange2>＋$(0)％<c>
+Param_CompareMinus_Percent - <vivid_cyan2>－$(0)％<c>
+
+Group 1
+FightingPower - Battle Power
+AttackPower - Attack
+DefencePower - Defense
+Label_WeaponRise - Weapon Up
+Labal_Resist_Condition - Ailment Resist.
+ValueZeroPercent - +0%
+Param_ComparePlus_Percent - <light_orange2>＋$(0)％<c>
+Param_CompareMinus_Percent - <vivid_cyan2>－$(0)％<c>
+
+
+PartyMenu
+Group 0
+LeaderMenuLabel06 - パーティーメンバー集合
+PartyMenuText06 - $(0)から、集合の要請がありました。<br>$(1)秒以内に<yellow>“はい”<c>を選ぶと、自動的に以下の場所に移動します。要請を承諾しますか？<br>転送予定エリア：$(2)
+PartyConfigLabel25 - <pict icon_voice_chat><pict 4space>ボイスチャット推奨
+PartyConfigLabel26 - パーティー参加条件
+PartyConfigLabel27 - 現在のパーティー設定
+
+Group 1
+LeaderMenuLabel06 - Gather Party Members
+PartyMenuText06 - $(0) has requested a Party gathering.<br>You will be teleported automatically to the following <br>destination in $(1) second(s) if you select <br>"Yes."Do you accept?<br>Destination: $(2)
+PartyConfigLabel25 - <pict icon_voice_chat><pict 4space>Voice Chat Recommended
+PartyConfigLabel26 - Conditions to Join
+PartyConfigLabel27 - Current Party Settings
+
+
+BlockhelpMessage
+Group 0
+Block_help_ClassicBlock - 『PSO2』のブロックに移動します。
+Block_help_Beginner - ビギナーの方が楽しむためのブロックです。<br>手助けしてくれるベテランプレイヤーも大歓迎！<br>※マッチングはビギナーブロック限定で行なわれます。
+Block_help_Normal - $(0)リージョンで冒険をしたい方どうしが<br>集まるためのブロックです。<br>※マッチングは同一リージョンのブロック間で行なわれます。
+Block_help_Stream - $(0)リージョンで撮影・配信を行う場合に利用を推奨。<br>プレイ中のキャラクターがメディアで公開される場合があります。<br>※マッチングは撮影推奨ブロック限定で行なわれます。
+Block_help_PF_CloudPC - 【“クラウド”＆“PC”共用】
+Block_help_PF_CloudOnly - 【“クラウド”専用】
+
+Group 1
+Block_help_ClassicBlock - Transfer to a PSO2 Block.
+Block_help_Beginner - A block for beginners to enjoy. Veteran players looking to help are also<br>more than welcome!<br>Note: Matchmaking will be restricted to Beginner Blocks.
+Block_help_Normal - A block for adventuring with players from the $(0) region.<br>Note: Matchmaking will be restricted to blocks of the same region.
+Block_help_Stream - A block recommended for those in the $(0) region,<br>that want to take photos and stream.<br>Note: Matchmaking will be restricted to Blocks for Photos.
+Block_help_PF_CloudPC - [Cross-play with both "Cloud" and "PC" versions.]
+Block_help_PF_CloudOnly - ["Cloud" version only.]
+
+
+LoginStamp
+Group 0
+Window_Titletelop_Loginbonus - ログインボーナス
+Window_Title_LoginbonusInfo - ログインボーナス情報
+Label_DeliveryPeriod - 配信期間
+Label_Progress - 進展
+Content_DeliveryPeriod - $(1)～$(0)まで
+Content_Progress - $(1)/$(0)
+Mes_Loginbonus - ログインボーナスの説明を記載します。
+ItemDetail_Title - アイテム詳細
+LoginBonusTabName_Normal - 通常$(0)
+LoginBonusTabName_Limited - 期間限定$(0)
+LoginBonusTabName_Beginner - 初心者$(0)
+LoginBonusTabName_Comeback - 復帰者$(0)
+LoginBonusTabName_Inherit - 引き継ぎ$(0)
+
+Group 1
+Window_Titletelop_Loginbonus - Login Bonus
+Window_Title_LoginbonusInfo - Login Bonus Info
+Label_DeliveryPeriod - Delivery Period
+Label_Progress - Progress
+Content_DeliveryPeriod - From $(1) to $(0)
+Content_Progress - $(1)/$(0)
+Mes_Loginbonus - Here's a description of the Login Bonus.
+ItemDetail_Title - Item Details
+LoginBonusTabName_Normal - Normal $(0)
+LoginBonusTabName_Limited - Limited-Time $(0)
+
+
+Macro
+Group 0
+AutoWordTypeTrialStart - トライアル参加時
+AutoWordTypeTrialSuccess - トライアル成功時
+AutoWordTypeTrialFailure - トライアル失敗時
+AutoWordTypeFastTravelStart - ファストトラベル開始
+AutoWordTypeFastTravelEnd - ファストトラベル終了
+AutoWordTypePhotonDash - フォトンダッシュ
+AutoWordTypePhotonDashAttack - ダッシュアタック
+AutoWordTypePhotonGlide - フォトングライド
+AutoWordTypeGlideAttack - ダイブアタック
+AutoWordTypeWeaponAction - 武器アクション
+AutoWordTypeGetGathering - ギャザリング獲得
+
+Group 1
+AutoWordTypeTrialStart - Trial Joined
+AutoWordTypeTrialSuccess - Trial Completed
+AutoWordTypeTrialFailure - Trial Failed
+AutoWordTypeFastTravelStart - Fast Travel Started
+AutoWordTypeFastTravelEnd - Fast Travel Completed
+AutoWordTypePhotonDash - Photon Dash
+AutoWordTypePhotonDashAttack - Photon Dash Attack
+AutoWordTypePhotonGlide - Photon Glide
+AutoWordTypeGlideAttack - Glide Attack
+AutoWordTypeWeaponAction - Weapon Action
+AutoWordTypeGetGathering - Gathering Acquisition
+
+
+StatusEffect
+Group 0
+PlBadCond:Burn - バーン
+PlBadCond:Freeze - フリーズ
+PlBadCond:Shock - ショック
+PlBadCond:Mirage - ミラージュ
+PlBadCond:Panic - パニック
+PlBadCond:Poison - ポイズン
+PlBadCond:Stun - スタン
+PlBadCond:Injury - インジュリー
+
+Group 1
+PlBadCond:Burn - Burn
+PlBadCond:Freeze - Freeze
+PlBadCond:Shock - Shock
+PlBadCond:Mirage - Blind
+PlBadCond:Panic - Panic
+PlBadCond:Poison - Poison
+PlBadCond:Stun - Stunned
+PlBadCond:Injury - Injured
+
+

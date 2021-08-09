@@ -1,0 +1,15 @@
+tut_006205.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 848 bytes
+
+TutorialText
+Group 0
+Title - フォトンダッシュ
+text0001_Pad - ダッシュ開始：<br>　移動しながら<pict 4space><%Avoid><pict 4space>長押し<br>
+text0001_Key - ダッシュ開始：<br>　移動キーを２回押す<br>　（２回目を長押し）<br>
+
+Group 1
+Title - Photon Dash
+text0001_Pad - Start Dashing:<br>Press and hold <%Avoid> while moving.
+text0001_Key - Start Dashing:<br>Press a directional key twice.<br>(Press and hold the second time.)
+
+

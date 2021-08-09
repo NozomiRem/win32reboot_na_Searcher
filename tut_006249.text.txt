@@ -1,0 +1,15 @@
+tut_006249.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1536 bytes
+
+TutorialText
+Group 0
+Title - 長槍（パルチザン）
+text0001 - “長槍（パルチザン）”は、<br>瞬発力に優れた近接武器です。<br><br>クラススキル“ヴォルグラプター”は、<br>発動後一定ダメージを与えることで爆発するため、<br>いかに速く攻撃を加えられるかが重要になります。
+text0002 - PA“サイズリッパー”は<br>広範囲の複数のエネミーに対して、素早くダメージを与えられます。<br><br>また、チャージすることで、威力が上昇し、範囲が拡大します。
+
+Group 1
+Title - Partisans
+text0001 - Partisans are short range weapons which excel in rapid attacks.<br><br>The Class Skill "Volkraptor" will cause an explosion after a certain amount of<br>damage is dealt, so it's important to get in many quick attacks.
+text0002 - The Photon Art "Cleaving Scythe" can deal damage fast to multiple enemies <br>in a wide area. Charging it up will allow you to increase the damage and <br>area of effect.
+
+

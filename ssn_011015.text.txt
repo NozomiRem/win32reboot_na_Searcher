@@ -1,0 +1,16 @@
+ssn_011015.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 720 bytes
+
+ssn_011015
+Group 0
+name010 - アイナ
+ssn_011015_0001 - あっ、来てくれたんだね！<br>ありがとう。
+ssn_011015_0101 - それじゃ、話を聞いてもらえるかな？
+ssn_011015_0201 - そっか……。<br>ここで待ってるから、よければお願いね。
+
+Group 1
+ssn_011015_0001 - Hey, thanks for coming!
+ssn_011015_0101 - Can we talk for a minute?
+ssn_011015_0201 - I see... Well, I'll be here whenever you have some time.
+
+

@@ -1,0 +1,31 @@
+ms0010100103.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1600 bytes
+
+Required
+Group 0
+Title - リューリンからのアドバイス・Ⅱ
+Summary - さらに、リューリンからレクチャーを受ける。<br><br>マグの機能のひとつである<br>“アクティブソナー”を活用して、<br>コクーン“エンハンスドエネミー”を見つけ出し、<br>その中を踏破してくるように言われる。
+
+Group 1
+Title - Advice from Liu Lin II
+Summary - The trio attends another Liu Lin lecture. Making<br>use of a Mag function called "Active Sonar,"<br>they locate Enhanced Enemies, and are told<br>to explore the Cocoon facility where they are.
+
+
+SubObjectives
+Group 0
+text0101 - 対象のコクーンを踏破する
+text0102 - フィールドに戻る
+text0103 - フィールドに戻る
+text0104 - フィールドに戻る
+text0105 - フィールドに戻る
+text0106 - クラスカウンターに向かう
+text0107 - クラススキルを習得する
+
+Group 1
+text0101 - Explore the target Cocoon facility
+text0102 - Return to the field
+text0105 - Return to the field
+text0106 - Head to the Class Counter
+text0107 - Learn a Class Skill
+
+

@@ -1,0 +1,25 @@
+ss0030741702.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1024 bytes
+
+Required
+Group 0
+Title - ディグホールの採掘指南・Ⅱ
+Summary - セントラルシティの住人ディグホールから、<br>再び鉱石について教わり、収集をする。
+
+Group 1
+Title - Excator's Mining Drill II
+Summary - Central City resident Excator gives further guidance on<br>minerals and how best to collect them.
+
+
+SubObjectives
+Group 0
+text0101 - 南エアリオに向かう
+text0102 - フォトンチャンクを入手する
+text0103 - デュアロマイトを入手する
+
+Group 1
+text0101 - Head to South Aelio
+text0102 - Obtain photon chunk
+text0103 - Obtain dualomite
+
+

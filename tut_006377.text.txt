@@ -1,0 +1,13 @@
+tut_006377.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1104 bytes
+
+TutorialText
+Group 0
+Title - アップドラフター
+text0001 - アップドラフター：<br>　グライド状態で進入すると、<br>　大きく飛び上がることが可能<br>グライド：<br>　二段ジャンプ中に<pict 4space><%Jump><br>　または<pict 4space><%Jump><pict 4space>長押し<br>グライド解除：<br>　グライド中に<pict 4space><%Jump>
+
+Group 1
+Title - Updrafters
+text0001 - Updrafters:<br>Entering one of these while gliding will<br>shoot you high into the air.<br><br>Glide:<br>Press <%Jump> while double jumping or press and hold <%Jump>.<br>Stop Gliding:<br>Press <%Jump> while gliding.
+
+

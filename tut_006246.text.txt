@@ -1,0 +1,15 @@
+tut_006246.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2112 bytes
+
+TutorialText
+Group 0
+Title - SG（スタージェム）とSGショップ
+text0001 - “SG”は、“スタージェム”の略称で、<br>ゲームをより便利に、より楽しくプレイする機能を<br>利用するために必要な、無料および有料のポイントです。<br><br>ゲームをプレイしていると特定条件で獲得できるほか、<br><yellow>“AC・SGショップ”<c>の<yellow>“SGを購入する”<c>から、<br>購入することができます。
+text0002 - “SGショップ”では、レンタル倉庫など<br>便利な機能を利用できるアイテムを購入できます。<br><br>“スクラッチを引く”では、魅力的なコスチュームなどの<br>さまざまなアイテムを入手できる“SGスクラッチ”を購入できます。
+
+Group 1
+Title - Star Gems (SG) and the SG Shop
+text0001 - Star Gems (SG) are a free or purchasable currency that are required to <br>access certain functions that allow you to play the game in more fun, <br>convenient ways.<br><br>You can obtain them for meeting certain conditions when you play, or by<br>purchasing them by selecting <yellow>[Purchase SG]<c> at the <yellow>AC/SG Shop<c>.
+text0002 - At the SG Shop you can purchase convenient things such as rental <br>storage.<br><br>You can also purchase SG Scratch Tickets from [Play Scratch Tickets], <br>which will give you stunning outfits and various other items.
+
+

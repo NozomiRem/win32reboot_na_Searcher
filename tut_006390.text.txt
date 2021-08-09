@@ -1,0 +1,13 @@
+tut_006390.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1296 bytes
+
+TutorialText
+Group 0
+Title - ドールズ
+text0001 - “ドールズ”は、ハルファでアークスが対峙する謎のエネミーです。<br>交戦状態になる、またはある程度ダメージを与えるなどすると<br>赤く変色し、攻撃力が上昇したり行動が変化したりします。<br><br>攻撃をしていると現れる<yellow>黄色いコアが弱点<c>となり、<br>狙って攻撃することでよりダメージを与えられます。
+
+Group 1
+Title - DOLLS
+text0001 - DOLLS are the mysterious enemy that ARKS must face on Halpha. When you<br>engage them or inflict a certain amount of damage, they turn red, their<br>behavior changes, and their attacks become more powerful.<br><br>When attacking, <yellow>yellow cores that appear are weak points<c>, so be sure to aim<br>for them to deal more damage.
+
+

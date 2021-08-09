@@ -1,0 +1,13 @@
+npc_763301.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 560 bytes
+
+npc_763301
+Group 0
+76330101 - わあ、アークスの人だ。<br>強そうだねー。
+76330102 - 戦ってるところ、見てみたいなー！
+
+Group 1
+76330101 - Vaya, eres uno de esos defensores de ARKS.<br> Pareces muy fuerte.
+76330102 - Me encantaría verte en acción.
+
+

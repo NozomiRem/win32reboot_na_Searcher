@@ -1,0 +1,15 @@
+qst_1200050032.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 688 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+text010 - 大きく体勢を崩したということは、<br>攻撃が確実に効いている証拠だ。
+text020 - このまま畳みかけていくぞ。<br>攻撃の手を休めるな！
+
+Group 1
+name010 - Dozer
+text010 - The fact that we threw off its balance means our attacks must be working.
+text020 - Let's finish it off. Keep attacking!
+
+

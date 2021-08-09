@@ -1,0 +1,23 @@
+ss0030741951.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 896 bytes
+
+Required
+Group 0
+Title - ボノからのおねがい
+Summary - セントラルシティの住人ボノから、<br>南エアリオのドールズ討伐を依頼される。
+
+Group 1
+Title - Request from Bono
+Summary - Central City resident Bono asks to rid<br>South Aelio of DOLLS that have appeared there.
+
+
+SubObjectives
+Group 0
+Objective311 - 南エアリオに向かう
+Objective312 - 南エアリオのドールズを倒す
+
+Group 1
+Objective311 - Head to South Aelio
+Objective312 - Defeat the South Aelio DOLLS
+
+

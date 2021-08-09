@@ -1,0 +1,13 @@
+np_npc_7419_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 384 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - おいーっす！
+HELLO_BYE - じゃーねー！
+
+Group 1
+HELLO_ALLDAYS - Hey, there!
+HELLO_BYE - Don't be a stranger!
+
+

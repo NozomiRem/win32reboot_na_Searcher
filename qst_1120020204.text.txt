@@ -1,0 +1,15 @@
+qst_1120020204.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 704 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - エネミーの第三波を防ぎました。
+text002 - エネミーの攻撃が激しいときは、<br>採掘リグ備えつけの<pure_red>バリアシールド<c>を使ってください。
+
+Group 1
+name010 - Ran
+text001 - Third enemy wave defeated.
+text002 - If the rig starts to get overwhelmed, try activating<br>its <pure_red>Barrier Shield<c>.
+
+

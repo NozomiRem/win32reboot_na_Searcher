@@ -1,0 +1,15 @@
+qst_1100050000.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 608 bytes
+
+MainText
+Group 0
+name010 - グイーデン
+name020 - ブルーダー
+text010 - まずは、正面にある“訓練標的”を壊しながら、<br>坂の上まで移動するんだ。
+
+Group 1
+name010 - Guiden
+name020 - Dozer
+text010 - First, break the training targets ahead of you while you move to the top of that hill.
+
+

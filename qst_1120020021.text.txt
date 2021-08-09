@@ -1,0 +1,13 @@
+qst_1120020021.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 544 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 資源採掘リグ、なんとか守りきれました！<br>任務完了です！　帰還してください。
+
+Group 1
+name010 - Ran
+text001 - We somehow managed to save the Mining Rig!<br>Mission complete! Please head on back.
+
+

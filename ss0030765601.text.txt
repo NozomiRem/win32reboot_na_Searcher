@@ -1,0 +1,22 @@
+ss0030765601.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 880 bytes
+
+Required
+Group 0
+Title - 潜在能力の解放
+Summary - セントラルシティの住人セグレットから、<br>アイテムラボで装備の<br>“潜在能力”を解放する方法を教わる。
+
+Group 1
+Title - Unlocking Potentials
+Summary - Central City resident Segreto tells the crew<br>how to unlock equipment Potentials at the<br>Item Lab.
+
+
+SubObjectives
+Group 0
+text0102 - フォトンチャンクを入手する
+text0101 - 武器の潜在能力を解放する
+
+Group 1
+text0101 - Unlock a weapon Potential
+
+

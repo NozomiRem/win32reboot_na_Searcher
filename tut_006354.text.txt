@@ -1,0 +1,13 @@
+tut_006354.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 928 bytes
+
+TutorialText
+Group 0
+Title - ボスエネミー
+text0001 - エネミーのなかには、<br><yellow>“ボスエネミー”<c>と呼ばれる強力なものが存在します。<br><br>ボスエネミーは、レーダーマップ上のアイコンが、<br><yellow>▲や◆の形で表示<c>され、通常のエネミーと見分けることができます。
+
+Group 1
+Title - Boss Enemy
+text0001 - There are powerful enemies called Boss Enemies.<br><br>Boss enemies will be <yellow>displayed on the radar map with the ▲ and ◆ icons,<c><br>distinguishing them from normal enemies.
+
+

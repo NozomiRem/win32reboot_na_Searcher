@@ -1,0 +1,17 @@
+msq_011405.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 656 bytes
+
+msq_011405
+Group 0
+msq_011405_0010 - ドールズだ！
+msq_011405_0020 - 射撃武器持ちが多いわね。<br>距離を考えて戦わないと……。
+name010 - アイナ
+name020 - マノン
+
+Group 1
+msq_011405_0010 - DOLLS!
+msq_011405_0020 - A lot of them have ranged weapons.<br>Be mindful of your distance as we engage.
+name010 - Aina
+name020 - Manon
+
+

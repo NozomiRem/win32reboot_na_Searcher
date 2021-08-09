@@ -1,0 +1,15 @@
+tut_006213.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2064 bytes
+
+TutorialText
+Group 0
+Title - ロックオン／ロックオン切り替え
+text0001_pad - ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切替：ロックオン中に<pict 4space><swguidetype T_Moveguide_r><br><br><yellow>※オプションで“右スティックによるロックオン対象の切り替え”を<br>　“使用しない”にしている場合はこの機能を使用できません。<br>　ロックオンを解除してから、別の対象をロックオンしてください。<c>
+text0001_key - ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切り替え：<%LockOn>でロックオンを外し、別の対象を再度<%LockOn>
+
+Group 1
+Title - Lock-on/Change Lock-on Target
+text0001_pad - Lock-on: <%LockOn><br>Release Lock-on: <%LockOn> while locked-on<br>Change Lock-on Target: <swguidetype T_Moveguide_r><br>while locked-on<br><br><yellow>Note: This function cannot be used when "Switch Lock-on Target<br>Using Right Stick" is set to "Disable" in Options.<br>Release the lock-on, then lock-on to another target.<c>
+text0001_key - Lock-on: <%LockOn><br>Release Lock-on: <%LockOn> while locked-on<br>Change Lock-on Target: release lock-on with <%LockOn>, then lock-on to<br>a different target with <%LockOn>
+
+

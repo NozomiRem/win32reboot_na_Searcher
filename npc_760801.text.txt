@@ -1,0 +1,13 @@
+npc_760801.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 640 bytes
+
+npc_760801
+Group 0
+76080101 - お、新しい“星渡り”だな！<br>よろしくな！
+76080102 - 妻も話したいみたいなんだ。<br>声をかけてやってくれよ！
+
+Group 1
+76080101 - Ah, you've gotta be the new Meteorn!<br>Pleased to meet ya!
+76080102 - My other half's eager to chat with ya.<br>Give her a shout, won't ya?
+
+

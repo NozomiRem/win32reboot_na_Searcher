@@ -1,0 +1,13 @@
+msq_011520.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 384 bytes
+
+msq_011520
+Group 0
+msq_011520_0010 - ドールズ、ここにも……!
+name010 - アイナ
+
+Group 1
+msq_011520_0010 - What are DOLLS doing here?
+name010 - Aina
+
+

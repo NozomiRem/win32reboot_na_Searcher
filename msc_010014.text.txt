@@ -1,0 +1,17 @@
+msc_010014.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 960 bytes
+
+msc_010014
+Group 0
+msc_010014_0110 - 大変！　煙出てる……！
+msc_010014_0120 - ……どうやって開けるんだろ？<br>なかのヒト、大丈夫ですか!?
+msc_010014_0130 - あっ……これ……かな？<br>んっ……んんん……！
+msc_010014_0140 - よかった。開いた。<br>さあ、つかまって！
+
+Group 1
+msc_010014_0110 - ¡Oh no! ¡Está saliendo humo!
+msc_010014_0120 - ...¿Cómo se abre esta cosa? Quien quiera que esté ahí, ¿está bien?
+msc_010014_0130 - Ah, ¿quizás... esto...?<br>...Hngh... ¡ngh!
+msc_010014_0140 - Gracias a Dios, se abrió. ¡Vamos, agarra mi mano!
+
+

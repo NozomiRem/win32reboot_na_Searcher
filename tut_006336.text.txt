@@ -1,0 +1,15 @@
+tut_006336.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1488 bytes
+
+TutorialText
+Group 0
+Title - ドローム
+text0001 - ヴァンフォード研究所跡には“ドローム”と<br>呼ばれる特殊なエネミーが出現します。<br><br>ドロームは倒すと味方になり、<br>一定時間プレイヤーに追従して共に戦います。
+text0002 - ドロームが追従しているときに、<br>さらに別のドロームを倒すことで形態が変化していきます。<br><br>形態が変化すると、ドロームが範囲攻撃を行うようになったり、<br>プレイヤーを強化するスキルを使用するようになります。
+
+Group 1
+Title - Dromes
+text0001 - Special enemies called Dromes will appear within the Vanford Laboratory Ruins.<br><br>If you defeat a Drome, it will become your ally and aid you in battle for <br>a set time.
+text0002 - If you defeat another Drome while a Drome is already following you around,<br>your Drome will transform.<br><br>Transforming will allow it to unleash AoE attacks and confer buffs on you.
+
+

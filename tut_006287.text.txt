@@ -1,0 +1,13 @@
+tut_006287.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 736 bytes
+
+TutorialText
+Group 0
+Title - リバーサーサイン
+text0001 - フィールド上で入手した“リバーサーサイン”を、<br>“サブパレット”から使用すると、<br><yellow>戦闘不能状態の味方を復活させる<c>ことができます。
+
+Group 1
+Title - Reversasigne
+text0001 - You can <yellow>revive incapacitated allies<c> by gathering Reversasigne in the field and<br>using it from your Sub-Palette.
+
+

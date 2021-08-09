@@ -1,0 +1,36 @@
+quest_01200012.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 704 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+
+
+AreaName
+Group 0
+Area0S - エアリオタウン
+Area0L - エアリオタウン
+
+Group 1
+Area0S - Aelio Town
+Area0L - Aelio Town
+
+
+Basic
+Group 0
+Explanation - -
+
+Group 1
+
+
+QuestTarget
+Group 0
+SimpleExplanation - -
+
+Group 1
+
+

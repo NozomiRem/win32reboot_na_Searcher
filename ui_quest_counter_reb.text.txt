@@ -1,0 +1,359 @@
+ui_quest_counter_reb.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 33824 bytes
+
+PartySelect
+Group 0
+Title_Partyselect - パーティー選択
+Room_Friend_Filter - フレンドのいるルームを絞り込む
+Room_Team_Filter - チームメンバーのいるルームを絞り込む
+Basic_Info - 基本情報
+Field_Info - フィールド情報
+Menber_Info - パーティーメンバー
+Filter_On - ON
+Filter_OFF - OFF
+Room_Timecount - $(0)：$(1)
+Room_Leaving - 3時間以上
+PasswordTitle - パスワード入力
+PasswordMessage - パスワードを入力してください：
+
+Group 1
+Title_Partyselect - Party Selection
+Room_Friend_Filter - Rooms With Friends Only
+Room_Team_Filter - Rooms With Alliance Members Only
+Basic_Info - Basic Info
+Field_Info - Field Info
+Menber_Info - Party Member
+Filter_On - ON
+Filter_OFF - OFF
+Room_Timecount - $(0):$(1)
+Room_Leaving - 3 hours or more
+PasswordTitle - Password Entry
+PasswordMessage - Please enter the Password:
+
+
+QuestInfo
+Group 0
+Window_Titletelop - クエスト受注メニュー
+Window_TwolineGuide - 自分がパーティーリーダーになるか、他のパーティーにメンバーとして参加するかを選択してください。
+Window_ControlGuide - <%Decide>：決定　<%Cancel>：キャンセル
+Top_Quest_info - クエスト情報
+Top_Quest_infodetails - クエスト詳細
+Title_Quest_Name - 概要
+Title_Quest_Reward - 報酬
+Title_Quest_Reward_2 - 初回クリア報酬
+Title_Quest_Restriction - 制限
+Title_Quest_Recommended - 推奨能力値
+Title_Quest_Order - 受注条件
+Title_Quest_Clear_Failure - クリア条件・失敗条件
+Title_Quest_Clear - クリア条件
+Title_Quest_Failure - 失敗条件
+Title_Quest_Description - 説明
+Btn_Departimmediately - すぐ出発する
+Btn_Partyconfluence - パーティーに合流
+AcceptNG_Description1 - パーティーメンバーは、<br>クエストを受注できません。
+AcceptNG_Description2 - 条件を満たしていないため、<br>クエストを受注できません。
+AcceptNG_Description3 - クリア回数制限を超えているメンバーがいるため、<br>クエストを受注できません。
+Btn_Fasttravel - ファストトラベル
+Btn_Storyconfirmation - ストーリーを確認
+Title_Mainmission - メインミッション
+Title_Submission - サイドミッション
+Title_Bestscore - 個人記録（ソロプレイ時）
+Title_Bestscore_pt - 個人記録（パーティープレイ時）
+Title_Subjugationtarget - 討伐目標エネミー
+Title_Recommendeditems - おすすめドロップアイテム
+Reward_Exp - $(0)<pict 4space><pict exp_boost_icon>
+Reward_Meseta - $(0)<pict 4space><pict reb_meseta>
+Reward_SeasonPoint - $(0)<pict 4space><pict event_point>
+Reward_quantity - ×$(0)
+Reward_quantity2 - +$(0)
+Reward_Skillpt - スキルポイント
+Bestscore_time - $(1):$(2).$(0)
+HighLevelQuestName - <yellow>緊急クエスト<c>
+CreateNewRoom - クエストを受注する
+InRoom - クエスト中のパーティーに参加
+OrdersOption - 受注設定を変更する
+Exit_QuestCounter - クエスト受注メニューを出る
+SelectPartyList - 現在のブロックのパーティーへ参加
+SearchPartyList - クエストを検索して参加
+QuestSelectTitle - クエスト選択
+EventQuestName - 期間限定クエスト
+BonusQuestName - ボーナスクエスト
+StoryQuestName - ストーリー回想
+Title_Quest_Order2 - 解放条件
+Must_Quest_Recommended - 必要戦闘力
+PtMakingTitle - パーティー情報入力メニュー
+AdmissionOption - 参加設定
+AdmissionWelcome - 参加歓迎
+PartnerCardOn - フレンド限定
+GuildMemberOn - チームメンバー限定
+PasswordOption - パスワード設定
+PasswordWrite - 参加パスワード
+PTPledge1 - パーティーへの参加のみ制限
+PTPledge2 - 他パーティーとのマルチプレイも制限
+OrdersOptionBlock1 - クエストを受注する
+OrdersOptionBlock2 - 現在のブロックで受注する
+StoryInfo - ストーリー情報
+NoMust_Quest_Recommended - ---
+StoryQuestGuide - 一度クリアしたメインクエストをもう一度遊ぶことが出来ます。
+QuestTypeSelectTitle - クエストタイプ選択
+QuestSelectCheckTitle - クエスト受注確認
+QuestSelectCheck - このクエストを受注してもよろしいですか？
+BattlePointNum - $(0)～
+Title_Quest_Reward_3 - クエスト報酬
+AttentionNewRoom - クエストを受注します。<br><br>クエストのマッチングはキャンセルされ、<br>受注中のクエストは破棄されます。<br>よろしいですか？
+OrdersOptionBlock3 - マッチングを開始する
+NoMust_Quest_Conditions - なし
+Title_TargetEnemy_Unknown - ？？？
+BattlePoint_Limit - 戦闘力$(0)以上
+level - Lv.
+Title_Quest_Clear_Failure_dot - クリア条件：$(0)<br>失敗条件：$(1)
+BattlePoint_Limit_Red - <yellow>戦闘力$(0)以上<c>
+Level_Limit - Lv.$(0)以上
+Level_Limit_Red - <yellow>Lv.$(0)以上<c>
+Must_Parem_Text_Red - <yellow>推奨能力値以上<c>
+Must_Parem_Text - 推奨能力値以上
+Btn_Quest_Order_Leader - クエストを開始する
+Btn_Quest_Order_Member - ひとりでクエストを開始する
+EnemyLvTitle - 出現エネミーLv.
+EnemyLv - Lv.$(0)
+EnemyLvWarning - <yellow>Lv.$(0)<c>
+EnemyLvATTENTIONTitle - クエスト受注の確認
+EnemyLvATTENTION - クエスト中に出現するエネミーよりも、<br>レベルが５以上低いメンバーがいます。<br><br>クエストを開始してもよろしいですか？<br><br><yellow>※エネミーレベルよりも<br>　プレイヤーレベルが５以上低い場合は、<br>　与えるダメージが大きく減少します。<c>
+EnemyLvATTENTION2 - クエスト中に出現するエネミーよりも、<br>レベルが$(0)以上低いメンバーがいます。<br>クエストを開始してもよろしいですか？<br><br><yellow>※エネミーレベルよりもプレイヤーレベルが$(0)以上低く、<br>　かつ戦闘力が一定値以下の場合、<br>　与えるダメージが大きく減少します。<c>
+
+Group 1
+Window_Titletelop - Quest Acceptance Menu
+Window_TwolineGuide - Please choose between becoming a party leader or joining another party as a member.
+Window_ControlGuide - <%Decide>: Confirm <%Cancel>: Cancel
+Top_Quest_info - Quest Info
+Top_Quest_infodetails - Quest Details
+Title_Quest_Name - Summary
+Title_Quest_Reward - Reward
+Title_Quest_Reward_2 - 1st Clear Reward
+Title_Quest_Restriction - Restrictions
+Title_Quest_Recommended - Recommended Stats
+Title_Quest_Order - Acceptance Requirements
+Title_Quest_Clear_Failure - Clear/Fail Conditions
+Title_Quest_Clear - Clear Conditions
+Title_Quest_Failure - Fail Conditions
+Title_Quest_Description - Description
+Btn_Departimmediately - Depart Immediately
+Btn_Partyconfluence - Join Party
+AcceptNG_Description1 - A party member cannot accept the quest.
+AcceptNG_Description2 - The quest cannot be accepted as the requirements have not been met.
+AcceptNG_Description3 - The quest cannot be accepted as a member has already reached the clear limit.
+Btn_Fasttravel - Fast Travel
+Btn_Storyconfirmation - View Story
+Title_Mainmission - Main Mission
+Title_Submission - Side Mission
+Title_Bestscore - Personal Best (Solo Play)
+Title_Bestscore_pt - Personal Best (Party Play)
+Title_Subjugationtarget - Suppression Target Enemy
+Title_Recommendeditems - Recommended Drop Items
+Reward_Exp - $(0)<pict 4space><pict exp_boost_icon>
+Reward_Meseta - $(0)<pict 4space><pict reb_meseta>
+Reward_SeasonPoint - $(0)<pict 4space><pict event_point>
+Reward_quantity - x$(0)
+Reward_quantity2 - +$(0)
+Reward_Skillpt - Skill Points
+Bestscore_time - $(1):$(2).$(0)
+HighLevelQuestName - <yellow>Urgent Quest<c>
+CreateNewRoom - Accept Quest
+InRoom - Join a Party on Quest in Progress
+OrdersOption - Change Acceptance Settings
+Exit_QuestCounter - Leave Quest Acceptance Menu
+SelectPartyList - Join a Party on Current Block
+SearchPartyList - Search for Quest and Join
+QuestSelectTitle - Select Quest
+EventQuestName - Limited-Time Quest
+BonusQuestName - Bonus Quest
+StoryQuestName - Review Story
+Title_Quest_Order2 - Unlock Requirements
+Must_Quest_Recommended - Required Battle Power
+PtMakingTitle - Party Settings Menu
+AdmissionOption - Admission Settings
+AdmissionWelcome - Active Recruitment
+PartnerCardOn - Friends Only
+GuildMemberOn - Alliance Members Only
+PasswordOption - Password Settings
+PasswordWrite - Join Password
+PTPledge1 - Party Invitations Only
+PTPledge2 - Also Limit Multiplayer Requests from Other Parties
+OrdersOptionBlock1 - Accept Quest
+OrdersOptionBlock2 - Accept in Current Block
+StoryInfo - Story Info
+NoMust_Quest_Recommended - ---
+StoryQuestGuide - You can play Main Quests that you’ve already cleared again.
+QuestTypeSelectTitle - Select Quest Type
+QuestSelectCheckTitle - Confirm Quest Acceptance
+QuestSelectCheck - Accept this quest?
+BattlePointNum - $(0)~
+Title_Quest_Reward_3 - Quest Reward
+AttentionNewRoom - Accepting the quest.<br><br>This will cancel matchmaking and cause you to abandon<br>currently accepted quests.<br>Are you sure you wish to proceed?
+OrdersOptionBlock3 - Start Matchmaking
+NoMust_Quest_Conditions - None
+Title_TargetEnemy_Unknown - ???
+BattlePoint_Limit - Above $(0) Battle Power
+level - Lv.
+Title_Quest_Clear_Failure_dot - Clear Conditions: $(0)<br>Fail Conditions: $(1)
+BattlePoint_Limit_Red - <yellow>Above $(0) Battle Power<c>
+Level_Limit - Level $(0) or higher
+Level_Limit_Red - <yellow>Level $(0) or higher<c>
+Must_Parem_Text_Red - <yellow>Recommended Stats or higher<c>
+Must_Parem_Text - Recommended Stats or higher
+Btn_Quest_Order_Leader - Start Quest
+Btn_Quest_Order_Member - Start Quest Solo
+EnemyLvTitle - Lv. of Enemies Present
+EnemyLv - Lv.$(0)
+EnemyLvWarning - <yellow>Lv.$(0)<c>
+EnemyLvATTENTIONTitle - Confirm Quest Acceptance
+EnemyLvATTENTION - There is a Member that is 5 or more levels <br>lower than enemies that appear during the quest.<br><br>Are you sure you wish to begin the quest?<br><br><yellow>Note: When the player level is 5 <br>or more levels lower than the enemy level,<br>damage dealt will decrease significantly.<c>
+EnemyLvATTENTION2 - There is a Member that is $(0) or more levels <br>lower than enemies that appear during the quest.<br>Are you sure you wish to begin the quest?<br><br><yellow>Note: When the player level is $(0) <br>or more levels lower than the enemy level and <br>the Battle Power is below a certain value, <br>damage dealt will decrease significantly.<c>
+
+
+Caution
+Group 0
+None - 不明なエラーです。<br><br>[No.3000]
+NotReceptQuestPartyGuest - あなたはパーティーリーダーではないため<br>クエストを受注できません。
+NotReceptQuestAlreadyQuest - あなたはパーティーリーダーではないため<br>クエストを受注できません。<br>（すでにクエストが始まっています。<br>出発ゲートに向かうことをおすすめします）
+NotFoundQuestSearch - 条件に当てはまるクエストが<br>見つかりませんでした。
+NotFoundRoomSearch - 条件に当てはまるルームが<br>見つかりませんでした。
+NotFoundPartyList - パーティーが見つかりませんでした。
+NotFoundQuestType - 受注可能なクエストがありません。
+NotFoundQuestList - 受注可能なクエストがありません。
+CantStartQuestNotFoundRoom - 対象ルームが見つからなかったため<br>クエストを開始できません。
+CantStartQuestCapacityOverRoom - ルームの人数オーバーのため参加できません。
+CantStartQuestCapacityOverRoom2 - 　ルームの人数オーバーのため参加できません。<br>　人数にはルームに参加予定のプレイヤーも含んでおり、<br>　参加人数に反映されていない場合があります。<br>　<br>　<yellow>※参加予定の有効期限は1分ですので、<br>　　時間を置いて再度お試しいただくことで、<br>　　参加可能となる場合もあります。<c>
+CantStartQuestNewRaidQuest - パーティーメンバーが<br>参加条件であるエネミーを倒していないため、<br>クエストを受注できません。
+CantStartQuestNotNotFoundParty - 対象パーティーが見つからなかったため、<br>クエストを開始できません。
+CantStartQuestCapacityOverParty - パーティーの人数オーバーのため参加できません。
+CantStartQuestDifferencePasswordParty - パスワードが間違っているため参加できません。
+CantStartQuestAlreadyFinished - このパーティーは<br>すでにクエストを終了しているため、<br>参加できません。
+CautionNotSoloParty - 現在パーティーを組んでいるため<br>他のブロックに移動することはできません。
+CantStartQuestDifferenceCondition - このパーティーの参加条件を満たしていないため、<br>参加できません。
+CantStartQuestDifferenceConditionLine1 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)
+CantStartQuestDifferenceConditionLine2 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)
+CantStartQuestDifferenceConditionLine3 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)
+CantStartQuestDifferenceConditionLine4 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)
+CantStartQuestDifferenceConditionLine5 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)<br>・$(4)
+CantStartQuestDifferenceConditionLine6 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)<br>・$(4)<br>・$(5)
+CantStartQuestDifferenceConditionLine7 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)<br>・$(4)<br>・$(5)<br>・$(6)
+CantStartQuestDifferenceConditionLine8 - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)<br>・$(4)<br>・$(5)<br>・$(6)<br>・$(7)
+QuestLevel - <pict mainclass_icon>Lv.$(0)～
+PartyLevel - パーティー参加条件レベル/Lv.$(1)～$(0)
+FriendOnly - フレンド限定
+GuildOnly - チームメンバー限定
+PasswordNG - パスワードが間違っている
+BurstIntoNG - クエストにより途中参加が制限されている
+ReasonEventFlag - 特殊な受注条件
+RareAreaNG - パーティーが特別なエリアにいる
+CantStartQuestTimeLimitOver - クエストの受注可能期間が過ぎています。
+CapacityOverParty - パーティーの人数制限
+PlatformError - プラットフォーム制限
+RaidQuestDisable - 参加条件であるエネミーを倒していない
+NotFoundPartyListtInBasnet - パーティーが見つかりませんでした。
+CantStartQuestClearCountLimit - パーティーメンバーが<br>クエストのクリア回数制限を超えているため、<br>参加できません。
+QuestSubLevel - <pict subclass_icon>Lv.$(0)～
+ClearCountLimit - クエストのクリア回数制限を超えている
+CantStartQuestIgnoreQuest - このクエストは現在、受注できません。 <br>詳しくはプレイヤーズサイトをご確認ください。
+IgnoreQuest - このクエストは現在、受注できません。 <br>詳しくはプレイヤーズサイトをご確認ください。
+QuestDropPenalty - 「破棄ペナルティー」を受けているメンバーがいます。
+CantStartQuestDropPenalty - 以下の理由により、パーティーへの参加、<br>またはクエストの受注ができません。<br><br>・「破棄ペナルティー」を受けているメンバーがいます。
+CantStartProhibitQuestDropTitleCnt - クエスト受注メニュー端末
+CantStartProhibitQuestDropTitleTlp - テレポーター
+CantStartProhibitQuestDropForStart - 現在使用することができません。
+TitleConfirmForQuest - クエスト受注確認
+CautionNon - 不明なエラー
+CautionQuestLimitTimeOver - クエストの受注可能期間が過ぎています。
+CautionQuestLevelNG - クエスト受注条件を満たしていません。
+CautionQuestLevelNG2 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・Lv.$(0)～
+CautionQuestPartyMemberMax - パーティーメンバーが$(0)人以上いるため<br>このクエストは受注できません。
+CautionQuestPartyMemberJoinMax - 参加可能人数が$(0)人以内の<br>クエストを受注中のため<br>このパーティーに参加できません。
+CautionQuestPlatform - パーティーメンバー全員が<br>以下の受注条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)
+CautionQuestRaidQuest - クエスト条件を満たしていないため、<br>受注できません。
+CautionMultiConditionLine1 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)
+CautionMultiConditionLine2 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)<br>・$(1)
+CautionMultiConditionLine3 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)<br>・$(1)<br>・$(2)
+CautionMultiConditionLine4 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)
+CautionMultiConditionLine5 - パーティーメンバー全員が<br>以下の条件を満たしていないため<br>このクエストは受注できません。<br><br>・$(0)<br>・$(1)<br>・$(2)<br>・$(3)<br>・$(4)
+CautionQuestClearCountLimit - クエストのクリア回数制限を超えているため、<br>このクエストは受注できません。
+CautionNothingQuest - このクエストタイプのクエストは現在１つもありません。
+NotFoundQuestRecord - クエストレコードが存在しません。
+CantStartQuestNewNetCafeQuest - パーティーメンバーが<br>ネットカフェプレミアムではないため、<br>クエストを受注できません。
+CantStartQuestOutExtraQuest - このクエストのキャンペーン対象期間は終了しました。<br>クエストを再受注してください。
+CantStartQuestInExtraQuest - このクエストがキャンペーン対象期間になりました。<br>クエストを再受注してください。
+CantStartCapacityOverInTraning - 練習クエストを開始できませんでした。<br>移動先のブロックが混雑している場合は<br>しばらく時間をあけてからお試しください。<br><br>※練習クエストは所属シップの<br>　　チャレンジブロックで行われます。
+
+Group 1
+None - An unknown error occurred.<br><br>[No. 3000]
+NotReceptQuestPartyGuest - You cannot accept the quest because<br>you are not a Party Leader.
+NotReceptQuestAlreadyQuest - You cannot accept the quest because<br>you are not a Party Leader.<br>(The quest has already begun. Heading <br>toward the gate is recommended.)
+NotFoundQuestSearch - Could not find a quest that matches<br>the conditions you entered.
+NotFoundRoomSearch - Could not find a room that matches<br>the conditions you entered.
+NotFoundPartyList - Could not find a party.
+NotFoundQuestType - There are no quests to accept.
+NotFoundQuestList - There are no quests to accept.
+CantStartQuestNotFoundRoom - Unable to start the quest because<br>the target room could not be found.
+CantStartQuestCapacityOverRoom - Unable to join because the room is full.
+CantStartQuestCapacityOverRoom2 - Unable to join because the room is full. The number in the<br>room includes players who are trying to join the room, which<br>may not be reflected in Number of Participants.<br><br><yellow>Note: A player can only try to join a room for one minute at<br>a time, so you may be able to join the room by waiting and<br>trying again.<c>
+CantStartQuestNewRaidQuest - The quest cannot be accepted because the party members have<br>not defeated the enemies in the Join Conditions.
+CantStartQuestNotNotFoundParty - Unable to start the quest because the<br>target Party could not be found.
+CantStartQuestCapacityOverParty - Unable to join because the party is full.
+CantStartQuestDifferencePasswordParty - Unable to join because the password is incorrect.
+CantStartQuestAlreadyFinished - Unable to join this quest because this party<br>has already completed it.
+CautionNotSoloParty - Cannot transfer to another block because you are<br>currently in a party.
+CantStartQuestDifferenceCondition - Unable to join the party because you do not meet the<br>Join Conditions.
+CantStartQuestDifferenceConditionLine1 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)
+CantStartQuestDifferenceConditionLine2 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)
+CantStartQuestDifferenceConditionLine3 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)
+CantStartQuestDifferenceConditionLine4 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)
+CantStartQuestDifferenceConditionLine5 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)<br>- $(4)
+CantStartQuestDifferenceConditionLine6 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)<br>- $(4)<br>- $(5)
+CantStartQuestDifferenceConditionLine7 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)<br>- $(4)<br>- $(5)<br>- $(6)
+CantStartQuestDifferenceConditionLine8 - You are unable to join a party or accept a quest<br>due to the following reasons:<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)<br>- $(4)<br>- $(5)<br>- $(6)<br>- $(7)
+QuestLevel - <pict mainclass_icon> Level $(0) and up
+PartyLevel - Party Join Conditions: Level $(1) to $(0)
+FriendOnly - Friends Only
+GuildOnly - Alliance Members Only
+PasswordNG - Incorrect Password
+BurstIntoNG - Joining Partway Restricted for this Quest
+ReasonEventFlag - Special Acceptance Conditions
+RareAreaNG - Party is in a Special Area
+CantStartQuestTimeLimitOver - Quest Can no Longer be Accepted
+CapacityOverParty - Party Number Restrictions
+PlatformError - Platform Restrictions
+RaidQuestDisable - Join Condition Enemies not Defeated
+NotFoundPartyListtInBasnet - Could not find a party.
+CantStartQuestClearCountLimit - You cannot join the quest because one or more party<br>members have exceeded the maximum number of times<br>the quest may be cleared.
+QuestSubLevel - <pict subclass_icon> Level $(0) and up
+ClearCountLimit - You have exceeded the maximum clears for this quest.
+CantStartQuestIgnoreQuest - This quest cannot be accepted at this time. Please check the<br>Player's Site for details.
+IgnoreQuest - This quest cannot be accepted at this time. Please check the<br>Player's Site for details.
+QuestDropPenalty - One or more members have an "Abandonment Penalty."
+CantStartQuestDropPenalty - You are unable to join a party or accept a quest due to the<br>following reasons:<br><br>- One or more members have an "Abandonment Penalty."
+CantStartProhibitQuestDropTitleCnt - QUEST ACCEPTANCE MENU TERMINAL
+CantStartProhibitQuestDropTitleTlp - TELEPORTER
+CantStartProhibitQuestDropForStart - This is currently unavailable.
+TitleConfirmForQuest - CONFIRM QUEST ACCEPTANCE
+CautionNon - Unknown Error
+CautionQuestLimitTimeOver - The quest can no longer be accepted.
+CautionQuestLevelNG - You have not met the required conditions for this quest.
+CautionQuestLevelNG2 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- Level $(0) and up
+CautionQuestPartyMemberMax - You cannot accept this quest because the Party has more than<br>$(0) members.
+CautionQuestPartyMemberJoinMax - You cannot join this Party because it is in the middle of a<br>quest that allows only $(0) members to join.
+CautionQuestPlatform - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)
+CautionQuestRaidQuest - You cannot accept this quest because you have not met the<br>required conditions.
+CautionMultiConditionLine1 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)
+CautionMultiConditionLine2 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)<br>- $(1)
+CautionMultiConditionLine3 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)<br>- $(1)<br>- $(2)
+CautionMultiConditionLine4 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)
+CautionMultiConditionLine5 - You cannot accept this quest because not all Party members<br>have met the conditions below.<br><br>- $(0)<br>- $(1)<br>- $(2)<br>- $(3)<br>- $(4)
+CautionQuestClearCountLimit - You cannot accept this quest because you have reached the<br>maximum number of times this quest can be cleared.
+CautionNothingQuest - There are no Quests of this type.
+NotFoundQuestRecord - No Quest records.
+CantStartQuestNewNetCafeQuest - A party member does not have Net Café Premium and cannot accept this Quest.
+CantStartQuestOutExtraQuest - The Campaign period for this Quest has ended. Please reaccept.
+CantStartQuestInExtraQuest - A Campaign period now applies to this Quest. Please reaccept.
+CantStartCapacityOverInTraning - Could not initiate Practice Quest because the block is at capacity. Please wait a while and try again.<br><br>Note: Practice Quests take place on the Challenge Block of their ship.
+
+

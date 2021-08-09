@@ -1,0 +1,13 @@
+tut_006369.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 896 bytes
+
+TutorialText
+Group 0
+Title - アクティブソナー
+text0001 - マグには、“アクティブソナー”と呼ばれる機能が搭載されています。<br>フィールド上で未発見の“コクーン”や“タワー”の位置を、<br>反応する間隔や、方向などの情報で指し示します。
+
+Group 1
+Title - Active Sonar
+text0001 - Mags are equipped with a function known as Active Sonar. They will indicate the<br>location of undiscovered Cocoons and Towers in the field through their orientation<br>and feedback intervals.
+
+

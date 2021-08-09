@@ -1,0 +1,21 @@
+ss0030761301.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 976 bytes
+
+Required
+Group 0
+Title - エアリオの討伐演習・Ⅱ
+Summary - セントラルシティ東門の門番トウエンから、<br>実戦経験を積むために、<br>ヴァンフォード研究所跡での<br>エネミー討伐を勧められる。
+
+Group 1
+Title - Aelio Suppression Exercise II
+Summary - Central City East Gate guard Eastman tasks the<br>crew with suppressing enemies in the Vanford<br>Laboratory Ruins.
+
+
+SubObjectives
+Group 0
+text0101 - ヴァンフォード研究所跡でエネミーを倒す
+
+Group 1
+text0101 - Defeat the enemies in the Vanford Laboratory Ruins
+
+

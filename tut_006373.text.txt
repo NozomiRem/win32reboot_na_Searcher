@@ -1,0 +1,13 @@
+tut_006373.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 704 bytes
+
+TutorialText
+Group 0
+Title - ガイドマーカー
+text0001 - 目的地には<yellow>“ガイドマーカー”<c>が表示されます。<br>マーカーの示す場所に到達すると、ゲームが進行します。
+
+Group 1
+Title - Task Markers
+text0001 - A <yellow>Task Marker<c> will indicate your destination.<br>When you arrive at the designated location, the game will advance.
+
+

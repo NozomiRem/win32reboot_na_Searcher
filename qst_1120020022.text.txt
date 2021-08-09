@@ -1,0 +1,13 @@
+qst_1120020022.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 560 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 資源採掘リグ、損害は出ましたが守りきれました。<br>任務完了です。帰還してください。
+
+Group 1
+name010 - Ran
+text001 - The Mining Rig took some damage, but it's in one piece.<br>Mission complete. Please head on back.
+
+

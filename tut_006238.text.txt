@@ -1,0 +1,13 @@
+tut_006238.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 928 bytes
+
+TutorialText
+Group 0
+Title - スキルリセット
+text0001 - “クラスカウンター”で、“全スキルツリー初期化”を選択すると、<br>習得したすべての“クラススキル”をリセットすることができます。<br><br>その際、アイテム“N-全スキルツリー初期化パス”が必要になります。
+
+Group 1
+Title - Skill Reset
+text0001 - By selecting [Reset All Skill Trees] at the Class Counter, you can reset all the<br>Class Skills you have learned.<br><br>You will need a "N-Reset All Skill Trees Pass" item in order to do this.
+
+

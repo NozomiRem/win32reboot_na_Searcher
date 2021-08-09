@@ -1,0 +1,13 @@
+npc_763801.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 832 bytes
+
+npc_763801
+Group 0
+76380101 - はじめまして。この町へようこそ。<br>会えて嬉しいです。
+76380102 - 最近は“ドールズ”がよく現れますから……。<br>戦力が増えてくれて助かります。
+
+Group 1
+76380101 - Saludos y bienvenidos a nuestra ciudad. Es un placer conocerte.
+76380102 - Con el aumento de los avistamientos de DOLLS en los últimos tiempos, nos sentimos aliviados de tener a alguien que refuerce nuestras filas.
+
+

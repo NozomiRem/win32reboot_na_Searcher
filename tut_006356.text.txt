@@ -1,0 +1,17 @@
+tut_006356.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 3008 bytes
+
+TutorialText
+Group 0
+Title - テクニック
+text0001 - テクニックは、<br>“ロッド”や“ウォンド”など一部武器で使用できるアクションです。<br>このテクニックには、いくつかの属性があり、<br>たとえば<yellow>炎属性<c>のテクニックには、<br>“フォイエ”や“ギ・フォイエ”などあります。<br>いずれもチャージすることで、性質が大きく変わるのが特徴です。
+text0002 - <yellow>氷属性<c>のテクニックには、<br>“バータ”や“ギ・バータ”などがあります。<br>クラススキル“バータブロット”は、<br>氷属性テクニックでエネミーに“氷の紋章”を付着させ、<br>さらに同属性のテクニックを命中させることで、<br>その紋章を起爆して大きなダメージを与えることができます。
+text0003 - <yellow>雷属性<c>のテクニックには、<br>“ゾンデ”や“ギ・ゾンデ”などがあります。<br>クラススキル“ゾンデクラッド”は、<br>雷属性テクニックでエネミーを攻撃することで、<br>自分自身を“帯電状態”にし、その状態で同属性のテクニックを放つと<br>通常よりも大きなダメージを与えることができます。
+
+Group 1
+Title - Techniques
+text0001 - Techniques are actions that can be performed with certain weapons,<br>such as a Rod or Wand.<br><br>These techniques have several properties. For example, <yellow>Fire<c> Techniques<br>include Foie and Gifoie. These techniques can be charged, greatly changing their<br>properties.<br>
+text0002 - <yellow>Ice<c> Techniques include Barta and Gibarta.<br><br>The class skill "Barta Blot "is an Ice technique that attaches an ice crest onto the<br>enemy. Hitting the enemy with a technique of the same attribute will detonate the<br>crest and deal significant damage.
+text0003 - <yellow>Lightning<c> Techniques include Zonde and Gizonde.<br><br>Attacking an enemy with a Lightning Technique will put yourself in a Lightning-charged<br>state. If you release a technique of the same attribute while in this state you can deal<br>more damage than normal.
+
+

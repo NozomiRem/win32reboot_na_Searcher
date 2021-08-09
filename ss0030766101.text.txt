@@ -1,0 +1,30 @@
+ss0030766101.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1376 bytes
+
+Required
+Group 0
+Title - タワーの踏破
+Summary - セントラルシティの住人バシニアから、<br>訓練施設“トレイニア”の一種である<br>“タワー”について教わる。<br><br>戦闘力を上げて、任意のタワーの踏破を目指す。
+
+Group 1
+Title - Exploring a Tower
+Summary - Central City resident Versinia tells the group<br>about towers named "Trainia," a type of<br>training facility.<br><br>They set out to raise their battle power and<br>explore a tower.
+
+
+SubObjectives
+Group 0
+text0101 - 戦闘力を864以上にする
+text0102 - 任意のタワーを踏破する
+text0103 - 任意のタワーを踏破する
+text0104 - 任意のタワーを踏破する
+Objective323 - 任意のタワーを踏破する
+Objective324 - 任意のタワーを踏破する
+
+Group 1
+text0101 - Achieve Battle Power 864 or greater
+text0102 - Explore any tower
+text0103 - Explore any tower
+text0104 - Explore any tower
+Objective323 - Explore any tower.
+
+

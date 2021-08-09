@@ -1,0 +1,15 @@
+tut_006289.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1184 bytes
+
+TutorialText
+Group 0
+Title - スタンプ
+text0001 - “スタンプ”とは、<br>チャット内にイラストを挿入できる機能です。<br><br>アニメーションしたり、音声が再生されるスタンプもあり、<br>手軽で楽しいコミュニケーションができます。
+text0002 - ログウィンドウのスタンプボタンか、<br>メインメニューの“チャット”から、<br>“スタンプ”で利用できます。
+
+Group 1
+Title - Stamps
+text0001 - Stamps allow you to select and display pictures in chats. Some stamps may be<br>animated or have sound, making communication even more fun.
+text0002 - You can use stamps by pressing the Stamp button from the Log Window or<br>selecting [Stamps] under [Chat] in the Main Menu.
+
+

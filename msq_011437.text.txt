@@ -1,0 +1,15 @@
+msq_011437.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 688 bytes
+
+msq_011437
+Group 0
+msq_011437_0010 - くっ……体勢を立て直したみたいだな。
+msq_011437_0020 - だが、攻撃を続ければ、また隙を見せるはずだ。<br>機会をうかがおう。
+name010 - ブルーダー
+
+Group 1
+msq_011437_0010 - Ugh... It's righted itself again.
+msq_011437_0020 - But if we keep attacking, we may find another opening. Look for a good opportunity.
+name010 - Dozer
+
+

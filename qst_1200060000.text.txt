@@ -1,0 +1,13 @@
+qst_1200060000.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 480 bytes
+
+MainText
+Group 0
+name020 - マノン
+text030 - ちょうどいいわ、<br>このドールズたちで試してみましょう。
+
+Group 1
+name020 - Manon
+text030 - Sounds good to me. Let's see what you can do to these DOLLS.
+
+

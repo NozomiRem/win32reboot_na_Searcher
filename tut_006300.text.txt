@@ -1,0 +1,13 @@
+tut_006300.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 784 bytes
+
+TutorialText
+Group 0
+Title - クエスト倉庫
+text0001 - “クエスト倉庫”は、一部のクエストで<br>進行中に獲得したアイテムが送られる倉庫です。<br><br>倉庫に送られたアイテムは、<br>クエストクリア時に まとめて受け取ることができます。
+
+Group 1
+Title - Quest Storage
+text0001 - Quest Storage is where items that you find on certain quests are sent.<br><br>Once you clear the quest, you may recover all of the items. 
+
+

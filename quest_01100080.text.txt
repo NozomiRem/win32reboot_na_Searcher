@@ -1,0 +1,42 @@
+quest_01100080.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1328 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+a1 - Complete a special Client Order
+a2 - Complete a special Client Order
+a3 - Possess a Super Hard Difficulty Permit
+
+
+AreaName
+Group 0
+Area0S - セツナノイッセン
+Area0L - セツナノイッセン
+
+Group 1
+Area0S - Fleeting Fight
+Area0L - Fleeting Fight
+
+
+Basic
+Group 0
+Title - セツナノイッセン
+Explanation - ここは、アークス各人の戦闘能力を試すトレイニアである。<br>戦闘技術を駆使して、“ブジン”を撃破せよ。
+
+Group 1
+Title - Fleeting Fight
+Explanation - This is Trainia, where ARKS defenders can test their combat abilities.<br>Make use of your battle skills to defeat the Bujin.
+
+
+QuestTarget
+Group 0
+SimpleExplanation - ブジンを倒せ！
+
+Group 1
+
+

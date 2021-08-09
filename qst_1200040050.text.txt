@@ -1,0 +1,13 @@
+qst_1200040050.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 480 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+text010 - 数が多いな……。<br>一体ずつ確実に倒していくぞ。
+
+Group 1
+name010 - Dozer
+text010 - They sure came in numbers...<br>Let's take them down one by one.
+
+

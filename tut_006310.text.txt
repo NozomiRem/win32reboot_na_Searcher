@@ -1,0 +1,15 @@
+tut_006310.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1568 bytes
+
+TutorialText
+Group 0
+Title - シンボルアート
+text0001 - “シンボルアート”とは、図形を組み合わせて絵や文字を表現し、<br>チャットで発言する機能です。<br><br>メインメニューの<yellow>“チャット”<c>から<br><yellow>“シンボルアート”<c>を選択することで、<br>保存されたシンボルアートのリストが開きます。<br>
+text0002 - “ヒストリ”タブでは、<br>ほかのプレイヤーが発言したシンボルアートを見返したり、<br>選択したシンボルアートを自分用にコピーできます。
+
+Group 1
+Title - Symbol Art
+text0001 - Symbol Art is a collection of graphics that can be displayed in chat. You can<br>see your list of Symbol Art graphics by selecting <yellow>[Symbol Art]<c> under<br><yellow>[Communications]<c> in the Main Menu.
+text0002 - The History Tab will let you check Symbol Art graphics that other players <br>have sent previously, as well as copy any selected Symbol Art graphics <br>for your own use.
+
+

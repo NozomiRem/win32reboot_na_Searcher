@@ -1,0 +1,15 @@
+msn_011061.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 640 bytes
+
+msn_011061
+Group 0
+name_7004 - クロフォード
+msn_011061_0010 - ちょうど訓練が終わったようだね。
+msn_011061_0020 - 今から、指令室に来られるかい？<br>待っているよ。
+
+Group 1
+name_7004 - Crawford
+msn_011061_0010 - Looks like my timing was impeccable.
+msn_011061_0020 - Could you join me in the Command Room? I'll be waiting.
+
+

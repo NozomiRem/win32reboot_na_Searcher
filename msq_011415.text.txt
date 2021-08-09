@@ -1,0 +1,13 @@
+msq_011415.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 480 bytes
+
+msq_011415
+Group 0
+msq_011415_0010 - 動きに隙がないよ！<br>距離をとって戦うしか……。
+name010 - アイナ
+
+Group 1
+msq_011415_0010 - They're not leaving any openings! I can't fight them up close...
+name010 - Aina
+
+

@@ -1,0 +1,13 @@
+np_npc_7635_001.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 400 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 元気かい？
+HELLO_BYE - また来な！
+
+Group 1
+HELLO_ALLDAYS - How you doin'?
+HELLO_BYE - Don't be a stranger, you hear?
+
+

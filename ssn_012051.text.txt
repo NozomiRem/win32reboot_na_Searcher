@@ -1,0 +1,46 @@
+ssn_012051.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 5664 bytes
+
+ssn_012051
+Group 0
+name_7200 - カルテヴィエ
+ssn_012051_0104 - まあ、そんなややこしい話じゃないんだけどさ。
+ssn_012051_0105 - 武器や防具は、アイテムラボで強化することができる。<br>でも、その強化にも限界があるのさ。
+ssn_012051_0106 - その限界を突破するには、<br>どうすればいいか……っていう話なのさ。
+ssn_012051_0107 - そこは、習うより慣れろってやつだね。<br>ほら、これをあげるから、ラボに行ってみるといいのさ。
+ssn_012051_0401 - プリムソードを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0402 - プリムナックルを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0403 - プリムライフルを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0404 - プリムマシンガンを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0405 - プリムロッドを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0406 - プリムウォンドを10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0501 - プリムソードを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0502 - プリムナックルを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0503 - プリムライフルを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0504 - プリムマシンガンを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0505 - プリムロッドを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0506 - プリムウォンドを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0407 - プリムカタナ10個、モノタイトを10個、10000<pict reb_meseta>メセタを入手しました。
+ssn_012051_0507 - プリムカタナを1個、モノタイトを2個、2000<pict reb_meseta>メセタを入手しました。
+
+Group 1
+ssn_012051_0104 - It's far simpler than it sounds, I assure you.
+ssn_012051_0105 - Weapons and armor can be enhanced at the Item Lab. However, the enhancements<br>have limits.
+ssn_012051_0106 - So, how exactly do we get past those limits?
+ssn_012051_0107 - I think it'd be easier for you to see it in action, than just hear about it.<br>Here, take this and get yourself over to the Lab.
+ssn_012051_0401 - Obtained 10 Primm Sword, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0402 - Obtained 10 Primm Knuckles, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0403 - Obtained 10 Primm Rifle, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0404 - Obtained 10 Primm Machine Guns, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0405 - Obtained 10 Primm Rod, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0406 - Obtained 10 Primm Wand, 10 monotite, and 10000 <pict reb_meseta>N-Meseta.
+ssn_012051_0501 - Obtained 1 Primm Sword, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0502 - Obtained 1 Primm Knuckles, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0503 - Obtained 1 Primm Rifle, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0504 - Obtained 1 Primm Machine Guns, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0505 - Obtained 1 Primm Rod, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0506 - Obtained 1 Primm Wand, 2 monotite, and 2000 <pict reb_meseta>N-Meseta.
+ssn_012051_0407 - Received 10 Primm Katanas, 10 monotite, and 10000 <pict reb_meseta> meseta.
+ssn_012051_0507 - Received 1 Primm Katana, 2 monotite, and 2000 <pict reb_meseta> meseta.
+
+

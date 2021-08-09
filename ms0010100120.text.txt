@@ -1,0 +1,22 @@
+ms0010100120.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 880 bytes
+
+Required
+Group 0
+Title - アイナの決意
+Summary - 思いつめた様子のアイナに呼び出された<br><%me>は、<br>セントラルシティの端にある<br>見張り台に向かう。
+
+Group 1
+Title - Aina's Resolve
+Summary - Aina seems to be troubled about something.<br>She calls <%me> to the Watchtower on<br>the edge of Central City.
+
+
+SubObjectives
+Group 0
+Objective311 - 見張り台に向かう
+Objective321 - イベントを再生する
+
+Group 1
+Objective311 - Head to the Watchtower
+
+

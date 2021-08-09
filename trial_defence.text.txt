@@ -1,0 +1,41 @@
+trial_defence.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 3952 bytes
+
+common
+Group 0
+TrialName - $(0)防衛
+TrialBeginMsg - エネミーの攻撃から、$(0)を守り抜け！
+TrialAbstract - $(0)を守る
+Wave1Msg - エネミー第一波接近！　$(0)を守り切れ！！ 
+Wave2Msg - エネミー第二波接近！　$(0)を守り切れ！！ 
+Wave3Msg - エネミー第三波接近！　$(0)を守り切れ！！ 
+Wave4Msg - エネミー第四波接近！　$(0)を守り切れ！！ 
+Wave5Msg - さらに多数のエネミー反応あり！<br>$(0)を守り切れ！！ 
+
+Group 1
+TrialName - Transport Truck Defense
+TrialBeginMsg - Defend the Transport Truck from the enemy assault!
+TrialAbstract - Transport Truck Defense
+Wave1Msg - First enemy wave approaching! Protect that truck! 
+Wave2Msg - Second enemy wave approaching! Protect that truck! 
+Wave3Msg - Third enemy wave approaching! Protect that truck! 
+Wave4Msg - Fourth enemy wave approaching! Protect that truck! 
+Wave5Msg - Picking up some more enemy readings!<br>Protect that truck! 
+
+
+type102
+Group 0
+NpcComOnBegin - /voice11_voice_navi001_trial_0001_004 作戦行動中のアークスから救難信号を受信！<br>現場に急行し、対象の防衛にあたってください！
+NpcComOnHp50 - /voice11_voice_navi001_trial_0001_057 防衛対象の被害が拡大しています！<br>接近するエネミーを排除してください！
+NpcComOnHp20 - /voice11_voice_navi001_trial_0001_037 防衛対象の被害甚大！<br>このままでは破壊されてしまいます！なんとしても守り抜いてください！
+NpcComOnSuccess - /voice11_voice_navi001_trial_0001_009 周囲のエネミー反応消滅！<br>もう大丈夫です。協力ありがとうございました！
+NpcComOnFailure - /voice11_voice_navi001_trial_0001_010 対象の防衛に失敗しました……。<br>作戦参加のアークスは、その場から撤収してください。
+
+Group 1
+NpcComOnBegin - /voice11_voice_navi001_trial_0001_004 We’ve received an SOS from ARKS defenders on a mission!<br>Please hurry to their location and defend the target!
+NpcComOnHp50 - /voice11_voice_navi001_trial_0001_057 The target is taking damage!<br>Please neutralize approaching enemies!
+NpcComOnHp20 - /voice11_voice_navi001_trial_0001_037 The target is taking heavy damage!<br>It won’t be able to take much more! Please give it your all!
+NpcComOnSuccess - /voice11_voice_navi001_trial_0001_009 Nearby enemy readings have vanished!<br>We’re all clear. Thank you very much!
+NpcComOnFailure - /voice11_voice_navi001_trial_0001_010 Target defense failed...<br>All participating ARKS defenders, please withdraw.
+
+

@@ -1,0 +1,19 @@
+qst_1200010015.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1168 bytes
+
+MainText
+Group 0
+name010 - ボージ
+text010 - おお！　それだ、それ！<br>いやあ、見つかってよかった。
+text020 - え？　それが何かって？<br>こういうときのためにとっておいた防具だよ！
+text030 - メンテナンスはしてあるから、<br>問題なく使えると思うぜ！
+text050_no2 - それじゃ、さっそく装備してみてくれ。
+
+Group 1
+name010 - Bosy
+text010 - Ah! That's the one!<br>I'm so glad you could find it.
+text020 - What? You seriously can't tell what that is?<br>It's armor I've kept around for just such an occasion!
+text030 - I've kept it in top condition,<br>so it shouldn't give you any problems!
+text050_no2 - So, go ahead and equip it.
+
+

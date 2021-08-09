@@ -1,0 +1,15 @@
+msn_011065.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 640 bytes
+
+msn_011065
+Group 0
+name_7008 - ロッサ
+msn_011065_0010 - おう、ようやくおれの番だな。
+msn_011065_0020 - 直接顔見て話したいから、<br>こっちまで来てくれ。待ってるぜ。
+
+Group 1
+name_7008 - Rossa
+msn_011065_0010 - So, I'm finally up.
+msn_011065_0020 - I'd prefer to speak face-to-face, so please come and see me. I'll be waiting.
+
+

@@ -1,0 +1,13 @@
+tut_006349.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 704 bytes
+
+TutorialText
+Group 0
+Title - フォトンブラスト
+text0001 - サブパレット選択：<br>　<%SubPaletteLeft><pict 4space><%SubPaletteRight><br>サブパレット実行：<br>　<%SubPalette><br>
+
+Group 1
+Title - Photon Blasts
+text0001 - Select Sub-Palette:<br> <%SubPaletteLeft><%SubPaletteRight><br>Execute:<br> <%SubPalette><br>
+
+

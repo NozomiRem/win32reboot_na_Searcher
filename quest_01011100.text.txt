@@ -1,0 +1,13 @@
+quest_01011100.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 320 bytes
+
+AreaName
+Group 0
+Area0S - セントラルシティ
+Area0L - セントラルシティ
+
+Group 1
+Area0S - Central City
+Area0L - Central City
+
+

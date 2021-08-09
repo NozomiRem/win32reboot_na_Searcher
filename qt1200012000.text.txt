@@ -1,0 +1,25 @@
+qt1200012000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 720 bytes
+
+Required
+Group 0
+Title - エアリオタウン
+Summary - エアリオタウン
+
+Group 1
+Title - Aelio Town
+Summary - Aelio Town
+
+
+SubObjectives
+Group 0
+Objective311 - バリーと話す
+Objective321 - 畑を荒らすエネミーを倒す
+Objective331 - バリーに報告する
+
+Group 1
+Objective311 - Talk to Barry
+Objective321 - Defeat the enemies destroying the fields
+Objective331 - Report to Barry
+
+

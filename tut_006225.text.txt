@@ -1,0 +1,15 @@
+tut_006225.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 2128 bytes
+
+TutorialText
+Group 0
+Title - 弱点属性
+text0001 - すべてのテクニックと、一部の武器には、<br>“炎・氷・雷”のいずれかの“属性”があります。<br><br>また、エネミーにはそれぞれ“弱点属性”が存在し、<br>弱点属性に一致する属性の武器やテクニックで攻撃すると<br>より高いダメージを与えることができます。
+text0002 - 一部のエネミーは、弱点属性で攻撃し続けることで、<br>“属性ダウン”という特殊なダウン状態になります。<br><br>武器の属性は、<br><yellow>“装備/サブパレット”<c>から<yellow>“武器装備”<c>を選び、“アイテム詳細”で、<br>テクニックの属性は、“テクニック詳細”で確認できます。
+
+Group 1
+Title - Elemental Weaknesses
+text0001 - All Techniques and certain weapons will have elemental properties ranging from Fire,<br>Ice and Lightning. Additionally, enemies will also have various elemental weaknesses,<br>and using a weapon or Technique of the element they're weak to will deal more damage.
+text0002 - By continuing to attack certain enemies with their Elemental Weakness,<br>you can trigger a special downed state known as an Elemental Down.<br>You can check a weapon's element in  <yellow>[Item Details]<c> from <yellow>[Equip Weapons]<c><br>under [Gear/Sub-Palette], and a Technique's element from [Technique Details].
+
+

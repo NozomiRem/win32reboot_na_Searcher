@@ -1,0 +1,13 @@
+msq_011500.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 544 bytes
+
+msq_011500
+Group 0
+msq_011500_0010 - まずは慰霊碑にするものを見つけないと。<br>森の方へ行ってみようか。
+name010 - アイナ
+
+Group 1
+msq_011500_0010 - First, we have to find something to use as a monument.<br>Why don't we try the forest?
+name010 - Aina
+
+

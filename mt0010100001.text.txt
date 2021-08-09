@@ -1,0 +1,22 @@
+mt0010100001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 960 bytes
+
+Required
+Group 0
+Title - 出会い
+Summary - 見知らぬ土地で目覚めた<br><%me>は、<br>アイナとマノンというふたりの少女と出会い、<br>彼女たちの案内で、近くにある<br>エアリオタウンに向かう。
+
+Group 1
+Title - First Contact
+Summary - Regaining consciousness in an unknown land, <%me><br>meets two young women named Aina and Manon. The pair<br>leads <%me> to nearby Aelio Town.
+
+
+SubObjectives
+Group 0
+text0101 - エアリオタウンに向かう
+text0102 - 指令室に向かえ
+
+Group 1
+text0101 - Head to Aelio Town
+
+

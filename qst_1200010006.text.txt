@@ -1,0 +1,15 @@
+qst_1200010006.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 864 bytes
+
+MainText
+Group 0
+name010 - 衛兵
+text010 - あまり遠くには行かないようにな。<br>さっきもドールズが出たんだ。気をつけてくれ。
+text020 - 来たばかりで色々わからないと思うが、<br>ひとりで遠くへ行くのは危険だぞ。やめた方がいい。
+
+Group 1
+name010 - Guard
+text010 - Don't wander off too far. DOLLS are about. Watch yourself.
+text020 - I get it, a new place, lots to take in. But going off on your own is dangerous. I'd<br>hang tight here if I were you.
+
+

@@ -1,0 +1,31 @@
+qt1200010000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1136 bytes
+
+Required
+Group 0
+Title - エアリオタウン
+Summary - エアリオタウン
+
+Group 1
+Title - Aelio Town
+Summary - Aelio Town
+
+
+SubObjectives
+Group 0
+Objective311 - ガロアの家に向かう
+Objective321 - ラルと話す
+Objective331 - 訓練標的にロックオンする
+Objective391 - ロックオンする訓練的を切り替える
+Objective341 - ステップアタックで訓練標的を全て壊す
+Objective351 - ラルの話を聞く
+
+Group 1
+Objective311 - Head to Garoa's house
+Objective321 - Talk to Ral
+Objective331 - Lock on to the training target
+Objective391 - Switch training targets to lock on.
+Objective341 - Hit all training targets with Sidestep Strike
+Objective351 - Listen to Ral
+
+

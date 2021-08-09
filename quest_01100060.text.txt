@@ -1,0 +1,39 @@
+quest_01100060.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1136 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+
+
+AreaName
+Group 0
+Area0S - スウィフトジャンプ
+Area0L - スウィフトジャンプ
+
+Group 1
+Area0S - Swift Jump
+Area0L - Swift Jump
+
+
+Basic
+Group 0
+Title - スウィフトジャンプ
+Explanation - ここは、アークス各人の跳躍能力を試すトレイニアである。<br>“ジャンプ”、“２段ジャンプ”を用いて、目標地点に到達せよ。
+
+Group 1
+Title - Swift Jump
+Explanation - This is Trainia, where ARKS defenders can test their abilities.<br>Reach the goal using “Jump” and “Double Jump.”
+
+
+QuestTarget
+Group 0
+SimpleExplanation - ゴールへ到達せよ！
+
+Group 1
+
+

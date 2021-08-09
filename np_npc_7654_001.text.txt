@@ -1,0 +1,15 @@
+np_npc_7654_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 512 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 大丈夫？　ケガはない？
+HELLO_ALLDAYS_002 - ちーっす。
+HELLO_BYE - ほんじゃねー。
+
+Group 1
+HELLO_ALLDAYS - You alright? Still in one piece?
+HELLO_ALLDAYS_002 - Sup!
+HELLO_BYE - All right. Later, then!
+
+

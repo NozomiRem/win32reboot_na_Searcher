@@ -1,0 +1,28 @@
+ss0030766402.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1456 bytes
+
+Required
+Group 0
+Title - テクターの基礎訓練
+Summary - アークスの教導官ホーニャンから、<br>テクタークラスの戦いかたを教わる。<br><br><yellow>※使用推奨クラススキル：<br>シフタ・デバンド<c>
+
+Group 1
+Title - Techter Basic Training
+Summary - Learn Techter class fighting techniques from<br>ARKS Instructor Hornian.<br><br><yellow>Recommended class skill: Shifta/Deband<c>
+
+
+SubObjectives
+Group 0
+text0101 - メインクラスをテクターにする
+text0102 - 南エアリオに向かう(テクター限定)
+text0103 - シフタ・デバンドを使用する
+text0104 - 南エアリオでエネミーを倒す(テクター限定)
+Objective333 - ホーニャンに報告する
+
+Group 1
+text0101 - Make Techter your Main Class
+text0102 - Head to South Aelio (Techter only)
+text0103 - Use Shifta/Deband
+text0104 - Defeat the South Aelio enemies (Techter only)
+
+

@@ -1,0 +1,43 @@
+quest_01200040.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1440 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+a1 - Complete a special Client Order
+a2 - Complete a special Client Order
+a3 - Possess a Super Hard Difficulty Permit
+
+
+AreaName
+Group 0
+Area0S - マグナス山
+Area0L - マグナス山
+
+Group 1
+Area0S - Mt. Magnus
+Area0L - Mt. Magnus
+
+
+Basic
+Group 0
+Title - マグナス山のドールズ
+Explanation - 戦いの準備を整えた<br><%me>は、<br>アイナたちとともに、<br>マグナス山に出現したドールズの討伐に向かう。
+
+Group 1
+Title - Mt. Magnus DOLLS
+Explanation - Prepared for battle, <%me> heads to Mt. Magnus to help<br>Aina and the others suppress the DOLLS making an<br>appearance there.
+
+
+QuestTarget
+Group 0
+SimpleExplanation - マグナス山のドールズ
+
+Group 1
+SimpleExplanation - The Mt. Magnus DOLLS
+
+

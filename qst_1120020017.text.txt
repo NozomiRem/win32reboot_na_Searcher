@@ -1,0 +1,13 @@
+qst_1120020017.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 592 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 中距離重砲<pure_red>メルドラーム<c>の反応多数！<br>出現位置を確認してください。
+
+Group 1
+name010 - Ran
+text001 - Multiple mid-range Heavy Artillery <pure_red>Meldrums<c> detected! Please<br>determine their locations.
+
+

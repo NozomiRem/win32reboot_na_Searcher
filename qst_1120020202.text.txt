@@ -1,0 +1,17 @@
+qst_1120020202.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 896 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - エネミーの第一波を防ぎました。
+text002 - 激しい戦闘によって励起されたフォトンが<br><pure_red>コレクトサイン<c>として周囲に顕在化します。
+text003 - エネミーを殲滅しつつ、回収してください。
+
+Group 1
+name010 - Ran
+text001 - First enemy wave defeated.
+text002 - Photons agitated by the intense fighting have materialized nearby as<br><pure_red>Collectasigne<c>.
+text003 - Please collect it as you destroy enemies.
+
+

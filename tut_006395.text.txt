@@ -1,0 +1,13 @@
+tut_006395.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 976 bytes
+
+TutorialText
+Group 0
+Title - ガンナー
+text0001 - <yellow>チェイントリガー：<c><br>　時間内に攻撃のヒット数に応じて<br>　<yellow>“チェインフィニッシュ”<c>中に<br>　与えるダメージが<br>　増加するクラススキル<br>
+
+Group 1
+Title - Gunners
+text0001 - <yellow>Chain Trigger<c><br>is a Class Skill that initiates a chain attack,<br>increasing the amount of damage done by<br><yellow>Chain Finisher Boost<c> in accordance with the<br>number of attacks landed during the time<br>limit.
+
+

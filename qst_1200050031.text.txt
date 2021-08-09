@@ -1,0 +1,13 @@
+qst_1200050031.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 480 bytes
+
+MainText
+Group 0
+name010 - ブルーダー
+text010 - 体勢が崩れたな。<br>いいぞ、その調子で攻撃を続けるんだ。
+
+Group 1
+name010 - Dozer
+text010 - That's thrown it off-balance. Keep it up! Keep hitting it!
+
+

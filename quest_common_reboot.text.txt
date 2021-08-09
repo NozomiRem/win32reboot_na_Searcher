@@ -1,0 +1,297 @@
+quest_common_reboot.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 14880 bytes
+
+CocoonFail
+Group 0
+Cocoon_Fail_None - なし
+Cocoon_Fail_Time - 制限時間：$(0)
+Cocoon_Fail_Fall - 落下回数：$(0)
+Cocoon_Fail_Dead - 戦闘不能回数：$(0)
+
+Group 1
+Cocoon_Fail_None - NA
+Cocoon_Fail_Time - Time Limit: $(0)
+Cocoon_Fail_Fall - Falls: $(0)
+Cocoon_Fail_Dead - Times Incapacitated: $(0)
+
+
+CocoonMainMission
+Group 0
+Cocoon_Main_Goal - フィニッシュポイントに到達する
+Cocoon_Main_Target - $(0)を倒す
+Cocoon_Main_TargetVolume - $(0)を$(1)体倒す
+Cocoon_Main_EnemyValue - エネミーを$(0)体倒す
+Cocoon_Main_AllTarget - 全てのエネミーを倒す
+
+Group 1
+Cocoon_Main_Goal - Reach the finish point.
+Cocoon_Main_Target - Defeat the $(0).
+Cocoon_Main_TargetVolume - Defeat $(1) target enemies ($(0)).
+Cocoon_Main_EnemyValue - Defeat $(0) enemies.
+Cocoon_Main_AllTarget - Defeat all enemies.
+
+
+CocoonSubMission
+Group 0
+Cocoon_Sub_Target - %(EnemyName)$(0)を倒してクリア
+Cocoon_Sub_TargetVolume - %(EnemyName)を$(0)%(num)体倒してクリア
+Cocoon_Sub_Time - %(Time) 未満でクリア
+Cocoon_Sub_Fall - 落下回数$(0)%(num)回未満でクリア
+Cocoon_Sub_Dead - 戦闘不能回数$(0)%(num)回未満でクリア
+Cocoon_Sub_Complete - サイドミッションを$(0)すべて達成してクリア
+Cocoon_Sub_Volume - エネミーを$(0)%(num)体倒してクリア
+Cocoon_Sub_Damage - %(Damage)以上のダメージを$(0)%(num)回以上与えてクリア
+Cocoon_Sub_Hit - ダメージ回数$(0)%(num)回未満でクリア
+Cocoon_Sub_Coin - ポイントキューブを$(0)%(num)個取得してクリア
+Cocoon_Sub_Down - エネミーを%(num)回$(0)ダウンさせてクリア
+Cocoon_Sub_Action - %(action)の$(0)使用%(num)回未満でクリア
+Cocoon_Sub_TargetVolumeLimit - エネミー討伐数$(0)%(num)体未満でクリア
+
+Group 1
+Cocoon_Sub_Target - Defeat $(0)%(EnemyName).
+Cocoon_Sub_TargetVolume - Defeat $(0)%(num) target enemies (%(EnemyName)) and clear.
+Cocoon_Sub_Time - Clear before %(Time).
+Cocoon_Sub_Fall - Clear without falling$(0)%(num) times.
+Cocoon_Sub_Dead - Clear without being$(0)incapacitated %(num) times.
+Cocoon_Sub_Complete - Complete all Side Missions$(0)and clear.
+Cocoon_Sub_Volume - Defeat $(0)%(num) enemies and clear.
+Cocoon_Sub_Damage - Inflict over %(Damage)$(0)over %(num) times.
+Cocoon_Sub_Hit - Clear having taken damage$(0)fewer than %(num) times.
+Cocoon_Sub_Coin - Obtain %(num) Point Cubes.
+Cocoon_Sub_Down - Down enemies %(num) times$(0) and clear.
+Cocoon_Sub_Action - Clear having used %(action) fewer$(0)than %(num) times.
+Cocoon_Sub_0001 - <space>
+Cocoon_Sub_TargetVolumeLimit - Clear having suppressed less$(0)than %(num) enemies.
+
+
+CocoonActionName
+Group 0
+Action_Name_Jump - ジャンプ
+Action_Name_Step - ステップ
+Action_Name_HealTank - 回復行為
+Action_Name_PhotonBlast - フォトンブラスト
+Action_Name_Glide - グライド
+Action_Name_Dash - フォトンダッシュ
+Action_Name_Tech - テクニック
+Action_Name_PA - PA
+Action_Name_TechPA - テクニック/PA
+
+Group 1
+Action_Name_Jump - Jump
+Action_Name_Step - Sidestep
+Action_Name_HealTank - Heal
+Action_Name_PhotonBlast - Photon Blast
+Action_Name_Glide - Glide
+Action_Name_Dash - Photon Dash
+Action_Name_Tech - Technique
+Action_Name_PA - PA
+Action_Name_TechPA - Technique / PA
+
+
+CocoonUITitle
+Group 0
+Cocoon_UITitle_Main_Mission - メインミッション
+Cocoon_UITitle_Sub_Mission - サイドミッション
+Cocoon_UITitle_Failure - 失敗条件
+
+Group 1
+Cocoon_UITitle_Main_Mission - Main Mission
+Cocoon_UITitle_Sub_Mission - Side Mission
+Cocoon_UITitle_Failure - Fail Conditions
+
+
+QuestCommon
+Group 0
+CountDownTime - クエスト開始まで残り$(0)秒
+TimeTextMS - $(0):$(1)
+TimeTextHMS - $(0):$(1):$(2)
+NumberTextCPM - $(0)/$(1)
+
+Group 1
+CountDownTime - Quest will start in $(0) seconds
+TimeTextMS - $(0):$(1)
+TimeTextHMS - $(0):$(1):$(2)
+NumberTextCPM - $(0)/$(1)
+
+
+Reward
+Group 0
+Cocoon_Reward_SkillPoint - スキルポイント
+Cocoon_Reward_SkillPointNum - $(0)ポイント
+Cocoon_Reward_Clear - $(0)クリア
+
+Group 1
+Cocoon_Reward_SkillPoint - Skill Points
+Cocoon_Reward_SkillPointNum - $(0) Point(s)
+Cocoon_Reward_Clear - Clear $(0)
+
+
+Result
+Group 0
+QuestClear - $(0)クリア
+
+Group 1
+QuestClear - Clear $(0)
+
+
+TrialFailure
+Group 0
+f0 - クエストリタイアを選択
+f1 - タイムオーバー！
+f2 - （仮）防衛失敗
+f3 - 戦闘不能回数上限！
+f4 - 落下回数上限！
+f5 - トライアル”$(0)”失敗
+
+Group 1
+f0 - Abandon Quest
+f1 - Time limit exceeded!
+f3 - Incapacitation limit exceeded!
+f4 - Fall limit exceeded!
+f5 - Trial "$(0)" failed!
+
+
+TrialCommon
+Group 0
+BeginMsgTemplate - <yellow>クエスト目標　$(0)<c>
+SuccessMsg_1 - <yellow>クエストクリア！<c>
+SuccessMsg_2 - <yellow>出現したテレパイプで帰還せよ<c>
+FailureMsg - <yellow>クエスト失敗！<c>
+RemainPoint - 残り$(0)ポイント
+IncidentQuestPoint - $(0)ポイントを得た
+QuestOpenMsg - 以下のクエストが解放されました。
+QuestOpenOther - 他
+TimeLimitRemainingSec - 制限時間まであと$(0)秒！
+TimeLimitRemainingMin - 制限時間まであと$(0)分！
+QuotationMarks - 「$(0)」
+AchieveQuestPointMin - クエストポイント目標達成！　更にためるとリザルトランクＵＰのチャンス！
+AchieveQuestPointMax - 最大クエストポイント達成！
+UpdateMsgTemplate - <yellow>クエスト目標更新！　$(0)<c>
+ResetHalfDoll - N-ハーフドールが再度使用可能になりました
+
+Group 1
+BeginMsgTemplate - <yellow>Quest Objective: $(0)<c>
+SuccessMsg_1 - <yellow>Quest Complete!<c>
+SuccessMsg_2 - <yellow>Use the provided Telepipe to return.<c>
+FailureMsg - <yellow>Quest Failed!<c>
+RemainPoint - Points Remaining: $(0)
+IncidentQuestPoint - Points Obtained: $(0)
+QuestOpenMsg - The following quests have been unlocked.
+QuestOpenOther - Etc.
+TimeLimitRemainingSec - $(0) seconds left!
+TimeLimitRemainingMin - $(0) minutes left!
+QuotationMarks - "$(0)"
+AchieveQuestPointMin - Quest Point goal reached! Collect more to increase your rank!
+AchieveQuestPointMax - Maximum Quest Points attained!
+UpdateMsgTemplate - <yellow>Quest objective updated!$(0)<c>
+ResetHalfDoll - The N-Half Scape Doll can now be used again.
+
+
+QuestFailureCondition
+Group 0
+None - なし
+TimeOver - $(0)以上経過する
+TrialFailure - 指定トライアルの失敗
+DeadCount - $(0)回戦闘不能になる
+FallCount - $(0)回落下する
+DeadMenu - クエストリタイアを選択
+
+Group 1
+None - N/A
+TimeOver - Time exceeds $(0)
+TrialFailure - Failure of designated trial
+DeadCount - Incapacitated $(0) times
+FallCount - Fall $(0) times
+DeadMenu - Quest abandoned
+
+
+QuestSuccessCondition
+Group 0
+None - なし
+Story - 対象エネミーの撃破
+Trainia - メインミッションの達成
+Urgency - 対象エネミーの撃破
+
+Group 1
+None - N/A
+Story - Defeat the target enemy
+Trainia - Complete the Main Mission
+Urgency - Defeat the target enemy
+
+
+questblockade
+Group 0
+BlockadeMsg_1 - 現在このクエストを受注できません。詳しくは公式サイトをご確認ください
+
+Group 1
+BlockadeMsg_1 - This quest cannot currently be accepted. Please check the Player Site for details.
+
+
+Common_highrank
+Group 0
+highrank_text01 - ハイランクセクション
+highrank_text02 - 【Rank.1】エネミーLv.5～
+highrank_text03 - 【Rank.2】エネミーLv.15～
+highrank_text04 - 【Rank.2】必要戦闘力：1184以上
+highrank_text05 - 【Rank.1】
+highrank_text06 - 【Rank.2】
+highrank_text07 - 必要戦闘力
+highrank_text08 - 【Rank.2】必要戦闘力：1184以上
+highrank_text09 - 【Rank.1】
+highrank_text10 - 【Rank.2】
+
+Group 1
+highrank_text01 - High Rank Sectors
+highrank_text02 - [Rank 1] Enemy Level 5+
+highrank_text03 - [Rank 2] Enemy Level 15+
+highrank_text04 - [Rank 2] Required Battle Power: 1184 or higher
+highrank_text05 - [Rank 1]
+highrank_text06 - [Rank 2]
+highrank_text07 - Required Battle Power
+highrank_text08 - [Rank 2]Required Battle Power: 1184 or higher
+highrank_text09 - [Rank 1]
+highrank_text10 - [Rank 2]
+
+
+RebootDefense
+Group 0
+DefensePurpose - クエスト目標
+DefensePurposeDetails - 資源採掘リグを防衛せよ！
+DefenseHP - 防衛対象耐久値
+DefenseMaterial - 取得コレクトサイン
+DefenseMaterialPt - Pt
+WaveRemainTime - 残り時間
+WaveEndRemainTimeDetails - Wave.$(0)終了まで
+WaveStartRemainTimeDetails - Wave.$(0)開始まで
+DefenseNavigation - アドバイス
+MaterialEffectUseable - <yellow>$(0)<c>が使用可能になりました。
+MaterialEffectBaseRecovery - 耐久値回復
+MaterialEffectBaseBarrier - バリアシールド
+MaterialEffectSpeciallyArmedGatling - モバイルキャノン
+DiscriptionAccidentWall - 【SUDDEN INCIDENT!!】<br>阻塞壁<yellow>バリゲール<c>が出現！　進路の妨害に注意せよ！
+DiscriptionAccidentErosionCoreRush - 【SUDDEN INCIDENT!!】<br>拠点襲撃機<yellow>バックハック<c>が出現！　資源採掘リグから排除せよ！
+DiscriptionAccidentErosionGunRush - 【SUDDEN INCIDENT!!】<br>中距離重砲<yellow>メルドラーム<c>が出現！　攻撃開始前に撃破せよ！
+DiscriptionAccidentBoostEnemy - 【SUDDEN INCIDENT!!】<br>エンハンスドエネミーの一群を確認！　強力な攻撃に注意せよ！
+NoticeDestroyAllBase - 全資源採掘リグの被害甚大！<br>敵勢力が攻勢を停止……順次撤退する模様……！
+
+Group 1
+DefensePurpose - Quest Objective
+DefensePurposeDetails - Defend the Mining Rig!
+DefenseHP - Defense Target Structural Integrity
+DefenseMaterial - Earned Collectasigne
+DefenseMaterialPt - Pts
+WaveRemainTime - Time Remaining
+WaveEndRemainTimeDetails - Wave $(0) time remaining
+WaveStartRemainTimeDetails - Time until Wave $(0) begins
+DefenseNavigation - Advice
+MaterialEffectUseable - You can now use <yellow>$(0)<c>.
+MaterialEffectBaseRecovery - Recover Structural Integrity
+MaterialEffectBaseBarrier - Barrier Shield
+MaterialEffectSpeciallyArmedGatling - Mobile Cannon
+DiscriptionAccidentWall - [EMERGENCY ALERT!]<br><yellow>Barrigale<c> detected! Beware of possible course interference!
+DiscriptionAccidentErosionCoreRush - [EMERGENCY ALERT!]<br>Assault Drone <yellow>Backhack<c> has appeared! Remove it from the Mining Rig!
+DiscriptionAccidentErosionGunRush - [EMERGENCY ALERT!]<br>Mid-range Heavy Artillery <yellow>Meldrum<c> has appeared! Destroy it before it can attack!
+DiscriptionAccidentBoostEnemy - [EMERGENCY ALERT!]<br>A group of Enhanced Enemies has been sighted! Beware of their powerful attacks!
+NoticeDestroyAllBase - All Mining Rigs severely damaged!<br>The enemy has halted its assault and is withdrawing!
+
+

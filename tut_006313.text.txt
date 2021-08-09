@@ -1,0 +1,13 @@
+tut_006313.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 784 bytes
+
+TutorialText
+Group 0
+Title - ブーストアイテム
+text0001 - “ブーストアイテム”を使用すると、<br><yellow>ドロップによって得られるN-メセタや、<br>経験値、レアドロップの倍率を、一時的に上昇させる<c><br>ことができます。
+
+Group 1
+Title - Boosters
+text0001 - You can use a booster to <yellow>temporarily increase your rare drop rate. They can<br>also increase the N-Meseta or EXP<c> you get from enemies.
+
+

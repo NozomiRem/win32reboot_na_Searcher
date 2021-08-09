@@ -1,0 +1,13 @@
+qst_1120020000.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 480 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - エネミーの反応、あと半分くらいです。<br>もうひと踏ん張りです！
+
+Group 1
+name010 - Ran
+text001 - Enemy readings are down by roughly half.<br>Just one more push!
+
+

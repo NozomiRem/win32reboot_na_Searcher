@@ -1,0 +1,15 @@
+qst_1120020205.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 608 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - エネミーの第四波を防ぎました。
+text002 - 損傷した採掘リグは、<br><pure_red>コレクトサイン<c>で修復を。
+
+Group 1
+name010 - Ran
+text001 - Fourth enemy wave defeated.
+text002 - Repair the damaged rig with <pure_red>Collectasigne<c>.
+
+

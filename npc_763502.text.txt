@@ -1,0 +1,17 @@
+npc_763502.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1312 bytes
+
+npc_763502
+Group 0
+76350201 - ここはのんびりしたところだろ？<br>でも、“ドールズ”の襲撃は多いんだ……。
+76350202 - “セントラルシティ”への侵攻は許せないからね。<br>防衛拠点として、実はかなり大事な場所なのさ。
+76350203 - ふう、今日はいい風が吹いているね。<br>見てごらんよ。
+76350204 - 大布がたくさん風になびいてて、きれいだろ？<br>この町のシンボルみたいなもんなのさ。
+
+Group 1
+76350201 - Es un lugar relajado, ¿verdad? Pero los Dolls, atacan mucho.
+76350202 - No podemos permitir que invadan Ciudad Central. Como base de defensa, es un lugar bastante importante.
+76350203 - Uf, hoy sopla una buena brisa. Mira eso.
+76350204 - Un montón de telas grandes revolotean al viento, ¿no es hermoso? Es como un símbolo de esta ciudad.
+
+

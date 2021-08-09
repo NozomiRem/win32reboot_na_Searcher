@@ -1,0 +1,228 @@
+actor_name_npc.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 8784 bytes
+
+Npc
+Group 0
+Npc_7001001 - マノン
+Npc_7002001 - アイナ
+Npc_7002002 - アイナ
+Npc_7003001 - ガロア
+Npc_7004001 - クロフォード
+Npc_7005001 - ブルーダー
+Npc_7006001 - ラン
+Npc_7007001 - リューリン
+Npc_7008001 - ロッサ
+Npc_7009001 - オランジェ
+Npc_7195001 - スローナ
+Npc_7196001 - ダチュア
+Npc_7197001 - シャンレイ
+Npc_7198001 - ホロマン
+Npc_7199001 - グイーデン
+Npc_7200001 - カルテヴィエ
+Npc_7201001 - ソミュア
+Npc_7203001 - フランメ
+Npc_7205001 - ラボナ
+Npc_7206001 - ミイシャ
+Npc_7207001 - ユーティロイ
+Npc_7208001 - クロシェ
+Npc_7209001 - エテルナ
+Npc_7210001 - トラヴィス
+Npc_7211001 - シャンディー
+Npc_7400001 - デュアドラ
+Npc_7417001 - ディグホール
+Npc_7418001 - ベルクマン
+Npc_7419001 - ボノ
+Npc_7602001 - バリー
+Npc_7604001 - アグリ
+Npc_7605001 - イジー
+Npc_7606001 - ダリ
+Npc_7607001 - アジェ
+Npc_7608001 - オットー
+Npc_7609001 - モーリエ
+Npc_7610001 - ウェイクス
+Npc_7611001 - ナンデル
+Npc_7612001 - ホクシー
+Npc_7613001 - トウエン
+Npc_7617001 - ラスキナ
+Npc_7618001 - セイマー
+Npc_7619001 - バルメ
+Npc_7622001 - ケンジンス
+Npc_7623001 - ノーリシモ
+Npc_7632001 - ルル
+Npc_7633001 - ニコ
+Npc_7634001 - ロロ
+Npc_7635001 - スーラ
+Npc_7636001 - ヴェラ
+Npc_7637001 - ジュリ
+Npc_7638001 - アーネスト
+Npc_7642001 - ラル
+Npc_7643001 - レッジス
+Npc_7645001 - ルーディー
+Npc_7646001 - ビル
+Npc_7648001 - ファイン
+Npc_7649001 - ボージ
+Npc_7653001 - マチルダ
+Npc_7654001 - コミューナ
+Npc_7655001 - ウェズリー
+Npc_7656001 - セグレット
+Npc_7657001 - アディラ
+Npc_7658001 - ラドマッグ
+Npc_7660001 - スタッギィ
+Npc_7661001 - バシニア
+Npc_7662001 - ダントレイ
+Npc_7663001 - シャルキ
+Npc_7664001 - ホーニャン
+Npc_7667001 - ネスカ
+Npc_7687001 - トレイシス
+Npc_7688001 - ディメンテルナ
+Npc_7903001 - ダルゲ
+Npc_7904001 - ダチュア
+Npc_7905001 - シャマール
+Npc_7906001 - シャンレイ
+Npc_7907001 - ホサーニャ
+Npc_7908001 - ホロマン
+Npc_7991001 - クロ
+Npc_7992001 - シロ
+Npc_7993001 - Npc_7993001
+Npc_7994001 - Npc_7994001
+Npc_7995001 - Npc_7995001
+
+Group 1
+Npc_7001001 - Manon
+Npc_7002001 - Aina
+Npc_7002002 - Aina
+Npc_7003001 - Garoa
+Npc_7004001 - Crawford
+Npc_7005001 - Dozer
+Npc_7006001 - Ran
+Npc_7007001 - Liu Lin
+Npc_7008001 - Rossa
+Npc_7009001 - Oranje
+Npc_7195001 - Slona
+Npc_7196001 - Da Chua
+Npc_7197001 - Shan Lei
+Npc_7198001 - Holloman
+Npc_7199001 - Guiden
+Npc_7200001 - Cartevei
+Npc_7201001 - Somua
+Npc_7203001 - Franmere
+Npc_7205001 - Lavona
+Npc_7206001 - Misha
+Npc_7207001 - Eutroy
+Npc_7208001 - Croche
+Npc_7209001 - Eterna
+Npc_7210001 - Travis
+Npc_7211001 - Xiandy
+Npc_7400001 - Deirdre
+Npc_7417001 - Excator
+Npc_7418001 - Berkman
+Npc_7419001 - Bono
+Npc_7602001 - Barry
+Npc_7604001 - Agri
+Npc_7605001 - Izzy
+Npc_7606001 - Dali
+Npc_7607001 - AJ
+Npc_7608001 - Otto
+Npc_7609001 - Maurie
+Npc_7610001 - Wakes
+Npc_7611001 - Southerton
+Npc_7612001 - Northampton
+Npc_7613001 - Eastman
+Npc_7617001 - Raskina
+Npc_7618001 - Weston
+Npc_7619001 - Balme
+Npc_7622001 - Kensing
+Npc_7623001 - Noricimo
+Npc_7632001 - Lulu
+Npc_7633001 - Niko
+Npc_7634001 - Lolo
+Npc_7635001 - Sula
+Npc_7636001 - Vera
+Npc_7637001 - Juli
+Npc_7638001 - Ernest
+Npc_7642001 - Ral
+Npc_7643001 - Regis
+Npc_7645001 - Rudy
+Npc_7646001 - Vil
+Npc_7648001 - Figne
+Npc_7649001 - Bosy
+Npc_7653001 - Matilda
+Npc_7654001 - Communa
+Npc_7655001 - Wesley
+Npc_7656001 - Segreto
+Npc_7657001 - Adilla
+Npc_7658001 - Radmag
+Npc_7660001 - Staggy
+Npc_7661001 - Versinia
+Npc_7662001 - Dontre
+Npc_7663001 - Sharkey
+Npc_7664001 - Hornian
+Npc_7667001 - Nesca
+Npc_7687001 - Trace
+Npc_7688001 - Dimenterna
+Npc_7903001 - Daruge
+Npc_7904001 - Da Chua
+Npc_7905001 - Shamal
+Npc_7906001 - Shan Lei
+Npc_7907001 - Hosanna
+Npc_7908001 - Holloman
+
+
+NpcNickName
+Group 0
+Npc_ArksTrainer - アークス教導官
+Npc_CounterQuest1 - アークスヒストリー：歴史研究員
+Npc_CounterSalon1 - エステ：店員
+Npc_CounterLab1 - アイテムラボ：強化技師
+Npc_ClassCounter - クラスカウンター：管理官
+Npc_EmergencyCounter - 緊急クエスト管理官
+Npc_KitchenPolice - フードスタンド：店員
+Npc_Appraiser - アイテムラボ：鑑定士
+Npc_MyShop - マイショップ：店員
+Npc_ItemShop - アイテムショップ：店員
+Npc_RecycleShop - アイテムトレーダー
+Npc_Restaurant - レストコーナー：案内員
+Npc_MineralResearcher - アークス鉱物研究員
+Npc_Communication - アークス情報支援員
+Npc_WeatherResearcher - アークス気象研究員
+Npc_Telegraphist - アークス通信士
+Npc_SeniorTelegraphist - アークス上級通信士
+Npc_MagEngineer - アークス機械技師
+Npc_MeleeInstructor - アークス打撃教導官
+Npc_MeleeInstructor2 - ファイター教導官
+Npc_RangeInstructor - アークス射撃教導官
+Npc_RangeInstructor2 - ガンナー教導官
+Npc_CasterInstructor - アークス法撃教導官
+Npc_CasterInstructor2 - テクター教導官
+Npc_Seasonal - アークス特異現象研究員
+Npc_MiniGame - ミニゲームNPC（仮）
+Npc_BraverInstructor - アークス複合技能教導官
+
+Group 1
+Npc_ArksTrainer - ARKS Instructor
+Npc_CounterQuest1 - ARKS Historian
+Npc_CounterSalon1 - Salon Staff
+Npc_CounterLab1 - Item Lab Enhancement Technician
+Npc_ClassCounter - Class Counter Admin
+Npc_KitchenPolice - Food Stand Staff
+Npc_Appraiser - Item Lab Appraiser
+Npc_MyShop - Personal Shop Staff
+Npc_ItemShop - Item Shop Staff
+Npc_RecycleShop - Item Trader
+Npc_Restaurant - Rest Area Attendant
+Npc_MineralResearcher - ARKS Mineralogist
+Npc_Communication - ARKS Information Support
+Npc_WeatherResearcher - ARKS Meteorologist
+Npc_Telegraphist - ARKS Comms Officer
+Npc_SeniorTelegraphist - ARKS Chief Comms Officer
+Npc_MagEngineer - ARKS Mechanical Engineer
+Npc_MeleeInstructor - ARKS Melee Instructor
+Npc_MeleeInstructor2 - Fighter Instructor
+Npc_RangeInstructor - ARKS Ranged Instructor
+Npc_RangeInstructor2 - Gunner Instructor
+Npc_CasterInstructor - ARKS Technique Instructor
+Npc_CasterInstructor2 - Techter Instructor
+Npc_Seasonal - ARKS Phenomenologist
+Npc_BraverInstructor - ARKS Compound Skills Instructor
+
+

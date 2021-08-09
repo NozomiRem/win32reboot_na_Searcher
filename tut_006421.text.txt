@@ -1,0 +1,15 @@
+tut_006421.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1840 bytes
+
+TutorialText
+Group 0
+Title - ブレイバー
+text0001 - “ブレイバー”は、<br>カタナによる近接攻撃とバレットボウによる遠距離攻撃を使い分け、<br>さまざまな局面に対応できる、バランスのとれたクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。
+text0002 - クラススキル<yellow>“ブレイブコンバット”<c>は、<br>“サブパレット”に登録して使用することで、<br>一定時間、PP消費量が減少し、攻撃時のPP回復量が増加します。<br><br>また、スキルの発動中に再度使用することで、<br>強力なフィニッシュ攻撃が発生します。
+
+Group 1
+Title - Bravers
+text0001 - Bravers are a balanced class that can move between close combat with the<br>Katana and ranged combat with the Bow to easily adapt to any combat<br>situation.<br><br>Here are some of the Class Skills available to them.
+text0002 - By assigning the Class Skill <yellow>"Brave Combat"<c> to the Sub-Palette and using it,<br>your PP consumption is reduced and PP recovery when attacking is increased for<br>a limited time.<br><br>Using it again while already activated will launch a powerful finishing blow.
+
+

@@ -1,0 +1,13 @@
+tut_006273.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 912 bytes
+
+TutorialText
+Group 0
+Title - テイムズ
+text0001 - “テイムズ”は、<br>“ハルファ”に棲息する比較的おとなしい生物の総称です。<br>攻撃すると、一斉に逃げ出したり、<br>プレイヤーに突進してきたりします。<br><br>倒すと、“ギャザリング素材”を入手できます。
+
+Group 1
+Title - TAMES
+text0001 - TAMES is a generic name for the relatively docile creatures that live on Halpha.<br>If you attack them, they may run away or charge at you. Defeating them<br>awards you with gathering materials.
+
+

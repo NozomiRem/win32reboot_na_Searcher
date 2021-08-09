@@ -1,0 +1,87 @@
+trial_apc_7907001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 3776 bytes
+
+common
+Group 0
+Begin - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7002001 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+
+
+trial_boss_ahl
+Group 0
+Begin - ねえねえ！　ちょっと、苦戦中！<br>いっしょに戦ってくれると、ホサーニャうれしい！
+Success - やったやった！<br>勝てたよ！　ありがとー！
+Failure - あっ、逃げちゃう！<br>……じゃあ、次！
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7906001 - ピンチかも……。手伝ってー！
+Success_7906001 - やったねー！　また、一緒に戦おうねー！
+Failure_7906001 - じゃあ、次のとこ、行こー！
+Dead_7906001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7906001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - Hey, hey! I'm struggling!<br>Fight with me, won’t you?
+Success - We did it!<br>We won! Thank you!
+Failure - Ah, they ran off!<br>Aaand on to the next!
+Begin_7906001 - This could be bad... Help me out!
+Success_7906001 - We really did it! Let’s fight together again<br>someday!
+Failure_7906001 - Ah well, on to the next fight!
+
+
+trial_enemy_ahl
+Group 0
+Begin - /ci2 3 やったー、仲間だー！<br>ホサーニャと一緒に戦って！
+Success - /ci9 1 やったー！　勝てたー！<br>ありがとー！
+Failure - /ci4 1 あ、逃げてく！<br>……ま、いっか。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7906001 - /ci8 2 やったー！　一緒に戦って！
+Success_7906001 - /ci9 3 勝てたー！　ありがとー！
+Failure_7906001 - /ci4 1 気にしない、気にしない。
+Dead_7906001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7906001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - /ci2 3 Hooray, a friend!<br>Fight alongside me!
+Success - /ci9 1 We did it! We won!<br>Thank you!
+Failure - /ci4 1 They're getting away!<br>Meh. Oh well.
+Begin_7906001 - /ci8 2 Yay! Let's fight together!
+Success_7906001 - /ci9 3 We won! Thanks a bunch!
+Failure_7906001 - /ci4 1 Oh well. No worries.
+
+

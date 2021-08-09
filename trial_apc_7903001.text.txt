@@ -1,0 +1,99 @@
+trial_apc_7903001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 5200 bytes
+
+common
+Group 0
+Begin - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7002001 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+
+
+trial_boss_ahl
+Group 0
+Begin - これは、ちょっとまずいかも……。<br>すみません！　手を貸してもらえますか？
+Success - はぁ……おかげで助かりました。<br>ありがとうございます！
+Failure - おや？　エネミーが退いていきますね。<br>……まあ、お互い無事でなによりです。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7905001 - これは……まずいですね……。
+Success_7905001 - はぁ……命拾いしました。<br>ありがとうございます！
+Failure_7905001 - エネミーが撤退します！
+Dead_7905001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7905001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - This could be bad...<br>Sorry, but could you lend a hand?
+Success - Phew... My savior!<br>Thanks for all the help!
+Failure - Hm? The enemies are retreating...<br>Oh well. I'm just glad everyone's alright.
+Begin_v2 - /ci1 1 Oh, perfect timing.<br>Could you give me a hand?
+Success_v2 - /ci2 1 Thank you. That was a great help.<br>I look forward to working with you again.
+Failure_v2 - /ci4 3 This is getting dangerous!<br>I'm sorry, but I'm going to need to fall back.
+Begin_7905001 - This doesn't look good...
+Success_7905001 - Phew... that was a close one.<br>Thanks for the help!
+Failure_7905001 - The enemy is retreating!
+Begin_7002001_v3 - /ci1 2 Why are there so many enemies?
+Success_7002001_v3 - /ci2 1 Phew... We managed somehow.
+Failure_7002001_v3 - /ci4 3 Ugh... I took one too many hits.<br>I'm going to retreat for now.
+
+
+trial_enemy_ahl
+Group 0
+Begin - /ci1 5 すみません！　少し苦戦していて……。<br>手伝ってもらえますか？
+Success - /ci1 1 ふぅ……なんとかなりました。<br>ありがとうございます！
+Failure - /ci4 3 エネミーが撤退！<br>……深追いはやめておきましょうか。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7905001 - /ci1 2 すみません！<br>少し手伝ってもらえますか？
+Success_7905001 - /ci1 5  ふぅ……なんとかなりましたね。
+Failure_7905001 - /ci4 5 おや、エネミーが……。
+Dead_7905001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7905001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - /ci1 5 Sorry to bother you, but I'm taking a real<br>beating. Can you help out for a sec?
+Success - /ci1 1 Phew... We got out of that somehow.<br>Thanks for everything!
+Failure - /ci4 3 The enemy is retreating!<br>Let’s not worry about going after them.
+Begin_v2 - /ci1 1 Oh, perfect timing.<br>Could you give me a hand?
+Success_v2 - /ci2 1 Thank you. That was a great help.<br>I look forward to working with you again.
+Failure_v2 - /ci4 3 This is getting dangerous!<br>I'm sorry, but I'm going to need to fall back.
+Begin_7905001 - /ci1 2 Sorry to bother you,<br>but could you help me out?
+Success_7905001 - /ci1 5  Phew... We made it out alive.
+Failure_7905001 - /ci4 5 Wait, the enemy is...
+Begin_7002001_v3 - /ci1 2 Why are there so many enemies?
+Success_7002001_v3 - /ci2 1 Phew... We managed somehow.
+Failure_7002001_v3 - /ci4 3 Ugh... I took one too many hits.<br>I'm going to retreat for now.
+
+

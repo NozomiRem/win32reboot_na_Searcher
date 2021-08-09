@@ -1,0 +1,13 @@
+tut_006229.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 976 bytes
+
+TutorialText
+Group 0
+Title - Ｅマーカー
+text0001 - “Ｅマーカー（エネミーマーカー）”は、<br><yellow>エネミーの出現場所<c>を示すガイドアイコンのひとつです。<br><br>Ｅマーカーが表示された地点に向かうことで、<br>同じＥマーカーに向かっているほかのプレイヤーと合流できます。
+
+Group 1
+Title - E Markers
+text0001 - An Enemy Marker (E Marker) is an icon that will display <yellow>an enemy's location<c>.<br><br>If you head to an E Marker's location, you can meet up with other players who<br>are heading to that same E Marker.
+
+

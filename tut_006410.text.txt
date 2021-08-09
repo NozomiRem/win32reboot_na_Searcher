@@ -1,0 +1,15 @@
+tut_006410.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 2208 bytes
+
+TutorialText
+Group 0
+Title - 資源採掘リグ防衛戦：エアリオ
+text0001 - <yellow>“資源採掘リグ防衛戦：エアリオ”<c>は、<br>資源採掘のために展開したリグを、<br>エネミーの攻撃から守る緊急クエストです。<br><br>従来の緊急クエストと同様に、事前にアナウンスがあり、<br>クエスト開始地点がマップ上に表示されます。
+text0002 - エネミーの襲撃は、<br><yellow>“ウェーブ（Wave）”<c>という単位で断続的に行われます。<br>他のプレイヤーたちと協力して、最後のウェーブまで<br>資源採掘リグを守りぬくことがクエストの目標です。<br><br>“資源採掘リグ防衛戦”の詳細は、メインメニューのシステムから、<br>ヘルプのなかにある<yellow>“ゲームガイド”<c>を選択することで確認できます。
+
+Group 1
+Title - Mining Rig Defense: Aelio
+text0001 - <yellow>Mining Rig Defense: Aelio<c> is an Urgent Quest in which you defend a resource<br>mining rig from enemy attack.<br><br>Like normal Urgent Quests, there is an announcement prior to the event and<br>the starting location is displayed on your map.
+text0002 - The enemy attacks come in successive <yellow>Waves<c>. Your goal is to work with other<br>players to successfully defend the rig until the end of the final Wave.<br><br>More info on Mining Rig Defense missions can be found in the <yellow>Game Guide<c> by<br>accessing "System" under the Main Menu, and then "Help".
+
+

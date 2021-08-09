@@ -1,0 +1,15 @@
+tut_006306.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1312 bytes
+
+TutorialText
+Group 0
+Title - ショートカットワード
+text0001 - “ショートカットワード”とは、よく使う発言を<br>あらかじめ登録しておき、すぐに発言できる機能です。<br><br>登録はメインメニューの“チャット”から、<br>“ショートカットワード設定”で行います。
+text0002 - 登録したチャットは、クイックメニューのショートカットか、<br>キーボードの“ショートカット設定”に応じたキー入力で、<br>発言することができます。
+
+Group 1
+Title - Chat Shortcuts
+text0001 - Shortcuts allow you to add your favorite phrases by selecting <yellow>[Chat]<c> under<br><yellow>[Communications]<c> in the Main Menu.
+text0002 - You can speak in registered chats using the Quick Menu shortcut or by pressing<br>the corresponding key designated in your keyboard Shortcut Settings.
+
+

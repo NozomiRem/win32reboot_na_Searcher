@@ -1,0 +1,13 @@
+tut_006407.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 720 bytes
+
+TutorialText
+Group 0
+Title - デイリー／ウィークリータスクの追加
+text0001 - 全ての期間限定タスクを達成することで、<br>イベント用の“デイリー/ウィークリータスク”が<br>受注可能になります。
+
+Group 1
+Title - Additional Daily/Weekly Tasks
+text0001 - Upon completion of all limited-time-only tasks, you can accept Daily and<br>Weekly Tasks related to the event.
+
+

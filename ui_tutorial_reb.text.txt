@@ -1,0 +1,347 @@
+ui_tutorial_reb.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 15520 bytes
+
+TitleName
+Group 0
+tut_006207 - レスタサイン
+tut_006208 - サブパレット
+tut_006213 - ロックオン／ロックオン切り替え
+tut_006219 - 通常攻撃によるPP回復
+tut_006221 - アイテムコンテナ
+tut_006222 - アイテムパック
+tut_006223 - 防具装備
+tut_006225 - 弱点属性
+tut_006226 - 弱点部位
+tut_006229 - Ｅマーカー
+tut_006230 - マルチプレイ
+tut_006231 - コクーン
+tut_006232 - ウォールキック
+tut_006233 - サブパレットのカスタマイズ
+tut_006234 - フォトンブラスト
+tut_006235 - スキルポイント
+tut_006236 - クラスカウンター
+tut_006237 - スキルツリー
+tut_006238 - スキルリセット
+tut_006239 - ハンター
+tut_006240 - レンジャー
+tut_006241 - フォース
+tut_006242 - ファイター
+tut_006243 - ガンナー
+tut_006244 - テクター
+tut_006245 - アークスキャッシュとACショップ
+tut_006246 - スタージェムとSGショップ
+tut_006247 - ステップカウンター
+tut_006248 - 大剣（ソード）
+tut_006249 - 長槍（パルチザン）
+tut_006250 - 自在槍（ワイヤードランス）
+tut_006251 - 長銃（アサルトライフル）
+tut_006252 - 大砲（ランチャー）
+tut_006253 - 長杖（ロッド）
+tut_006254 - 導具（タリス）
+tut_006255 - 鋼拳（ナックル）
+tut_006256 - 両剣（ダブルセイバー）
+tut_006257 - 双小剣（ツインダガー）
+tut_006258 - 双機銃（ツインマシンガン）
+tut_006259 - 短杖（ウォンド）
+tut_006261 - 倉庫
+tut_006262 - 『PSO2』との共有要素
+tut_006263 - 武器装備
+tut_006264 - メインパレットの切り替え
+tut_006265 - サブパレットの切り替え
+tut_006266 - メインタスク
+tut_006267 - サイドタスク
+tut_006268 - リューカーデバイス
+tut_006269 - テレポート
+tut_006270 - ワールドマップ
+tut_006271 - 探索セクション
+tut_006272 - ギャザリング
+tut_006273 - テイムズ
+tut_006274 - クイックフード
+tut_006276 - クイックメニュー
+tut_006277 - メインパレットのカスタマイズ
+tut_006278 - 武器や防具の強化
+tut_006280 - 戦闘力
+tut_006281 - デイリー・ウィークリータスク
+tut_006283 - タスクのガイド情報
+tut_006285 - パーティー
+tut_006287 - リバーサーサイン
+tut_006289 - スタンプ
+tut_006290 - チャット
+tut_006291 - ロビーアクション
+tut_006294 - パラメーター
+tut_006295 - 戦闘不能メニュー
+tut_006296 - トライアル
+tut_006297 - 天候
+tut_006299 - エステ
+tut_006300 - クエスト倉庫
+tut_006301 - ドロップ倉庫
+tut_006302 - ブロック移動
+tut_006304 - モーション変更
+tut_006305 - フレンドリスト
+tut_006306 - ショートカットワード
+tut_006307 - オートワード
+tut_006308 - アークスサーチ
+tut_006309 - グループチャット
+tut_006310 - シンボルアート
+tut_006311 - 操作設定
+tut_006312 - クエストの破棄
+tut_006313 - ブーストアイテム
+tut_006314 - ファッションチケット
+tut_006315 - マグ
+tut_006316 - プリセット能力
+tut_006318 - スクラッチ
+tut_006319 - アイテム交換ショップ
+tut_006321 - 戦闘セクション
+tut_006322 - サブクラス
+tut_006324 - PSE
+tut_006325 - レアエネミー
+tut_006326 - 特殊能力追加
+tut_006329 - 潜在能力解放
+tut_006330 - 限界突破
+tut_006331 - リージョンマグ
+tut_006336 - ドローム
+tut_006337 - タワー
+tut_006338 - エンハンスドエネミー
+tut_006339 - マルチウェポン
+tut_006341 - ワールドトライアル
+tut_006342 - 緊急クエスト
+tut_006343 - ギガンティクス
+tut_006344 - プロテクトコンテナ
+tut_006350 - 物理ダウン／属性ダウン
+tut_006352 - 天候によるエネミー強化
+tut_006353 - デイナイトシフト
+tut_006354 - ボスエネミー
+tut_006356 - テクニック
+tut_006357 - PA（フォトンアーツ）
+tut_006358 - 移動アクションの操作
+tut_006359 - 攻撃アクションの操作
+tut_006360 - リージョン
+tut_006361 - アセンブリーポイント掃討
+tut_006362 - ドールズ管制機トライアル
+tut_006363 - クエスト即時開始の提案
+tut_006364 - ダウンゲージ
+tut_006367 - メッセージパック
+tut_006368 - アップドラフター
+tut_006369 - アクティブソナー
+tut_006370 - エネミー討伐トライアル
+tut_006371 - ステラーギフトトライアル
+tut_006372 - 防衛トライアル
+tut_006378 - パスワードマッチング
+tut_006379 - マイショップ
+tut_006390 - ドールズ
+tut_006397 - クラススキル
+tut_006398 - 戦闘力の上げ方・１
+tut_006399 - かんたん操作
+tut_006403 - ドレッドエネミー
+tut_006404 - ハイランクセクション
+tut_006405 - ステラーグレイス回収作戦
+tut_006408 - 戦闘力の上げ方・２
+tut_006409 - 戦闘力の上げ方・３
+tut_006411 - 資源採掘リグ防衛戦：エアリオ
+tut_006412 - デリバリーデバイス
+tut_006413 - ドールズウェポン
+tut_006414 - コレクトサイン
+tut_006415 - 資源採掘リグの機能
+tut_006416 - サドンインシデント
+tut_006418 - モバイルキャノン
+tut_006419 - アドバイス
+tut_006421 - ブレイバー
+tut_006422 - 抜剣（カタナ）
+tut_006423 - 強弓（バレットボウ）
+
+Group 1
+tut_006207 - Restasigne
+tut_006208 - Sub-Palettes
+tut_006213 - Lock-on
+tut_006219 - Recovering PP with Normal Attacks
+tut_006221 - Item Containers
+tut_006222 - The Inventory
+tut_006223 - Equipping Armor
+tut_006225 - Elemental Weaknesses
+tut_006226 - Weak Points
+tut_006229 - E Markers
+tut_006230 - Multiplayer
+tut_006231 - Cocoons
+tut_006232 - Wall Kicking
+tut_006233 - Customizing Sub-Palettes
+tut_006234 - Photon Blasts
+tut_006235 - Skill Points
+tut_006236 - The Class Counter
+tut_006237 - The Skill Tree
+tut_006238 - Skill Reset
+tut_006239 - Hunters
+tut_006240 - Rangers
+tut_006241 - Forces
+tut_006242 - Fighters
+tut_006243 - Gunners
+tut_006244 - Techters
+tut_006245 - ARKS Cash (AC) and the AC Shop
+tut_006246 - Star Gems (SG) and the SG Shop
+tut_006247 - Sidestep Counters
+tut_006248 - Swords
+tut_006249 - Partisans
+tut_006250 - Wired Lances
+tut_006251 - Assault Rifles
+tut_006252 - Launchers
+tut_006253 - Rods
+tut_006254 - Talises
+tut_006255 - Knuckles
+tut_006256 - Double Sabers
+tut_006257 - Twin Daggers
+tut_006258 - Twin Machine Guns
+tut_006259 - Wands
+tut_006261 - Storage
+tut_006262 - Shared Elements with PSO2
+tut_006263 - Equipping Weapons
+tut_006264 - Cycling Through Main Palettes
+tut_006265 - Cycling Through Sub-Palettes
+tut_006266 - Main Tasks
+tut_006267 - Side Tasks
+tut_006268 - Ryuker Devices
+tut_006269 - Teleporting
+tut_006270 - The World Map
+tut_006271 - Exploration Sectors
+tut_006272 - Gathering
+tut_006273 - TAMES
+tut_006274 - Quick Food
+tut_006276 - Quick Menu
+tut_006277 - Customizing the Main Palette
+tut_006278 - Weapon and Armor Enhancement
+tut_006280 - Battle Power
+tut_006281 - Daily and Weekly Tasks
+tut_006283 - Task Info
+tut_006285 - Parties
+tut_006287 - Reversasigne
+tut_006289 - Stamp
+tut_006290 - Chat
+tut_006291 - Emotes
+tut_006294 - Stats
+tut_006295 - The Incapacitation Menu
+tut_006296 - Trials
+tut_006297 - Weather
+tut_006299 - The Salon
+tut_006300 - Quest Storage
+tut_006301 - Drop Storage
+tut_006302 - Block Transfers
+tut_006304 - Changing Motions
+tut_006305 - The Friend List
+tut_006306 - Chat Shortcuts
+tut_006307 - Auto Chat
+tut_006308 - ARKS Search
+tut_006309 - Group Chat
+tut_006310 - Symbol Art
+tut_006311 - Control Settings
+tut_006312 - Abandoning Quests
+tut_006313 - Boosters
+tut_006314 - Fashion Tickets
+tut_006315 - Mags
+tut_006316 - Preset Skills
+tut_006318 - Scratch Tickets
+tut_006319 - Item Exchange Shop
+tut_006321 - Combat Sectors
+tut_006322 - Sub-Classes
+tut_006324 - Photon Sensitive Effect
+tut_006325 - Rare Enemies
+tut_006326 - Affixing Augments
+tut_006329 - Unlocking Potentials
+tut_006330 - Limit Breaking
+tut_006331 - Region Mags
+tut_006336 - Dromes
+tut_006337 - Towers
+tut_006338 - Enhanced Enemies
+tut_006339 - Multi-weapons
+tut_006341 - World Trials
+tut_006342 - Urgent Quests
+tut_006343 - Gigantix
+tut_006344 - Protected Containers
+tut_006350 - Physical and Elemental Downs
+tut_006352 - How Weather Affects Enemies
+tut_006353 - Day and Night Transitions
+tut_006354 - Boss Enemy
+tut_006356 - Techniques
+tut_006357 - PA (Photon Arts)
+tut_006358 - Moving Around
+tut_006359 - Attacking
+tut_006360 - Regions
+tut_006361 - Assembly Point Clearance
+tut_006362 - DOLLS Control System Trials
+tut_006363 - Quest Immediate Start Proposal
+tut_006364 - The Down Gauge
+tut_006367 - Datapods
+tut_006368 - Updrafters
+tut_006369 - Active Sonar
+tut_006370 - Enemy Suppression Trials
+tut_006371 - Stella Pack Trials
+tut_006372 - Defense Trials
+tut_006378 - Password Matchmaking
+tut_006379 - Personal Shops
+tut_006390 - DOLLS
+tut_006397 - Class Skills
+tut_006398 - Increasing Your Battle Power I
+tut_006399 - Simplified Movement
+tut_006403 - Dread Enemies
+tut_006404 - High Rank Sectors
+tut_006405 - Stella Grace Recovery Operation
+tut_006408 - Increasing Your Battle Power II
+tut_006409 - Increasing Your Battle Power III
+tut_006411 - Mining Rig Defense: Aelio
+tut_006412 - Delivery Device
+tut_006413 - DOLLS Weapons
+tut_006414 - Collectasigne
+tut_006415 - Mining Rig Features
+tut_006416 - Emergency Alerts
+tut_006418 - Mobile Cannons
+tut_006419 - Advice
+tut_006421 - Bravers
+tut_006422 - Katanas
+tut_006423 - Bows
+
+
+TagName
+Group 0
+unknown - 不明
+player_move - キャラクターのアクション／操作
+base_system - システム／その他
+equip_wepon_type - 武器の種類
+battle - 戦闘の基本操作
+skill_class - クラススキル
+adventure - 冒険
+quest_basic - 探索セクション／戦闘セクション
+urgency - 緊急クエスト
+communication - コミュニケーション
+enemy - エネミー
+datanum - $(0)
+task - タスク
+palettes - メインパレット／サブパレット
+battle_power - 戦闘力
+class - クラス
+trial - トライアル
+urgency_defence - 資源採掘リグ防衛戦
+item_shop - アイテム／ショップ
+weapons_enhancement - 装備の強化
+limited_time_event - 期間限定イベント
+
+Group 1
+unknown - Unknown
+player_move - Character Actions/Controls
+base_system - System/Other
+equip_wepon_type - Weapons
+battle - Basic Combat Controls
+skill_class - Class Skills
+adventure - Adventure
+quest_basic - Exploration Sectors/Combat Sectors
+urgency - Urgent Quests
+communication - Communications
+enemy - Enemies
+datanum - $(0)
+task - Tasks
+palettes - Main Palettes/Sub-Palettes
+battle_power - Battle Power
+class - Classes
+trial - Trials
+urgency_defence - Mining Rig Defense
+item_shop - Items/Shops
+weapons_enhancement - Weapon Enhancements
+limited_time_event - Limited-Time Event
+
+

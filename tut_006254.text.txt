@@ -1,0 +1,15 @@
+tut_006254.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1776 bytes
+
+TutorialText
+Group 0
+Title - 導具（タリス）
+text0001 - “導具（タリス）”は、<br>PA発動後、しばらく空中にタリスの陣形が展開され、その状態で<br>テクニックを発動すると、特殊弾で攻撃できる遠距離武器です。<br><br>展開される陣形は、PAによって変化します。
+text0002 - PA“パーフォレイトシュート”は、<br>前方にフォトンの弾を発射し、さらにタリスを展開します。<br><br>タリス展開中にテクニックを使用した場合、<br>そのテクニックと同じ属性のフォトン弾を発射します。
+
+Group 1
+Title - Talises
+text0001 - After unleashing a Photon Art, the Talis will deploy in mid-air for a while. If<br>you fire off a Technique during this time, you can attack from long range with<br>special rounds.<br><br>The Talis will deploy differently depending on the Photon Art used.
+text0002 - The Photon Art "Convergence Shot" unleashes a photon blast in frontal <br>direction and launches the Talis. <br>If you are using a Technique while the Talis is deployed, it will fire with <br>photon bullets of the same element as the Technique.
+
+

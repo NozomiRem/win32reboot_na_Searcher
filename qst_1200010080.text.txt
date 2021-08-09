@@ -1,0 +1,37 @@
+qst_1200010080.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1808 bytes
+
+MainText
+Group 0
+name010 - ファイン
+text010 - ……って、言ってるそばからエネミーが来たわね！<br>さっそく実践してみせて！
+
+Group 1
+name010 - Figne
+text010 - Oh, perfect timing. We've got company!<br>Show 'em what you've learned!
+
+
+GuideText
+Group 0
+Text_PA - フォトンアーツ（PA）：
+Text_TEC - テクニック：
+Button_PATEC - <%PhotonArts>
+Text_chargePA - チャージPA：
+Text_chargeTEC - チャージテクニック：
+Text_chargePA2 - PA中の攻撃切り替え：
+Button_charge - <%PhotonArts><pict 4space>長押し
+Button_charge2 - PA中
+Button_charge2_2 - 特定タイミングで<pict 4space><%NormalAttack><pict 4space>か<pict 4space><%PhotonArts>
+
+Group 1
+Text_PA - Photon Arts (PA): 
+Text_TEC - Techniques: 
+Button_PATEC - <%PhotonArts>
+Text_chargePA - Charged Photon Art:
+Text_chargeTEC - Charged Technique: 
+Text_chargePA2 - Switch attack during Photon Arts: 
+Button_charge - press and hold <%PhotonArts>.
+Button_charge2 - While performing PA,,
+Button_charge2_2 - press <%NormalAttack> or <%PhotonArts> at the appropriate time.
+
+

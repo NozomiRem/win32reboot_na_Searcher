@@ -1,0 +1,13 @@
+tut_006370.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1088 bytes
+
+TutorialText
+Group 0
+Title - エネミー討伐トライアル
+text0001 - エネミーを<yellow>討伐する<c>トライアルです。<br>討伐対象となっているエネミーをすべて倒すと成功です。<br><br>多数の小型エネミーや、出現頻度の低い大型エネミーなど、<br>さまざまなエネミーが討伐対象となります。
+
+Group 1
+Title - Enemy Suppression Trials
+text0001 - This is a Trial that requires you to <yellow>suppress<c> enemies. Complete the trial by<br>defeating all enemies marked for suppression.<br><br>You will face various enemies, such as swarms of smaller ones, or large ones<br>that appear infrequently.
+
+

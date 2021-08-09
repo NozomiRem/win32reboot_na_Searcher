@@ -1,0 +1,13 @@
+tut_006233.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1056 bytes
+
+TutorialText
+Group 0
+Title - サブパレットのカスタマイズ
+text0001 - メインメニューの<yellow>“装備/サブパレット”<c>から<yellow>“サブパレット”<c>を<br>選択すると、サブパレットをカスタマイズできます。<br><br>セットしたい“スロット”を選択すると、<br>一覧からアイテムやクラススキルなどを登録できます。
+
+Group 1
+Title - Customizing Sub-Palettes
+text0001 - You can customize your Sub-Palettes from <yellow>[Sub-Palette]<c> under<br><yellow>[Gear/Sub-Palette]<c> in the Main Menu.<br><br>Add items or Class Skills from the list by selecting the slot you want them in.
+
+

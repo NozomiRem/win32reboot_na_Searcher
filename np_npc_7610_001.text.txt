@@ -1,0 +1,15 @@
+np_npc_7610_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 464 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - おい、大丈夫か？
+HELLO_ALLDAYS_002 - よう！
+HELLO_BYE - じゃあ！
+
+Group 1
+HELLO_ALLDAYS - Hey, are you holding up okay?
+HELLO_ALLDAYS_002 - Yo!
+HELLO_BYE - See ya!
+
+

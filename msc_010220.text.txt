@@ -1,0 +1,25 @@
+msc_010220.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1536 bytes
+
+msc_010220
+Group 0
+msc_010220_0010 - エアリオタウンから、いらした方たちですね。
+msc_010220_0020 - ……あなたは？
+msc_010220_0030 - 私は、ラン。<br>このセントラルシティ所属のオペレーターです。
+msc_010220_0040 - シティのリーダーであるクロフォードが、<br>あなたがたと話がしたいと。
+msc_010220_0050 - クロフォード……。
+msc_010220_0060 - そのまま、ゲートをくぐって、<br>目の前に見えるタワーへと進んでください。
+msc_010220_0070 - ……わかったわ。
+msc_010220_0080 - 行きましょう。
+
+Group 1
+msc_010220_0010 - ¿Vienes de la ciudad de Aerio, sí?
+msc_010220_0020 - ...¿Quién eres?
+msc_010220_0030 - Soy Ran. Soy una operadora de Ciudad Central.
+msc_010220_0040 - Crawford, el líder de la ciudad, dijo que quería hablar contigo
+msc_010220_0050 - Crawford.....
+msc_010220_0060 - Sólo tienes que atravesar la puerta de aquí y seguir adelante hasta la torre que ves más adelante.
+msc_010220_0070 - ...Lo tengo.
+msc_010220_0080 - Vamos, ¿de acuerdo?
+
+

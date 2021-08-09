@@ -1,0 +1,13 @@
+qst_1120020016.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 528 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 阻塞壁<pure_red>バリゲール<c>の出現を確認！<br>分断されないように気を付けてください！
+
+Group 1
+name010 - Ran
+text001 - Barrage wall <pure_red>Barrigale<c> detected! Try not to get split up!
+
+

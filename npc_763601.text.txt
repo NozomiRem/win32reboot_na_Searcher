@@ -1,0 +1,13 @@
+npc_763601.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 576 bytes
+
+npc_763601
+Group 0
+76360101 - ふふ、“星渡り”だなんて、<br>素敵なお客さんが来てくれたのね。
+76360102 - これからよろしくね。
+
+Group 1
+76360101 - Hehe. Y qué espléndido invitado tenemos aquí. Un Meteorn, en carne y hueso.
+76360102 - Estoy deseando conocerte.
+
+

@@ -1,0 +1,29 @@
+qt1200011000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 816 bytes
+
+Required
+Group 0
+Title - エアリオタウン
+Summary - エアリオタウン
+
+Group 1
+Title - Aelio Town
+Summary - Aelio Town
+
+
+SubObjectives
+Group 0
+Objective311 - ファインと話す
+Objective321 - 浜辺を荒らすエネミーを倒す
+Objective331 - ファインの話を聞く
+Objective341 - 浜辺を荒らすエネミーを倒す
+Objective351 - ファインの話を聞く
+
+Group 1
+Objective311 - Talk to Figne
+Objective321 - Defeat the enemies destroying the beach
+Objective331 - Listen to Figne
+Objective341 - Defeat the enemies destroying the beach
+Objective351 - Listen to Figne
+
+

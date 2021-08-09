@@ -1,0 +1,15 @@
+np_npc_7205_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 496 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 準備中なの……ごめんね！
+HELLO_ALLDAYS_002 - いらっしゃい！
+HELLO_BYE - また来てね！
+
+Group 1
+HELLO_ALLDAYS - Sorry. I'm still getting ready.
+HELLO_ALLDAYS_002 - Welcome!
+HELLO_BYE - Come again!
+
+

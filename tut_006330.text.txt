@@ -1,0 +1,13 @@
+tut_006330.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 976 bytes
+
+TutorialText
+Group 0
+Title - 限界突破
+text0001 - 武器や防具の“強化値”には上限があり、<br>“アイテムラボ”の“限界突破”から、<br>強化値の上限を引き上げることができます。<br><br>“限界突破”は、ギャザリング素材とN-メセタを消費します。
+
+Group 1
+Title - Limit Breaking
+text0001 - Weapons and armor have a maximum Enhancement Level. Once that level is<br>reached, you can increase the maximum by selecting [Limit Break] at <br>the Item Lab.<br><br>Limit Breaking consumes gathering materials and N-Meseta.
+
+

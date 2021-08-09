@@ -1,0 +1,15 @@
+msq_011260_000.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1104 bytes
+
+msq_011260_000
+Group 0
+name_7006 - ラン
+msq_011260_000_0010 - 聴こえますか？　あなたの戦闘力が、<br>ヴァンフォード研究所跡の進入基準値に達したみたいです。
+msq_011260_000_0020 - 新たな場所ですので、これまでに戦ったことのない<br>エネミーと戦闘になる可能性があります。十分に気をつけてください。
+
+Group 1
+name_7006 - Ran
+msq_011260_000_0010 - Can you hear me? It looks like your Battle Power has met the requirements for clearance to <br>enter the Vanford Laboratory Ruins. 
+msq_011260_000_0020 - You'll be venturing into new territory, so there's a possibility you'll encounter enemies<br>you've not seen before. Stay alert.
+
+

@@ -1,0 +1,15 @@
+tut_006237.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1376 bytes
+
+TutorialText
+Group 0
+Title - スキルツリー
+text0001 - “スキルツリー”は、<br>“クラススキル”を習得するためのシステムです。<br><br>クラススキルどうしが線で繋がっている場合、<br>線の下にあるクラススキルを覚えるためには、先に<br>上にあるクラススキルを習得する必要があります。
+text0002 - クラススキルによっては、習得条件に<br>“クラスレベルが一定以上であること”のように<br>特殊な条件が必要なものがあります。
+
+Group 1
+Title - The Skill Tree
+text0001 - The Skill Tree is a system that allows you to learn Class Skills. When Class<br>Skills are connected by a line, you'll need to learn the higher Class Skill first<br>before you can learn the lower one.
+text0002 - Some Class Skills have special requirements beyond meeting a certain class<br>level before you can learn them.
+
+

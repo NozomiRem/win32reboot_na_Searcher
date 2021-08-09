@@ -1,0 +1,13 @@
+qst_1200020060.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 448 bytes
+
+MainText
+Group 0
+name010 - ガロア
+text010 - あまり散らばるな！<br>連携がとりづらくなるぞ！
+
+Group 1
+name010 - Garoa
+text010 - Don't get too spread out!<br>It'll get harder to link up!
+
+

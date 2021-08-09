@@ -1,0 +1,23 @@
+ss0030766051.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1136 bytes
+
+Required
+Group 0
+Title - マルチウェポンの作成
+Summary - アークスのひとりスタッギィから、<br>アイテムラボで“マルチウェポン”を<br>作成する方法を教わる。<br><br><yellow>※ギャザリング推奨セクション：<br>北エアリオ<c><c>
+
+Group 1
+Title - Creating Multi-weapons
+Summary - ARKS defender Staggy explains how to create a <br>Multi-weapon at Item Lab.<br><br><br><yellow>Recommended sector for gathering: North Aelio<c>
+
+
+SubObjectives
+Group 0
+Objective311 - フォトンクォーツを入手する
+Objective321 - マルチウェポンを作成する
+
+Group 1
+Objective311 - Obtain photon quartz
+Objective321 - Create a Multi-weapon
+
+

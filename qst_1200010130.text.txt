@@ -1,0 +1,19 @@
+qst_1200010130.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1104 bytes
+
+MainText
+Group 0
+name010 - ボージ
+text050 - よし、ちゃんと装備できたみたいだな。
+text050_2 - ほかでも防具を手に入れたら、しっかり装備すること。<br>覚えておくんだぞ。
+text060 - ところで、町はもうじゅうぶんに見て回れたか？
+text070 - 満足したようなら、<br>ひとまずガロアのところへ戻るといいかもな。
+
+Group 1
+name010 - Bosy
+text050 - Good, you properly equipped.
+text050_2 - If you get armor elsewhere, make sure you equip it. Remember that.
+text060 - Have you had a good look around town already?
+text070 - If you've had your fill for now, it's probably best to head on back to Garoa's place.
+
+

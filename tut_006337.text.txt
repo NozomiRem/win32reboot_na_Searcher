@@ -1,0 +1,13 @@
+tut_006337.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 896 bytes
+
+TutorialText
+Group 0
+Title - タワー
+text0001 - “タワー”は、各地に点在する、<br><yellow>トレイニア<c>と呼ばれる訓練施設の一種です。<br><br>コクーンよりも施設の規模が大きく、難易度も高いですが、<br>より多くのスキルポイントを入手できます。
+
+Group 1
+Title - Towers
+text0001 - Towers are a type of <yellow>training facility<c> that exist in every area.<br><br>They are more expansive than Cocoons and more difficult to complete, but will<br>reward more Skill Points.
+
+

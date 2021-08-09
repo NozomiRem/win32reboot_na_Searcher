@@ -1,0 +1,13 @@
+np_npc_7648_001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 352 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 調子はどう？
+HELLO_BYE - じゃあね。
+
+Group 1
+HELLO_ALLDAYS - How ya doin'?
+HELLO_BYE - See ya.
+
+

@@ -1,0 +1,13 @@
+tut_006344.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 752 bytes
+
+TutorialText
+Group 0
+Title - プロテクトコンテナ
+text0001 - アイテムコンテナのなかには、<br>バリアによって守られているものがあります。<br><br>周囲のバリアポッドをすべて破壊することで、<br>バリアが解除されます。
+
+Group 1
+Title - Protected Containers
+text0001 - Some Item Containers are protected by barriers.<br><br>Destroy all the Barrier Pods in the area to deactivate the barrier.
+
+

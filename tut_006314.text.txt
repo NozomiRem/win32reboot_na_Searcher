@@ -1,0 +1,13 @@
+tut_006314.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 816 bytes
+
+TutorialText
+Group 0
+Title - ファッションチケット
+text0001 - “チケットアイテム”を使用すると、<br>“ファッション”の“レイヤリングウェア”や<br>“アクセサリー”などを入手できます。<br><br>ファッションは、<br><yellow>“エステ”で変更できます。<c>
+
+Group 1
+Title - Fashion Tickets
+text0001 - You can use Tickets to obtain cosmetics like Layering Wear or Accessories.<br><br>You can change your Look from the <yellow>Salon.<c>
+
+

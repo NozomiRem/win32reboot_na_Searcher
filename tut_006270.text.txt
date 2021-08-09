@@ -1,0 +1,13 @@
+tut_006270.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1424 bytes
+
+TutorialText
+Group 0
+Title - ワールドマップ
+text0001 - メインメニューの<yellow>“ワールド”<c>を選択すると、<br>ワールド全体のマップを確認できます。<br>このワールドマップは<pict 4space><swguidetype T_WorldMap><pict 4space>長押しでも開きます。<br><br>“コクーン”や“リューカーデバイス”など発見した場所には<br>アイコンが表示され、カーソルを合わせると情報が表示されます。
+
+Group 1
+Title - The World Map
+text0001 - You can see a map of the entire world from <yellow>[World]<c> in the Main Menu. <br>You can also open the World Map by pressing and holding <pict 4space><swguidetype T_WorldMap><pict 4space>.<br><br>Icons will display any Cocoons or Ryuker Devices you have discovered, and you<br>can get more information on them by hovering over them with your cursor.
+
+

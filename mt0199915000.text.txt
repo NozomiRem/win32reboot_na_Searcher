@@ -1,0 +1,19 @@
+mt0199915000.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 464 bytes
+
+Required
+Group 0
+Title - 【マグナス山】登山口に向かえ
+Summary - メインタスク　１章
+
+Group 1
+
+
+SubObjectives
+Group 0
+Objective311 - マノンに話しかけろ
+Objective321 - クエストを受注しろ
+
+Group 1
+
+

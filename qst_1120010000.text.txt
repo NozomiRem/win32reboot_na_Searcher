@@ -1,0 +1,19 @@
+qst_1120010000.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1616 bytes
+
+MainText
+Group 0
+name010 - ラン
+text010 - アークス各員に通達します。<br>レゾルの森の中心部で、極めて強力なドールズの反応が確認されました。
+text020 - 過去のデータから、<br>戦域統制型ドールズ“ネクス・ヴェラ”のものと思われます。
+text030 - 戦域統制型ドールズは、<br>他のドールズの動きを活発化させるなど、とても危険な存在です。
+text040 - 攻撃性の増したエネミーに警戒しつつ、<br>目標地点に向かってください。
+
+Group 1
+name010 - Ran
+text010 - Calling all ARKS defenders.<br>An incredibly powerful DOLLS unit has been detected in the heart of<br>Resol Forest.
+text020 - Going by past data, we believe it to be the Command DOLLS, Nex Vera.
+text030 - Command DOLLS are known to make other nearby DOLLS more active. For<br>this reason, they're considered to be incredibly dangerous.
+text040 - Please make your way to the target location, while remaining cautious of the<br>increasingly aggressive enemy.
+
+

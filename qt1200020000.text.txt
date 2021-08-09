@@ -1,0 +1,23 @@
+qt1200020000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 608 bytes
+
+Required
+Group 0
+Title - 未知なる巨影
+Summary - 未知なる巨影
+
+Group 1
+Title - A Huge Mysterious Figure
+Summary - A Huge Mysterious Figure
+
+
+SubObjectives
+Group 0
+Objective311 - エネミーを倒す
+Objective321 - 洞窟まで逃げる
+
+Group 1
+Objective311 - Defeat the enemies
+Objective321 - Escape to the cave
+
+

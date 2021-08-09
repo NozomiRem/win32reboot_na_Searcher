@@ -1,0 +1,23 @@
+qt1200070000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 560 bytes
+
+Required
+Group 0
+Title - 三人の戦い
+Summary - 三人の戦い
+
+Group 1
+Title - The Trio Goes to Battle
+Summary - The Trio Goes to Battle
+
+
+SubObjectives
+Group 0
+Objective311 - ダイダル・ソードを倒す
+Objective321 - ダイダル・ソードを倒す
+
+Group 1
+Objective311 - Defeat the Daityl Sword
+Objective321 - Defeat the Daityl Sword
+
+

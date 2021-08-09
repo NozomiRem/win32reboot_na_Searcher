@@ -1,0 +1,15 @@
+qst_1100050160.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 432 bytes
+
+MainText
+Group 0
+name010 - グイーデン
+name020 - ブルーダー
+text010 - もう一度、説明するぞ。
+
+Group 1
+name010 - Guiden
+name020 - Dozer
+text010 - I'll run through it again.
+
+

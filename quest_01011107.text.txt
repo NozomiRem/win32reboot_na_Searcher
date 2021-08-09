@@ -1,0 +1,11 @@
+quest_01011107.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 272 bytes
+
+AreaName
+Group 0
+Area0S - エアリオ水源(コレクトゾーン)
+Area0L - エアリオ水源(コレクトゾーン)
+
+Group 1
+
+

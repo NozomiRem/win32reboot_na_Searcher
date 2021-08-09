@@ -1,0 +1,33 @@
+ss0030720151.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1248 bytes
+
+Required
+Group 0
+Title - コクーンとソナー
+Summary - アークスのひとりソミュアから、<br>マグの支援機能のひとつ<br>“アクティブソナー”の使いかたを教わり、<br>たどり着いた先のコクーンを踏破する。
+
+Group 1
+Title - Cocoon and Sonar
+Summary - ARKS defender Somua explains how to <br>make use of a Mag function called "Active Sonar" <br>and to explore the Cocoon facility where they arrive.
+
+
+SubObjectives
+Group 0
+Objective311 - コクーンを踏破する
+Objective321 - コクーンを踏破する
+Objective322 - コクーンを踏破する
+Objective323 - コクーンを踏破する
+Objective324 - コクーンを踏破する
+Objective325 - コクーンを踏破する
+Objective326 - コクーンを踏破する
+
+Group 1
+Objective311 - Explore the Cocoon facility
+Objective321 - Explore the Cocoon facility
+Objective322 - Explore the Cocoon facility
+Objective323 - Explore the Cocoon facility
+Objective324 - Explore the Cocoon facility
+Objective325 - Explore the Cocoon facility
+Objective326 - Explore the Cocoon facility
+
+

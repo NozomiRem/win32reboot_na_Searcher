@@ -1,0 +1,13 @@
+tut_006415.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 912 bytes
+
+TutorialText
+Group 0
+Title - 資源採掘リグの機能
+text0001 - 資源採掘リグにアクセスすると、<br>“コレクトサイン”の取得ポイントに応じて、<br><yellow>“耐久値回復”<c>や<yellow>“バリアシールド”<c>といった<br>支援機能が使用できます。
+
+Group 1
+Title - Mining Rig Features
+text0001 - Accessing the Mining Rig will allow you to spend varying amounts of<br>Earned Points for Support Modules such as <yellow>Recover Structural Integrity<c><br>and <yellow>Barrier Shield<c>.
+
+

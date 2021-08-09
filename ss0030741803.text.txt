@@ -1,0 +1,21 @@
+ss0030741803.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 896 bytes
+
+Required
+Group 0
+Title - 湿原の景色
+Summary - セントラルシティの住人ベルクマンから<br>ハルファナ湿原の思い出の景色を<br>もう一度見せてもらいたいと頼まれる。
+
+Group 1
+Title - A Wetlands Scene
+Summary - Central City resident Berkman asks the team<br>to help rediscover a Halphana Wetlands view<br>that holds special memories.
+
+
+SubObjectives
+Group 0
+text0101 - ガイドマーカーの指し示す場所に向かう
+
+Group 1
+text0101 - Head to the Task Marker location
+
+

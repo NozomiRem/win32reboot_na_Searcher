@@ -1,0 +1,13 @@
+qst_1200060030.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 464 bytes
+
+MainText
+Group 0
+name010 - マノン
+text010 - まだ、ドールズが残っていそうね。<br>先へ進みましょう。
+
+Group 1
+name010 - Manon
+text010 - We're not quite done with the DOLLS yet. <br>Let's proceed.
+
+

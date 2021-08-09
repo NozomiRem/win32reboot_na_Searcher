@@ -1,0 +1,13 @@
+tut_006272.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 864 bytes
+
+TutorialText
+Group 0
+Title - ギャザリング
+text0001 - フィールド上の野菜や果物、鉱石などは、<br>“ギャザリング素材”として入手できます。<br><br>これらのアイテムは、“クイックフード”や、<br>装備品の“強化素材”として使用できます。
+
+Group 1
+Title - Gathering
+text0001 - Items like vegetables, fruits, and minerals can be obtained as gathering<br>materials when out in the field.<br><br>These items can be used in Quick Food or to enhance equipment.
+
+

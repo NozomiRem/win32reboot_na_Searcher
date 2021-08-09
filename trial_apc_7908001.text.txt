@@ -1,0 +1,86 @@
+trial_apc_7908001.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 4432 bytes
+
+common
+Group 0
+Begin - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7002001 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+
+
+trial_boss_ahl
+Group 0
+Begin - これは……、困ったね。<br>一緒に戦ってもらえると助かるな。
+Success - やれやれ、なんとかなったね。<br>またなにかあったら、よろしく頼むよ。
+Failure - やれやれ、逃げられてしまったね。<br>……こちらも一休みしようかな。
+Dead - /ci5 3 うぅ……こんなはずでは……。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7904001 - 助かった。<br>一緒に戦ってくれないかい？
+Success_7904001 - うん、悪くないね。<br>よければ、また一緒に戦いたいね。
+Failure_7904001 - いや、深追いはしないでおこう。
+Dead_7904001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7904001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - This is worrisome...<br>I could use your help in this battle.
+Success - Well, that went smoothly.<br>If something comes up again, I'll call on you.
+Failure - Too bad--looks like they got away.<br>Let's take this chance to catch some R&R.
+Begin_7904001 - Just who I was hoping to see.<br>Won't you fight alongside me?
+Success_7904001 - Hm, not bad.<br>I hope we fight together again.
+Failure_7904001 - Let's not waste time giving chase.
+
+
+trial_enemy_ahl
+Group 0
+Begin - /ci1 2 おや、いいところに。<br>すまないけど、手を貸してくれないかな？
+Success - /ci1 3 まあ、ざっとこんなもんかな。<br>おかげで助かったよ、ありがとう。
+Failure - /ci4 1 おや？　もう終わりかい？<br>少し、物足りないね。
+Begin_v2 - /ci1 1 あら、いいところに。<br>少し手伝ってもらえないかしら。
+Success_v2 - /ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。
+Failure_v2 - /ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。
+Dead_v2 - /ci5 3 うぅ……こんなはずでは……。
+Begin_7904001 - /ci1 3 すまないけど、<br>手を貸してもらえると助かるよ。
+Success_7904001 - /ci1 2 おかげで助かったよ。<br>ありがとう。
+Failure_7904001 - /ci4 1 まあ、次があるさ。
+Dead_7904001 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7904001 - /ci4 3 ……こ、こんなところで……。
+Begin_7002001_v3 - /ci1 2 なんで、こんなにエネミーが……。
+Success_7002001_v3 - /ci2 1 ふう……、なんとかなったわね。
+Failure_7002001_v3 - /ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。
+Dead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+BuddyDead_7002001_v3 - /ci4 3 ……こ、こんなところで……。
+
+Group 1
+Begin - /ci1 2 Hey, fancy seeing you here.<br>Sorry to ask, but could you help me out?
+Success - /ci1 3 Alright, that should just about do it.<br>You really saved my bacon. Thanks.
+Failure - /ci4 1 Hm? Is it over already?<br>Too bad. What a waste.
+Begin_7904001 - /ci1 3 Sorry to be a bother,<br>but I'd really appreciate your help.
+Success_7904001 - /ci1 2 You were a huge help.<br>Thank you.
+Failure_7904001 - /ci4 1 Oh well, there's always next time.
+
+

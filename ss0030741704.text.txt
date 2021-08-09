@@ -1,0 +1,25 @@
+ss0030741704.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1040 bytes
+
+Required
+Group 0
+Title - ディグホールの採掘指南・Ⅳ
+Summary - セントラルシティの住人ディグホールから、<br>さらに鉱石について教わり、収集をする。
+
+Group 1
+Title - Excator's Mining Drill IV
+Summary - Central City resident Excator yet again <br>teaches the crew about minerals and <br>how best to collect them.
+
+
+SubObjectives
+Group 0
+text0101 - 西エアリオに向かう
+text0102 - デュアロマイトを入手する
+text0103 - トライナイトを入手する
+
+Group 1
+text0101 - Head to West Aelio
+text0102 - Obtain dualomite
+text0103 - Obtain trinite
+
+

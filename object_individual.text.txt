@@ -1,0 +1,43 @@
+object_individual.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1856 bytes
+
+TransferMulti
+Group 0
+TransferMultiStart - $(0)秒後に転送を開始します。
+TransferMultiStartLaunch - プレイヤー全員が集まるか、$(0)秒が経過すると転送を開始します。
+TransferMultiStop - 転送を中断しました。
+
+Group 1
+TransferMultiStart - Teleportation will commence in $(0) seconds.
+TransferMultiStartLaunch - Teleportation will commence in $(0) seconds, or when all players gather.
+TransferMultiStop - Teleportation canceled.
+
+
+RestaSign
+Group 0
+RestaSignLimit - 取得上限を超えるため、これ以上入手できません。
+
+Group 1
+RestaSignLimit - You cannot obtain any more because your inventory is full.
+
+
+ReverserSign
+Group 0
+ReverserSignLimit - 取得上限を超えるため、これ以上入手できません。
+
+Group 1
+ReverserSignLimit - You cannot obtain any more because your inventory is full.
+
+
+Drone
+Group 0
+Levelup - 制御中のドロームがレベルアップしました。
+Join - 敵性ドロームのハッキングに成功。こちらの戦闘行動に加入しました。
+Renounced - 制御範囲外のため随伴のドロームが離脱しました。
+
+Group 1
+Levelup - The Drome you're controlling has leveled up.
+Join - Successfully hacked enemy Drome. It will join you in combat.
+Renounced - Allied Drome has left your control range and will withdraw.
+
+

@@ -1,0 +1,15 @@
+tut_006309.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1632 bytes
+
+TutorialText
+Group 0
+Title - グループチャット
+text0001 - “グループチャット”とは、招待したフレンドと小さなグループを作り、<br>最大100人でメッセージをやり取りできる機能です。<br><br><br>メインメニューの<yellow>“チャット”<c>から<yellow>“グループチャット設定”<c>で、<br>メンバーを選んでチャットのグループを作成できます。
+text0002 - また、フレンドが作成したグループに招待してもらうことで、<br>最大５つのグループに参加できます。<br><br>グループチャットでは、自分がログアウト中の発言も記録されていて、<br>ログインした後に、さかのぼって読むことができます。
+
+Group 1
+Title - Group Chat
+text0001 - By selecting <yellow>[Group Chat]<c> under <yellow>[Chat]<c> in the Main Menu, you can set up a chat<br>with designated members only.
+text0002 - You can also join up to 5 groups when your friends invite you into groups<br>they've created.<br><br>In Group Chat, messages are recorded while you are logged out, so you can go<br>back and read them once you're logged back in.
+
+

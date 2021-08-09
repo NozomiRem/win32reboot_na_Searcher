@@ -1,0 +1,29 @@
+qst_1100050150.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1040 bytes
+
+MainText
+Group 0
+name010 - グイーデン
+name020 - ブルーダー
+text010 - フォトンブラストをセットするんだ。
+
+Group 1
+name010 - Guiden
+name020 - Dozer
+text010 - Set a Photon Blast first.
+
+
+GuideText
+Group 0
+Text_SubPallet1 - サブパレット選択：
+Text_SubPallet2 - サブパレット実行：
+Button_SubPallet1 - <%SubPaletteLeft><pict 4space><%SubPaletteRight>
+Button_SubPallet2 - <%SubPalette>
+
+Group 1
+Text_SubPallet1 - Select Sub-Palette:
+Text_SubPallet2 - Activate Sub-Palette:
+Button_SubPallet1 - <%SubPaletteLeft><%SubPaletteRight>
+Button_SubPallet2 - <%SubPalette>
+
+

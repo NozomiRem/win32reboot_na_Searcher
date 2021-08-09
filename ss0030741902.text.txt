@@ -1,0 +1,23 @@
+ss0030741902.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1088 bytes
+
+Required
+Group 0
+Title - ボノからのおねがい・ふたつめ
+Summary - セントラルシティの住人ボノから、<br>強力なエネミーである<br>“エンハンスドエネミー”の討伐を頼まれる。
+
+Group 1
+Title - Second Request from Bono
+Summary - Central City resident Bono asks the crew to<br>get rid of powerful foes known as<br>Enhanced Enemies.
+
+
+SubObjectives
+Group 0
+text0101 - マグナス山でエンハンスドエネミーを倒す
+text0102 - 研究所跡でエンハンスドエネミーを倒す
+
+Group 1
+text0101 - Defeat the Enhanced Enemies at Mt Magnus
+text0102 - Defeat the Enhanced Enemies at Laboratory Ruins
+
+

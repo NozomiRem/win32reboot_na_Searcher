@@ -1,0 +1,13 @@
+tut_006301.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 992 bytes
+
+TutorialText
+Group 0
+Title - ドロップ倉庫
+text0001 - “ドロップ倉庫”とは、フィールドでの活動中に、<br>エネミーからドロップしたアイテムや、ギャザリングアイテム、<br>トライアルの報酬などが送られる倉庫です。<br><br>※素材倉庫を購入している場合、<br>　対象となるアイテムは素材倉庫へ優先的に送られます。
+
+Group 1
+Title - Drop Storage
+text0001 - Drop Storage is where things such as items dropped by enemies, gathering<br>items, or trial rewards are sent.<br><br><yellow>Note: If you have purchased Material Storage, items will be sent there first.<c>
+
+

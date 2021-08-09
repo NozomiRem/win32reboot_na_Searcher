@@ -1,0 +1,124 @@
+quest_01120020.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 10672 bytes
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+a3 - スーパーハード受注許可証の所持
+
+Group 1
+
+
+AreaName
+Group 0
+Area0S - エアリオ平原
+Area0L - エアリオ平原
+
+Group 1
+Area0S - Aelio Plains
+Area0L - Aelio Plains
+
+
+Basic
+Group 0
+Title - 資源採掘リグ防衛戦：エアリオ
+Explanation - エアリオ平原で活動中の資源回収部隊より、緊急支援の要請があった。<br>周囲に多数のエネミー反応があり、大規模な攻勢が予想される。<br>アークス各員は、当該ポイントに急行し、資源採掘リグを防衛せよ。<br>――――――――――――――――――――――――――――――――――――――<br>クリア可能回数：$(0)回
+
+Group 1
+Title - Mining Rig Defense: Aelio
+Explanation - We've received an emergency support request from our active mining unit in Aelio Plains. Numerous<br>enemy readings in the area suggest a major assault is likely. We need all ARKS defenders to hurry<br>to the site and defend the Mining Rig.<br>---------------------------------------------------<br>Time(s) clearable: $(0)
+
+
+QuestTarget
+Group 0
+SimpleExplanation - 資源採掘リグを防衛せよ！
+
+Group 1
+SimpleExplanation - Defend the Mining Rig!
+
+
+RebootDefense
+Group 0
+Nav000 - Wave.$(0)の<br>残存エネミー反応<yellow>50%<c>。
+Nav001 - Wave.$(0)の<br>残存エネミー反応<yellow>20％<c>。
+Nav002 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav003 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav004 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav005 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav006 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav007 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav008 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav009 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav010 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav011 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav012 - 防衛対象がダメージを受けたときは、<br><yellow>フォトンリカバー<c>で回復する。
+Nav013 - 状況が悪化したときは、<br><yellow>モバイルキャノン<c>でエネミーを殲滅する。
+Nav014 - 防衛対象への攻撃が激しいときは、<br><yellow>バリアシールド<c>で防ぐ。
+Nav015 - 大型エネミーは、<br>他プレイヤーと協力して優先的に排除する。
+Nav016 - <yellow>バリゲール<c>のバリアフェンスは、<br><yellow>３つのコア<c>を破壊することで無力化できる。
+Nav017 - 固定砲台の<yellow>ウェーブラム<c>は、<br>出現から攻撃開始までに猶予がある。
+Nav018 - <yellow>クリンギル<c>は、<br>防衛対象に取りついてダメージを与えてくる。
+Nav019 - <yellow>エンハンスドエネミー<c>は、<br><yellow>エンハンサー<c>を先に破壊する。
+Nav020 - クエストクリア
+Nav021 - クエストクリア
+Nav022 - クエストクリア
+Nav023 - クエストクリア
+Nav101 - エネミーの出現地点には、<yellow>Ｅマーカー<c>が表示される。
+Nav102 - <yellow>クリンギル<c>は、<br>防衛対象に取りついて、<br>断続的にダメージを与えてくる。
+Nav103 - 固定砲台の<yellow>ウェーブラム<c>は、<br>エネルギー充填後に防衛対象を攻撃する。
+Nav104 - <yellow>クリンギル<c>や<yellow>ウェーブラム<c>は、<br>他プレイヤーと協力して優先的に排除する。
+Nav105 - 大型エネミーの<yellow>範囲攻撃<c>に、<br>防衛対象を巻き込まないように注意する。
+Nav106 - 大量のエネミーや強敵は、<br><yellow>モバイルキャノン<c>で殲滅する。
+Nav107 - さらに大規模な攻勢が予想される。<br>攻撃開始前に、<br><yellow>防衛対象の耐久値<c>を確認しておく。
+Nav108 - 次の一群が最後の攻勢と見られる。<br>攻撃開始前に、<br><yellow>アキュームサインの残量<c>を確認しておく。
+Nav202 - <yellow>アキュームサイン<c>は、<br>Waveが進むにつれて獲得ポイントが増える。
+Nav203 - <yellow>コーリングデバイス<c>の各機能は、<br>各プレイヤーが一度だけ使用できる。
+Nav204 - 防衛対象に取りつく<yellow>クリンギル<c>は、<br><yellow>バリアシールド<c>で排除できる。
+Nav205 - <yellow>モバイルキャノン<c>の装備中は、<br>移動速度が低下するが、<br><yellow>ブーストグライダー<c>で素早く動ける。
+Nav206 - レーダーマップで<br>他プレイヤーの位置を把握し、<br>連携して戦えるようにする。
+Nav207 - エネミーの出現地点を予測して、<br><yellow>待ち構えておく<c>と<br>戦いを有利に進められる。
+Nav208 - エネミーは、<br>出現から一定時間が経過すると、<br><yellow>防衛対象を集中的に狙う<c>ようになる。
+
+Group 1
+Nav000 - Wave $(0) remaining enemy readings<br>at <yellow>50%<c>.
+Nav001 - Wave $(0) remaining enemy readings<br>at <yellow>20%<c>.
+Nav002 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav003 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav004 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav005 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav006 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav007 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav008 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav009 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav010 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav011 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav012 - When the defense target takes damage,<br>repair it with <yellow>Photon Recovery<c>.
+Nav013 - Use the <yellow>Mobile Cannon<c> to exterminate enemies<br>when the going gets tough.
+Nav014 - If the defense target starts to get overwhelmed,<br>protect it with a <yellow>Barrier Shield<c>.
+Nav015 - Team up with other players to eliminate large<br>enemies first.
+Nav016 - Neutralize the <yellow>Barrigale's<c> barrier fence by<br>destroying <yellow>the three cores<c>.
+Nav017 - The <yellow>Wave Ram<c> is a stationary gun battery that<br>begins firing soon after it appears.
+Nav018 - The <yellow>Clingkill<c> inflicts damage to the defense target<br>after it is attached.
+Nav019 - Destroy the <yellow>Enhancers<c> on <yellow>Enhanced<br>Enemies<c> first.
+Nav020 - Quest Clear
+Nav021 - Quest Clear
+Nav022 - Quest Clear
+Nav023 - Quest Clear
+Nav101 - The enemy's spawn point is indicated by<br>the <yellow>E Marker<c>.
+Nav102 - The <yellow>Clingkill<c> attaches to the defense target and<br>inflicts periodic damage to it.
+Nav103 - The <yellow>Wave Ram<c> is a stationary gun battery that<br>fires at the defense target once it is fully charged.
+Nav104 - Team up with other players to eliminate <yellow>Clingkills<c><br>and <yellow>Wave Rams<c> first.
+Nav105 - Try not to let the defense target get hit by<br>enemy <yellow>area-of-effect attacks<c>.
+Nav106 - Use the <yellow>Mobile Cannon<c> to exterminate enemy<br>swarms and tough enemies.
+Nav107 - We are expecting an even bigger assault.<br>Check on the <yellow>structural integrity of the<br>defense target<c> before the attack begins.
+Nav108 - The next wave should be the last.<br>Check the <yellow>remaining amount of<br>Accumusigne<c> before the attack begins.
+Nav202 - <yellow>Accumusigne<c> points accumulate as<br>waves progress.
+Nav203 - Each player can use each of the <yellow>Calling Device's<c><br>functions once only.
+Nav204 - <yellow>Clingkills<c> that are attached to the defense target<br>can be removed by a <yellow>Barrier Shield<c>.
+Nav205 - While equipped with the <yellow>Mobile Cannon<c>,<br>your movement speed is reduced, but you<br>can move rapidly with a <yellow>Boost Glider<c>.
+Nav206 - Keep track of other players' positions and<br>coordinate attacks via the Radar Map.
+Nav207 - You can gain an edge by predicting where the<br>enemy will appear and <yellow>wait to ambush<c>them.
+Nav208 - Enemies will <yellow>focus their attacks<c> on the defense<br>target some time after they appear.
+
+

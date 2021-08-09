@@ -1,0 +1,31 @@
+qt1200030000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1040 bytes
+
+Required
+Group 0
+Title - セントラルシティへ……
+Summary - セントラルシティへ……
+
+Group 1
+Title - To Central City
+Summary - To Central City
+
+
+SubObjectives
+Group 0
+Objective311 - 洞窟に入る
+Objective321 - エネミーを倒す
+Objective331 - 洞窟を抜ける
+Objective341 - セントラルシティに向かう
+Objective351 - セントラルタワーに入る
+Objective361 - 宿舎に向かう
+
+Group 1
+Objective311 - Enter the cave
+Objective321 - Defeat the enemies
+Objective331 - Get through the cave
+Objective341 - Head to Central City
+Objective351 - Enter Central Tower
+Objective361 - Head to the lodgings
+
+

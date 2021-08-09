@@ -1,0 +1,13 @@
+tut_006402.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1088 bytes
+
+TutorialText
+Group 0
+Title - フォトンブラストの準備
+text0001 - フォトンブラスト：<br>　<swguidetype T_MainMenu>でメインメニューを開き<br>　<yellow>“装備 / サブパレット”<c>から<br>　<yellow>“サブパレット”<c>を選択し<br>　空いている“スロット”に<br>　<yellow>“フォトンブラスト”<c>をセット
+
+Group 1
+Title - Preparing to Unleash Photon Blasts
+text0001 - Photon Blast:<br>Open the Main Menu with <swguidetype T_MainMenu> and go to <br><yellow>[Gear/Sub-Palette]<c>, select any slot, then choose <yellow>[Activate Photon Blast]<c> from the list of options.
+
+

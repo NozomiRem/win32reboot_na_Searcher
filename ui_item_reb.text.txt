@@ -1,0 +1,1187 @@
+ui_item_reb.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 91120 bytes
+
+ItemParameter
+Group 0
+Param_Value - $(0)
+Param_Percent - $(0)％
+Param_MaxValue - （MAX$(0)）
+Param_MaxValue_Limit - <bright_orange>（MAX$(0)）<c>
+Param_MaximumValue - （最大$(0)）
+Param_MaximumValue_Limit - <bright_orange>（最大$(0)）<c>
+Param_ComparePlus - <light_orange2>＋$(0)<c>
+Param_ComparePlus_Percent - <light_orange2>＋$(0)％<c>
+Param_CompareMinus - <vivid_cyan2>－$(0)<c>
+Param_CompareMinus_Percent - <vivid_cyan2>－$(0)％<c>
+Label_Slash - /
+Label_Hyphen - －
+Label_WavyLine - ～
+Label_Rarity - レアリティ
+Label_AttackPower - 攻撃力
+Label_Defense - 防御力
+Label_HP - HP
+Label_PP - PP
+Label_AttackElement - 属性
+Label_Resist_Damage - ダメージ耐性
+Label_Resist_Element - 属性耐性
+Label_Resist_Fire - 炎耐性
+Label_Resist_Ice - 氷耐性
+Label_Resist_Thunder - 雷耐性
+Label_Resist_Wind - 風耐性
+Label_Resist_Light - 光耐性
+Label_Resist_Dark - 闇耐性
+Label_EquipClass - 装備可能クラス
+Label_EquipNeed - 装備条件
+Param_Level_Need - Lv.$(0)
+Param_Level_Now - （現在 Lv.$(0)）
+Label_Trade - トレード
+Label_Trade_OK - トレード可
+Label_Trade_NG - <pict unavailable_t>トレード不可
+Label_Trade_Ownered - <pict register_owner>オーナー登録済み
+Label_Grind - 強化値
+Label_Element - 特殊能力
+Label_BonusElement - 特殊能力因子
+Label_SpecialElement - S級特殊能力
+Label_SpecialElement_Supported - 対応タイプ
+Label_Potential - 潜在能力
+Label_Potential_1 - 潜在能力1
+Label_Potential_2 - 潜在能力2
+Label_Potential_3 - 潜在能力3
+Label_DamageBlur - ダメージ補正
+Label_DamageBlur_Under - ダメージ補正下限
+Label_DamageBlur_Limit - ダメージ補正上限
+Label_AttackSpeed - 攻撃速度
+Label_AttackRange - 攻撃範囲
+Label_SetEffect - セット効果
+Label_SetEffect_1 - セット効果1
+Label_SetEffect_2 - セット効果2
+Label_SetEffect_3 - セット効果3
+Label_TraceItem - 武器フォーム元
+Label_MultiWeapon - マルチウェポン
+Label_Lowest_ListingAmount - 最低出品額
+Label_Add_HpPp - 追加HP/PP
+Label_RaceSex - 種族（性別）
+Label_CostumeColor - カラー
+Label_CostumeGauge - 愛着度
+Label_SG_Received - スタージェム入手済み
+Label_EffectTime - 効果時間
+Label_ExpirationDate - 有効期限
+Label_UndecidedExpirationDate - 取得後に決定されます
+Label_ConsumptionPP - 消費PP
+Label_Power - 威力
+Label_CostumeFixityColor - 固定カラー
+Label_WeaponRise - 武器上昇
+Labal_Resist_Condition - 状態異常耐性
+
+Group 1
+Param_Value - $(0)
+Param_Percent - $(0)%
+Param_MaxValue - (MAX $(0))
+Param_MaxValue_Limit - <bright_orange>(MAX $(0))<c>
+Param_MaximumValue - (MAX $(0))
+Param_MaximumValue_Limit - <bright_orange>(MAX $(0))<c>
+Param_ComparePlus - <light_orange2>+$(0)<c>
+Param_ComparePlus_Percent - <light_orange2>+$(0)%<c>
+Param_CompareMinus - <vivid_cyan2>-$(0)<c>
+Param_CompareMinus_Percent - <vivid_cyan2>-$(0)%<c>
+Label_Slash - /
+Label_Hyphen - -
+Label_WavyLine - ~
+Label_Rarity - Rarity
+Label_AttackPower - Attack
+Label_Defense - Defense
+Label_HP - HP
+Label_PP - PP
+Label_AttackElement - Element
+Label_Resist_Damage - Damage Resist
+Label_Resist_Element - Elemental Resist
+Label_Resist_Fire - Fire Resist
+Label_Resist_Ice - Ice Resist
+Label_Resist_Thunder - Lightning Resist
+Label_Resist_Wind - Wind Resist
+Label_Resist_Light - Light Resist
+Label_Resist_Dark - Dark Resist
+Label_EquipClass - Available Classes
+Label_EquipNeed - Equip Conditions
+Param_Level_Need - Lv.$(0)
+Param_Level_Now - (Current Lv.$(0))
+Label_Trade - Trade
+Label_Trade_OK - Tradable
+Label_Trade_NG - <pict unavailable_t> Not Tradable
+Label_Trade_Ownered - <pict register_owner> Account-Bound
+Label_Grind - Enhancement Lv.
+Label_Element - Augment
+Label_BonusElement - Augment Factor
+Label_SpecialElement - S-Grade Augment
+Label_SpecialElement_Supported - Compatibility Type
+Label_Potential - Potential
+Label_Potential_1 - Potential 1
+Label_Potential_2 - Potential 2
+Label_Potential_3 - Potential 3
+Label_DamageBlur - Damage Adj.
+Label_DamageBlur_Under - Damage Adj. Min.
+Label_DamageBlur_Limit - Damage Adj. Max.
+Label_AttackSpeed - Attack Speed
+Label_AttackRange - Attack Range
+Label_SetEffect - Set Effect
+Label_SetEffect_1 - Set Effect 1
+Label_SetEffect_2 - Set Effect 2
+Label_SetEffect_3 - Set Effect 3
+Label_TraceItem - Weapon Form Source
+Label_MultiWeapon - Multi-weapon
+Label_Lowest_ListingAmount - Minimum Sale Price
+Label_Add_HpPp - Extra HP / PP
+Label_RaceSex - Race (Gender)
+Label_CostumeColor - Color
+Label_CostumeGauge - Affinity
+Label_SG_Received - Star Gems (SG) Received
+Label_EffectTime - Effect Duration
+Label_ExpirationDate - Expiration
+Label_UndecidedExpirationDate - Determined after receiving
+Label_ConsumptionPP - PP Cost
+Label_Power - Potency
+Label_CostumeFixityColor - Fixed Color
+Label_WeaponRise - Weapon Up
+Labal_Resist_Condition - Ailment Resist.
+
+
+ItemSkillHelp
+Group 0
+item_RebootAttackUp_1 - 威力＋18%
+item_RebootAttackUp_2 - 威力＋20%
+item_RebootAttackUp_3 - 威力＋23%
+item_RebootAttackUp_4 - 威力＋26%
+item_RebootAttackUp_5 - 威力＋29%
+item_RebootDamageReduction_4 - 威力+26%<br>ダメージ耐性+10%
+item_AtpDam_1 - 威力＋18%<br>ダメージ耐性＋10%
+item_AtpDam_2 - 威力＋20%<br>ダメージ耐性＋10%
+item_AtpDam_3 - 威力＋23%<br>ダメージ耐性＋10%
+item_AtpDam_4 - 威力＋26%<br>ダメージ耐性＋10%
+item_AtpDam_5 - 威力＋29%<br>ダメージ耐性＋10%
+item_AtpPpRed_1 - 威力＋18%<br>PP消費量軽減＋10%
+item_AtpPpRed_2 - 威力＋20%<br>PP消費量軽減＋10%
+item_AtpPpRed_3 - 威力＋23%<br>PP消費量軽減＋10%
+item_AtpPpRed_4 - 威力＋26%<br>PP消費量軽減＋10%
+item_AtpPpRed_5 - 威力＋29%<br>PP消費量軽減＋10%
+item_SuperArmor_1 - 威力＋19%／<br>HP最大時に<br>吹き飛ばし防止
+item_SuperArmor_2 - 威力＋21%／<br>HP最大時に<br>吹き飛ばし防止
+item_SuperArmor_3 - 威力＋24%／<br>HP最大時に<br>吹き飛ばし防止
+item_SuperArmor_4 - 威力＋27%／<br>HP最大時に<br>吹き飛ばし防止
+item_SuperArmor_5 - 威力＋30%／<br>HP最大時に<br>吹き飛ばし防止
+item_CountPower_1 - 威力＋15%／<br>通常攻撃を3回行うことで<br>60秒間威力＋3.0%<br>クリティカル発生率＋15%<br>リキャスト時間30秒
+item_CountPower_2 - 威力＋17%／<br>通常攻撃を3回行うことで<br>60秒間威力＋3.0%<br>クリティカル発生率＋15%<br>リキャスト時間30秒
+item_CountPower_3 - 威力＋20%／<br>通常攻撃を3回行うことで<br>60秒間威力＋3.0%<br>クリティカル発生率＋15%<br>リキャスト時間30秒
+item_CountPower_4 - 威力＋23%／<br>通常攻撃を3回行うことで<br>60秒間威力＋3.0%<br>クリティカル発生率＋15%<br>リキャスト時間30秒
+item_CountPower_5 - 威力＋26%／<br>通常攻撃を3回行うことで<br>60秒間威力＋3.0%<br>クリティカル発生率＋15%<br>リキャスト時間30秒
+item_PpBoost_1 - 威力＋17%／<br>PP30％以下で60秒間<br>PP自然回復速度＋30％<br>リキャスト時間30秒
+item_PpBoost_2 - 威力＋19%／<br>PP30％以下で60秒間<br>PP自然回復速度＋30％<br>リキャスト時間30秒
+item_PpBoost_3 - 威力＋22%／<br>PP30％以下で60秒間<br>PP自然回復速度＋30％<br>リキャスト時間30秒
+item_PpBoost_4 - 威力＋25%／<br>PP30％以下で60秒間<br>PP自然回復速度＋30％<br>リキャスト時間30秒
+item_PpBoost_5 - 威力＋28%／<br>PP30％以下で60秒間<br>PP自然回復速度＋30％<br>リキャスト時間30秒
+item_PpEfficiency_1 - 威力＋18%／<br>攻撃時PP回復量＋10%<br>PP自然回復速度＋10%
+item_PpEfficiency_2 - 威力＋20%／<br>攻撃時PP回復量＋10%<br>PP自然回復速度＋10%
+item_PpEfficiency_3 - 威力＋23%／<br>攻撃時PP回復量＋10%<br>PP自然回復速度＋10%
+item_PpEfficiency_4 - 威力＋24%／<br>攻撃時PP回復量＋15%<br>PP自然回復速度＋15%
+item_PpEfficiency_5 - 威力＋25%／<br>攻撃時PP回復量＋15%<br>PP自然回復速度＋15%
+item_DamageBarrier_1 - 威力＋18%／<br>HP最大時に<br>ダメージ耐性＋40%の<br>バリアが発生
+item_DamageBarrier_2 - 威力＋20%／<br>HP最大時に<br>ダメージ耐性＋40%の<br>バリアが発生
+item_DamageBarrier_3 - 威力＋23%／<br>HP最大時に<br>ダメージ耐性＋40%の<br>バリアが発生
+item_DamageBarrier_4 - 威力＋24%／<br>HP最大時に<br>ダメージ耐性＋50%の<br>バリアが発生
+item_DamageBarrier_5 - 威力＋25%／<br>HP最大時に<br>ダメージ耐性＋50%の<br>バリアが発生
+item_EscapeCritical_1 - 威力＋16%／<br>ステップによる<br>回避成功時30秒間<br>クリティカル発生率＋15%
+item_EscapeCritical_2 - 威力＋18%／<br>ステップによる<br>回避成功時30秒間<br>クリティカル発生率＋15%
+item_EscapeCritical_3 - 威力＋21%／<br>ステップによる<br>回避成功時30秒間<br>クリティカル発生率＋15%
+item_EscapeCritical_4 - 威力＋21%／<br>ステップによる<br>回避成功時30秒間<br>クリティカル発生率＋18%
+item_EscapeCritical_5 - 威力＋21%／<br>ステップによる<br>回避成功時30秒間<br>クリティカル発生率＋20%
+item_PbGaugeUp_1 - 威力＋18%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋15%
+item_PbGaugeUp_2 - 威力＋20%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋15%
+item_PbGaugeUp_3 - 威力＋23%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋15%
+item_PbGaugeUp_4 - 威力＋26%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋15%
+item_PbGaugeUp_5 - 威力＋29%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋15%
+item_DefCritical_1 - 威力＋17%／<br>防御力に応じて<br>クリティカル発生率上昇<br>防御力1000で最大＋15%
+item_DefCritical_2 - 威力＋19%／<br>防御力に応じて<br>クリティカル発生率上昇<br>防御力1000で最大＋15%
+item_DefCritical_3 - 威力＋22%／<br>防御力に応じて<br>クリティカル発生率上昇<br>防御力1000で最大＋15%
+item_DefCritical_4 - 威力＋22%／<br>防御力に応じて<br>クリティカル発生率上昇<br>防御力1000で最大＋18%
+item_DefCritical_5 - 威力＋22%／<br>防御力に応じて<br>クリティカル発生率上昇<br>防御力1000で最大＋20%
+item_AtkCritical_1 - 威力＋17%／<br>攻撃力に応じて<br>クリティカル発生率上昇<br>攻撃力2000で最大＋15%
+item_AtkCritical_2 - 威力＋19%／<br>攻撃力に応じて<br>クリティカル発生率上昇<br>攻撃力2000で最大＋15%
+item_AtkCritical_3 - 威力＋22%／<br>攻撃力に応じて<br>クリティカル発生率上昇<br>攻撃力2000で最大＋15%
+item_AtkCritical_4 - 威力＋22%／<br>攻撃力に応じて<br>クリティカル発生率上昇<br>攻撃力2000で最大＋18%
+item_AtkCritical_5 - 威力＋22%／<br>攻撃力に応じて<br>クリティカル発生率上昇<br>攻撃力2000で最大＋20%
+item_WholeBody_1 - 威力＋15%／<br>HP残量が多いほど威力上昇<br>最大＋5.0%
+item_WholeBody_2 - 威力＋17%／<br>HP残量が多いほど威力上昇<br>最大＋5.0%
+item_WholeBody_3 - 威力＋20%／<br>HP残量が多いほど威力上昇<br>最大＋5.0%
+item_WholeBody_4 - 威力＋21%／<br>HP残量が多いほど威力上昇<br>最大＋5.0%
+item_WholeBody_5 - 威力＋22%／<br>HP残量が多いほど威力上昇<br>最大＋5.0%
+item_StackHeal_1 - 威力＋17%／<br>ステップによる回避成功を<br>3回まで蓄積し<br>被ダメージ時にその回数分<br>HPを最大300回復
+item_StackHeal_2 - 威力＋19%／<br>ステップによる回避成功を<br>3回まで蓄積し<br>被ダメージ時にその回数分<br>HPを最大300回復
+item_StackHeal_3 - 威力＋22%／<br>ステップによる回避成功を<br>3回まで蓄積し<br>被ダメージ時にその回数分<br>HPを最大300回復
+item_StackHeal_4 - 威力＋25%／<br>ステップによる回避成功を<br>3回まで蓄積し<br>被ダメージ時にその回数分<br>HPを最大300回復
+item_StackHeal_5 - 威力＋28%／<br>ステップによる回避成功を<br>3回まで蓄積し<br>被ダメージ時にその回数分<br>HPを最大300回復
+item_LifeGuts_1 - 威力＋18%／<br>残りHP以上のダメージを<br>受けたときにHPが1残り<br>無敵時間が発生<br>リキャスト時間600秒<br>装備から10秒後に効果発動
+item_LifeGuts_2 - 威力＋20%／<br>残りHP以上のダメージを<br>受けたときにHPが1残り<br>無敵時間が発生<br>リキャスト時間600秒<br>装備から10秒後に効果発動
+item_LifeGuts_3 - 威力＋23%／<br>残りHP以上のダメージを<br>受けたときにHPが1残り<br>無敵時間が発生<br>リキャスト時間600秒<br>装備から10秒後に効果発動
+item_LifeGuts_4 - 威力＋26%／<br>残りHP以上のダメージを<br>受けたときにHPが1残り<br>無敵時間が発生<br>リキャスト時間600秒<br>装備から10秒後に効果発動
+item_LifeGuts_5 - 威力＋29%／<br>残りHP以上のダメージを<br>受けたときにHPが1残り<br>無敵時間が発生<br>リキャスト時間600秒<br>装備から10秒後に効果発動
+item_ReactionBonus_1 - 威力＋18%<br>全ダウン蓄積値＋20%
+item_ReactionBonus_2 - 威力＋20%<br>全ダウン蓄積値＋20%
+item_ReactionBonus_3 - 威力＋23%<br>全ダウン蓄積値＋20%
+item_ReactionBonus_4 - 威力＋26%<br>全ダウン蓄積値＋20%
+item_ReactionBonus_5 - 威力＋29%<br>全ダウン蓄積値＋20%
+item_ReactionDown_1 - 威力＋18%／<br>全ダウン耐性＋20%
+item_ReactionDown_2 - 威力＋20%／<br>全ダウン耐性＋20%
+item_ReactionDown_3 - 威力＋23%／<br>全ダウン耐性＋20%
+item_ReactionDown_4 - 威力＋26%／<br>全ダウン耐性＋20%
+item_ReactionDown_5 - 威力＋29%／<br>全ダウン耐性＋20%
+item_ItemReturn_1 - 威力＋18%／<br>レスタサイン使用時に<br>20%の確率で消費しない<br>装備から10秒後に効果発動
+item_ItemReturn_2 - 威力＋20%／<br>レスタサイン使用時に<br>20%の確率で消費しない<br>装備から10秒後に効果発動
+item_ItemReturn_3 - 威力＋23%／<br>レスタサイン使用時に<br>20%の確率で消費しない<br>装備から10秒後に効果発動
+item_ItemReturn_4 - 威力＋24%／<br>レスタサイン使用時に<br>20％の確率で消費しない<br>装備から10秒後に効果発動
+item_ItemReturn_5 - 威力＋25%／<br>レスタサイン使用時に<br>20％の確率で消費しない<br>装備から10秒後に効果発動
+item_ReactionDown2_1 - 威力＋18%<br>全ダウン耐性＋10%
+item_ReactionDown2_2 - 威力＋20%<br>全ダウン耐性＋10%
+item_ReactionDown2_3 - 威力＋23%<br>全ダウン耐性＋10%
+item_ReactionDown2_4 - 威力＋24%<br>全ダウン耐性＋20%
+item_ReactionDown2_5 - 威力＋25%<br>全ダウン耐性＋20%
+item_PbGaugeUp2_1 - 威力＋20%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋20%
+item_PbGaugeUp2_2 - 威力＋22%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋20%
+item_PbGaugeUp2_3 - 威力＋25%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋20%
+item_PbGaugeUp2_4 - 威力＋26%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋20%
+item_PbGaugeUp2_5 - 威力＋27%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋20%
+item_ElementPpBonus_1 - 威力+8%／<br>エネミーを攻撃してから<br>10秒後に再度攻撃をすると<br>武器属性に対応した<br>属性ダウンの追加攻撃が発生<br>リキャスト時間20秒
+item_ElementPpBonus_2 - 威力+10%／<br>エネミーを攻撃してから<br>10秒後に再度攻撃をすると<br>武器属性に対応した<br>属性ダウンの追加攻撃が発生<br>リキャスト時間20秒
+item_ElementPpBonus_3 - 威力+13%／<br>エネミーを攻撃してから<br>10秒後に再度攻撃をすると<br>武器属性に対応した<br>属性ダウンの追加攻撃が発生<br>リキャスト時間20秒
+item_ElementPpBonus_4 - 威力+14%／<br>エネミーを攻撃してから<br>10秒後に再度攻撃をすると<br>武器属性に対応した<br>属性ダウンの追加攻撃が発生<br>リキャスト時間20秒
+item_ElementPpBonus_5 - 威力+15%／<br>エネミーを攻撃してから<br>10秒後に再度攻撃をすると<br>武器属性に対応した<br>属性ダウンの追加攻撃が発生<br>リキャスト時間20秒
+item_AllBonus_1 - 威力＋21%／<br>ダメージ耐性－10%
+item_AllBonus_2 - 威力＋23%／<br>ダメージ耐性－10%
+item_AllBonus_3 - 威力＋26%／<br>ダメージ耐性－10%
+item_AllBonus_4 - 威力＋27%／<br>ダメージ耐性－8%
+item_AllBonus_5 - 威力＋28%／<br>ダメージ耐性－8%
+
+Group 1
+item_RebootAttackUp_1 - Potency +18%
+item_RebootAttackUp_2 - Potency +20%
+item_RebootAttackUp_3 - Potency +23%
+item_RebootAttackUp_4 - Potency +28%
+item_RebootAttackUp_5 - Potency +29%
+item_RebootDamageReduction_4 - Potency +26%<br>Damage Resistance +10%
+item_AtpDam_1 - Potency +18%<br>Damage Resistance +10%
+item_AtpDam_2 - Potency +20%<br>Damage Resistance +10%
+item_AtpDam_3 - Potency +23%<br>Damage Resistance +10%
+item_AtpDam_4 - Potency +26%<br>Damage Resistance +10%
+item_AtpDam_5 - Potency +29%<br>Damage Resistance +10%
+item_AtpPpRed_1 - Potency +18%<br>PP Consumption -10%
+item_AtpPpRed_2 - Potency +20%<br>PP Consumption -10%
+item_AtpPpRed_3 - Potency +23%<br>PP Consumption -10%
+item_AtpPpRed_4 - Potency +26%<br>PP Consumption -10%
+item_AtpPpRed_5 - Potency +29%<br>PP Consumption -10%
+item_SuperArmor_1 - Potency +19%/<br>Knockback protection<br>when HP is full
+item_SuperArmor_2 - Potency +21%/<br>Knockback protection<br>when HP is full
+item_SuperArmor_3 - Potency +24%/<br>Knockback protection<br>when HP is full
+item_SuperArmor_4 - Potency +27%/<br>Knockback protection<br>when HP is full
+item_SuperArmor_5 - Potency +30%/<br>Knockback protection<br>when HP is full
+item_CountPower_1 - Potency +15%/<br>After 3 Normal Attacks:<br>Potency +3.0% and<br>Critical Hit Rate +15%<br>for 60 seconds<br>(30 second cooldown)
+item_CountPower_2 - Potency +17%/<br>After 3 Normal Attacks:<br>Potency +3.0% and<br>Critical Hit Rate +15%<br>for 60 seconds<br>(30 second cooldown)
+item_CountPower_3 - Potency +20%/<br>After 3 Normal Attacks:<br>Potency +3.0% and<br>Critical Hit Rate +15%<br>for 60 seconds<br>(30 second cooldown)
+item_CountPower_4 - Potency +23%/<br>After 3 Normal Attacks:<br>Potency +3.0% and<br>Critical Hit Rate +15%<br>for 60 seconds<br>(30 second cooldown)
+item_CountPower_5 - Potency +26%/<br>After 3 Normal Attacks:<br>Potency +3.0% and<br>Critical Hit Rate +15%<br>for 60 seconds<br>(30 second cooldown)
+item_PpBoost_1 - Potency +17%/<br>When PP falls below 30%:<br>Natural PP Recovery Speed<br>+30% for 60 seconds<br>(30 second cooldown)
+item_PpBoost_2 - Potency +19%/<br>When PP falls below 30%:<br>Natural PP Recovery Speed<br>+30% for 60 seconds<br>(30 second cooldown)
+item_PpBoost_3 - Potency +22%/<br>When PP falls below 30%:<br>Natural PP Recovery Speed<br>+30% for 60 seconds<br>(30 second cooldown)
+item_PpBoost_4 - Potency +25%/<br>When PP falls below 30%:<br>Natural PP Recovery Speed<br>+30% for 60 seconds<br>(30 second cooldown)
+item_PpBoost_5 - Potency +28%/<br>When PP falls below 30%:<br>Natural PP Recovery Speed<br>+30% for 60 seconds<br>(30 second cooldown)
+item_PpEfficiency_1 - Potency +18%/<br>Offensive PP Recovery +10%<br>Natural PP Recovery Speed +10%
+item_PpEfficiency_2 - Potency +20%/<br>Offensive PP Recovery +10%<br>Natural PP Recovery Speed +10%
+item_PpEfficiency_3 - Potency +23%/<br>Offensive PP Recovery +10%<br>Natural PP Recovery Speed +10%
+item_PpEfficiency_4 - Potency +24%/<br>Offensive PP Recovery +15%<br>Natural PP Recovery Speed +15%
+item_PpEfficiency_5 - Potency +25%/<br>Offensive PP Recovery +15%<br>Natural PP Recovery Speed +15%
+item_DamageBarrier_1 - Potency +18%/<br>Creates a barrier that provides<br>Damage Resistance +40% when<br>at max HP
+item_DamageBarrier_2 - Potency +20%/<br>Creates a barrier that provides<br>Damage Resistance +40% when<br>at max HP
+item_DamageBarrier_3 - Potency +23%/<br>Creates a barrier that provides<br>Damage Resistance +40% when<br>at max HP
+item_DamageBarrier_4 - Potency +24%/<br>Creates a barrier that provides<br>Damage Resistance +50% when<br>at max HP
+item_DamageBarrier_5 - Potency +25%/<br>Creates a barrier that provides<br>Damage Resistance +50% when<br>at max HP
+item_EscapeCritical_1 - Potency +16%/<br>Critical Hit Rate +15%<br>for 30 seconds after<br>a successful Sidestep
+item_EscapeCritical_2 - Potency +18%/<br>Critical Hit Rate +15%<br>for 30 seconds after<br>a successful Sidestep
+item_EscapeCritical_3 - Potency +21%/<br>Critical Hit Rate +15%<br>for 30 seconds after<br>a successful Sidestep
+item_EscapeCritical_4 - Potency +21%/<br>Critical Hit Rate +18%<br>for 30 seconds after<br>a successful Sidestep
+item_EscapeCritical_5 - Potency +21%/<br>Critical Hit Rate +20%<br>for 30 seconds after<br>a successful Sidestep
+item_PbGaugeUp_1 - Potency +18%/<br>Photon Blast Gauge Charge<br>when attacking +15%
+item_PbGaugeUp_2 - Potency +20%/<br>Photon Blast Gauge Charge<br>when attacking +15%
+item_PbGaugeUp_3 - Potency +23%/<br>Photon Blast Gauge Charge<br>when attacking +15%
+item_PbGaugeUp_4 - Potency +26%/<br>Photon Blast Gauge Charge<br>when attacking +15%
+item_PbGaugeUp_5 - Potency +29%/<br>Photon Blast Gauge Charge<br>when attacking +15%
+item_DefCritical_1 - Potency +17%/<br>Critical Hit Rate increases <br>based on Defense, up to a <br>maximum of +15% at 1000 <br>Defense
+item_DefCritical_2 - Potency +19%/<br>Critical Hit Rate increases <br>based on Defense, up to a <br>maximum of +15% at 1000 <br>Defense
+item_DefCritical_3 - Potency +22%/<br>Critical Hit Rate increases <br>based on Defense, up to a <br>maximum of +15% at 1000 <br>Defense
+item_DefCritical_4 - Potency +22%/<br>Critical Hit Rate increases <br>based on Defense, up to a <br>maximum of +18% at 1000 <br>Defense
+item_DefCritical_5 - Potency +22%/<br>Critical Hit Rate increases <br>based on Defense, up to a <br>maximum of +20% at 1000 <br>Defense
+item_AtkCritical_1 - Potency +17%/<br>Critical Hit Rate increases based<br>on Attack, up to a maximum of<br>+15% at 2000 Attack
+item_AtkCritical_2 - Potency +19%/<br>Critical Hit Rate increases based<br>on Attack, up to a maximum of<br>+15% at 2000 Attack
+item_AtkCritical_3 - Potency +22%/<br>Critical Hit Rate increases based<br>on Attack, up to a maximum of<br>+15% at 2000 Attack
+item_AtkCritical_4 - Potency +22%/<br>Critical Hit Rate increases based<br>on Attack, up to a maximum of<br>+18% at 2000 Attack
+item_AtkCritical_5 - Potency +22%/<br>Critical Hit Rate increases based<br>on Attack, up to a maximum of<br>+20% at 2000 Attack
+item_WholeBody_1 - Potency +15%/<br>Increases Potency at high HP,<br>up to a maximum of +5.0%
+item_WholeBody_2 - Potency +17%/<br>Increases Potency at high HP,<br>up to a maximum of +5.0%
+item_WholeBody_3 - Potency +20%/<br>Increases Potency at high HP,<br>up to a maximum of +5.0%
+item_WholeBody_4 - Potency +21%/<br>Increases Potency at high HP,<br>up to a maximum of +5.0%
+item_WholeBody_5 - Potency +22%/<br>Increases Potency at high HP,<br>up to a maximum of +5.0%
+item_StackHeal_1 - Potency +17%/<br>Accumulate up to 3 charges from<br>successful Sidesteps that restore<br>HP when you take damage<br>(up to a maximum of 300 HP)
+item_StackHeal_2 - Potency +19%/<br>Accumulate up to 3 charges from<br>successful Sidesteps that restore<br>HP when you take damage<br>(up to a maximum of 300 HP)
+item_StackHeal_3 - Potency +22%/<br>Accumulate up to 3 charges from<br>successful Sidesteps that restore<br>HP when you take damage<br>(up to a maximum of 300 HP)
+item_StackHeal_4 - Potency +25%/<br>Accumulate up to 3 charges from<br>successful Sidesteps that restore<br>HP when you take damage<br>(up to a maximum of 300 HP)
+item_StackHeal_5 - Potency +28%/<br>Accumulate up to 3 charges from<br>successful Sidesteps that restore<br>HP when you take damage<br>(up to a maximum of 300 HP)
+item_LifeGuts_1 - Potency +18%/<br>An incapacitating attack will<br>leave you with 1 HP, and a<br>moment of invulnerability<br>(600 sec. cooldown) Effect <br>starts 10 sec. after equipped
+item_LifeGuts_2 - Potency +20%/<br>An incapacitating attack will<br>leave you with 1 HP, and a<br>moment of invulnerability<br>(600 sec. cooldown) Effect <br>starts 10 sec. after equipped
+item_LifeGuts_3 - Potency +23%/<br>An incapacitating attack will<br>leave you with 1 HP, and a<br>moment of invulnerability<br>(600 sec. cooldown) Effect <br>starts 10 sec. after equipped
+item_LifeGuts_4 - Potency +26%/<br>An incapacitating attack will<br>leave you with 1 HP, and a<br>moment of invulnerability<br>(600 sec. cooldown) Effect <br>starts 10 sec. after equipped
+item_LifeGuts_5 - Potency +29%/<br>An incapacitating attack will<br>leave you with 1 HP, and a<br>moment of invulnerability<br>(600 sec. cooldown) Effect <br>starts 10 sec. after equipped
+item_ReactionBonus_1 - Potency +18%/<br>All Down Efficacies +20%
+item_ReactionBonus_2 - Potency +20%/<br>All Down Efficacies +20%
+item_ReactionBonus_3 - Potency +23%/<br>All Down Efficacies +20%
+item_ReactionBonus_4 - Potency +26%/<br>All Down Efficacies +20%
+item_ReactionBonus_5 - Potency +29%/<br>All Down Efficacies +20%
+item_ReactionDown_1 - Potency +18%/<br>All Down Resistances +20%
+item_ReactionDown_2 - Potency +20%/<br>All Down Resistances +20%
+item_ReactionDown_3 - Potency +23%/<br>All Down Resistances +20%
+item_ReactionDown_4 - Potency +26%/<br>All Down Resistances +20%
+item_ReactionDown_5 - Potency +29%/<br>All Down Resistances +20%
+item_ItemReturn_1 - Potency +18%/<br>20% chance of Restasigne<br>not being consumed on use<br>Effect starts 10 sec. after equipped
+item_ItemReturn_2 - Potency +20%/<br>20% chance of Restasigne<br>not being consumed on use<br>Effect starts 10 sec. after equipped
+item_ItemReturn_3 - Potency +23%/<br>20% chance of Restasigne<br>not being consumed on use<br>Effect starts 10 sec. after equipped
+item_ItemReturn_4 - Potency +24%/<br>20% chance of Restasigne<br>not being consumed on use<br>Effect starts 10 sec. after equipped
+item_ItemReturn_5 - Potency +25%/<br>20% chance of Restasigne<br>not being consumed on use<br>Effect starts 10 sec. after equipped
+item_ReactionDown2_1 - Potency +18%/<br>All Down Resistances +10%
+item_ReactionDown2_2 - Potency +20%/<br>All Down Resistances +10%
+item_ReactionDown2_3 - Potency +23%/<br>All Down Resistances +10%
+item_ReactionDown2_4 - Potency +24%/<br>All Debuff Resistances +20%
+item_ReactionDown2_5 - Potency +25%/<br>All Debuff Resistances +20%
+item_PbGaugeUp2_1 - Potency +20%/<br>Photon Blast Gauge Charge<br>when attacking +20%
+item_PbGaugeUp2_2 - Potency +22%/<br>Photon Blast Gauge Charge<br>when attacking +20%
+item_PbGaugeUp2_3 - Potency +25%/<br>Photon Blast Gauge Charge<br>when attacking +20%
+item_PbGaugeUp2_4 - Potency +26%/<br>Photon Blast Gauge Charge<br>when attacking +20%
+item_PbGaugeUp2_5 - Potency +27%/<br>Photon Blast Gauge Charge<br>when attacking +20%
+item_ElementPpBonus_1 - Potency +8%/<br>Unleashes an extra attack that inflicts<br>an Elemental Down, by re-attacking<br>the enemy 10 seconds after an attack.<br>(20 second cooldown)
+item_ElementPpBonus_2 - Potency +10%/<br>Unleashes an extra attack that inflicts<br>an Elemental Down, by re-attacking<br>the enemy 10 seconds after an attack.<br>(20 second cooldown)
+item_ElementPpBonus_3 - Potency +13%/<br>Unleashes an extra attack that inflicts<br>an Elemental Down, by re-attacking<br>the enemy 10 seconds after an attack.<br>(20 second cooldown)
+item_ElementPpBonus_4 - Potency +14%/<br>Unleashes an extra attack that inflicts<br>an Elemental Down, by re-attacking<br>the enemy 10 seconds after an attack.<br>(20 second cooldown)
+item_ElementPpBonus_5 - Potency +15%/<br>Unleashes an extra attack that inflicts<br>an Elemental Down, by re-attacking<br>the enemy 10 seconds after an attack.<br>(20 second cooldown)
+item_AllBonus_1 - Potency +21%/<br>Damage Resistance -10%
+item_AllBonus_2 - Potency +23%/<br>Damage Resistance -10%
+item_AllBonus_3 - Potency +26%/<br>Damage Resistance -10%
+item_AllBonus_4 - Potency +27%/<br>Damage Resistance -8%
+item_AllBonus_5 - Potency +28%/<br>Damage Resistance -8%
+
+
+ItemSkillName
+Group 0
+item_RebootAttackUp_1 - 攻の基本型Ⅰ Lv.1
+item_RebootAttackUp_2 - 攻の基本型Ⅰ Lv.2
+item_RebootAttackUp_3 - 攻の基本型Ⅰ Lv.3
+item_RebootAttackUp_4 - 攻の基本型Ⅰ Lv.4
+item_RebootAttackUp_5 - 攻の基本型Ⅰ Lv.5
+item_RebootDamageReduction_4 - α用被ダメ Lv.4
+item_AtpDam_1 - 攻の基本型Ⅱ Lv.1
+item_AtpDam_2 - 攻の基本型Ⅱ Lv.2
+item_AtpDam_3 - 攻の基本型Ⅱ Lv.3
+item_AtpDam_4 - 攻の基本型Ⅱ Lv.4
+item_AtpDam_5 - 攻の基本型Ⅱ Lv.5
+item_AtpPpRed_1 - 攻の基本型Ⅲ Lv.1
+item_AtpPpRed_2 - 攻の基本型Ⅲ Lv.2
+item_AtpPpRed_3 - 攻の基本型Ⅲ Lv.3
+item_AtpPpRed_4 - 攻の基本型Ⅲ Lv.4
+item_AtpPpRed_5 - 攻の基本型Ⅲ Lv.5
+item_SuperArmor_1 - 堅牢の型 Lv.1
+item_SuperArmor_2 - 堅牢の型 Lv.2
+item_SuperArmor_3 - 堅牢の型 Lv.3
+item_SuperArmor_4 - 堅牢の型 Lv.4
+item_SuperArmor_5 - 堅牢の型 Lv.5
+item_CountPower_1 - 連撃の型 Lv.1
+item_CountPower_2 - 連撃の型 Lv.2
+item_CountPower_3 - 連撃の型 Lv.3
+item_CountPower_4 - 連撃の型 Lv.4
+item_CountPower_5 - 連撃の型 Lv.5
+item_PpBoost_1 - 気精の型 Lv.1
+item_PpBoost_2 - 気精の型 Lv.2
+item_PpBoost_3 - 気精の型 Lv.3
+item_PpBoost_4 - 気精の型 Lv.4
+item_PpBoost_5 - 気精の型 Lv.5
+item_PpEfficiency_1 - 気功の型 Lv.1
+item_PpEfficiency_2 - 気功の型 Lv.2
+item_PpEfficiency_3 - 気功の型 Lv.3
+item_PpEfficiency_4 - 気功の型 Lv.4
+item_PpEfficiency_5 - 気功の型 Lv.5
+item_DamageBarrier_1 - 牙城の型 Lv.1
+item_DamageBarrier_2 - 牙城の型 Lv.2
+item_DamageBarrier_3 - 牙城の型 Lv.3
+item_DamageBarrier_4 - 牙城の型 Lv.4
+item_DamageBarrier_5 - 牙城の型 Lv.5
+item_EscapeCritical_1 - 瞬撃の型 Lv.1
+item_EscapeCritical_2 - 瞬撃の型 Lv.2
+item_EscapeCritical_3 - 瞬撃の型 Lv.3
+item_EscapeCritical_4 - 瞬撃の型 Lv.4
+item_EscapeCritical_5 - 瞬撃の型 Lv.5
+item_PbGaugeUp_1 - 理発の型 Lv.1
+item_PbGaugeUp_2 - 理発の型 Lv.2
+item_PbGaugeUp_3 - 理発の型 Lv.3
+item_PbGaugeUp_4 - 理発の型 Lv.4
+item_PbGaugeUp_5 - 理発の型 Lv.5
+item_DefCritical_1 - 守勢の陣 Lv.1
+item_DefCritical_2 - 守勢の陣 Lv.2
+item_DefCritical_3 - 守勢の陣 Lv.3
+item_DefCritical_4 - 守勢の陣 Lv.4
+item_DefCritical_5 - 守勢の陣 Lv.5
+item_AtkCritical_1 - 攻勢の陣 Lv.1
+item_AtkCritical_2 - 攻勢の陣 Lv.2
+item_AtkCritical_3 - 攻勢の陣 Lv.3
+item_AtkCritical_4 - 攻勢の陣 Lv.4
+item_AtkCritical_5 - 攻勢の陣 Lv.5
+item_WholeBody_1 - 渾身の型 Lv.1
+item_WholeBody_2 - 渾身の型 Lv.2
+item_WholeBody_3 - 渾身の型 Lv.3
+item_WholeBody_4 - 渾身の型 Lv.4
+item_WholeBody_5 - 渾身の型 Lv.5
+item_StackHeal_1 - 利運の型 Lv.1
+item_StackHeal_2 - 利運の型 Lv.2
+item_StackHeal_3 - 利運の型 Lv.3
+item_StackHeal_4 - 利運の型 Lv.4
+item_StackHeal_5 - 利運の型 Lv.5
+item_LifeGuts_1 - 堅忍の型 Lv.1
+item_LifeGuts_2 - 堅忍の型 Lv.2
+item_LifeGuts_3 - 堅忍の型 Lv.3
+item_LifeGuts_4 - 堅忍の型 Lv.4
+item_LifeGuts_5 - 堅忍の型 Lv.5
+item_ReactionBonus_1 - 傾覆の型 Lv.1
+item_ReactionBonus_2 - 傾覆の型 Lv.2
+item_ReactionBonus_3 - 傾覆の型 Lv.3
+item_ReactionBonus_4 - 傾覆の型 Lv.4
+item_ReactionBonus_5 - 傾覆の型 Lv.5
+item_ReactionDown_1 - 不倒の型 Lv.1
+item_ReactionDown_2 - 不倒の型 Lv.2
+item_ReactionDown_3 - 不倒の型 Lv.3
+item_ReactionDown_4 - 不倒の型 Lv.4
+item_ReactionDown_5 - 不倒の型 Lv.5
+item_ItemReturn_1 - 節制の型 Lv.1
+item_ItemReturn_2 - 節制の型 Lv.2
+item_ItemReturn_3 - 節制の型 Lv.3
+item_ItemReturn_4 - 節制の型 Lv.4
+item_ItemReturn_5 - 節制の型 Lv.5
+item_ReactionDown2_1 - 不屈の型 Lv.1
+item_ReactionDown2_2 - 不屈の型 Lv.2
+item_ReactionDown2_3 - 不屈の型 Lv.3
+item_ReactionDown2_4 - 不屈の型 Lv.4
+item_ReactionDown2_5 - 不屈の型 Lv.5
+item_PbGaugeUp2_1 - 理放の型 Lv.1
+item_PbGaugeUp2_2 - 理放の型 Lv.2
+item_PbGaugeUp2_3 - 理放の型 Lv.3
+item_PbGaugeUp2_4 - 理放の型 Lv.4
+item_PbGaugeUp2_5 - 理放の型 Lv.5
+item_ElementPpBonus_1 - 勇猛の型 Lv.1
+item_ElementPpBonus_2 - 勇猛の型 Lv.2
+item_ElementPpBonus_3 - 勇猛の型 Lv.3
+item_ElementPpBonus_4 - 勇猛の型 Lv.4
+item_ElementPpBonus_5 - 勇猛の型 Lv.5
+item_AllBonus_1 - 猛滅の型 Lv.1
+item_AllBonus_2 - 猛滅の型 Lv.2
+item_AllBonus_3 - 猛滅の型 Lv.3
+item_AllBonus_4 - 猛滅の型 Lv.4
+item_AllBonus_5 - 猛滅の型 Lv.5
+
+Group 1
+item_RebootAttackUp_1 - Basic Attack Unit I Lv.1
+item_RebootAttackUp_2 - Basic Attack Unit I Lv.2
+item_RebootAttackUp_3 - Basic Attack Unit I Lv.3
+item_RebootAttackUp_4 - Basic Attack Unit I Lv.4
+item_RebootAttackUp_5 - Basic Attack Unit I Lv.5
+item_RebootDamageReduction_4 - -
+item_AtpDam_1 - Basic Attack Unit II Lv.1
+item_AtpDam_2 - Basic Attack Unit II Lv.2
+item_AtpDam_3 - Basic Attack Unit II Lv.3
+item_AtpDam_4 - Basic Attack Unit II Lv.4
+item_AtpDam_5 - Basic Attack Unit II Lv.5
+item_AtpPpRed_1 - Basic Attack Unit III Lv.1
+item_AtpPpRed_2 - Basic Attack Unit III Lv.2
+item_AtpPpRed_3 - Basic Attack Unit III Lv.3
+item_AtpPpRed_4 - Basic Attack Unit III Lv.4
+item_AtpPpRed_5 - Basic Attack Unit III Lv.5
+item_SuperArmor_1 - Sturdy Unit Lv.1
+item_SuperArmor_2 - Sturdy Unit Lv.2
+item_SuperArmor_3 - Sturdy Unit Lv.3
+item_SuperArmor_4 - Sturdy Unit Lv.4
+item_SuperArmor_5 - Sturdy Unit Lv.5
+item_CountPower_1 - Assault Unit Lv.1
+item_CountPower_2 - Assault Unit Lv.2
+item_CountPower_3 - Assault Unit Lv.3
+item_CountPower_4 - Assault Unit Lv.4
+item_CountPower_5 - Assault Unit Lv.5
+item_PpBoost_1 - Spirit Surge Unit Lv.1
+item_PpBoost_2 - Spirit Surge Unit Lv.2
+item_PpBoost_3 - Spirit Surge Unit Lv.3
+item_PpBoost_4 - Spirit Surge Unit Lv.4
+item_PpBoost_5 - Spirit Surge Unit Lv.5
+item_PpEfficiency_1 - Meditation Unit Lv.1
+item_PpEfficiency_2 - Meditation Unit Lv.2
+item_PpEfficiency_3 - Meditation Unit Lv.3
+item_PpEfficiency_4 - Meditation Unit Lv.4
+item_PpEfficiency_5 - Meditation Unit Lv.5
+item_DamageBarrier_1 - Bastion Unit Lv.1
+item_DamageBarrier_2 - Bastion Unit Lv.2
+item_DamageBarrier_3 - Bastion Unit Lv.3
+item_DamageBarrier_4 - Bastion Unit Lv.4
+item_DamageBarrier_5 - Bastion Unit Lv.5
+item_EscapeCritical_1 - Dynamo Unit Lv.1
+item_EscapeCritical_2 - Dynamo Unit Lv.2
+item_EscapeCritical_3 - Dynamo Unit Lv.3
+item_EscapeCritical_4 - Dynamo Unit Lv.4
+item_EscapeCritical_5 - Dynamo Unit Lv.5
+item_PbGaugeUp_1 - Wellspring Unit Lv.1
+item_PbGaugeUp_2 - Wellspring Unit Lv.2
+item_PbGaugeUp_3 - Wellspring Unit Lv.3
+item_PbGaugeUp_4 - Wellspring Unit Lv.4
+item_PbGaugeUp_5 - Wellspring Unit Lv.5
+item_DefCritical_1 - Defensive Formation Lv.1
+item_DefCritical_2 - Defensive Formation Lv.2
+item_DefCritical_3 - Defensive Formation Lv.3
+item_DefCritical_4 - Defensive Formation Lv.4
+item_DefCritical_5 - Defensive Formation Lv.5
+item_AtkCritical_1 - Offensive Formation Lv.1
+item_AtkCritical_2 - Offensive Formation Lv.2
+item_AtkCritical_3 - Offensive Formation Lv.3
+item_AtkCritical_4 - Offensive Formation Lv.4
+item_AtkCritical_5 - Offensive Formation Lv.5
+item_WholeBody_1 - Mustered Might Unit Lv.1
+item_WholeBody_2 - Mustered Might Unit Lv.2
+item_WholeBody_3 - Mustered Might Unit Lv.3
+item_WholeBody_4 - Mustered Might Unit Lv.4
+item_WholeBody_5 - Mustered Might Unit Lv.5
+item_StackHeal_1 - Lucky Unit Lv.1
+item_StackHeal_2 - Lucky Unit Lv.2
+item_StackHeal_3 - Lucky Unit Lv.3
+item_StackHeal_4 - Lucky Unit Lv.4
+item_StackHeal_5 - Lucky Unit Lv.5
+item_LifeGuts_1 - Endurance Unit Lv.1
+item_LifeGuts_2 - Endurance Unit Lv.2
+item_LifeGuts_3 - Endurance Unit Lv.3
+item_LifeGuts_4 - Endurance Unit Lv.4
+item_LifeGuts_5 - Endurance Unit Lv.5
+item_ReactionBonus_1 - Inversion Unit Lv.1
+item_ReactionBonus_2 - Inversion Unit Lv.2
+item_ReactionBonus_3 - Inversion Unit Lv.3
+item_ReactionBonus_4 - Inversion Unit Lv.4
+item_ReactionBonus_5 - Inversion Unit Lv.5
+item_ReactionDown_1 - Infallible Unit Lv.1
+item_ReactionDown_2 - Infallible Unit Lv.2
+item_ReactionDown_3 - Infallible Unit Lv.3
+item_ReactionDown_4 - Infallible Unit Lv.4
+item_ReactionDown_5 - Infallible Unit Lv.5
+item_ItemReturn_1 - Recycler Unit Lv.1
+item_ItemReturn_2 - Recycler Unit Lv.2
+item_ItemReturn_3 - Recycler Unit Lv.3
+item_ItemReturn_4 - Recycler Unit Lv.4
+item_ItemReturn_5 - Recycler Unit Lv.5
+item_ReactionDown2_1 - Indomitable Unit Lv.1
+item_ReactionDown2_2 - Indomitable Unit Lv.2
+item_ReactionDown2_3 - Indomitable Unit Lv.3
+item_ReactionDown2_4 - Indomitable Unit Lv.4
+item_ReactionDown2_5 - Indomitable Unit Lv.5
+item_PbGaugeUp2_1 - Soulspring Unit Lv.1
+item_PbGaugeUp2_2 - Soulspring Unit Lv.2
+item_PbGaugeUp2_3 - Soulspring Unit Lv.3
+item_PbGaugeUp2_4 - Soulspring Unit Lv.4
+item_PbGaugeUp2_5 - Soulspring Unit Lv.5
+item_ElementPpBonus_1 - Valorous Unit Lv.1
+item_ElementPpBonus_2 - Valorous Unit Lv.2
+item_ElementPpBonus_3 - Valorous Unit Lv.3
+item_ElementPpBonus_4 - Valorous Unit Lv.4
+item_ElementPpBonus_5 - Valorous Unit Lv.5
+item_AllBonus_1 - Berserk Unit Lv.1
+item_AllBonus_2 - Berserk Unit Lv.2
+item_AllBonus_3 - Berserk Unit Lv.3
+item_AllBonus_4 - Berserk Unit Lv.4
+item_AllBonus_5 - Berserk Unit Lv.5
+
+
+LaboGrind
+Group 0
+Explanation1 - 強化したい武器、または防具を選んでください。<c f0df60>強化の限界値に達していると選択できません。<c>
+Explanation2 - 素材にする武器、または防具を選んでください。素材に選んだアイテムは、<scarlet>強化後に消滅<c>します。
+Explanation3 - アイテム強化の最終確認です。内容をよく確認して、問題なければ「はい」を選んでください。
+ConfirmationElementTitle - 強化詳細
+ConfirmationTitle - アイテム強化
+CompareTitle - 強化詳細
+CompareNum1 - 大成功確率
+CompareNum2 - 強化値
+CompareNum3 - 強化上限値
+CompareNum4 - 攻撃力
+CompareNum5 - 防御力
+CompareNum6 - 特殊能力スロット
+BaseTitle - ベースアイテム選択
+MaterialTitle - 素材アイテム選択
+ResultMessage1 - $(2)の強化が<green>成功<c>しました。<br>強化値が$(1)から$(0)になりました。
+ResultMessage2 - $(2)の強化が<c ff007f>大成功<c>しました<br>強化値が$(1)から$(0)になりました。
+ResultMessage3 - $(3)の強化が<green>成功<c>しました。<br>強化値が$(2)から$(1)になりました。<br><br><br>強化値が$(0)を超えたことで、<br>特殊能力スロットが$(5)から$(4)に増えました。
+ResultMessage4 - $(3)の強化が<c ff007f>大成功<c>しました。<br>強化値が$(2)から$(1)になりました。<br><br><br>強化値が$(0)を超えたことで、<br>特殊能力スロットが$(5)から$(4)に増えました。
+ConfirmationAttentionMessage - 下記のいずれかに該当するアイテムです<br>本当によろしいでしょうか？<br><br><br>・レアリティが★$(0)以上<br>・強化上限値に達している
+ConfirmationMessage - 強化を開始します。よろしいですか？<br><br>※補助アイテムを使用することで、<br>　<c ff007f>大成功<c>確率を上げることができます。<br>※獲得した強化EXPが上限を超える場合、<br>　その分は切り捨てとなります。
+
+Group 1
+Explanation1 - Select a weapon or an armor to enhance. <c f0df60>A maxed item cannot be selected.<c>
+Explanation2 - Select weapons or armor to use as materials. These items <scarlet>will be consumed.<c>
+Explanation3 - Confirm your enhancement selections carefully and press [Yes] when ready.
+ConfirmationElementTitle - Enhancement Details
+ConfirmationTitle - Item Enhancement
+CompareTitle - Enhancement Details
+CompareNum1 - Great Success Rate
+CompareNum2 - Enhancement Level
+CompareNum3 - Max Enhancement Level
+CompareNum4 - Attack
+CompareNum5 - Defense
+CompareNum6 - Augment Slots
+BaseTitle - Base Item Selection
+MaterialTitle - Material Item Selection
+ResultMessage1 - $(2) enhancement <green>successful<c>.<br>Enhancement Level changed from $(1) to $(0).
+ResultMessage2 - $(2) enhancement <c ff007f>greatly successful<c>.<br>Enhancement Level changed from $(1) to $(0).
+ResultMessage3 - $(3) enhancement <green>successful<c>.<br>Enhancement Level changed from $(2) to $(1)<br><br><br>Enhancement Level $(0) exceeded. Augment Slots increased from $(5) to $(4).
+ResultMessage4 - $(3) enhancement <c ff007f>greatly successful<c>.<br>Enhancement Level changed from $(2) to $(1)<br><br><br>Enhancement Level $(0) exceeded. Augment Slots increased from $(5) to $(4).
+ConfirmationAttentionMessage - One or more of the following applies to this item. Are you sure you wish to proceed?<br><br><br>-Rarity $(0)★+<br>-At max enhancement level
+ConfirmationMessage - Beginning enhancement. Are you sure?<br><br>Note: Adding support items can increase the <c ff007f>Great Success<c> rate.<br>Note: Any earned Enhancement EXP in excess of the max will be discarded.
+
+
+LaboMain
+Group 0
+Title - アイテムラボ
+LaboListTitle - ラボメニュー
+Explanation1 - 武器や防具の強化、潜在能力解放、特殊能力追加などが行えます。
+Grind - 武器・防具の強化
+Grind_Title - アイテム強化
+ElementCompose - 特殊能力の追加
+ElementCompose_Title - 特殊能力追加
+LimitBreak - 限界突破
+ReleasePotential - 潜在能力解放
+ElementSupplement - 特殊能力カプセル追加
+ChangeColor - フォトンカラー変更
+Exit - 戻る
+LaboElementInherit - 特殊能力移植
+LaboMulti - マルチウェポン
+LaboCapsuleTrade - 特殊能力カプセル交換
+ManagementTitle - 期間限定ブースト
+ManagementGrind - 大成功確率+$(0)%
+ManagementElement - 特殊能力追加成功確率+$(0)
+ManagementMaterial - 必要素材半減
+MaterialListTitle - アイテム情報
+MaterialListNum1 - アイテム名
+MaterialListNum2 - 必要数
+MaterialListNum3 - 所持数
+ErrorMessage - 通信に問題が発生しました。<br>ラボ選択画面まで戻ります。
+ErrorMessage2 - アイテムラボではこの倉庫を使用することはできません。
+
+Group 1
+Title - ITEM LAB
+LaboListTitle - LAB MENU
+Explanation1 - You can enhance weapons and armor, unlock Potential, or affix Augments.
+Grind - Weapon/Armor Enhancement
+Grind_Title - Item Enhancement
+ElementCompose - Add Augments
+ElementCompose_Title - Affix Augments
+LimitBreak - Limit Break
+ReleasePotential - Unlock Potential
+ElementSupplement - Add Augment Capsule
+ChangeColor - Photon Color Change
+Exit - Back
+LaboElementInherit - Augment Transfer
+LaboMulti - Multi-weapon
+LaboCapsuleTrade - Exchange Augment Capsule
+ManagementTitle - Limited-Time Boost
+ManagementGrind - Great Success Rate + $(0)%
+ManagementElement - Augmentation Success Rate +$(0)
+ManagementMaterial - Required Materials Halved
+MaterialListTitle - Item Info
+MaterialListNum1 - Item Name
+MaterialListNum2 - Needed
+MaterialListNum3 - You have:
+ErrorMessage - There was a connection error.<br>Returning to Lab Selection Screen.
+ErrorMessage2 - This Storage cannot be used at the Item Lab.
+
+
+LaboReleasePotential
+Group 0
+Title - 潜在能力アイテム選択
+Explanation1 - 潜在能力を解放・切り替えしたいアイテムを選んでください。潜在能力の内容はアイテムによって異なります。
+Explanation2 - 潜在能力の解放・切り替えの最終確認です。内容をよく確認して、問題なければ「はい」を選んでください。
+MaterialTitle - アイテム一覧
+PotentialTitle - 設定可能な潜在能力
+PotentialSet - 現在設定されている潜在能力
+PotentialSelect - 変更可能な潜在能力
+PotentialNone - 変更可能な潜在能力がありません
+PotentialSetNone - 現在設定されていません。
+PotentialConfirmation - 潜在能力の確認
+PotentialSupport - 潜在能力補助アイテム
+CompareTitle - 潜在能力実行詳細
+PotentialResult - $(0)の潜在能力が、「$(1)」になりました
+CompareNum1 - 潜在能力名
+CompareNum2 - 新しい潜在能力の詳細
+CompareNum3 - Lv.$(0)
+ConfirmationMessage - 潜在能力解放を開始します。<br>よろしいですか？
+ConfirmationMessage_Select - 潜在能力の解放・切り替えを開始します。<br>よろしいですか？<br><br>※補助アイテムを使用することで、<br>　<yellow>必要素材を消費せずに実行できます。<c><br>　ただし、メセタは必ず必要になります。
+
+Group 1
+Title - Potential Item Selection
+Explanation1 - Select an Item on which to unlock/replace Potential. Potential varies by item.
+Explanation2 - Confirm your Potential unlock/replacement selections carefully and press [Yes] when ready.
+MaterialTitle - Item List
+PotentialTitle - Customizable Potentials
+PotentialSet - Currently Customized Potentials
+PotentialSelect - Changeable Potentials
+PotentialNone - No Changeable Potentials
+PotentialSetNone - Not customized.
+PotentialConfirmation - Confirm Potential
+PotentialSupport - Potential Support Items
+CompareTitle - Potential Implementation Details
+PotentialResult - $(0)‘s Potential is now [$(1)]
+CompareNum1 - Potential Name
+CompareNum2 - New Potential Details
+CompareNum3 - Lv.$(0)
+ConfirmationMessage - Beginning Potential unlock.<br>Are you sure you wish to proceed?
+ConfirmationMessage_Select - Beginning Potential unlock/replacement.<br>Are you sure you wish to proceed?<br><br>Note: Adding support items can allow you to proceed<br><yellow>without consuming required materials.<br>N-Meseta is always consumed.<c>
+
+
+ProcessingMain
+Group 0
+title - フードスタンド
+Explanation1 - 素材を選択してください。<c f0df60>素材に選んだアイテムは、<c><red>実行後に消滅<c><c f0df60>します。<c>
+Explanation2 - フードの最終確認です。内容をよく確認して、問題なければ「はい」を選んでください。
+Explanation3 - 使用するレシピを選択してください。
+ChoiceMenu - アイテムを選択して作る
+ChoiceMenu2 - マイレシピから作る
+MaterialListTitle - アイテム一覧
+BoostListTitle - ブースト効果
+NotingBoost - ブースト効果はありません。
+UseItemListTitle - 使用するアイテム
+NotingItem - アイテムがありません。
+UseItemNum - 使用するアイテムの数
+ConfirmationTitle - フード内容の確認
+ConfirmationAttentionMessage - この内容でフードを作成します。<br>よろしいですか？<br><br><yellow>※すでに「フード」によるブーストが発生している場合、<br>　ブースト効果は上書きされます。<c>
+ResultTitle - ブースト効果
+ResultMessage - 以下のブースト効果が発生しました。
+RecipeMenuTitle - レシピ選択
+RecipeSetNull - 新規登録
+RecipeSet - レシピ登録
+RecipeMenu1 - このレシピで作る
+RecipeMenu2 - レシピ名を変更する
+RecipeMenu3 - レシピを削除する
+RecipeNameSet - レシピ名入力
+RecipeNameResultTitle - 登録完了
+RecipeNameResultMessege - レシピを登録しました。
+RecipeNameEditTitle - 変更完了
+RecipeNameEditMessege - レシピ名を変更しました。
+RecipeDelete - 削除確認
+RecipeDeleteMessege - 指定のレシピを削除しますか？
+RecipeDeleteResultTitle - 削除完了
+RecipeDeleteResultMessege - レシピを削除しました。
+ErrorMessage - 通信に問題が発生しました。
+
+Group 1
+title - Food Stand
+Explanation1 - Select materials. <c f0df60>Items selected as materials <c><red>will be consumed.<c><c f0df60><c>
+Explanation2 - Confirm your Food selections carefully and select [Yes] when ready.
+Explanation3 - Select the Recipe to use for cooking.
+ChoiceMenu - Select Item and Create
+ChoiceMenu2 - Create From My Recipes
+MaterialListTitle - Item List
+BoostListTitle - Boost Effect
+NotingBoost - No Boost Effect.
+UseItemListTitle - Items to Use
+NotingItem - No Items.
+UseItemNum - Number of Items to Use
+ConfirmationTitle - Confirm Food Details
+ConfirmationAttentionMessage - Preparing Food using these ingredients.<br>Are you sure you wish to proceed?<br><br><yellow>Note: Any current [Food] boost effects will be overwritten.<c>
+ResultTitle - Boost Effect
+ResultMessage - The following Boost Effects were activated.
+RecipeMenuTitle - Recipe Selection
+RecipeSetNull - Add New
+RecipeSet - Add Recipe
+RecipeMenu1 - Use this Recipe
+RecipeMenu2 - Change Recipe Name
+RecipeMenu3 - Delete Recipe
+RecipeNameSet - Enter Recipe Name
+RecipeNameResultTitle - Finish
+RecipeNameResultMessege - Recipe added.
+RecipeNameEditTitle - Complete Change
+RecipeNameEditMessege - Recipe name changed.
+RecipeDelete - Confirm Deletion
+RecipeDeleteMessege - Delete the Recipe?
+RecipeDeleteResultTitle - Delete
+RecipeDeleteResultMessege - Recipe deleted.
+ErrorMessage - There was a connection error.
+
+
+LaboChangeColor
+Group 0
+Title - フォトンカラー変更アイテム選択
+ColorPickerTitle - フォトンカラー変更
+ChangeColorResultTitle - アイテムラボ
+Explanation1 - フォトンカラー変更では、一部のアイテムのフォトンカラーを変更できます。アイテムを選択してください。
+Explanation2 - フォトンカラーを設定してください。「決定」を選択すると色を確定します。
+ChangeColorResultMessage1 - フォトンカラー変更に<green>成功<c>しました。
+NoMatchItemErrorMessage1 - フォトンカラー変更できるアイテムがありません。
+
+Group 1
+Title - Photon Color Change Item Selection
+ColorPickerTitle - Photon Color Change
+ChangeColorResultTitle - Item Lab
+Explanation1 - You can change some item photon colors using Photon Color Change. Select an Item.
+Explanation2 - Please select a Photon Color. Select [Confirm] to make the change.
+ChangeColorResultMessage1 - Photon Color Change <green>successful.<c>
+NoMatchItemErrorMessage1 - No items eligible for Photon Color Change.
+
+
+IdentifyIdentify
+Group 0
+IdentifyTitle - アイテム鑑定
+identifyGuide01 - 未鑑定のアイテムを鑑定できます。
+identifyGuide02 - 鑑定したい武器を選択してください。[Shift]キーで 複数選択 できます。
+identifyGuide03 - 鑑定の最終確認画面です。鑑定後のアイテムに、好きな属性を付与できます。
+IdentifySelectMenuTitle - アイテム鑑定メニュー
+IdentifySelectMenu01 - アイテムを鑑定する
+IdentifySelectMenu02 - アイテムを上級鑑定する
+IdentifySelectMenu03 - ショップを出る
+IdentifySelectItemTitle - 未鑑定対象アイテム選択
+identifyConfrimMessage - サービスで、選択した1個のアイテムに<br>好きな属性を付与できます。<br>属性を１つ選択後、<br>「鑑定ボタン」を押してください。<br>※すべての対象アイテムに選択した属性が<br>付与されますのでご注意ください。<br>※対象アイテム10個ずつ鑑定されます。
+identifyConfrimSelectAttribute - 付与したい属性
+identifyConfrimSelectResultTtile - 鑑定結果
+identifyConfrimSelectResultMessage - 以下のアイテム$(1)個の鑑定が終了しました。<br>（$(1)個/$(0)個）<br>「鑑定終了」ボタンを押してください。
+identifyConfrimSelectResultContinue - 鑑定を続ける
+identifyConfrimSelectResultEnd - 鑑定終了
+
+Group 1
+IdentifyTitle - Item Appraisal
+identifyGuide01 - Appraises unappraised items.
+identifyGuide02 - Select the weapon you want to appraise. Hold shift to select multiple items.
+identifyGuide03 - This is the final confirmation screen for appraisal. You can add Elements to items that have been appraised.
+IdentifySelectMenuTitle - Item Appraisal Menu
+IdentifySelectMenu01 - Appraise Items
+IdentifySelectMenu02 - Enhanced Appraisal
+IdentifySelectMenu03 - Shop
+IdentifySelectItemTitle - Select Unappraised Item
+identifyConfrimMessage - You can add an Element of your choice to 1 selected item for free. Press the [Appraisal Button] after you select an Element. Note: the Element you select will be added to all appraised items. Up to 10 items can be appraised at once.
+identifyConfrimSelectAttribute - Element to Add
+identifyConfrimSelectResultTtile - Appraisal Results
+identifyConfrimSelectResultMessage - The following $(1) have been appraised. <br>($(1)/$(0)) <br>Please press the [Appraisal Complete] Button.
+identifyConfrimSelectResultContinue - Continue Appraising
+identifyConfrimSelectResultEnd - Appraisal Complete
+
+
+LaboElementInherit
+Group 0
+Guide_1 - 移植先となる対象のベースアイテムを選択してください。
+Guide_2 - 素材アイテムを選択してください。素材に付与されている特殊能力は<c><c ff4f3f>消滅<c><c f0df60>します。
+Guide_3 - ベースアイテムに移植する特殊能力を選択してください。
+Guide_4 - 特殊能力移植の最終確認画面です。内容をよく確認して、問題なければ「はい」を選んでください。
+ItemError - 特殊能力を移植できるアイテムがありません。
+TitleText1 - ベースアイテム選択
+TitleText2 - 素材アイテム選択
+TitleText3 - 特殊能力カプセル選択
+TitleText4 - 特殊能力移植確認
+TitleText5 - 特殊能力移植内容
+TitleText6 - 移植後の特殊能力
+TitleText7 - 特殊能力選択
+TitleText8 - 選択アイテムの特殊能力リスト
+TitleText9 - 特殊能力移植予定リスト
+Choice_Item - 選択済みのアイテム
+Constitution1 - ベースに選択したアイテム
+Constitution2 - 素材に選択したアイテム
+Constitution3 - 移植後の特殊能力
+Constitution4 - 消費される特殊能力カプセル
+Constitution5 - 消費される特殊能力移植パス
+Constitution6 - 個数
+Message_Confirm - 特殊能力移植を開始します。<br>よろしいですか？<br><br>※付与していない特殊能力は<scarlet>>消滅<c>します。<br>※素材として選択したアイテムに付与している<br>　特殊能力は<scarlet>>すべて消滅<c>します。
+Grant1 - ベースアイテム
+Grant2 - 素材アイテム
+ServerErrorMsg1 - $(0)が不足しています。
+ServerErrorMsg2 - 所持金が不足しています。
+ErrorMsg - 特殊能力移植に失敗しました。<br>しばらく時間を置いてから、再度お試しください。
+ButtonText1 - 戻る
+ButtonText2 - 決定
+ButtonText3 - 特殊能力移植開始
+Message_Explanation2 - 素材として選択したアイテムに付与している<br>特殊能力は<c ff4f3f>すべて消滅<c>します。<br>本当によろしいですか？<br>※<yellow>S級特殊能力は消滅せずに残ります。<c>
+ResultMessage1 - 特殊能力移植に<green>成功<c>しました。
+ResultMessage2 - <yellow>オーナー登録が完了<c>しました。
+Decrease_Title - 特殊能力確認
+Decrease_Msg - アイテムに付与されていない<br>下記の特殊能力が<c ff4f3f>消滅<c>します。<br>よろしいですか？
+SlotDecrease_Title - スロット減少確認
+SlotDecrease_Msg - $(0)<br>のスロットが<c ff4f3f>減少<c>します。<br>よろしいですか？
+MaxMessage - 最大追加数を超えたため、入れ替えました。
+CategoryMessege - すでに同じタイプの特殊能力が指定されていたため、入れ替えました。
+AddSupportMessage1 - 特定の特殊能力を追加可能な<br>補助アイテムを所持しています。<br>使用するものを選んでください。
+LockConfirm - ロック状態のアイテムが選択されています。<br>よろしいですか？
+
+Group 1
+Guide_1 - Select the base item to which to make the transfer.
+Guide_2 - Select material items. Augments added to materials <c><c ff4f3f>will be lost.<c><c f0df60>
+Guide_3 - Select the Augment to transfer to the base item.
+Guide_4 - Confirm your Augment Transfer selections carefully and press [Yes] when ready.
+ItemError - No items eligible for Augment Transfer.
+TitleText1 - Base Item Selection
+TitleText2 - Material Item Selection
+TitleText3 - Augment Capsule Selection
+TitleText4 - Confirm Augment Transfer
+TitleText5 - Augment Transfer Details
+TitleText6 - Transferred Augment
+TitleText7 - Augment Selection
+TitleText8 - Selected Item Augment List
+TitleText9 - Augment Transfer List
+Choice_Item - Selected Items
+Constitution1 - Item Selected as Base
+Constitution2 - Items Selected as Materials
+Constitution3 - Transferred Augment
+Constitution4 - Augment Capsule to be Consumed
+Constitution5 - Augment Transfer Pass to be Consumed
+Constitution6 - Count
+Message_Confirm - Beginning Augment Transfer. Are you sure?<br><br>Note: Untransferred Augments <scarlet> will be lost.<c><br>All Augments added to items selected as materials <scarlet>>will be lost.<c>
+Grant1 - Base Item
+Grant2 - Material Items
+ServerErrorMsg1 - Not enough $(0).
+ServerErrorMsg2 - Not enough money.
+ErrorMsg - Augment Transfer failed. Please wait a while and try again.
+ButtonText1 - Back
+ButtonText2 - Confirm
+ButtonText3 - Begin Augment Transfer
+Message_Explanation2 - All Augments added to items selected as materials <c ff4f3f>will be lost.<c> Are you sure you wish to proceed?<br>Note: <yellow>S-Grade Augments will not be lost.<c>
+ResultMessage1 - Augment Transfer <green>successful<c>.
+ResultMessage2 - <yellow>Owner Registration<c> Complete.
+Decrease_Title - Confirm Augment
+Decrease_Msg - The following Augments not added to the item <c ff4f3f>will be lost.<c> Are you sure you wish to proceed?
+SlotDecrease_Title - Confirm Slot Reduction
+SlotDecrease_Msg - Slots for $(0) <c ff4f3f>will be lost.<c> Are you sure you wish to proceed?
+MaxMessage - Exceeded max number of additions. Augment replaced.
+CategoryMessege - An existing Augment of the same type has been replaced.
+AddSupportMessage1 - You have support items that can confer <br>certain Augments. Please select what you <br>would like to use.
+LockConfirm - You have selected a locked item. Proceed?
+
+
+UserShopIntendExhibit
+Group 0
+SetValueInputNumberMessage - 設定する価格を入力してください。<br>※出品最低価格未満には変更できません。<br>※出品手数料として一定額が差引かれます。
+SetValueInputNumberMessage_2 - （出品手数料差引き額： 
+SetValueInputNumberMessage_3 - $(1)<pict 4space>$(0)）
+SetValueInputNumberMessage_4 - （税込価格： 
+
+Group 1
+SetValueInputNumberMessage - Enter the price you wish to set.<br>* Price cannot be less than the minimum value.<br>* A set amount will be deducted as a Seller's fee.
+SetValueInputNumberMessage_2 - (Profit after deduction: 
+SetValueInputNumberMessage_3 - $(1)<pict 4space>$(0))
+SetValueInputNumberMessage_4 - (Tax-Inclusive Price: 
+
+
+UserShopMain
+Group 0
+ManageExhibitItem - アイテムの出品<pict 4space><pict Arcscash>
+ManageWithdrawItem - 出品取り下げ
+ShopListTitle_Blockade_message - 称号「$(0)」の取得で開放されます。
+Explanation1_v - <c f0df61>自分でアイテムを販売するショップを開いたり、他のプレイヤーショップで買い物ができます。<c>
+Explanation2_v - <c f0df60>他のプレイヤーが出品中のアイテムを検索します。<c>
+Explanation3_v - <c f0df60>商品を選択すると、そのアイテムが出品されているショップに移動します。<c>
+Explanation4_v - <c f0df60>購入したいアイテムを<%Decide><c f0df60>で選びます。「購入」ボタンで精算が行われます。<c>
+Explanation5 - <c f0df60>プレイヤーIDネーム、キャラクター名、広告文からキーワード検索ができます。検索先を選択後、キーワードを入力してください。<c>
+Label_Item_Num - 選択中アイテムの所持数
+Label_Item_Capacity - 取り下げ後のアイテムパック容量
+
+Group 1
+ManageExhibitItem - Put items up for sale<pict Arcscash>
+ManageWithdrawItem - Withdraw items for sale
+ShopListTitle_Blockade_message - Unlocked after acquiring the [$(0)] title.
+Explanation1_v - <c f0df61>This feature allows you to open a store and sell your items, as well as buy items from other players' shops.<c>
+Explanation2_v - <c f0df60>Search for items that are currently put up for sale by other players. <c>
+Explanation3_v - <c f0df60>Select a product to move to the shop where that item has been put up for sale.<c>
+Explanation4_v - <c f0df60>Choose the item you want to purchase with <%Decide><c f0df60>. Then press the [Purchase] button to check out.<c>
+Explanation5 - <c f0df60>You can search by player ID name, character name or advertisement text using keywords. Select the type of search you want, then enter the corresponding keywords.<c>
+Label_Item_Num - Amount you currently have
+Label_Item_Capacity - Inventory space after the withdraw
+
+
+UserShopSearchItem
+Group 0
+SubCategoryLayeringCostumeBaseWear - ベースウェア・セットウェア
+SubCategoryConsumeMouthTeeth - 口・歯
+SubCategoryConsumeEar - 耳
+SubCategoryConsumeHorn - 角
+SubCategoryConsumeStamp - スタンプ
+SubCategoryConsumeSpecialabilitycapsule - 特殊能力カプセル
+Potential - 潜在能力レベル
+MultiWeapon - マルチウェポン
+DropSkill - プリセット能力
+DifferentColorsWeapons - レアカラー武器
+
+Group 1
+SubCategoryLayeringCostumeBaseWear - Basewear/Setwear
+SubCategoryConsumeMouthTeeth - Mouth/Teeth
+SubCategoryConsumeEar - Ears
+SubCategoryConsumeHorn - Horn
+SubCategoryConsumeStamp - Stamps
+SubCategoryConsumeSpecialabilitycapsule - Augment Capsules
+Potential - Potential Level
+MultiWeapon - Multi-weapons
+DropSkill - Preset Skills
+DifferentColorsWeapons - Rare Color Weapons
+
+
+UserShopDetails
+Group 0
+Blockade_message - 称号「$(0)」の取得で開放されます。
+
+Group 1
+Blockade_message - Unlocked after acquiring the [$(0)] title.
+
+
+PresetHelp
+Group 0
+Drop_DamageUp_1 - 威力＋2.0%
+Drop_DamageUp_2 - 威力＋3.0%
+Drop_DamageUp_3 - 威力＋4.0%
+Drop_DamageUp_4 - 威力＋4.5%
+Drop_DamageUp_5 - 威力＋5.0%
+Drop_DamageReduction_1 - ダメージ耐性＋1.0%
+Drop_DamageReduction_2 - ダメージ耐性＋2.0%
+Drop_DamageReduction_3 - ダメージ耐性＋3.0%
+Drop_DamageReduction_4 - ダメージ耐性＋3.5%
+Drop_DamageReduction_5 - ダメージ耐性＋4.0%
+Drop_Critical_1 - クリティカル発生率＋5.0%
+Drop_Critical_2 - クリティカル発生率＋8.0%
+Drop_Critical_3 - クリティカル発生率＋10%
+Drop_Critical_4 - クリティカル発生率＋12%
+Drop_Critical_5 - クリティカル発生率＋13%
+Drop_CriticalDamage_1 - クリティカル時の威力＋6.0%
+Drop_CriticalDamage_2 - クリティカル時の威力＋9.0%
+Drop_CriticalDamage_3 - クリティカル時の威力＋12%
+Drop_CriticalDamage_4 - クリティカル時の威力＋14%
+Drop_CriticalDamage_5 - クリティカル時の威力＋15%
+Drop_PpActionRate_1 - PP消費量軽減＋1.0％
+Drop_PpActionRate_2 - PP消費量軽減＋2.0％
+Drop_PpActionRate_3 - PP消費量軽減＋3.0％
+Drop_PpActionRate_4 - PP消費量軽減＋3.5％
+Drop_PpActionRate_5 - PP消費量軽減＋4.0％
+Drop_PPRestraint_1 - PP自然回復速度＋2.0%
+Drop_PPRestraint_2 - PP自然回復速度＋3.0%
+Drop_PPRestraint_3 - PP自然回復速度＋4.0%
+Drop_PPRestraint_4 - PP自然回復速度＋4.5%
+Drop_PPRestraint_5 - PP自然回復速度＋5.0%
+Drop_AttackPPRestraint_1 - 攻撃時PP回復量＋2.0%
+Drop_AttackPPRestraint_2 - 攻撃時PP回復量＋3.0%
+Drop_AttackPPRestraint_3 - 攻撃時PP回復量＋4.0%
+Drop_AttackPPRestraint_4 - 攻撃時PP回復量＋4.5%
+Drop_AttackPPRestraint_5 - 攻撃時PP回復量＋5.0%
+
+Group 1
+Drop_DamageUp_1 - Potency +2.0%
+Drop_DamageUp_2 - Potency +3.0%
+Drop_DamageUp_3 - Potency +4.0%
+Drop_DamageUp_4 - Potency +4.5%
+Drop_DamageUp_5 - Potency +5.0%
+Drop_DamageReduction_1 - Damage Resistance +1.0%
+Drop_DamageReduction_2 - Damage Resistance +2.0%
+Drop_DamageReduction_3 - Damage Resistance +3.0%
+Drop_DamageReduction_4 - Damage Resistance +3.5%
+Drop_DamageReduction_5 - Damage Resistance +4.0%
+Drop_Critical_1 - Critical Activation Rate +5.0%
+Drop_Critical_2 - Critical Activation Rate +8.0%
+Drop_Critical_3 - Critical Activation Rate +10%
+Drop_Critical_4 - Critical Activation Rate +12%
+Drop_Critical_5 - Critical Activation Rate +13%
+Drop_CriticalDamage_1 - Critical Potency +6.0%
+Drop_CriticalDamage_2 - Critical Potency +9.0%
+Drop_CriticalDamage_3 - Critical Potency +12%
+Drop_CriticalDamage_4 - Critical Potency +14%
+Drop_CriticalDamage_5 - Critical Potency +15%
+Drop_PpActionRate_1 - PP Consumption -1.0%
+Drop_PpActionRate_2 - PP Consumption -2.0%
+Drop_PpActionRate_3 - PP Consumption -3.0%
+Drop_PpActionRate_4 - PP Consumption -3.5%
+Drop_PpActionRate_5 - PP Consumption -4.0%
+Drop_PPRestraint_1 - Natural PP Recov. Speed +2.0%
+Drop_PPRestraint_2 - Natural PP Recov. Speed +3.0%
+Drop_PPRestraint_3 - Natural PP Recov. Speed +4.0%
+Drop_PPRestraint_4 - Natural PP Recov. Speed +4.5%
+Drop_PPRestraint_5 - Natural PP Recov. Speed +5.0%
+Drop_AttackPPRestraint_1 - Offensive PP Recovery +2.0%
+Drop_AttackPPRestraint_2 - Offensive PP Recovery +3.0%
+Drop_AttackPPRestraint_3 - Offensive PP Recovery +4.0%
+Drop_AttackPPRestraint_4 - Offensive PP Recovery +4.5%
+Drop_AttackPPRestraint_5 - Offensive PP Recovery +5.0%
+
+
+PresetName
+Group 0
+Drop_DamageUp_1 - フィクサ・アタック Lv.1
+Drop_DamageUp_2 - フィクサ・アタック Lv.2
+Drop_DamageUp_3 - フィクサ・アタック Lv.3
+Drop_DamageUp_4 - フィクサ・アタック Lv.4
+Drop_DamageUp_5 - フィクサ・アタック Lv.5
+Drop_DamageReduction_1 - フィクサ・ガード Lv.1
+Drop_DamageReduction_2 - フィクサ・ガード Lv.2
+Drop_DamageReduction_3 - フィクサ・ガード Lv.3
+Drop_DamageReduction_4 - フィクサ・ガード Lv.4
+Drop_DamageReduction_5 - フィクサ・ガード Lv.5
+Drop_Critical_1 - フィクサ・フェタル Lv.1
+Drop_Critical_2 - フィクサ・フェタル Lv.2
+Drop_Critical_3 - フィクサ・フェタル Lv.3
+Drop_Critical_4 - フィクサ・フェタル Lv.4
+Drop_Critical_5 - フィクサ・フェタル Lv.5
+Drop_CriticalDamage_1 - フィクサ・テルミナ Lv.1
+Drop_CriticalDamage_2 - フィクサ・テルミナ Lv.2
+Drop_CriticalDamage_3 - フィクサ・テルミナ Lv.3
+Drop_CriticalDamage_4 - フィクサ・テルミナ Lv.4
+Drop_CriticalDamage_5 - フィクサ・テルミナ Lv.5
+Drop_PpActionRate_1 - フィクサ・パフォーマ Lv.1
+Drop_PpActionRate_2 - フィクサ・パフォーマ Lv.2
+Drop_PpActionRate_3 - フィクサ・パフォーマ Lv.3
+Drop_PpActionRate_4 - フィクサ・パフォーマ Lv.4
+Drop_PpActionRate_5 - フィクサ・パフォーマ Lv.5
+Drop_PPRestraint_1 - フィクサ・ナトゥーラ Lv.1
+Drop_PPRestraint_2 - フィクサ・ナトゥーラ Lv.2
+Drop_PPRestraint_3 - フィクサ・ナトゥーラ Lv.3
+Drop_PPRestraint_4 - フィクサ・ナトゥーラ Lv.4
+Drop_PPRestraint_5 - フィクサ・ナトゥーラ Lv.5
+Drop_AttackPPRestraint_1 - フィクサ・エンソジア Lv.1
+Drop_AttackPPRestraint_2 - フィクサ・エンソジア Lv.2
+Drop_AttackPPRestraint_3 - フィクサ・エンソジア Lv.3
+Drop_AttackPPRestraint_4 - フィクサ・エンソジア Lv.4
+Drop_AttackPPRestraint_5 - フィクサ・エンソジア Lv.5
+
+Group 1
+Drop_DamageUp_1 - Fixa Attack Lv.1
+Drop_DamageUp_2 - Fixa Attack Lv.2
+Drop_DamageUp_3 - Fixa Attack Lv.3
+Drop_DamageUp_4 - Fixa Attack Lv.4
+Drop_DamageUp_5 - Fixa Attack Lv.5
+Drop_DamageReduction_1 - Fixa Guard Lv.1
+Drop_DamageReduction_2 - Fixa Guard Lv.2
+Drop_DamageReduction_3 - Fixa Guard Lv.3
+Drop_DamageReduction_4 - Fixa Guard Lv.4
+Drop_DamageReduction_5 - Fixa Guard Lv.5
+Drop_Critical_1 - Fixa Fatale Lv.1
+Drop_Critical_2 - Fixa Fatale Lv.2
+Drop_Critical_3 - Fixa Fatale Lv.3
+Drop_Critical_4 - Fixa Fatale Lv.4
+Drop_Critical_5 - Fixa Fatale Lv.5
+Drop_CriticalDamage_1 - Fixa Termina Lv.1
+Drop_CriticalDamage_2 - Fixa Termina Lv.2
+Drop_CriticalDamage_3 - Fixa Termina Lv.3
+Drop_CriticalDamage_4 - Fixa Termina Lv.4
+Drop_CriticalDamage_5 - Fixa Termina Lv.5
+Drop_PpActionRate_1 - Fixa Performa Lv.1
+Drop_PpActionRate_2 - Fixa Performa Lv.2
+Drop_PpActionRate_3 - Fixa Performa Lv.3
+Drop_PpActionRate_4 - Fixa Performa Lv.4
+Drop_PpActionRate_5 - Fixa Performa Lv.5
+Drop_PPRestraint_1 - Fixa Natura Lv.1
+Drop_PPRestraint_2 - Fixa Natura Lv.2
+Drop_PPRestraint_3 - Fixa Natura Lv.3
+Drop_PPRestraint_4 - Fixa Natura Lv.4
+Drop_PPRestraint_5 - Fixa Natura Lv.5
+Drop_AttackPPRestraint_1 - Fixa Enthusia Lv.1
+Drop_AttackPPRestraint_2 - Fixa Enthusia Lv.2
+Drop_AttackPPRestraint_3 - Fixa Enthusia Lv.3
+Drop_AttackPPRestraint_4 - Fixa Enthusia Lv.4
+Drop_AttackPPRestraint_5 - Fixa Enthusia Lv.5
+
+

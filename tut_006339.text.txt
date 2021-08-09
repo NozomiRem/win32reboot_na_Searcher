@@ -1,0 +1,17 @@
+tut_006339.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2128 bytes
+
+TutorialText
+Group 0
+Title - マルチウェポン
+text0001 - “マルチウェポン”は、ソードとライフルといった<br>２種類の異なる武器の性能を併せもった装備です。<br><br>ひとつの武器パレットに、<br>それぞれの武器のアクションを自由に登録できます。
+text0002 - マルチウェポンを装備した状態で、<br>該当する武器のアクションを使用すると、<br>即座にその武器に切り替えてアクションを行います。<br><br>また、“フォトンブラスト”などは、<br>表示されている武器に対応したものが発生します。
+text0003 - マルチウェポンは“アイテムラボ”で作成でき、<br>プリムソードとプリムライフルのような<br><yellow>同一シリーズの武器のみ<c>を合成することができます。
+
+Group 1
+Title - Multi-weapons
+text0001 - A Multi-weapon combines two different types of weapons, such as a Sword <br>and a Rifle.<br><br>A Multi-weapon allows you to set both types of Weapon Actions on one <br>Weapon Palette.
+text0002 - When using the target weapon action while you have a Multi-weapon equipped,<br>you will immediately switch to that weapon and perform the action.<br><br>Also, Photon Bursts will occur in accordance with the displayed weapon.
+text0003 - Multi-weapons can be obtained by synthesizing <yellow>weapons of the same series<c>,<br>such as Primm Swords or Primm Rifles, at the Item Lab.
+
+

@@ -1,0 +1,17 @@
+tut_006324.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2320 bytes
+
+TutorialText
+Group 0
+Title - PSE
+text0001 - “PSE”は、<br>“Photon Sensitive Effect（フォトン感応効果）”の略称です。<br><br>エネミーを倒したり、“トライアル”を<br>成功させたりすることで、“PSE”のレベルが上がります。
+text0002 - “PSEレベル”が上がることにより、<br>“レアエネミー”の出現率が上昇し、<br>最大レベルに達すると“PSEバースト”が発生します。<br><br>このPSEバースト中は、多数のエネミーがプレイヤーに押し寄せ、<br>最後にはボスエネミーが現れます。
+text0003 - “Ｅマーカー”のついたエネミーを倒したり、<br>“Ｔマーカー”のトライアルを成功させることで、<br>“PSEバースト”が発生しやすくなります。<br><br><yellow>※“PSEレベル”はセクションから出ると、<br>リセットされるので注意が必要です。<c>
+
+Group 1
+Title - Photon Sensitive Effect
+text0001 - PSE is short for Photon Sensitive Effect.<br><br>By defeating enemies or completing Trials, the PSE level will increase.
+text0002 - When the PSE level is raised, chance for rare enemies to appear will increase. <br>Once the PSE level is maxed out, a PSE Burst will be activated.<br><br>During a PSE Burst, hoards of enemies will target players, and a boss will <br>appear at the end.
+text0003 - PSE will trigger easier by defeating enemies with E Marker tagged on <br>or completing the T Marker trial.<br><br><yellow>Note: PSE level will reset once you leave the sector so be careful.<c>  
+
+

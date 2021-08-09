@@ -1,0 +1,23 @@
+ms0010100109.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1024 bytes
+
+Required
+Group 0
+Title - 再び指令室へ
+Summary - アークスの教導官であるブルーダーから、<br>コクーンでの指南を受けた<br><%me>は、<br>クロフォードに呼ばれ、<br>再びセントラルシティの指令室に向かう。
+
+Group 1
+Title - To the Command Room
+Summary - After receiving ARKS instructor Dozer's Cocoon coaching,<br>Crawford summons <%me> back to<br>the Command Room in Central City.
+
+
+SubObjectives
+Group 0
+text0101 - 指令室に向かう
+text0102 - クロフォードと話す
+
+Group 1
+text0101 - Head to the Command Room
+text0102 - Talk to Crawford
+
+

@@ -1,0 +1,13 @@
+qst_1120020013.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 608 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 採掘リグが破壊されました……。<br><pure_red>最後のリグ<c>は、なんとしても守りぬいてください！
+
+Group 1
+name010 - Ran
+text001 - A mining rig has been destroyed...<br>Please, do everything you can to protect the <pure_red>final rig<c>!
+
+

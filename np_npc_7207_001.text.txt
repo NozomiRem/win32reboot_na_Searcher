@@ -1,0 +1,15 @@
+np_npc_7207_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 576 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - 申し訳ありません。<br>ただいま商品の入れ替え中です。
+HELLO_ALLDAYS_002 - いらっしゃいませ。
+HELLO_BYE - またのお越しを。
+
+Group 1
+HELLO_ALLDAYS - I apologize.<br>I'm restocking right now.
+HELLO_ALLDAYS_002 - Welcome.
+HELLO_BYE - Come again anytime.
+
+

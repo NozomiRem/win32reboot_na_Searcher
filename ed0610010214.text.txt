@@ -1,0 +1,21 @@
+ed0610010214.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 912 bytes
+
+Required
+Group 0
+Title - 南エアリオで果物の調達
+Summary - 南エアリオで、<br>ギャザリングにより果物を入手する。<br><br><yellow>※対象ギャザリング素材：<br>　シャッキ・エアルナッシィ<c>
+
+Group 1
+Title - Gather Fruits at South Aelio
+Summary - Obtain Fruits by Gathering at South Aelio.<br><br><yellow>Target Gathering Materials: Crisp Aelio Pear<c>
+
+
+SubObjectives
+Group 0
+text0101 - 南エアリオで果物を入手する
+
+Group 1
+text0101 - Obtain Fruits at South Aelio
+
+

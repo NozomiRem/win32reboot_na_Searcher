@@ -1,0 +1,13 @@
+tut_006291.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 928 bytes
+
+TutorialText
+Group 0
+Title - ロビーアクション
+text0001 - “ロビーアクション”はキャラクターに<br>さまざまなアクションをさせるコマンドです。<br>チャットウィンドウやクイックメニューから実行できます。<br><br>使用できるロビーアクションは、専用のチケットアイテムで<br>追加することができます。
+
+Group 1
+Title - Emotes
+text0001 - Emotes are commands that make your character do various actions. You can<br>perform them from the Chat Window or Quick Menu. Add to your emote<br>collection by using special tickets.
+
+

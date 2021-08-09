@@ -1,0 +1,15 @@
+tut_006318.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1744 bytes
+
+TutorialText
+Group 0
+Title - スクラッチ
+text0001 - “スクラッチ”では、冒険を手助けしてくれるアイテムや、<br>魅力的なコスチュームなど、さまざまなアイテムが<br>ランダムで入手できます。<br><br>メインメニューの<yellow>“ショップ”<c>から“スクラッチを引く”で、<br>配信中のスクラッチを選ぶと、購入できます。
+text0002 - コスチュームやアクセサリー、ロビーアクションなどの景品が手に入る<br>“ACスクラッチ”“SGスクラッチ”のほか、<br>毎日１回無料で引けるスクラッチや、<br>期間限定のスクラッチなども配信されます。
+
+Group 1
+Title - Scratch Tickets
+text0001 - With Scratch Tickets, you can get items to help you on your adventures, cool<br>outfits, and various other items at random.<br><br>Go to <yellow>[Shops]<c> under [Main Menu] and select [Play Scratch Tickets] to <br>purchase one.
+text0002 - Other than AC and SG Scratch Tickets, which give you prizes such as outfits,<br>accessories, and emotes, there is also a free daily scratch ticket, that you can<br>play once, and limited time only scratch tickets.
+
+

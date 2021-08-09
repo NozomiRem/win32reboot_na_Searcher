@@ -1,0 +1,27 @@
+ss0030765751.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1120 bytes
+
+Required
+Group 0
+Title - 特殊能力の追加
+Summary - アークスのひとりアディラから、<br>アイテムラボで装備に“特殊能力”を<br>追加する方法を教わる。
+
+Group 1
+Title - Adding Augments
+Summary - ARKS defender Adilla tells how to add Augments <br>to equipment at the Item Lab.
+
+
+SubObjectives
+Group 0
+Objective311 - 武器に特殊能力を追加する
+Objective312 - ペダス・ソードを倒す
+Objective313 - ペダス・ガンを倒す
+Objective314 - ゴロロンを倒す
+
+Group 1
+Objective311 - Add an Augment to a weapon
+Objective312 - Defeat the Pettas Sword
+Objective313 - Defeat the Pettas Gun
+Objective314 - Defeat the Gororon
+
+

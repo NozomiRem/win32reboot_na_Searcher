@@ -1,0 +1,13 @@
+qst_1200020030.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 464 bytes
+
+MainText
+Group 0
+name010 - ガロア
+text010 - 敵の数が減ってきたな。<br>これなら押し切れるぞ！
+
+Group 1
+name010 - Garoa
+text010 - The enemy's thinning out.<br>Let's keep it up and finish this!
+
+

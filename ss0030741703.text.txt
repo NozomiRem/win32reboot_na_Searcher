@@ -1,0 +1,25 @@
+ss0030741703.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1008 bytes
+
+Required
+Group 0
+Title - ディグホールの採掘指南・Ⅲ
+Summary - セントラルシティの住人ディグホールから、<br>三たび鉱石について教わり、収集をする。
+
+Group 1
+Title - Excator's Mining Drill III
+Summary - Central City resident Excator shares sage wisdom on<br>minerals and how best to collect them.
+
+
+SubObjectives
+Group 0
+text0101 - 北エアリオに向かう
+text0102 - フォトンクォーツを入手する
+text0103 - トライナイトを入手する
+
+Group 1
+text0101 - Head to North Aelio
+text0102 - Obtain photon quartz
+text0103 - Obtain trinite
+
+

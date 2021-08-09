@@ -1,0 +1,13 @@
+np_npc_7661_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 384 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - まあ、ようこそ。
+HELLO_BYE - またね。
+
+Group 1
+HELLO_ALLDAYS - Hello! And welcome.
+HELLO_BYE - Be seeing you.
+
+

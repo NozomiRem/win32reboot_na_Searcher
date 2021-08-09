@@ -1,0 +1,17 @@
+qst_1200080112.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 688 bytes
+
+MainText
+Group 0
+name010 - アイナ
+name020 - マノン
+text010 - はぁ……はぁ……。<br>なんとか倒せたね。
+text020 - 呼吸を整えたら、<br>周囲を探索してみましょう。
+
+Group 1
+name010 - Aina
+name020 - Manon
+text010 - *Pant, pant*<br>We did it. We beat 'em.
+text020 - Once we catch our breath, let's take a look around the area.
+
+

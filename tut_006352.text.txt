@@ -1,0 +1,13 @@
+tut_006352.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1024 bytes
+
+TutorialText
+Group 0
+Title - 天候によるエネミー強化
+text0001 - 一部のエネミーは、天候によって強化されるものがいます。<br>天候による強化時は、エネミー名の後にアイコンが表示されます。<br><br>天候が変化した際には、<br>強化されたエネミーに注意を払う必要があります。
+
+Group 1
+Title - How Weather Affects Enemies
+text0001 - Some enemies become stronger during certain weather conditions. When this<br>happens, an icon will be displayed next to their name.<br><br>Such enemies will deal more damage, so be sure to pay attention to <br>weather changes.
+
+

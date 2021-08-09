@@ -1,0 +1,37 @@
+ss0030766401.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1856 bytes
+
+Required
+Group 0
+Title - フォースの基礎訓練
+Summary - アークスの教導官ホーニャンから、<br>フォースクラスの戦いかたを教わる。<br><br><yellow>※使用推奨クラススキル：<br>フォトンフレア<c>
+
+Group 1
+Title - Force Basic Training
+Summary - Learn Force class fighting techniques from ARKS<br>Instructor Hornian.<br><br><yellow>Recommended class skill: Photon Flare<c>
+
+
+SubObjectives
+Group 0
+Objective311 - メインクラスをフォースにする
+text0101 - メインクラスをフォースにする
+Objective321 - マグナス山に向かう
+text0102 - 南エアリオに向かう(フォース限定)
+text0103 - フォトンフレアを使用する
+Objective322 - フォトンフレアを使用する
+Objective323 - フォースでマグナス山のエネミーを倒す
+text0104 - 南エアリオでエネミーを倒す(フォース限定)
+Objective331 - ホーニャンに報告する
+
+Group 1
+Objective311 - Make Force your Main Class
+text0101 - Make Force your Main Class
+Objective321 - Head to Mt Magnus
+text0102 - Head to South Aelio (Force only)
+text0103 - Use Photon Flare
+Objective322 - Use Photon Flare
+Objective323 - Defeat the Mt Magnus enemies as Force
+text0104 - Defeat the South Aelio enemies (Force only)
+Objective331 - Report in to Hornian
+
+

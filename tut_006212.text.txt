@@ -1,0 +1,13 @@
+tut_006212.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 768 bytes
+
+TutorialText
+Group 0
+Title - フォトングライド
+text0001 - グライド：<br>　二段ジャンプ中に<%Jump><br>　または空中で<%Jump>長押し<br>グライド解除：<br>　グライド中に<%Jump><br>
+
+Group 1
+Title - Photon Glide
+text0001 - Glide: <br>Press <%Jump> while double jumping, or press and hold <%Jump> while in the air.<br>Cancel Glide: <br>Press <%Jump> while gliding.
+
+

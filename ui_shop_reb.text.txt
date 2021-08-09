@@ -1,0 +1,287 @@
+ui_shop_reb.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 21552 bytes
+
+Exchange_RecycleShop
+Group 0
+Window_Titletelop_Exchange_General - アイテム交換ショップ
+Window_TwolineGuide_Exchange_General - <c f0df60>ショップを選んでください。<c>
+Window_Titletelop_Exchange - アイテム交換
+Window_TwolineGuide_Exchange - <c f0df60>特定のアイテムを、リストから別のアイテムと交換します。<c>
+Window_Controlguide - <%Decide>：決定　<%Cancel>：キャンセル　<%ChangeCtrlWindowForward>：操作ウィンドウ切り替え
+Window_Exchange_Itemselection - 交換アイテム選択
+Window_Material_Itemselection - 素材アイテム選択
+Window_Target_Itemselection - 対象アイテム選択
+Window_Target_Itemlist - 対象アイテムリスト
+Window_ExchangeCandidate_Itemlist - 交換候補アイテムリスト
+Label_Item_Name - アイテム名
+Label_Required_Number - 必要数
+Label_Possession_Number - 所持数
+Label_Exchange_Number - 交換数
+Window_Special_Ability_Transfer - 特殊能力引継ぎ
+Content_Special_Ability_Transfer - 特殊能力引継ぎの内容
+Content_Iteminfo_Capacity - 交換後の$(0)の容量
+Button_Exchange - 交換する
+Button_Item_Search - 対象アイテムをマイショップで検索する
+Window_Want_Item - 欲しいアイテム
+Window_Item_Exchange - アイテム交換
+Mes_Item_Unequipped - 以下のアイテムが<yellow>装備中<c>です。<br>装備状態を解除しますが、よろしいですか？
+Mes_Item_Unlock - 以下のアイテムが<yellow>ロック中<c>です。<br>ロックを解除しますが、よろしいですか？
+Mes_Item_Unequipped_Unlock - 以下のアイテムが<yellow>装備中・ロック中<c>です。<br>各状態を解除しますが、よろしいですか？
+Label_Unequipped - 装備中
+Label_Unlock - ロック中
+Label_NoItem - 対象のアイテムがありません
+Mes_Exchange_Start - $(0)×$(1)と<br>以下のアイテムを交換します。<br>よろしいですか？
+Mes_Exchange_Completed - アイテムを交換しました
+Window_Get_Method - アイテム入手方法
+Label_Recommended_TaskList - 推奨タスク一覧
+Label_Myshop_History - マイショップ購入履歴
+Button_Myshop_Search - マイショップで検索する
+Label_Strengthening_Value - 強化値
+Label_Quantity - 数量
+Label_Price - 価格
+Window_Titletelop_Recycle - アイテムリサイクル
+Window_TwolineGuide_Recycle - 特定の所持品を渡すと、商品を入手できます。要求数より多く渡すと、複数個入手できる商品もあります。
+Label_Acquisition_Quantity - 入手数量
+Mes_Shop_Access_NG - クエスト攻略中は使用できません
+Special conditions_1 - 強化値が$(0)以上
+Special conditions_2 - 属性が$(0)
+Special conditions_3 - いずれかの属性
+Special conditions_4 - レアリティが$(0)以上
+Special conditions_5 - 解放している潜在能力が$(0)
+Special conditions_6 - 潜在能力レベルが$(0)
+Special conditions_7 - 付与している特殊能力が$(0)
+Special conditions_8 - 特殊能力の数が$(0)
+Special conditions_9 - 武器のカテゴリーが$(0)
+Special conditions_10 - アイテムの種類が$(0)
+Special conditions_11 - $(0)が装備可能
+Special conditions_12 - $(0)かつ$(1)
+Special conditions_13 - $(0)な$(1)
+Special conditions_14 - アイテム
+Exchange rate_itemname_1 - $(0) ($(1)個)
+Exchange rate_itemname_2 - $(0) ×$(1)
+Caution_Failure - 交換に失敗しました。
+Caution_MaximumNumber - 交換可能な個数上限を超えています。
+EnhancementValue - 強化値＋１以上
+No_EnhancementValue - 強化なし
+Button_Item_Search_Myshop_NG - マイショップに出品対象外のアイテムです。
+Recyclebadge_ac - 対象のACスクラッチアイテム
+Recyclebadge_sg - 対象のSGスクラッチアイテム
+
+Group 1
+Window_Titletelop_Exchange_General - Item Exchange Shop
+Window_TwolineGuide_Exchange_General - Select a shop.
+Window_Titletelop_Exchange - Item Exchange
+Window_TwolineGuide_Exchange - <c f0df60>Trade certain items for other items from a list.<c>
+Window_Controlguide - <%Decide>: Confirm <%Cancel>: Cancel <%ChangeCtrlWindowForward>: Change Active Window
+Window_Exchange_Itemselection - Exchange Item Selection
+Window_Material_Itemselection - Material Item Selection
+Window_Target_Itemselection - Target Item Selection
+Window_Target_Itemlist - Target Item List
+Window_ExchangeCandidate_Itemlist - Exchange Item List
+Label_Item_Name - Item Name
+Label_Required_Number - Needed
+Label_Possession_Number - You have:
+Label_Exchange_Number - No. to Use
+Window_Special_Ability_Transfer - Augment Transfer
+Content_Special_Ability_Transfer - Augments to be transferred
+Content_Iteminfo_Capacity - $(0) Capacity After Exchange
+Button_Exchange - Exchange
+Button_Item_Search - Search Personal Shop
+Window_Want_Item - Wanted Items
+Window_Item_Exchange - Item Exchange
+Mes_Item_Unequipped - The following items are <yellow>equipped<c>.<br>Unequip and proceed?
+Mes_Item_Unlock - The following items are <yellow>locked<c>.<br>Unlock and proceed?
+Mes_Item_Unequipped_Unlock - The following items are <yellow>equipped or locked<c>.<br>Unequip/unlock them and proceed?
+Label_Unequipped - Equipped
+Label_Unlock - Locked
+Label_NoItem - No applicable items.
+Mes_Exchange_Start - Exchange the following items for $(0)x$(1). Proceed?
+Mes_Exchange_Completed - Items exchanged
+Window_Get_Method - Obtaining Items
+Label_Recommended_TaskList - Recommended Task List
+Label_Myshop_History - Personal Shop Purchase History
+Button_Myshop_Search - Search Personal Shop
+Label_Strengthening_Value - Enhancement Level
+Label_Quantity - Number
+Label_Price - Price
+Window_Titletelop_Recycle - Item Recycle
+Window_TwolineGuide_Recycle - Hand over certain belongings to receive products. You can receive bigger yields for some products by handing over more than the amount required.
+Label_Acquisition_Quantity - Have
+Mes_Shop_Access_NG - Cannot be used while on a quest
+Special conditions_1 - Enhancement Level $(0) or Higher
+Special conditions_2 - Element is $(0)
+Special conditions_3 - Any Element
+Special conditions_4 - Rarity $(0) or Higher
+Special conditions_5 - Unlocked Potential is $(0)
+Special conditions_6 - Potential Level is $(0)
+Special conditions_7 - Affixed Augment is $(0)
+Special conditions_8 - Number of Augments is $(0)
+Special conditions_9 - Weapon Category is $(0)
+Special conditions_10 - Item Type is $(0)
+Special conditions_11 - $(0) is Equippable
+Special conditions_12 - $(0) and $(1)
+Special conditions_13 - $(0)$(1)
+Special conditions_14 - Items
+Exchange rate_itemname_1 - $(0)($(1))
+Exchange rate_itemname_2 - $(0)x$(1)
+Caution_Failure - Exchange failed.
+Caution_MaximumNumber - Maximum exchangeable amount exceeded.
+EnhancementValue - Enhancement Level +1 or Higher
+No_EnhancementValue - Not Enhanced
+Button_Item_Search_Myshop_NG - This item cannot be sold in your Personal Shop.
+Recyclebadge_ac - Target AC Scratch Item
+Recyclebadge_sg - Target SG Scratch Item
+
+
+PaidShop
+Group 0
+PaidShop_Top_Title - AC・SGショップ
+PaidShop_Top_Help - AC、SGで便利なアイテムやファッションアイテムを購入できます。
+PaidShop_Top_MenuTitle - ショップメニュー
+PaidShop_Top_MenuItem01 - ACショップ<pict 4space><pict Arcscash>
+PaidShop_Top_MenuItem02 - SGショップ<pict 4space><pict StarGem>
+PaidShop_Top_MenuItem03 - ACをチャージする
+PaidShop_Top_MenuItem04 - SGを購入する<pict 4space><pict Arcscash>
+PaidShop_Top_MenuItem05 - 購入履歴
+PaidShop_Top_MenuItem06 - SG内訳確認
+PaidShop_Top_CashTitle - 所持金
+PaidShop_Top_CashItem01 - 所持AC
+PaidShop_Top_CashItem02 - 所持SG
+PaidShop_Top_BannerTitle - お知らせ
+PaidShop_Top_BannerWebOperation - <%NextTabDetails>で詳細な情報をWEBページで確認できます。
+PaidShop_Top_OperationHelp - 決定：<%Decide>　　戻る：<%Cancel>　お知らせ切替：<%TabForward><pict 4space><%TabBack>　　WEBページを開く：<%NextTabDetails>
+PaidShop_LimitedItemTitle01 - 商品情報
+PaidShop_LimitedItemTitle02 - <c 76d1ff>期間限定アイテム<c>
+PaidShop_LimitedItemTitle03 - <c 76d1ff>個数限定アイテム<c>
+LimitedItemText1 - $(0)個まで購入可能 
+LimitedItemText2 - あと$(0)個
+LimitedTime - $(0) まで
+PacIteminfo_Title - パックアイテム情報
+PacIteminfo_Bonus - おまけ ※購入後、ビジフォンに配布されます。
+PacIteminfo_Possession - 所持数（$(0)）
+LimitedResetShop_Limited1 - <yellow>(更新まであと$(0)日)<c>
+LimitedResetShop_Limited2 - <yellow>(更新まであと$(0)時間)<c>
+
+Group 1
+PaidShop_Top_Title - AC/SG Shop 
+PaidShop_Top_Help - Purchase cosmetic items and useful things with AC and SG.
+PaidShop_Top_MenuTitle - Shop Menu
+PaidShop_Top_MenuItem01 - AC Shop <pict Arcscash>
+PaidShop_Top_MenuItem02 - SG Shop <pict StarGem>
+PaidShop_Top_MenuItem03 - Charge AC
+PaidShop_Top_MenuItem04 - Purchase SG <pict Arcscash>
+PaidShop_Top_MenuItem05 - Purchase History
+PaidShop_Top_MenuItem06 - View SG Details
+PaidShop_Top_CashTitle - Current Cash
+PaidShop_Top_CashItem01 - Current AC
+PaidShop_Top_CashItem02 - Current SG
+PaidShop_Top_BannerTitle - Notifications
+PaidShop_Top_BannerWebOperation - <%NextTabDetails> to view details via web page.
+PaidShop_Top_OperationHelp - Confirm:<%Decide> Back:<%Cancel>  Switch to Notifications:<%TabForward><pict 4space><%TabBack> Open Web Page:<%NextTabDetails>:
+PaidShop_LimitedItemTitle01 - Premium Item Info
+PaidShop_LimitedItemTitle02 - <c 76d1ff>Limited-Time Items<c>
+PaidShop_LimitedItemTitle03 - <c 76d1ff>Limited Edition Items<c>
+LimitedItemText1 - Limit $(0) 
+LimitedItemText2 - $(0) Remaining
+LimitedTime - Until $(0)
+PacIteminfo_Title - Pack Item Info
+PacIteminfo_Bonus - Free (Sent to Visiphone after purchase)
+PacIteminfo_Possession - You have ($(0))
+LimitedResetShop_Limited1 - <yellow>($(0) day(s) remaining until reset)<c>
+LimitedResetShop_Limited2 - <yellow>($(0) hour(s) remaining until reset)<c>
+
+
+ShopMain
+Group 0
+ItemShop_Title - アイテムショップ
+ItemShop_Help - 武器、防具、消費アイテムの購入、サインの回数回復ができます。
+ItemPac_buy - <pict wh_item_icon> アイテムパック に買う
+WarehouseAll_buy - <pict wh_all_icon> すべての倉庫 に買う
+WarehousePost_buy - <pict wh_post_icon> 一時倉庫 に買う
+WarehouseSystemPost_buy - <pict wh_management> 運営倉庫 に買う
+WarehouseDefault_buy - <pict wh_icon> 基本倉庫 に買う
+WarehouseCharacter_buy - <pict wh_chara_icon> キャラ倉庫 に買う
+WarehousePremiere_buy - <pict wh_premium_icon> プレミアム倉庫 に買う
+OneTimePassward_buy - <pict wh_otp_icon> OTP倉庫 に買う
+WarehouseEs_buy - <pict wh_es_icon> PSO2es倉庫 に買う
+WarehouseDish_buy - <pict wh_dish_icon> 素材倉庫 に買う
+WarehouseAddition01_buy - <pict wh_extend1_icon> 拡張倉庫１ に買う
+WarehouseAddition02_buy - <pict wh_extend2_icon> 拡張倉庫２ に買う
+WarehouseAddition03_buy - <pict wh_extend3_icon> 拡張倉庫３ に買う
+WarehouseAddition04_buy - <pict wh_extend4_icon> 拡張倉庫４ に買う
+WarehouseAddition05_buy - <pict wh_extend5_icon> 拡張倉庫５ に買う
+WarehouseAddition06_buy - <pict wh_extend6_icon> 拡張倉庫６ に買う
+WarehouseDrop_buy - <pict wh_quest_icon> ドロップ倉庫 に買う
+WarehousePool_buy - <pict wh_pool_icon> クエスト倉庫 に買う
+ItemPac_sell - <pict wh_item_icon> アイテムパック から売る
+WarehouseAll_sell - <pict wh_all_icon> すべての倉庫 から売る
+WarehousePost_sell - <pict wh_post_icon> 一時倉庫 から売る
+WarehouseSystemPost_sell - <pict wh_management> 運営倉庫 から売る
+WarehouseDefault_sell - <pict wh_icon> 基本倉庫 から売る
+WarehouseCharacter_sell - <pict wh_chara_icon> キャラ倉庫 から売る
+WarehousePremiere_sell - <pict wh_premium_icon> プレミアム倉庫 から売る
+OneTimePassward_sell - <pict wh_otp_icon> OTP倉庫 から売る
+WarehouseEs_sell - <pict wh_es_icon> PSO2es倉庫 から売る
+WarehouseDish_sell - <pict wh_dish_icon> 素材倉庫 から売る
+WarehouseAddition01_sell - <pict wh_extend1_icon> 拡張倉庫１ から売る
+WarehouseAddition02_sell - <pict wh_extend2_icon> 拡張倉庫２ から売る
+WarehouseAddition03_sell - <pict wh_extend3_icon> 拡張倉庫３ から売る
+WarehouseAddition04_sell - <pict wh_extend4_icon> 拡張倉庫４ から売る
+WarehouseAddition05_sell - <pict wh_extend5_icon> 拡張倉庫５ から売る
+WarehouseAddition06_sell - <pict wh_extend6_icon> 拡張倉庫６ から売る
+WarehouseDrop_sell - <pict wh_quest_icon> ドロップ倉庫 から売る
+WarehousePool_sell - <pict wh_pool_icon> クエスト倉庫 から売る
+Bay - 購入
+Sell - 売却
+BayBuck - 買い戻す
+Buck - 戻る
+Decision - 決定
+Recommended - オススメ
+
+Group 1
+ItemShop_Title - Item Shop
+ItemShop_Help - Purchase Weapons, Armor, and Consumables, and restore Signe uses.
+ItemPac_buy - <pict wh_item_icon> Buy and Store in Inventory
+WarehouseAll_buy - <pict wh_all_icon> Buy and Place in Storage
+WarehousePost_buy - <pict wh_post_icon> Buy and Place in Temporary Storage
+WarehouseSystemPost_buy - <pict wh_management> Buy and Place in OP Team Storage
+WarehouseDefault_buy - <pict wh_icon> Buy and Place in Default Storage
+WarehouseCharacter_buy - <pict wh_chara_icon> Buy and Place in Character Storage
+WarehousePremiere_buy - <pict wh_premium_icon> Buy and Place in Premium Storage
+OneTimePassward_buy - <pict wh_otp_icon> Buy and Place in OTP Storage
+WarehouseEs_buy - <pict wh_es_icon> Buy and Place in PSO2es Storage
+WarehouseDish_buy - <pict wh_dish_icon> Buy and Place in Material Storage
+WarehouseAddition01_buy - <pict wh_extend1_icon> Buy and Place in Extended Storage 1
+WarehouseAddition02_buy - <pict wh_extend2_icon> Buy and Place in Extended Storage 2
+WarehouseAddition03_buy - <pict wh_extend3_icon> Buy and Place in Extended Storage 3
+WarehouseAddition04_buy - <pict wh_extend4_icon> Buy and Place in Extended Storage 4
+WarehouseAddition05_buy - <pict wh_extend5_icon> Buy and Place in Extended Storage 5
+WarehouseAddition06_buy - <pict wh_extend5_icon> Buy and Place in Extended Storage 6
+WarehouseDrop_buy - <pict wh_quest_icon> Buy and Place in Drop Storage
+WarehousePool_buy - <pict wh_pool_icon> Buy and Place in Quest Storage
+ItemPac_sell - Sell from Inventory
+WarehouseAll_sell - <pict wh_all_icon> Sell from Storage
+WarehousePost_sell - <pict wh_post_icon> Sell from Temporary Storage
+WarehouseSystemPost_sell - <pict wh_management> Sell from OP Team Storage
+WarehouseDefault_sell - <pict wh_icon> Sell from Default Storage
+WarehouseCharacter_sell - <pict wh_chara_icon> Sell from Character Storage
+WarehousePremiere_sell - <pict wh_premium_icon> Sell from Premium Storage
+OneTimePassward_sell - <pict wh_otp_icon> Sell from OTP Storage
+WarehouseEs_sell - <pict wh_es_icon> Sell from PSO2es Storage
+WarehouseDish_sell - <pict wh_dish_icon> Sell from Material Storage
+WarehouseAddition01_sell - <pict wh_extend1_icon> Sell from Extended Storage 1
+WarehouseAddition02_sell - <pict wh_extend2_icon> Sell from Extended Storage 2
+WarehouseAddition03_sell - <pict wh_extend3_icon> Sell from Extended Storage 3
+WarehouseAddition04_sell - <pict wh_extend4_icon> Sell from Extended Storage 4
+WarehouseAddition05_sell - <pict wh_extend5_icon> Sell from Extended Storage 5
+WarehouseAddition06_sell - <pict wh_extend6_icon> Sell from Extended Storage 6
+WarehouseDrop_sell - <pict wh_quest_icon> Sell from Drop Storage
+WarehousePool_sell - <pict wh_pool_icon> Sell from Quest Storage
+Bay - Buy
+Sell - Sell
+BayBuck - Buy Back
+Buck - Back
+Decision - Confirm
+Recommended - Recommended
+
+

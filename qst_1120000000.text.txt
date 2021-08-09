@@ -1,0 +1,15 @@
+qst_1120000000.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 944 bytes
+
+MainText
+Group 0
+name010 - ラン
+text010 - 大規模作戦が発令されました。<br>あなたにも、本作戦への参加をお願いできればと思います。
+text020 - 準備が整い次第、目標地点に向かってください。<br>作戦区域は、ワールドマップから確認できます。
+
+Group 1
+name010 - Ran
+text010 - We've launched a large-scale operation. I hope you'll be able to<br>assist with it as well.
+text020 - Please head for the objective point as soon as you're ready.<br>You can confirm the operation area from the World Map.
+
+

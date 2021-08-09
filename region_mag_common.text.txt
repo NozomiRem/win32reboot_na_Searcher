@@ -1,0 +1,33 @@
+region_mag_common.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1328 bytes
+
+common
+Group 0
+BuffToast_Prefix - の“Ｒマグブースト[全体]”により
+BuffToast_Suffix - が付与されました。
+RegionMag:AttackBuff - 与ダメージ増加
+RegionMag:QuestDropRareUp - レアドロップ倍率増加
+RegionMag:ExpUp - 獲得経験値増加
+BuffToast - $(1)の“Ｒマグブースト[全体]”により$(0)が付与されました。
+
+Group 1
+BuffToast_Prefix - 's R Mag Boost [All].
+BuffToast_Suffix -  by 
+RegionMag:AttackBuff - Damage Dealt increased
+RegionMag:QuestDropRareUp - Rare Drop Rate increased
+RegionMag:ExpUp - EXP Earned increased
+BuffToast - $(0) by $(1)'s R Mag Boost [All].
+
+
+name
+Group 0
+MagName_1 - 常勝のリージョンマグ
+MagName_2 - 練達のリージョンマグ
+MagName_3 - 千金のリージョンマグ
+
+Group 1
+MagName_1 - Invincible Region Mag
+MagName_2 - Expert Region Mag
+MagName_3 - Priceless Region Mag
+
+

@@ -1,0 +1,15 @@
+tut_006338.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1088 bytes
+
+TutorialText
+Group 0
+Title - エンハンスドエネミー
+text0001 - エネミーの中には、<br>“エンハンサー”という自身を強化する部位を持った個体がいます。<br><br>このタイプのエネミーの本体には、攻撃がほとんど効きません。
+text0002 - エンハンサーを破壊することでエネミーが弱体化し、<br>本体への攻撃が有効になります。
+
+Group 1
+Title - Enhanced Enemies
+text0001 - Some enemies are equipped with components called Enhancers.<br><br>Attacks will be largely ineffective against this type of enemy.
+text0002 - Destroying the Enhancers will weaken the enemy, making attacks against it<br>more effective.
+
+

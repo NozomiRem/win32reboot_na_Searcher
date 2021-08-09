@@ -1,0 +1,13 @@
+msq_011121.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 480 bytes
+
+msq_011121
+Group 0
+msq_011121_0010 - まだドールズが残ってるよ？<br>倒しておかないと！
+name010 - アイナ
+
+Group 1
+msq_011121_0010 - There are DOLLS units still standing?<br>We need to take them down!
+name010 - Aina
+
+

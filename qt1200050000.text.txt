@@ -1,0 +1,23 @@
+qt1200050000.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 544 bytes
+
+Required
+Group 0
+Title - マグナス山のドールズ
+Summary - マグナス山のドールズ
+
+Group 1
+Title - Mt. Magnus DOLLS
+Summary - Mt. Magnus DOLLS
+
+
+SubObjectives
+Group 0
+Objective311 - ナグルスを倒す
+Objective321 - ナグルスを倒す
+
+Group 1
+Objective311 - Defeat the Nogleth
+Objective321 - Defeat the Nogleth
+
+

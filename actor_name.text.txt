@@ -1,0 +1,524 @@
+actor_name.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 39968 bytes
+
+Enemy
+Group 0
+r01_gd_flo_wi - フワン
+r01_gd_pyc_ba - ティノス
+r01_gd_sol_sw - ペダス・ソード
+r01_gd_sol_swld - ペダクス・ソード
+r01_gd_sol_ri - ペダス・ガン
+r01_gd_sol_rild - ペダクス・ガン
+r01_gd_sol_ax - ペダス・アックス
+r01_gd_sol_axld - ペダクス・アックス
+r01_gd_sol_lu - ペダス・ランチャー
+r01_gd_sol_luld - ペダクス・ランチャー
+r01_gd_gor_ba - ゴロロン
+r01_gd_gor_bald - ゴロロクス
+r01_gd_for_ba - ドッツ
+r01_gd_box_ba - ナグルス
+r01_gd_phe_ba - オルク
+r01_gd_ktn_ba - ブジン
+r01_gd_mag_ba - ヴァラス
+r01_gd_dra_ba - ネクス・エアリオ
+r01_gd_dra_rai - ネクス・ヴェラ
+r01_gd_gia_sw - ダイダル・ソード
+r01_gd_gia_ax - ダイダル・アックス
+r01_gd_sol_rai - ペダス・ヴェラ
+r01_gd_god_1 - ？？？？？
+r01_nat_monki_ba - ウーダン・ロア
+r01_nat_month_ba - ザウーダン・ロア
+r01_nat_wol_sm - ガルフ・ロア
+r01_nat_wol_bi - フォンガルフ・ロア
+r01_nat_bir_ba - アギニス・ロア
+r01_nat_armma_ba - ガラガロンゴ
+r01_nat_bea_ba - クラッグベア
+r01_nat_fan_m - アードバンサー
+r01_nat_fan_f - アードバンシー
+r01_nat_fan_thum - サンダバンサー
+r01_nat_fan_thuf - サンダバンシー
+r01_unk_rap_ba - ラッピー
+r01_alt_hrp_ba - エヴィルアンジェ
+r01_alt_lzd_fl - リザド・フレイ
+r01_alt_lzd_sn - リザド・アイス
+r01_alt_lzd_th - リザド・サンダ
+r01_alt_der_ba - ヘルーク
+r01_alt_hog_ba - バインホッグ
+r01_alt_cli_ba - チアキュリオ
+r01_alt_wlf_ba - ワウロン
+r01_alt_flg_ba - ビグフロッガ
+r01_alt_tis_ba - エルディサイズ
+r01_ani_rbt_w - サニィ
+r01_ani_rbt_b - ムーニィ
+r01_ani_sli_a - オタリカ
+r01_ani_ush_a - モォベル
+r01_ani_ush_b - タウベル
+r01_ani_boa_a - ノッシ
+r01_ani_kit_a - フォクス
+r01_ani_moo_a - ディアン
+r01_ani_bir_s - -
+r01_ani_brs_a - パット
+r01_ani_bir_b - バーディ
+r01_ani_bir_yz - フランゴ
+r01_non_dro_a - ドローム
+r01_unk_rap_9av - セレモ・ラッピー
+r01_gd_sol_swbo - ボムス・ソード
+r01_gd_sol_swbold - ボムクス・ソード
+r01_gd_sol_ribo - ボムス・ガン
+r01_gd_sol_ribold - ボムクス・ガン
+r01_gd_ins_ba - デストラグラス
+r01_unk_rap_mo - ツキミ・ラッピー
+
+Group 1
+r01_gd_flo_wi - Fuwan
+r01_gd_pyc_ba - Tinos
+r01_gd_sol_sw - Pettas Sword
+r01_gd_sol_swld - Pettax Sword
+r01_gd_sol_ri - Pettas Gun
+r01_gd_sol_rild - Pettax Gun
+r01_gd_sol_ax - Pettas Axe
+r01_gd_sol_axld - Pettax Axe
+r01_gd_sol_lu - Pettas Launcher
+r01_gd_sol_luld - Pettax Launcher
+r01_gd_gor_ba - Gororon
+r01_gd_gor_bald - Gororox
+r01_gd_for_ba - Dotts
+r01_gd_box_ba - Nogleth
+r01_gd_phe_ba - Oruq
+r01_gd_ktn_ba - Bujin
+r01_gd_mag_ba - Varas
+r01_gd_dra_ba - Nex Aelio
+r01_gd_dra_rai - Nex Vera
+r01_gd_gia_sw - Daityl Sword
+r01_gd_gia_ax - Daityl Axe
+r01_gd_sol_rai - Pettas Vera
+r01_gd_god_1 - ???
+r01_nat_monki_ba - Udan Lore
+r01_nat_month_ba - Za'udan Lore
+r01_nat_wol_sm - Grulf Lore
+r01_nat_wol_bi - Phongrulf Lore
+r01_nat_bir_ba - Agnis Lore
+r01_nat_armma_ba - Gara Garongo
+r01_nat_bea_ba - Crag Bear
+r01_nat_fan_m - Ard Banser
+r01_nat_fan_f - Ard Banshee
+r01_nat_fan_thum - Thunder Banser
+r01_nat_fan_thuf - Thunder Banshee
+r01_unk_rap_ba - Rappy
+r01_alt_hrp_ba - Evil Angelo
+r01_alt_lzd_fl - Lizard Fray
+r01_alt_lzd_sn - Lizard Ice
+r01_alt_lzd_th - Lizard Thunder
+r01_alt_der_ba - Heruc
+r01_alt_hog_ba - Banehog
+r01_alt_cli_ba - Chiacurio
+r01_alt_wlf_ba - Waulon
+r01_alt_flg_ba - Bigg Frogga
+r01_alt_tis_ba - Eldi Scythe
+r01_ani_rbt_w - Sunny
+r01_ani_rbt_b - Moony
+r01_ani_sli_a - Otarica
+r01_ani_ush_a - Moo Bell
+r01_ani_ush_b - Tau Bell
+r01_ani_boa_a - Noxxi
+r01_ani_kit_a - Voks
+r01_ani_moo_a - Dian
+r01_ani_brs_a - Patt
+r01_ani_bir_b - Birdoth
+r01_ani_bir_yz - Frango
+r01_non_dro_a - Drome
+r01_unk_rap_9av - Ceremo Rappy
+r01_gd_sol_swbo - Boms Sword
+r01_gd_sol_swbold - Bomks Sword
+r01_gd_sol_ribo - Boms Gun
+r01_gd_sol_ribold - Bomks Gun
+r01_gd_ins_ba - Destragras
+r01_unk_rap_mo - Moongaze Rappy
+
+
+EnemyTitle
+Group 0
+EnemyTitleRareEnemyGti - 金色の
+EnemyTitleRareEnemySti - 白銀の
+EnemyTitleStrongEnemy - 絶望の
+EnemyTitleRegionBossEnemy - 老練の
+
+Group 1
+EnemyTitleRareEnemyGti - Golden
+EnemyTitleRareEnemySti - Silver
+EnemyTitleStrongEnemy - Malevolent
+EnemyTitleRegionBossEnemy - Veteran
+
+
+EnemySpecies
+Group 0
+All - いずれかのエネミー
+Generic - エネミー
+God - ドールズ
+Alter - アルターズ
+Another - 超時空
+Animal - テイムズ
+Natural - フォーマーズ
+Independent - 所属なし
+
+Group 1
+All - Unspecified Enemy
+Generic - Enemy
+God - DOLLS
+Alter - ALTERS
+Another - Super-Dimensional
+Animal - TAMES
+Natural - FORMERS
+Independent - Unaffiliated
+
+
+PA
+Group 0
+SwordPA01 - スパイラルエッジ
+SwordPA02 - ツイストザッパー
+SwordPA03 - ストリークキャリバー
+WlancePA01 - カッティングレイヤー
+WlancePA02 - ヴェインミクスチャー
+WlancePA03 - タービュランストレイン
+PartisanPA01 - サイズリッパー
+PartisanPA02 - スタッブジャベリン
+PartisanPA03 - フェイタルトルネード
+TdaggerPA01 - ヴァルチャーモーメント
+TdaggerPA02 - ヘルズエスコート
+TdaggerPA03 - ピルエットリッパー
+DsaberPA01 - ジュリーエンダンス
+DsaberPA02 - アンチェインサークル
+DsaberPA03 - クイックガッシュ
+KnucklePA01 - スウィフトラッシュ
+KnucklePA02 - サウザンドブロウ
+KnucklePA03 - トライドライブ
+RiflePA01 - レイジングショット
+RiflePA02 - ホーミングダート
+RiflePA03 - ブレイズショット
+LauncherPA01 - フォールンインパクト
+LauncherPA02 - フィアーイレイザー
+LauncherPA03 - マルチプルローンチ
+MachinegunPA01 - バレットレイヴ
+MachinegunPA02 - エイムレスレイン
+MachinegunPA03 - クロースバレット
+Fire01 - フォイエ
+Fire02 - ギ・フォイエ
+Ice01 - バータ
+Ice02 - ギ・バータ
+Thunder01 - ゾンデ
+Thunder02 - ギ・ゾンデ
+WandPA01 - ラピッドスマッシュ
+WandPA02 - ウェーブヒット
+TalisPA01 - パーフォレイトシュート
+TalisPA02 - スプレッドフェザー
+KatanaPA01 - ハヤテツワブキ
+KatanaPA02 - アヤメレップウ
+KatanaPA03 - フヨウテンライ
+CompoundBowPA01 - フレックスアロウ
+CompoundBowPA02 - フレンジースクイブ
+CompoundBowPA03 - ディメンショナルレイ
+
+Group 1
+SwordPA01 - Spiral Edge
+SwordPA02 - Twisting Zapper
+SwordPA03 - Calibur Streak
+WlancePA01 - Cutting Layer
+WlancePA02 - Vane Mixture
+WlancePA03 - Turbulent Train
+PartisanPA01 - Cleaving Scythe
+PartisanPA02 - Thrusting Javelin
+PartisanPA03 - Fatal Tornado
+TdaggerPA01 - Circling Buzzard
+TdaggerPA02 - Helzeus Coat
+TdaggerPA03 - Pirouette Ripper
+DsaberPA01 - Julien Dance
+DsaberPA02 - Unchained Circle
+DsaberPA03 - Quick Gash
+KnucklePA01 - Swift Rush
+KnucklePA02 - Thousand Blows
+KnucklePA03 - Double Drive
+RiflePA01 - Razing Shot
+RiflePA02 - Homing Darts
+RiflePA03 - Blaze Shot
+LauncherPA01 - Fallen Impact
+LauncherPA02 - Fear Eraser
+LauncherPA03 - Multi-launch
+MachinegunPA01 - Bullet Rave
+MachinegunPA02 - Aimless Rain
+MachinegunPA03 - Point Blank
+Fire01 - Foie
+Fire02 - Gifoie
+Ice01 - Barta
+Ice02 - Gibarta
+Thunder01 - Zonde
+Thunder02 - Gizonde
+WandPA01 - Swift Smash
+WandPA02 - Wave Crash
+TalisPA01 - Convergence Shot
+TalisPA02 - Spread Shot
+KatanaPA01 - Silverleaf Storm
+KatanaPA02 - Iris Gale
+KatanaPA03 - Lotus Lightning
+CompoundBowPA01 - Flex Arrow
+CompoundBowPA02 - Frenzied Firework
+CompoundBowPA03 - Dimensional Ray
+
+
+PAExplanation
+Group 0
+SwordPA01 - “大剣（ソード）”用のフォトンアーツ。<br>回転しながら上昇し、縦方向に斬撃を放つ。<br>チャージすることで、威力が上昇する。
+SwordPA02 - “大剣（ソード）”用のフォトンアーツ。<br>回転しながら、横方向に斬撃を放つ。<br>チャージすることで、スピン回数が増加する。
+SwordPA03 - “大剣（ソード）”用のフォトンアーツ。<br>強力な一閃をくりだす。<br>発動後、さらにPAボタンを押すことで、<br>最大３回攻撃が発生する。<br>また、チャージすることで、<br>それぞれのヒット回数が増加する。
+WlancePA01 - “自在槍（ワイヤードランス）”用のフォトンアーツ。<br>前方に、広範囲の連続攻撃をくりだす。
+WlancePA02 - “自在槍（ワイヤードランス）”用のフォトンアーツ。<br>激しく回転しながら、周囲のエネミーを切り刻んだ後、<br>強力な一撃を放つ。<br>移動しながら攻撃することもできる。
+WlancePA03 - “自在槍（ワイヤードランス）”用のフォトンアーツ。<br>激しく回転しながら、縦方向の斬撃を放つ。
+PartisanPA01 - “長槍（パルチザン）”用のフォトンアーツ。<br>前方を、素早く薙ぎ払う。<br>チャージすることで、攻撃の挙動が変化する。
+PartisanPA02 - “長槍（パルチザン）”用のフォトンアーツ。<br>突き攻撃の後、エネミーに武器を投擲する。<br>PAボタンを長押しすることで、<br>PPが切れるまで突き攻撃をした後、投擲を行う。
+PartisanPA03 - “長槍（パルチザン）”用のフォトンアーツ。<br>武器を回転させて、周囲のエネミーを攻撃する。<br>チャージすることで、攻撃の挙動が変化する。
+TdaggerPA01 - “双小剣（ツインダガー）”用のフォトンアーツ。<br>回転しながらエネミーに接近し、素早い連撃を放つ。
+TdaggerPA02 - “双小剣（ツインダガー）”用のフォトンアーツ。<br>前方に突進した後、衝撃波を放つ。
+TdaggerPA03 - “双小剣（ツインダガー）”用のフォトンアーツ。<br>素早い刺突の後、無数の刃でエネミーを切り刻む。
+DsaberPA01 - “両剣（ダブルセイバー）”用のフォトンアーツ。<br>素早くエネミーに接近し、連撃を放つ。<br>発動時に、カマイタチが発生する。
+DsaberPA02 - “両剣（ダブルセイバー）”用のフォトンアーツ。<br>武器を投げて、周囲のエネミーを攻撃した後、<br>戻ってきた武器で、さらに薙ぎ払いを行う。<br>発動時に、カマイタチが発生する。
+DsaberPA03 - “両剣（ダブルセイバー）”用のフォトンアーツ。<br>素早い横薙ぎの後、後退しながら、竜巻を発生させる。<br>発動時に、カマイタチが発生する。
+KnucklePA01 - “鋼拳（ナックル）”用のフォトンアーツ。<br>左右に拳をくりだした後、強力な一撃を放つ。
+KnucklePA02 - “鋼拳（ナックル）”用のフォトンアーツ。<br>無数の拳をくりだした後、強力なアッパーを放つ。
+KnucklePA03 - “鋼拳（ナックル）”用のフォトンアーツ。<br>拳をくりだしながら、前方に突進した後、<br>強力な連撃を放つ。
+RiflePA01 - “長銃（アサルトライフル）”用のフォトンアーツ。<br>エネミーに命中すると、爆発する弾を放つ。<br>チャージすることで、エネミーを貫通する<br>螺旋弾に変化する。
+RiflePA02 - “長銃（アサルトライフル）”用のフォトンアーツ。<br>チャージすることで、視界に捉えた複数のエネミーを<br>追尾する特殊弾を放つ。
+RiflePA03 - “長銃（アサルトライフル）”用のフォトンアーツ。<br>回避動作の後、速射を行う。<br>PAボタンを長押しすることで、<br>PPが切れるまで攻撃を続ける。
+LauncherPA01 - “大砲（ランチャー）”用のフォトンアーツ。<br>前方に、爆発弾を降らせる。
+LauncherPA02 - “大砲（ランチャー）”用のフォトンアーツ。<br>前方に、強力な光線を放つ。<br>PAボタンを長押しすることで、<br>PPが切れるまで攻撃を続け、<br>一定時間継続すると、追加攻撃が発生する。
+LauncherPA03 - “大砲（ランチャー）”用のフォトンアーツ。<br>爆発弾を連続して発射し、最後に強力な一撃を放つ。<br>移動しながら攻撃することもできる。
+MachinegunPA01 - “双機銃（ツインマシンガン）”用のフォトンアーツ。<br>断続的に連射を行った後、強力な集束弾を放つ。<br>チャージすることで、威力が上昇する。
+MachinegunPA02 - “双機銃（ツインマシンガン）”用のフォトンアーツ。<br>激しく回転しながら、<br>周囲のエネミーに弾丸を浴びせかける。<br>チャージすることで、威力が上昇する。
+MachinegunPA03 - “双機銃（ツインマシンガン）”用のフォトンアーツ。<br>素早くエネミーに接近し、強力な弾丸を叩き込む。<br>チャージすることで、威力が上昇する。
+Fire01 - 炎属性のテクニック。<br>前方に、火球を放つ。<br>チャージすることで、攻撃の挙動が変化する。
+Fire02 - 炎属性のテクニック。<br>自身の周囲に、炎の渦を発生させる。<br>チャージすることで、攻撃の挙動が変化する。
+Ice01 - 氷属性のテクニック。<br>前方に、氷弾を放つ。<br>チャージすることで、威力が上昇する。
+Ice02 - 氷属性のテクニック。<br>前方に、氷の刃を発生させる。<br>チャージすることで、威力が上昇する。
+Thunder01 - 雷属性のテクニック。<br>前方に、雷を落とす。<br>チャージすることで、威力が上昇する。
+Thunder02 - 雷属性のテクニック。<br>空中に、球状のエネルギー体を放ち、<br>範囲内のエネミー単体に断続的に雷撃を行う。<br>チャージすることで、攻撃の挙動が変化する。
+WandPA01 - “短杖（ウォンド）”用のフォトンアーツ。<br>素早くエネミーに接近し、強力な一撃を放つ。<br>チャージすることで、威力が上昇する。
+WandPA02 - “短杖（ウォンド）”用のフォトンアーツ。<br>武器を地面に叩きつけ、衝撃波で広範囲を攻撃する。
+TalisPA01 - “導具（タリス）”用のフォトンアーツ。<br>前方に、フォトン弾を放った後、タリスを展開する。<br>タリス展開中は、テクニックの挙動が変化する。
+TalisPA02 - “導具（タリス）”用のフォトンアーツ。<br>フォトンの波動で、周囲のエネミーを<br>複数回薙ぎ払った後、タリスを展開する。<br>攻撃の段数によって、タリスの展開形態が変化する。<br>また、タリス展開中は、テクニックの挙動が変化する。
+KatanaPA01 - “抜剣（カタナ）”用のフォトンアーツ。<br>素早い抜刀の後、前方に斬撃を放つ。<br>連続して発動すると、挙動が変化する。
+KatanaPA02 - “抜剣（カタナ）”用のフォトンアーツ。<br>素早い抜刀の後、周囲のエネミーを薙ぎ払う。<br>連続して発動すると、挙動が変化する。
+KatanaPA03 - “抜剣（カタナ）”用のフォトンアーツ。<br>力を溜めた後、直線状に無数の衝撃波を放つ。<br>連続して発動すると、挙動が変化する。
+CompoundBowPA01 - “強弓（バレットボウ）”用のフォトンアーツ。<br>エネミーを追尾する矢を放つ。<br>２段階までチャージでき、<br>それぞれ攻撃の挙動が変化する。
+CompoundBowPA02 - “強弓（バレットボウ）”用のフォトンアーツ。<br>エネミーに命中すると、周囲に拡散する矢を放つ。<br>チャージすることで、攻撃の挙動が変化する。
+CompoundBowPA03 - “強弓（バレットボウ）”用のフォトンアーツ。<br>異空間にフォトンでできた弓矢を転送し、<br>範囲内のエネミーを上空から断続的に攻撃する。<br>チャージしてから放つと、弓矢を最大５本ストックし、<br>他のPAの命中後に１本ずつ発射して追撃する。
+
+Group 1
+SwordPA01 - Sword Photon Art.<br>Rise in a vertical slashing, spiral ascent.<br>Charging increases the potency.
+SwordPA02 - Sword Photon Art.<br>Rise in a horizontal slashing, spiral ascent.<br>Charging increases the number of spins.
+SwordPA03 - Sword Photon Art.<br>Unleash a powerful slash.<br>Can attack up to 3 times by pressing <br>the PA button after the slash. <br>Charging the attacks will increase <br>the number of hits for each of them.
+WlancePA01 - Wired Lance Photon Art.<br>Launch a wide attack in front of you repeatedly. 
+WlancePA02 - Wired Lance Photon Art.<br>Spin and cleave through enemies before<br>unleashing a powerful final blow.<br>Can be used while moving.
+WlancePA03 - Wired Lance Photon Art.<br>Launch a vertical slash while spinning aggressively.
+PartisanPA01 - Partisan Photon Art.<br>Quickly mows down enemies in front of you.<br>Charge to launch an alternate attack.
+PartisanPA02 - Partisan Photon Art.<br>Launch the weapon at a target after a thrust.<br>Press and hold the PA button to thrust until <br>your PP is depleted and throw.
+PartisanPA03 - Partisan Photon Art.<br>Attack the surrounding enemies by spinning the weapon. <br>Charge to launch an alternate attack.
+TdaggerPA01 - Twin Daggers Photon Art.<br>Approach the enemy while spinning and <br>unleash a lightning-quick flurry of attacks.
+TdaggerPA02 - Twin Daggers Photon Art.<br>Unleash a shock wave after leaping forward.
+TdaggerPA03 - Twin Daggers Photon Art.<br>Cleave through foes with countless strikes after a quick stab.
+DsaberPA01 - Double Saber Photon Art.<br>Quickly close in on an enemy and unleash a string of strikes.<br>Generates a whirlwind when used.
+DsaberPA02 - Double Saber Photon Art.<br>Perform a sweap attack after your thrown <br>weapons attack the surrounding enemies.<br>Generates a whirlwind when used.
+DsaberPA03 - Double Saber Photon Art.<br>Spawn a tornado while moving backwards <br>after a quick sideway sweap.<br>Generates a whirlwind when used.
+KnucklePA01 - Knuckles Photon Art.<br>Unleash a powerful blow after punching left and right.
+KnucklePA02 - Knuckles Photon Art.<br>Pummel an enemy with countless blows <br>before unleashing a powerful upper cut.
+KnucklePA03 - Knuckles Photon Art.<br>Leap forward with a punch before unleashing countless blows. 
+RiflePA01 - Assault Rifle Photon Art.<br>Fire shells that explode on impact with the enemy.<br>The shells spiral and penetrate targets by charging.
+RiflePA02 - Assault Rifle Photon Art.<br>Fire special bullets that track multiple<br>enemies in your field of view by charging.
+RiflePA03 - Assault Rifle Photon Art.<br>Fire high-speed volley after a dodge.<br>By pressing and holding down on the PA button,<br>it will continue to fire until PP is depleted. 
+LauncherPA01 - Launcher Photon Art.<br>Drop down an explosive shell in front of you.
+LauncherPA02 - Launcher Photon Art.<br>Fire a high-powered photon laser. By pressing and <br>holding down on the PA button, it will continue to <br>fire until PP is depleted. A follow-up attack will be <br>added when used continuosly for a certain amount of time. 
+LauncherPA03 - Launcher Photon Art.<br>Fire a continuous volley of explosive shells ending in a<br>devastating blast.<br>Can be fired while moving or stationary.
+MachinegunPA01 - Twin Machine Guns Photon Art.<br>Launch a powerful focus shot after loosing fire intermittently.<br>Charging increases the potency.
+MachinegunPA02 - Twin Machine Guns Photon Art.<br>Pelt the surrounding enemies with a hail <br>of bullets as you spin round and round.<br>Charging increases the potency.
+MachinegunPA03 - Twin Machine Guns Photon Art.<br>Quickly close in on enemies and<br>hit them with a powerful blast.<br>Charging increases the potency.
+Fire01 - Fire-elemental Technique.<br>Release a fireball in front of you.<br>Charge to launch an alternate attack.
+Fire02 - Fire-elemental Technique.<br>Create a vortex of flame around you.<br>Charge to launch an alternate attack.
+Ice01 - Ice-elemental Technique.<br>Create a photon reaction that<br>forms and releases an ice cluster.<br>Charging increases the potency.
+Ice02 - Ice-elemental Technique.<br>Launch a blade of ice in front of you.<br>Charging increases the potency.
+Thunder01 - Lightning-elemental Technique.<br>Calls down a lightning bolt in front of you.<br>Charging increases the potency.
+Thunder02 - Lightning-elemental Technique.<br>Release a spherical cluster of energy<br>in the air and shock the surrounding<br>enemies intermittently.<br>Charge to launch an alternate attack.
+WandPA01 - Wand Photon Art.<br>Quickly close in on an enemy to deal a devastating blow.<br>Charging increases the potency.
+WandPA02 - Wand Photon Art.<br>Slam your weapon on the ground and attack by generating <br>a shock wave that spreads over a wide area.
+TalisPA01 - Talis Photon Art.<br>Unleash photons in your path and deploy the Talis.<br>Techniques will be altered during Talis deployment.
+TalisPA02 - Talis Photon Art.<br>Deploy the Talis after mowing down your surrounding enemies<br>by releasing photons.Talis deployment will be altered depending <br>on the state of the attack. Also, technique will be altered during <br>deployment.
+KatanaPA01 - Katana Photon Art.<br>Releases a forward slash after a swift sword draw.<br>Multiple uses release alternate attacks.
+KatanaPA02 - Katana Photon Art.<br>Mows down nearby enemies after a swift sword draw.<br>Multiple uses release alternate attacks.
+KatanaPA03 - Katana Photon Art.<br>Releases manifold shockwaves in a straight line after<br>charging your sword.<br>Multiple uses release alternate attacks.
+CompoundBowPA01 - Bow Photon Art.<br>Fires homing arrows.<br>Can be charged up to two power levels to release different<br>attacks.
+CompoundBowPA02 - Bow Photon Art.<br>Scatters arrows all around when you hit an enemy.<br>Charge to launch an alternate attack.
+CompoundBowPA03 - Bow Photon Attack.<br>A bow from an alternate dimension fires arrows down<br>on enemies. Charging and releasing will stock up to<br>5 homing attacks which will be unleashed one at a time<br>after you land hits with other Photon Arts.
+
+
+PB
+Group 0
+TypeNon - なし
+TypeNoUse - フォトンブラスト
+Type1_1 - ヘリクス・プロイ
+Type1_2 - ヘリクス・イメラ
+Type1_3 - ヘリクス・ニフタ
+Type2_1 - アイアス・プロイ
+Type2_2 - アイアス・イメラ
+Type2_3 - アイアス・ニフタ
+Type3_1 - ケートス・プロイ
+Type3_2 - ケートス・イメラ
+Type3_3 - ケートス・ニフタ
+Type4_1 - ユリウス・プロイ
+Type4_2 - ユリウス・イメラ
+Type4_3 - ユリウス・ニフタ
+Type5_1 - イリオス・プロイ
+Type5_2 - イリオス・イメラ
+Type5_3 - イリオス・ニフタ
+
+Group 1
+TypeNon - None
+TypeNoUse - Photon Blast
+Type1_1 - Helix - Proi
+Type1_2 - Helix - Imera
+Type1_3 - Helix - Nifta
+Type2_1 - Ajax - Proi
+Type2_2 - Ajax - Imera
+Type2_3 - Ajax - Nifta
+Type3_1 - Cetus - Proi
+Type3_2 - Cetus - Imera
+Type3_3 - Cetus - Nifta
+Type4_1 - Julius - Proi
+Type4_2 - Julius - Imera
+Type4_3 - Julius - Nifta
+Type5_1 - Troy - Proi
+Type5_2 - Troy - Imera
+Type5_3 - Troy - Nifta
+
+
+PBExplanation
+Group 0
+TypeNon - なし
+TypeNoUse - 現在、フォトンブラストを使用出来ません。<br>フォトンブラストを覚えたマグを<br>装備してください。
+Type1_1 - 貫く力、ヘリクスタイプの具現。<br>フォトンをまとい、目標に向かって<br>突進攻撃を行う。
+Type1_2 - 貫く力、ヘリクスタイプの具現。<br>目標へ向けて一足のもと接近し<br>強力な電撃を周囲に発生させる。
+Type1_3 - 貫く力、ヘリクスタイプの具現。<br>目標に向かい、衝角での連撃ののち<br>体躯を活かした踏みつけ攻撃を行う。
+Type2_1 - 譲らぬ力、アイアスタイプの具現。<br>前方広範囲に向けて、炸裂砲弾を<br>次々に発射し、殲滅を行う。
+Type2_2 - 譲らぬ力、アイアスタイプの具現。<br>頭部より発射したフォトンメーザーを<br>目標周囲へ雨霰のように降らせる。
+Type2_3 - 譲らぬ力、アイアスタイプの具現。<br>飛散させた鵬翼はそれぞれが意志を<br>持ち、目標を撃ち抜く弾丸となる。
+Type3_1 - 惑わぬ力、ケートスタイプの具現。<br>周囲の大気中フォトンへ働きかけ<br>ＰＰの自己回復量を増大させる。
+Type3_2 - 惑わぬ力、ケートスタイプの具現。<br>前方に向けて、フォトンを凝縮した<br>レーザーで集束砲撃を行う。
+Type3_3 - 惑わぬ力、ケートスタイプの具現。<br>空間を遊泳し、フォトンを励起させ<br>数多の落雷を発生させる。
+Type4_1 - 揺るがぬ力、ユリウスタイプの具現。<br>目標に対し、ワープして近付き<br>複数の腕による連続攻撃を行う。
+Type4_2 - 揺るがぬ力、ユリウスタイプの具現。<br>目標へ向けて、確実に仕留める<br>刺突尖角を撃ち下ろす。
+Type4_3 - 揺るがぬ力、ユリウスタイプの具現。<br>目標周囲に、限定的な超重力場を<br>発生させ集束、収縮崩壊を行う。
+Type5_1 - 挫けぬ力、イリオスタイプの具現。<br>主の定めた目標に対し、主と連携して<br>追加攻撃を行う。
+Type5_2 - 挫けぬ力、イリオスタイプの具現。<br>主の定めた目標に対し、巨大な剣から<br>両断の波動を撃ち出す。
+Type5_3 - 挫けぬ力、イリオスタイプの具現。<br>主の定めた目標に対し、虚空の彼方<br>より無慈悲な罰を降らせる。
+
+Group 1
+TypeNon - None
+TypeNoUse - You cannot use a Photon Blast at this time.<br>Equip a mag that has learned a Photon Blast.
+Type1_1 - Summons an avatar of Helix, the undeterrable.<br>Unleashes a rush attack at targets while<br>enveloped in photons.
+Type1_2 - Summons an avatar of Helix, the undeterrable.<br>Quickly advances towards a target and then<br>summons forth a burst of lightning around it.
+Type1_3 - Summons an avatar of Helix, the undeterrable.<br>Rams a target repeatedly, then uses its weight<br>to crush the foe with a trampling attack.
+Type2_1 - Summons an avatar of Ajax, the unyielding.<br>Fires a series of exploding shots in a wide area<br>in front of it.
+Type2_2 - Summons an avatar of Ajax, the unyielding.<br>Fires photon masers from its head that rain<br>down in the targeted area.
+Type2_3 - Summons an avatar of Ajax, the unyielding.<br>Fires winged shots which take on a life of their<br>own and assault targets.
+Type3_1 - Summons an avatar of Cetus, the unfaltering.<br>Excites atmospheric photons to increase the<br>amount of PP recovered.
+Type3_2 - Summons an avatar of Cetus, the unfaltering.<br>Bombards an area in front of it with lasers of<br>condensed photon.
+Type3_3 - Summons an avatar of Cetus, the unfaltering.<br>Excites photonic activity to call forth powerful<br>bursts of lightning.
+Type4_1 - Summons an avatar of Julius, the unwavering.<br>Warps towards a target and unleashes a flurry<br>of blows from its many arms.
+Type4_2 - Summons an avatar of Julius, the unwavering.<br>Unleashes a ferocious attack with its horns that<br>is sure to bring down a target.
+Type4_3 - Summons an avatar of Julius, the unwavering.<br>Constricts and crushes foes in the targeted<br>area with a hyper-gravitational field.
+Type5_1 - Summons an avatar of Troy, the unbreakable.<br>Links up and attacks targets in tandem with its<br>owner.
+Type5_2 - Summons an avatar of Troy, the unbreakable.<br>Unleashes a bisecting shockwave from a<br>massive sword at its owner's chosen target.
+Type5_3 - Summons an avatar of Troy, the unbreakable.<br>Calls down merciless retribution from space<br>upon its owner's chosen target.
+
+
+Pet
+Group 0
+PetPALearn - $(1)が$(0)を習得しました。
+PetPALevelUp - $(2)の$(1)のレベルが$(0)に上がりました。
+PetUnequipped - タクトにペットが設定されていません。
+
+Group 1
+PetPALearn - $(1) learned $(0).
+PetPALevelUp - $(2)'s $(1) has reached level $(0).
+PetUnequipped - No pet set to Harmonizer.
+
+
+Npc
+Group 0
+Npc_7001 - マノン
+Npc_7002 - アイナ
+Npc_7003 - ガロア
+Npc_7004 - クロフォード
+Npc_7005 - ブルーダー
+Npc_7006 - ラン
+Npc_7007 - リューリン
+Npc_7008 - ロッサ
+Npc_7009 - オランジェ
+Npc_7010 - ナーデレフ
+
+Group 1
+Npc_7001 - Manon
+Npc_7002 - Aina
+Npc_7003 - Garoa
+Npc_7004 - Crawford
+Npc_7005 - Dozer
+Npc_7006 - Ran
+Npc_7007 - Liu Lin
+Npc_7008 - Rossa
+Npc_7009 - Oranje
+Npc_7010 - Nadereh
+
+
+FollowRun
+Group 0
+AutorunToast1 - オートランを開始します。
+
+Group 1
+AutorunToast1 - Initiating auto-run.
+
+
+Common
+Group 0
+Toast_Defend - レベルに差があるため、与えるダメージが減少しています。
+
+Group 1
+Toast_Defend - Damage taken is reduced due to level difference.
+
+
+ItemUse
+Group 0
+MoonAtmizerToYou - がアイテムを使用し、あなたを復活させました。
+ResurrectToYou - があなたを復活させました。
+
+Group 1
+MoonAtmizerToYou -  revived you with an item.
+ResurrectToYou -  revived you.
+
+
+Vehicle
+Group 0
+<GatlingGun>EquippingEnd - 兵装解除
+<GatlingGun>AttackGun - ラピッドファイア
+<GatlingGun>AttackRailgun - チャージブラスター
+<GatlingGun>AttackJet - ブーストグライダー
+HealTankRecast - レスタサイン
+RecoveryMoonAtomizerRecast - リバーサーサイン
+RideTimeAlert1 - <yellow>残り稼働時間：$(0)秒<c>
+RideTimeAlert2 - <red>残り稼働時間：$(0)秒<c>
+
+Group 1
+<GatlingGun>EquippingEnd - Unequip
+<GatlingGun>AttackGun - Rapid Fire
+<GatlingGun>AttackRailgun - Charge Blaster
+<GatlingGun>AttackJet - Burst Glider
+HealTankRecast - Restasigne
+RecoveryMoonAtomizerRecast - Reversasigne
+RideTimeAlert1 - <yellow>Usage Time Remaining: $(0) seconds<c>
+RideTimeAlert2 - <red>Usage Time Remaining: $(0) seconds<c>
+
+

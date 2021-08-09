@@ -1,0 +1,13 @@
+tut_006362.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1136 bytes
+
+TutorialText
+Group 0
+Title - ドールズ管制機トライアル
+text0001 - ドールズ管制機を撃退するトライアルです。<br><br>ドールズ管制機は上空から飛来し、攻撃してきます。<br>周囲の地形や、その他様々な要素を利用して<br>管制機上部に移動し、<yellow>弱点<c>を破壊すると撃破できます。
+
+Group 1
+Title - DOLLS Control System Trial
+text0001 - This is a Trial in which you will be fighting a DOLLS Control System.<br><br>DOLLS Control Systems attack from the air.<br>Take advantage of the surrounding terrain, and use other tactics, to get on top<br>of the DOLLS Control System and destroy its <yellow>weak point<c>.
+
+

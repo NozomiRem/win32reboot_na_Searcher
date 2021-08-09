@@ -1,0 +1,21 @@
+ss0030741804.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 912 bytes
+
+Required
+Group 0
+Title - 森のなかからの景色
+Summary - セントラルシティの住人ベルクマンから<br>レゾルの森のなかの思い出の景色を<br>もう一度見せてもらいたいと頼まれる。
+
+Group 1
+Title - A Forest Landscape
+Summary - Central City resident Berkman asks the team<br>to help rediscover a Resol Forest view that<br>holds special memories.
+
+
+SubObjectives
+Group 0
+text0101 - ガイドマーカーの指し示す場所に向かう
+
+Group 1
+text0101 - Head to the Task Marker location
+
+

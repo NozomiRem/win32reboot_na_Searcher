@@ -1,0 +1,23 @@
+ss0030741901.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 944 bytes
+
+Required
+Group 0
+Title - ボノからのおねがい・ひとつめ
+Summary - セントラルシティの住人ボノから、<br>北エアリオに出現する<br>ドールズの討伐を頼まれる。
+
+Group 1
+Title - First Request from Bono
+Summary - Central City resident Bono asks the trio to rid<br>North Aelio of DOLLS that have appeared there.
+
+
+SubObjectives
+Group 0
+text0101 - 北エアリオに向かう
+text0102 - 北エアリオでドールズを倒す
+
+Group 1
+text0101 - Head to North Aelio
+text0102 - Defeat the North Aelio DOLLS
+
+

@@ -1,0 +1,19 @@
+np_npc_7007_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 640 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - おつかれさまです。
+HELLO_MORNING - おはようございます。
+HELLO_AFTERNOON - こんにちは。
+HELLO_NIGHT - こんばんは。
+HELLO_BYE - それでは。
+
+Group 1
+HELLO_ALLDAYS - How are you?
+HELLO_MORNING - Good morning.
+HELLO_AFTERNOON - Hello.
+HELLO_NIGHT - Good evening.
+HELLO_BYE - Well, goodbye.
+
+

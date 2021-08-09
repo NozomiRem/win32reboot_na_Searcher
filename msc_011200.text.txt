@@ -1,0 +1,17 @@
+msc_011200.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 800 bytes
+
+msc_011200
+Group 0
+msc_011200_0010 - あ……あのさ！<br>ふたりとも、ちょっといいかな？
+msc_011200_0020 - あとで、“見張り台”に来てもらえないかな？
+msc_011200_0030 - その……話したいことが、あるんだ。
+msc_011200_0040 - え、ええ。
+
+Group 1
+msc_011200_0010 - H-Hey! Um, can I ask you two something?
+msc_011200_0020 - Could you meet me at the Watchtower later?
+msc_011200_0030 - There's... something I wanna talk about.
+msc_011200_0040 - ...Sure.
+
+

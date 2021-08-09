@@ -1,0 +1,15 @@
+tut_006385.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1376 bytes
+
+TutorialText
+Group 0
+Title - マルチプレイ
+text0001 - “序章”のストーリークエストをクリアしたため、<br>“マルチプレイ”が可能になりました。
+text0002 - マルチプレイが可能な空間では、<br>ほかのプレイヤーとコミュニケーションを取ったり、<br>最大４人のパーティーで戦ったりできます。<br><br>マルチプレイでは、ほかのプレイヤーへの暴言や迷惑行為を行わず、<br>マナーや気配りを忘れないよう心がける必要があります。
+
+Group 1
+Title - Multiplayer
+text0001 - Multiplayer will unlock once you complete the Prologue Story Quests.
+text0002 - In areas where multiplayer is possible, you can communicate with other players<br>and fight in parties of up to four people.<br><br>Please mind your manners when playing with other people and refrain from using<br>abusive language or causing trouble.
+
+

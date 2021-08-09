@@ -1,0 +1,13 @@
+tut_006392.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 752 bytes
+
+TutorialText
+Group 0
+Title - レンジャー
+text0001 - <yellow>ウィークバレット：<c><br>　ヒットした部位を弱点化し、<br>　その部位への味方の攻撃による<br>　ダメージを増加させるクラススキル<br>
+
+Group 1
+Title - Rangers
+text0001 - <yellow>Blight Rounds<c><br>is a Class Skill that weakens the parts it<br>hits, allowing all allies to deal increased<br>damage to that area.
+
+

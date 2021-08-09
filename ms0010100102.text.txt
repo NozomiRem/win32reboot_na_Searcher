@@ -1,0 +1,25 @@
+ms0010100102.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1392 bytes
+
+Required
+Group 0
+Title - リューリンからのアドバイス・Ⅰ
+Summary - クロフォードの指示により、<br>オペレーターのリューリンから、<br>ハルファで生き抜くためのレクチャーを受ける。<br><br>はじめに、“リューカーデバイス”とよばれる<br>装置の使い方を教わる。
+
+Group 1
+Title - Advice from Liu Lin I
+Summary - Directed by Crawford to learn how to survive<br>on Halpha, they attend a lecture given by<br>operator Liu Lin. The first topic is how to<br>use something called a Ryuker Device.
+
+
+SubObjectives
+Group 0
+text0101 - リューリンと話す
+text0102 - シティ内のリューカーデバイスに向かう
+text0103 - “ハルファナ平原：東”のデバイスに向かう
+
+Group 1
+text0101 - Talk to Liu Lin
+text0102 - Head to a Ryuker Device in the city
+text0103 - Head to the Ryuker D. at Halphana east
+
+

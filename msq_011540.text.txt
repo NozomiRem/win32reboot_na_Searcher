@@ -1,0 +1,13 @@
+msq_011540.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 368 bytes
+
+msq_011540
+Group 0
+msq_011540_0010 - ……よし、これで大丈夫。
+name010 - アイナ
+
+Group 1
+msq_011540_0010 - Okay, this should work.
+name010 - Aina
+
+

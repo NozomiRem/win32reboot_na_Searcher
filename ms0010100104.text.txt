@@ -1,0 +1,37 @@
+ms0010100104.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2176 bytes
+
+Required
+Group 0
+Title - オランジェからのアドバイス
+Summary - 次に、オペレーターのオランジェから、<br>フードスタンドの利用方法を教わる。<br><br>“クイックフード”を作るために、<br>まず、セントラルシティの周辺に棲息する<br>テイムズから肉を入手する。
+
+Group 1
+Title - Advice from Oranje
+Summary - Next, operator Oranje explains how to make use<br>of a Food Stand. In order to try making Quick<br>Food, the trio is tasked with obtaining the meat<br>of a TAMES unit, which inhabits the area around <br>Central City.
+
+
+SubObjectives
+Group 0
+text0101 - オランジェと話す
+text0102 - テイムズから肉を入手する
+text0103 - ディアンからシャキリッタ肉を入手する
+text0104 - サニィからマタリーナ肉を入手する
+text0105 - パットからサッパリーナ肉を入手する
+text0106 - モォベルなどからガッツリーナ肉を入手する
+text0107 - フードスタンドでクイックフードを作成する
+Objective311 - ※※※※※
+Objective321 - ※※※※※
+Objective331 - ※※※※※
+Objective341 - ※※※※※
+
+Group 1
+text0101 - Talk to Oranje
+text0102 - Obtain TAMES Meat
+text0103 - Obtain Crispino Meat from a Dian
+text0104 - Obtain Comfortino Meat from a Sunny
+text0105 - Obtain Refreshino Meat from Patt
+text0106 - Obtain Robustino Meat from a Moo Bell etc
+text0107 - Prepare Quick Food at a Food Stand
+
+

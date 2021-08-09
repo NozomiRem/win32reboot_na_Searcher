@@ -1,0 +1,13 @@
+tut_006207.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 656 bytes
+
+TutorialText
+Group 0
+Title - レスタサイン
+text0001 - フィールド上で“レスタサイン”を入手し、<br>サブパレットから使用することで、<yellow>HPを回復<c>できます。
+
+Group 1
+Title - Restasigne
+text0001 - You can <yellow>restore HP<c> by gathering Restasigne in the field and using it from your<br>Sub-Palette.
+
+

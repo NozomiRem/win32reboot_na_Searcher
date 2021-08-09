@@ -1,0 +1,25 @@
+ms0010100122.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1184 bytes
+
+Required
+Group 0
+Title - 戦いの準備
+Summary - セントラルシティの住人たちから、<br>戦いのアドバイスを受け、<br>これまでより幾分経験を積んだ<br><%me>は、<br>アイナに呼び出され、<br>レストコーナーに向かう。
+
+Group 1
+Title - Preparing for Battle
+Summary - After getting battle advice from some Central City<br>residents, <%me> is called to the rest<br>area by Aina.
+
+
+SubObjectives
+Group 0
+Objective311 - レストコーナーでアイナと話す
+Objective321 - イベントを再生する
+Objective331 - 戦闘力を950以上にする
+
+Group 1
+Objective311 - Talk to Aina at the rest area
+Objective321 - Play the event
+Objective331 - Achieve Battle Power 950 or greater
+
+

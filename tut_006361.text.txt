@@ -1,0 +1,13 @@
+tut_006361.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1088 bytes
+
+TutorialText
+Group 0
+Title - アセンブリーポイント掃討
+text0001 - 上空から飛来したエネミーを撃退するトライアルです。<br>“アセンブリーポイント”と呼ばれる、バリケードや高台が組まれた、<br>特殊な地形でエネミーと戦闘します。<br><br>ターゲットとなっているエネミーを全て倒せばクリアとなります。
+
+Group 1
+Title - Assembly Point Clearance
+text0001 - This Trial has you repel enemies that come from the air. You will do battle<br>with enemies on unique terrain known as an Assembly Point, which includes<br>barricades and elevated areas.<br><br>Defeat all target enemies to complete the Trial.
+
+

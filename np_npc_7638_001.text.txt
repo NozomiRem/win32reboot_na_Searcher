@@ -1,0 +1,13 @@
+np_npc_7638_001.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 368 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - どうもです。
+HELLO_BYE - 失礼します。
+
+Group 1
+HELLO_ALLDAYS - Greetings.
+HELLO_BYE - Please excuse me.
+
+

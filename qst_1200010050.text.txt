@@ -1,0 +1,26 @@
+qst_1200010050.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 1152 bytes
+
+MainText
+Group 0
+name010 - バリー
+text010 - そうだ、ひとつ戦い方のアドバイスをさせてくれ。
+text020 - “武器アクション”ってのはわかるか？<br>武器の種類によってそれぞれ異なる、特殊な技能だ。
+text030 - 戦いを有利に進めるために、<br>適宜、使いこなしていってくれ。
+
+Group 1
+name010 - Barry
+text010 - Ah, let me give you a li'l fighting advice.
+text020 - You've heard of Weapon Actions, haven't you?<br>They're special skills that differ between weapons.
+text030 - Use the right skills to get the upper hand in battle.
+
+
+GuideText
+Group 0
+Text_WA - 武器アクション：
+Button_WA - <%MainPaletteC>
+
+Group 1
+Button_WA - <%MainPaletteC>
+
+

@@ -1,0 +1,12 @@
+qst_1120020201.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 272 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - 欠番
+
+Group 1
+name010 - Ran
+
+

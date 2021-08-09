@@ -1,0 +1,23 @@
+msn_011220_000.text was created: 8/9/2021 12:20:44 AM
+Filesize is: 1968 bytes
+
+msn_011220_000
+Group 0
+name_7005 - ブルーダー
+msn_011220_000_0010 - 私だ。
+msn_011220_000_0020 - 先の戦いぶりから、キミたち三人ならば、<br>いかなる困難も乗り越えられると確信している。
+msn_011220_000_0030 - だが、数多のドールズと渡り合うには、<br>まだまだ学ぶことがたくさんある。
+msn_011220_000_0040 - 幸い、セントラルシティには、経験豊富なアークスが大勢いる。<br>他にも、優れた技術者や、研究者たちも。
+msn_011220_000_0050 - 彼らが、キミたちのような新入りに、手ほどきをしてくれるだろう。<br>まずは、彼らにいろいろと聞いてみてくれ。
+msn_011220_000_0101 - マイショップが利用可能になりました。
+
+Group 1
+name_7005 - Dozer
+msn_011220_000_0010 - It's me.
+msn_011220_000_0020 - Seeing the three of you fight just now, I'm confident that you can<br>overcome any obstacle that you encounter.
+msn_011220_000_0030 - But, when it comes to fighting multiple DOLLS, you still have<br>a lot to learn.
+msn_011220_000_0040 - Fortunately, you can find plenty of highly-experienced ARKS in<br>Central City. There are skilled technicians and scientists as well.
+msn_011220_000_0050 - They won't hesistate to teach beginners like you the basics.<br>First, try asking them about various things.
+msn_011220_000_0101 - You can now use Personal Shop.
+
+

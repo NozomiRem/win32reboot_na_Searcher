@@ -1,0 +1,15 @@
+tut_006308.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 1360 bytes
+
+TutorialText
+Group 0
+Title - アークスサーチ
+text0001 - メインメニューの<yellow>“コミュニケーション”<c>から<br><yellow>“アークスサーチ”<c>を選択すると、<br>他のプレイヤーや、そのキャラクターを検索できます。
+text0002 - プレイヤーIDネーム、キャラクターネーム、チーム名で<br>検索が可能です。<br><br>検索結果から、ウィスパーチャットやフレンド申請などを<br>行うこともできます。
+
+Group 1
+Title - ARKS Search
+text0001 - By selecting <yellow>[ARKS Search]<c> under <yellow>[Communications]<c> in the Main Menu, you can<br>look for certain characters or players.
+text0002 - You can search using a Player ID Name, Character Name, or Alliance Name.<br>From the results screen, you will be able to initiate a Whisper Chat or send a<br>Friend Request.
+
+

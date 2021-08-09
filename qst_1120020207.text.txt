@@ -1,0 +1,15 @@
+qst_1120020207.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 624 bytes
+
+MainText
+Group 0
+name010 - ラン
+text001 - え……？<br>まだ、周囲に敵性反応が……。
+text002 - さらに大規模な攻勢が予想されます！<br>十分に警戒してください！
+
+Group 1
+name010 - Ran
+text001 - What...?<br>We still have enemy readings nearby...
+text002 - A huge wave is incoming!<br>Get ready!
+
+

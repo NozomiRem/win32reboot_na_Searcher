@@ -1,0 +1,23 @@
+ss0030741701.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 896 bytes
+
+Required
+Group 0
+Title - ディグホールの採掘指南・Ⅰ
+Summary - セントラルシティの住人ディグホールから、<br>鉱石について教わり、収集をする。
+
+Group 1
+Title - Excator's Mining Drill I
+Summary - Central City resident Excator teaches the crew about<br>minerals and how best to collect them.
+
+
+SubObjectives
+Group 0
+text0101 - 中央エアリオに向かう
+text0102 - モノタイトを入手する
+
+Group 1
+text0101 - Head to Central Aelio
+text0102 - Obtain monotite
+
+

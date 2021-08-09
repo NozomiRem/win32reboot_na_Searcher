@@ -1,0 +1,11 @@
+pse.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 400 bytes
+
+pse
+Group 0
+Pse_LevelUp - PSEレベルアップ！　レアエネミーの出現率上昇！
+
+Group 1
+Pse_LevelUp - PSE level up! Rare enemies have a greater chance of appearing!
+
+

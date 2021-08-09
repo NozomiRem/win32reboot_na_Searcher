@@ -1,0 +1,28 @@
+ms0010100105.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1136 bytes
+
+Required
+Group 0
+Title - ロッサからのアドバイス
+Summary - 続いて、オペレーターのロッサから、<br>セントラルシティの“アイテムラボ”で、<br>装備品を強化する方法を教わる。
+
+Group 1
+Title - Advice from Rossa
+Summary - Next, operator Rossa teaches the trio how<br>to enhance equipment at the Item Lab in<br>Central City.
+
+
+SubObjectives
+Group 0
+text0101 - ロッサと話す
+text0102 - 武器の強化値を＋１以上にする
+Objective331 - 武器を強化する
+Objective341 - 倉庫端末にアクセス
+Objective351 - 倉庫端末にアクセス
+Objective311 - ※※※※※
+Objective321 - ※※※※※
+
+Group 1
+text0101 - Talk to Rossa
+text0102 - Enhance a weapon +1 or more
+
+

@@ -1,0 +1,13 @@
+npc_760701.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 688 bytes
+
+npc_760701
+Group 0
+76070101 - 空からようこそ！<br>歓迎するよ！
+76070102 - わからないことがあったら、誰にでも聞いて。<br>みんな喜んで教えてくれるから！
+
+Group 1
+76070101 - ¡Nuestro visitante de las estrellas! <br>¡Bienvenido, bienvenido!
+76070102 - Si tienes alguna duda, pregunta a cualquiera. Estarán encantados de ayudarte.
+
+

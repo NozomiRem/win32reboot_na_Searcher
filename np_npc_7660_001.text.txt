@@ -1,0 +1,13 @@
+np_npc_7660_001.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 320 bytes
+
+BubbleMessage
+Group 0
+HELLO_ALLDAYS - よう！
+HELLO_BYE - じゃあ！
+
+Group 1
+HELLO_ALLDAYS - Yo!
+HELLO_BYE - See ya!
+
+

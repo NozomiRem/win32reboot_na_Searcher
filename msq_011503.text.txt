@@ -1,0 +1,15 @@
+msq_011503.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 624 bytes
+
+msq_011503
+Group 0
+msq_011503_0010 - うーん……。<br>けっこうエネミーが多いね。
+msq_011503_0020 - 探すの邪魔されそうだから、<br>少し倒しておこう。
+name010 - アイナ
+
+Group 1
+msq_011503_0010 - Hmm... this is a lot of enemies.
+msq_011503_0020 - Let's take some out to clear the way for our search.
+name010 - Aina
+
+

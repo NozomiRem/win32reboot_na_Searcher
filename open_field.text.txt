@@ -1,0 +1,63 @@
+open_field.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 1664 bytes
+
+Cocoon
+Group 0
+Title - トレイニア・コクーン
+DirectionTitle - 【$(0)】
+
+Group 1
+Title - Trainia Cocoon
+DirectionTitle - [$(0)]
+
+
+Container
+Group 0
+BrokenAllBarrierPod - コンテナのプロテクトが解除されました。
+LestBarrierPodNum - バリアポッド、残数$(0)機。
+BarrierActive - コンテナの周囲にバリアポッドが展開しました。
+
+Group 1
+BrokenAllBarrierPod - Container is no longer under protection.
+LestBarrierPodNum - $(0) Barrier Pods remaining.
+BarrierActive - Barrier Pods have been deployed around the container.
+
+
+FastTravel
+Group 0
+Title - リューカーデバイス
+DirectionTitle - 【$(0)】
+
+Group 1
+Title - Ryuker Device
+DirectionTitle - [$(0)]
+
+
+MessagePack
+Group 0
+GetItem - メッセージパックからアイテムを入手しました。
+
+Group 1
+GetItem - Item received from Datapod.
+
+
+RegionMag
+Group 0
+Title - リージョンマグ
+DirectionTitle - 【$(0)】
+
+Group 1
+Title - Region Mag
+DirectionTitle - [$(0)]
+
+
+Tower
+Group 0
+Title - トレイニア・タワー
+DirectionTitle - 【$(0)】
+
+Group 1
+Title - Trainia Tower
+DirectionTitle - [$(0)]
+
+

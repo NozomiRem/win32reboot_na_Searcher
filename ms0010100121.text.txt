@@ -1,0 +1,37 @@
+ms0010100121.text was created: 8/9/2021 12:20:42 AM
+Filesize is: 2224 bytes
+
+Required
+Group 0
+Title - セントラルシティの住人たち
+Summary - アイナの告白に、戦いの決意を新たにした<br><%me>たち。<br><br>ブルーダーから紹介された<br>セントラルシティの住人たちから、<br>戦う術を教わる。
+
+Group 1
+Title - Residents of Central City
+Summary - After hearing Aina's confession, the<br><%me> trio is more <br>determined than ever to fight.<br><br>The trio will take some battle technique<br>lessons from Central City residents<br>introduced to them by Dozer.
+
+
+SubObjectives
+Group 0
+Objective311 - ガイドマーカーが指し示すアークスと話す
+Objective321 - クラスカウンターに向かう
+Objective331 - サブクラスを設定する
+Objective341 - スローナのサイドタスクを受注する
+Objective342 - カルテヴィエのサイドタスクを受注する
+Objective343 - ランのサイドタスクを受注する
+Objective351 - スローナのサイドタスクをクリアする
+Objective352 - カルテヴィエのサイドタスクをクリアする
+Objective353 - ランのサイドタスクをクリアする
+
+Group 1
+Objective311 - Talk to an ARKS defender with a Task Marker
+Objective321 - Head to the Class Counter
+Objective331 - Set a Sub-Class
+Objective341 - Accept Slona's Side Task
+Objective342 - Accept Cartevei's Side Task
+Objective343 - Accept Ran's Side Task
+Objective351 - Clear Slona's Side Task
+Objective352 - Clear Cartevei's Side Task
+Objective353 - Clear Ran's Side Task
+
+

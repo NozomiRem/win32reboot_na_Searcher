@@ -1,0 +1,13 @@
+tut_006315.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 960 bytes
+
+TutorialText
+Group 0
+Title - マグ
+text0001 - “マグ”は、アークスの活動をサポートする、<br>頼れるパートナーです。<br><br>メインメニューの<yellow>“装備/サブパレット”<c>から<br><yellow>“マグ”<c>を選択することで、表示の切り替えができます。
+
+Group 1
+Title - Mags
+text0001 - Mags are allies that support ARKS defenders in their activities.<br><br>By selecting <yellow>"Mags"<c> from the <yellow>Gear/Sub-Palette<c> sub-menu under the Main Menu,<br>you can change how Mags are displayed.
+
+

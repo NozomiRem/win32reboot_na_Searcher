@@ -1,0 +1,1986 @@
+apc_chat_1.text was created: 8/9/2021 12:20:43 AM
+Filesize is: 62688 bytes
+
+Boyish
+Group 0
+PartyJoin - /toge /ci2 1 ボク、がんばります！
+IncidentJsApcBegin - /ci3 1 ボクのために……<br>ごめんなさい！　よろしくお願いします！
+IncidentJsApcFailure - ……こ、これ以上は無理。<br>ごめんなさい、ボク、撤退します。
+IncidentJsApcSuccess - /ci2 1 これで終わりっ！<br>あのっ、ありがとうございました！<br>おかげで助かりました！
+IncidentJsApcBeginEvo - /ci3 1 /toge ……気をつけて下さい。<br>すごいおおきな反応が<br>近づいてきています！
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /toge /ci2 1 I won't let you down!
+IncidentJsApcBegin - /ci3 1 You're doing all of this for me...<br>I hate to bother you, but I appreciate the help!
+IncidentJsApcFailure - ...I, I can't take anymore of this.<br>Sorry, I gotta go.
+IncidentJsApcSuccess - /ci2 1 And that'll do it!<br>Um... thank you so much!<br>I couldn't have done it without you!
+IncidentJsApcBeginEvo - /ci3 1 /toge ...Look out.<br>A massive signal is<br>getting closer!
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Bracing
+Group 0
+PartyJoin - /ci2 1 それじゃ、よろしくね
+IncidentJsApcBegin - /ci2 2 ごめん、君に迷惑は<br>かけたくなかったんだけど……！
+IncidentJsApcFailure - ……これ以上は、もたない。<br>先に撤退させてもらうよ。
+IncidentJsApcSuccess - /ci2 1 ……なんとかなったね。<br>ありがとう、君のおかげだよ。
+IncidentJsApcBeginEvo - /ci5 2 ……気をつけて。<br>まだ、大きな反応がある。
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /ci2 1 Alright then, let's do this.
+IncidentJsApcBegin - /ci2 2 Sorry, I don't mean to be a burden!
+IncidentJsApcFailure - ... I can't take much more.<br>I'm going to withdraw.
+IncidentJsApcSuccess - /ci2 1 ...We made it, somehow.<br>It's all thanks to you!
+IncidentJsApcBeginEvo - /ci5 2 ...Be careful. My readings indicate<br>that something big is still out there.
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Cool
+Group 0
+PartyJoin - /ci2 1 よ、よろしくお願いします！
+IncidentJsApcBegin - /toge /ci4 1 ……あっ、あなたはっ！<br>た、助けて下さい！<br>敵に囲まれてしまって……！
+IncidentJsApcFailure - ……これ以上は無理です。<br>すみません、先に撤退します。
+IncidentJsApcSuccess - /ci2 1 あ、ありがとうございました！<br>おかげで助かりました！<br>本当に本当に、感謝です！
+IncidentJsApcBeginEvo - /moya /ci4 4 なんだろうこれ……<br>すごくおっきな反応が……！
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /ci2 1 L-Let's do this!
+IncidentJsApcBegin - /toge /ci4 1 Hey, y-you over there!<br>I'm surrounded!<br>P-Please help me!
+IncidentJsApcFailure - ...I can't take any more of this.<br>I'm sorry, but I have to head back.
+IncidentJsApcSuccess - /ci2 1 Th-Thank you so much!<br>You really saved me out there!<br>I'm truly, truly grateful!
+IncidentJsApcBeginEvo - /moya /ci4 4 What could this be!? I'm getting<br>a reading on something humongous!
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Naughty
+Group 0
+PartyJoin - /toge /ci2 1 よろしくなっ！
+IncidentJsApcBegin - /ci2 3 /toge おっ、あんた、いいところに！<br>ちょっと敵が多すぎるから<br>手伝ってくれっ！
+IncidentJsApcFailure - ……ううっ、くそっ！<br>わり、先に撤退するっ！
+IncidentJsApcSuccess - /mn15 /ci2 1 よーっしゃよっしゃー！　<br>終わったー！<br>協力してくれてありがとな！
+IncidentJsApcBeginEvo - /ci5 2 げげっ、このでっかい反応<br>まだ来るってことかよ！
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /toge /ci2 1 Heya!
+IncidentJsApcBegin - /ci2 3 /toge Hey, you! You've come<br>just in time to save me<br>from this horde of enemies!
+IncidentJsApcFailure - Ugh, damn it! Hate to break it to<br>you, but I'm gonna have to peace-out!
+IncidentJsApcSuccess - /mn15 /ci2 1 Alriiiiighty!<br>That about wraps it up!!<br>Thanks for the help!
+IncidentJsApcBeginEvo - /ci5 2 Uh-oh! We're not done yet.<br>My readings suggest something huge is coming!
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Noisy
+Group 0
+PartyJoin - /mn16 /ci2 1 はーい、よろしくっ！
+IncidentJsApcBegin - /mn17 /ci2 1 来てくれたんだ！<br>ありがとー、これでなんとか！
+IncidentJsApcFailure - ……うう、あたし未熟すぎ。<br>ごめん、先に撤退しちゃうね。
+IncidentJsApcSuccess - /ci2 2 やたーっ！　なんとかしのげたよ！<br>あなたのお陰！　ありがとう！
+IncidentJsApcBeginEvo - /mn19 /ci2 1 あれあれあれれっ？<br>なんかおっきな反応が<br>近づいてくるよ！
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /mn16 /ci2 1 Hellooooo!!
+IncidentJsApcBegin - /mn17 /ci2 1 You came just for me!<br>Thanks! Now it seems doable!
+IncidentJsApcFailure - Ugh... I guess I need more training.<br>Sorry to leave you in the lurch, but I've gotta jet!
+IncidentJsApcSuccess - /ci2 2 Woohoo, we did it! Don't know<br>how, but we did it! You're the best! Thanks!
+IncidentJsApcBeginEvo - /mn19 /ci2 1 Huh? Wha wha wha...?<br>Something huge is on its way here!
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Pride
+Group 0
+PartyJoin - /ci1 4 では、よろしく頼む
+IncidentJsApcBegin - /ci1 2 すまない、お前には<br>世話になってばかりだな。
+IncidentJsApcFailure - ……ここまでか。<br>すまない、先に撤退させてもらう。
+IncidentJsApcSuccess - /ci2 5 制圧……完了。<br>お前のおかげだ、感謝する。
+IncidentJsApcBeginEvo - /ci3 2 ……気を抜くな。<br>とびきりのヤツが来るようだぞ。
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /ci1 4 Alright then, I'm trusting you.
+IncidentJsApcBegin - /ci1 2 I'm sorry, <br>you’re always bailing me out.
+IncidentJsApcFailure - I guess this is as far as I go...<br>I'm afraid I must pull back.
+IncidentJsApcSuccess - /ci2 5 The enemy is neutralized, thanks<br>to you. You have my gratitude.
+IncidentJsApcBeginEvo - /ci3 2 ... Stay on your toes.<br>A tough one is coming this way.
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Pure
+Group 0
+PartyJoin - /ci1 1 よろしくお願いします
+IncidentJsApcBegin - /ci1 1 すみません、マスター。<br>状況不利につき、協力を要請します。
+IncidentJsApcFailure - ……戦闘継続、不可能。<br>申し訳ありません、撤退します。
+IncidentJsApcSuccess - /ci1 1 状況、終了。<br>協力、ありがとうございました。
+IncidentJsApcBeginEvo - /ci1 4 さらに巨大な反応を確認。<br>……来ます。
+AbilityExeRareU - 良いものを身に着けていると<br>いつもより調子がいいですね！
+EnemyLargeRareW - マスターに頂いた<br><weapon>なら<br>勝てます！
+EnemyBossRareW - マスターに頂いた<br><weapon>で<br>決着をつけます！
+EnemyRareRareW - 珍種を発見しました。<br>私の武器とどちらが珍しいでしょうか？
+EnemyBoostRareW - 雰囲気が異なるようですが……<br><weapon>なら<br>やれます！
+
+Group 1
+PartyJoin - /ci1 1 It's a pleasure.
+IncidentJsApcBegin - /ci1 1 Forgive me, Handler, but I must ask for<br>your assistance with a very troubling situation.
+IncidentJsApcFailure - ...Unable to continue fighting. <br>Forgive me, I must retreat.
+IncidentJsApcSuccess - /ci1 1 The situation is under control.<br>I am grateful for your assistance.
+IncidentJsApcBeginEvo - /ci1 4 I have confirmed readings of an even larger<br>enemy in the vicinity... Here it comes.
+AbilityExeRareU - It always feels good to have something<br>nice equipped!
+EnemyLargeRareW - I'm sure to win with the<br><weapon><br>you gave me, Handler!
+EnemyBossRareW - I'll defeat this foe with the<br><weapon><br>you gave me, Handler!
+EnemyRareRareW - I spotted a rare species. Tell me, which<br>is rarer: This enemy or my weapon?
+EnemyBoostRareW - This one feels different in some way, but I can<br>defeat it as long as I have the<br><weapon>!
+
+
+Sharp
+Group 0
+PartyJoin - /ci1 2 ……さっさと終わらせよう
+IncidentJsApcBegin - /ci4 3 ……迷惑をかけてしまって<br>ごめん。
+IncidentJsApcFailure - ……くそ、迷惑かけっぱなしだ。<br>わたしは退く……ごめん！
+IncidentJsApcSuccess - /ci2 5 ……その、なんていうか<br>ごめんなさい。あと、ありがとう。
+IncidentJsApcBeginEvo - /moya /ci5 2 ……まだだ。<br>まだ、終わりじゃない。
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /ci1 2 ... Let's get this over with.
+IncidentJsApcBegin - /ci4 3 ... Sorry to<br>trouble you.
+IncidentJsApcFailure - ...Damn, I've been nothing but trouble for you.<br>I must retreat... sorry!
+IncidentJsApcSuccess - /ci2 5 ...I, uh, don't know what to say...<br>I'm sorry. And... thanks.
+IncidentJsApcBeginEvo - /moya /ci5 2 ...Not yet.<br>This isn't over yet!
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+Urbane
+Group 0
+PartyJoin - /ci2 3 それでは、よろしくお願いします
+IncidentJsApcBegin - /ci4 1 すみません……<br>貴方に頼ってばかりで……
+IncidentJsApcFailure - ……これ以上は、もちません。<br>申し訳ありません、撤退させて<br>いただきます。
+IncidentJsApcSuccess - /ci2 1 ふぅ……無事、終わりましたね。<br>貴方のおかげです<br>ありがとうございました。
+IncidentJsApcBeginEvo - /ci5 3 ……まだ、終わらないようです。<br>巨大な反応が近づいています。
+AbilityExeRareU - (仮)レアユニット装備時のポテンシャル発動
+EnemyLargeRareW - (仮)レア武器装備時に大型エネミーが出現した
+EnemyBossRareW - (仮)レア武器装備時にボスが出現した
+EnemyRareRareW - (仮)レア武器装備時にレアエネミーが出現した
+EnemyBoostRareW - (仮)レア武器装備時にブーストEが出現した
+
+Group 1
+PartyJoin - /ci2 3 It is a true pleasure.
+IncidentJsApcBegin - /ci4 1 I'm sorry... I feel terrible for<br>relying on you so much.
+IncidentJsApcFailure - ...I simply cannot endure any more.<br>I am terribly sorry,<br>but I must take my leave.
+IncidentJsApcSuccess - /ci2 1 Whew... thanks to you we were<br>able to make it through unscathed.<br>Thank you for your help.
+IncidentJsApcBeginEvo - /ci5 3 ... It's not over yet, I'm<br>afraid. Something massive draws near.
+AbilityExeRareU - (Provisional) Potential was triggered when a<br>rare Unit was equipped.
+EnemyLargeRareW - (Provisional) A large Enemy appeared when a<br>rare weapon was equipped.
+EnemyBossRareW - (Provisional) A Boss appeared when a rare weapon<br>was equipped.
+EnemyRareRareW - (Provisional) A rare Enemy appeared when a rare<br>weapon was equipped.
+EnemyBoostRareW - (Provisional) A Boosted Enemy appeared<br>when a rare weapon was equipped.
+
+
+7002001
+Group 0
+DestroyEnemy1 - やったね！
+DestroyEnemy2 - いい感じだね。
+DestroyEnemy3 - すごい！
+CondFreeze - つ、つめた……！
+CondBurn - あ、あちち……！
+CondShock - しびびび……！
+CondPoison - うぅ……。
+CondPanic - あ、あれれ……？
+CondStan - う、うぅ……。
+CondMirage - ね、狙いが……。
+CondInjury - いたっ！
+Die - ごめん……みんな……。
+ThankHeal - ありがとう！
+ThankBuff - 助かるよ！
+ThankCure - ありがとう！
+DefeatEnemy - やったね！
+LevelUp - おめでとう！また強くなったね！
+InvokeSkill1 - はあっ！
+InvokeSkill2 - そこだ！
+InvokeSkill3 - 当たれっ！
+TechFire - はあっ！
+TechIce - えいっ！
+TechThunder - やあっ！
+TechWind - やっ！
+TechLight - たあっ！
+TechDark - たっ！
+PBFull - よし、準備オーケー！
+PBRelease - もう負けないんだから！
+Avoid - わっと……！
+HealSelf - 回復っと！
+BuffSelf - これでよし！
+HealOther - 大丈夫？　回復するね。
+BuffOther - はい、どうぞ！
+HP30 - まだまだ、これから……！
+HP10 - なんとかしないと……。
+ItemRare - わぁ、よかったね！
+DamageSmall - いたっ！
+DamageMiddle - うっ！
+DamageLarge - うわっ！
+MemberDamaged - 大丈夫!?
+MemberDead - え！　そんな……。
+Resurrect - まだまだ行くよ！
+PartyJoin - よろしくね！
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Awesome!
+DestroyEnemy2 - We've got this.
+DestroyEnemy3 - Nice!
+CondFreeze - Th-That's real cold...!
+CondBurn - I'm burning up!
+CondShock - I got z-z-zapped!
+CondPoison - Urk...
+CondPanic - Where am I...?
+CondStan - Ah, ugh...
+CondMirage - G-Get back here...
+CondInjury - Ouch!
+Die - I let you all... down...
+ThankHeal - Thank you!
+ThankBuff - Sweet, thanks!
+ThankCure - Fixed me right up!
+DefeatEnemy - Awesome!
+LevelUp - Brilliant! You're really going places!
+InvokeSkill1 - Haaah!
+InvokeSkill2 - There you are!
+InvokeSkill3 - Take this!
+TechFire - Haaah!
+TechIce - Freeze!
+TechThunder - Yaaah!
+TechWind - Feel the tempest!
+TechLight - Haah!
+TechDark - Hah!
+PBFull - Just say the word!
+PBRelease - Just try and stop me!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Swoosh...!
+HealSelf - Need to heal!
+BuffSelf - Don't mind if I do!
+HealOther - Still with us? Healing you up.
+BuffOther - This'll get you going!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - It'll take more than that...!
+HP10 - Need to stay focused...
+ItemRare - Wow, how lucky!
+DamageSmall - Ow!
+DamageMiddle - Ugh!
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You hurt!?
+MemberDead - There's no way...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Back on my feet!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7001001
+Group 0
+DestroyEnemy1 - やったわね。
+DestroyEnemy2 - さすがね。
+DestroyEnemy3 - 順調ね。
+CondFreeze - うぅ……。
+CondBurn - くっ！
+CondShock - あ……あぁ。
+CondPoison - うぐぅ……。
+CondPanic - はあ……はあ……。
+CondStan - くっ……うぅ。
+CondMirage - ……当たらない……。
+CondInjury - ぐうぅ……。
+Die - こんなところで……。
+ThankHeal - ありがとう。
+ThankBuff - 助かるわ。
+ThankCure - 助かったわ。
+DefeatEnemy - なんとかなったわね。
+LevelUp - ふふっ、強くなったようね。
+InvokeSkill1 - はっ！
+InvokeSkill2 - やあっ！
+InvokeSkill3 - これでっ！
+TechFire - はあっ！
+TechIce - やあっ！
+TechThunder - はあぁ！
+TechWind - ふっ！
+TechLight - やあっ！
+TechDark - はあぁ……！
+PBFull - 離れてて。
+PBRelease - これならどうかしら？
+Avoid - ……っと。
+HealOther - 回復するわね。
+BuffOther - これを。
+HP30 - ……まだまだ。
+HP10 - このままだと危険……ね。
+ItemRare - あら、いいわね。
+DamageSmall - くっ！
+DamageMiddle - くぅ！
+DamageLarge - うっ！
+MemberDamaged - 大丈夫!?
+MemberDead - し……しっかりして！
+Resurrect - 行きましょう。
+PartyJoin - よろしく。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Got them.
+DestroyEnemy2 - Just as I thought.
+DestroyEnemy3 - Nicely done.
+CondFreeze - Urk...
+CondBurn - Yeowch!
+CondShock - A-Argh.
+CondPoison - Ugh...
+CondPanic - Huh... Huh...
+CondStan - Urgh... Ugh.
+CondMirage - I can't hit them...
+CondInjury - Ungh...
+Die - In a place like this...
+ThankHeal - Thanks!
+ThankBuff - I appreciate the support!
+ThankCure - Whew, all better now.
+DefeatEnemy - We toughed it out!
+LevelUp - Nice, you've gotten stronger!
+InvokeSkill1 - Hah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - This should do it!
+TechFire - Hah!
+TechIce - Yaaah!
+TechThunder - Haaah!
+TechWind - Hmph!
+TechLight - Yaaah!
+TechDark - Haaah!
+PBFull - Stand back!
+PBRelease - How do you like this?
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - ...Oh.
+HealOther - Healing coming right up.
+BuffOther - Here's a boost!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - ...Still standing.
+HP10 - Things aren't... looking so good.
+ItemRare - Oho, what have we here?
+DamageSmall - Yeowch!
+DamageMiddle - Ugh...
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You okay!?
+MemberDead - H-Hey, stay with us!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Let's get going!
+PartyJoin - Leave it to me!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7002002
+Group 0
+DestroyEnemy1 - やったね！
+DestroyEnemy2 - いい感じだね。
+DestroyEnemy3 - すごい！
+CondFreeze - つ、つめた……！
+CondBurn - あ、あちち……！
+CondShock - しびびび……！
+CondPoison - うぅ……。
+CondPanic - あ、あれれ……？
+CondStan - う、うぅ……。
+CondMirage - ね、狙いが……。
+CondInjury - いたっ！
+Die - ごめん……みんな……。
+ThankHeal - ありがとう！
+ThankBuff - 助かるよ！
+ThankCure - ありがとう！
+DefeatEnemy - やったね！
+LevelUp - おめでとう！また強くなったね！
+InvokeSkill1 - はあっ！
+InvokeSkill2 - そこだ！
+InvokeSkill3 - 当たれっ！
+TechFire - はあっ！
+TechIce - えいっ！
+TechThunder - やあっ！
+TechWind - やっ！
+TechLight - たあっ！
+TechDark - たっ！
+PBFull - よし、準備オーケー！
+PBRelease - もう負けないんだから！
+Avoid - わっと……！
+HealSelf - 回復っと！
+BuffSelf - これでよし！
+HealOther - 大丈夫？　回復するね。
+BuffOther - はい、どうぞ！
+HP30 - まだまだ、これから……！
+HP10 - なんとかしないと……。
+ItemRare - わぁ、よかったね！
+DamageSmall - いたっ！
+DamageMiddle - うっ！
+DamageLarge - うわっ！
+MemberDamaged - 大丈夫!?
+MemberDead - え！　そんな……。
+Resurrect - まだまだ行くよ！
+PartyJoin - よろしくね！
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Awesome!
+DestroyEnemy2 - We've got this.
+DestroyEnemy3 - Nice!
+CondFreeze - Th-That's real cold...!
+CondBurn - I'm burning up!
+CondShock - I got z-z-zapped!
+CondPoison - Urk...
+CondPanic - Where am I...?
+CondStan - Ah, ugh...
+CondMirage - G-Get back here...
+CondInjury - Ouch!
+Die - I let you all... down...
+ThankHeal - Thank you!
+ThankBuff - Sweet, thanks!
+ThankCure - Fixed me right up!
+DefeatEnemy - Awesome!
+LevelUp - Brilliant! You're really going places!
+InvokeSkill1 - Haaah!
+InvokeSkill2 - There you are!
+InvokeSkill3 - Take this!
+TechFire - Haaah!
+TechIce - Freeze!
+TechThunder - Yaaah!
+TechWind - Feel the tempest!
+TechLight - Haah!
+TechDark - Hah!
+PBFull - Just say the word!
+PBRelease - Just try and stop me!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Swoosh...!
+HealSelf - Need to heal!
+BuffSelf - Don't mind if I do!
+HealOther - Still with us? Healing you up.
+BuffOther - This'll get you going!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - It'll take more than that...!
+HP10 - Need to stay focused...
+ItemRare - Wow, how lucky!
+DamageSmall - Ow!
+DamageMiddle - Ugh!
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You hurt!?
+MemberDead - There's no way...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Back on my feet!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7003001
+Group 0
+DestroyEnemy1 - やるじゃないか。
+DestroyEnemy2 - なかなかいいぞ。
+DestroyEnemy3 - いい腕だ。
+CondFreeze - ぬう……！
+CondBurn - くっ……！
+CondShock - うぐっ……。
+CondPoison - むう……。
+CondPanic - う……うぅ。
+CondStan - ぐぬう……！
+CondMirage - くっ、目が……。
+CondInjury - ぐぬぅ。
+Die - しまったな……。
+ThankHeal - 悪いな！
+ThankBuff - 助かるぜ！
+ThankCure - 悪いな！
+DefeatEnemy - よし、さっぱりしたな。
+LevelUp - おう、腕を上げたな。
+InvokeSkill1 - はああっ！
+InvokeSkill2 - 手加減なしだ！
+InvokeSkill3 - とらえた！
+TechFire - うぉっ！
+TechIce - ふんっ！
+TechThunder - はあっ！
+TechWind - おりゃ！
+TechLight - うらあっ！
+TechDark - おりゃああ！
+PBFull - そろそろいいだろう。
+PBRelease - オレに全部……任せとけ！
+Avoid - おっと……！
+HealSelf - ふう。
+BuffSelf - よし。
+HealOther - 無理はするなよ。
+BuffOther - ほらよ。
+HP30 - ここからが本番だ！
+HP10 - ちょっとシャレにならんな……。
+ItemRare - ほう、ついてるな。
+DamageSmall - うっ！
+DamageMiddle - くっ！
+DamageLarge - ぐっ！
+MemberDamaged - おい、大丈夫か!?
+MemberDead - なんてこった！
+Resurrect - よっしゃ！やろうぜ！
+PartyJoin - よろしくな！
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Not bad. Not bad.
+DestroyEnemy2 - That was pretty good.
+DestroyEnemy3 - Those were some moves.
+CondFreeze - Brr...!
+CondBurn - Urgh!
+CondShock - Gah...
+CondPoison - Mmm...
+CondPanic - W-Woah...
+CondStan - Hngh...!
+CondMirage - Ugh... My eyes...
+CondInjury - Urgh.
+Die - Damn it...
+ThankHeal - Sorry for that!
+ThankBuff - Now that's a pick-me-up!
+ThankCure - My bad!
+DefeatEnemy - All right, we're looking good!
+LevelUp - Heh, now you're flexin' on 'em!
+InvokeSkill1 - Haaaaah!
+InvokeSkill2 - I won’t hold back!
+InvokeSkill3 - I've got you now!
+TechFire - Hoh!
+TechIce - Hungh!
+TechThunder - Hah!
+TechWind - Cutting winds!
+TechLight - Raaagh!
+TechDark - Writhe before me!
+PBFull - It's about time.
+PBRelease - Leave everything... to me!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Oops...!
+HealSelf - Phew.
+BuffSelf - Oh, yes!
+HealOther - Take it easy.
+BuffOther - I've got you.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - Time to get serious!
+HP10 - Not looking so good...
+ItemRare - Well, aren't you lucky!
+DamageSmall - Ugh!
+DamageMiddle - Urk!
+DamageLarge - Gaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Hey, you okay over there!?
+MemberDead - What the hell!?
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Hell yeah! Let's do this!
+PartyJoin - Glad to be here!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7005001
+Group 0
+DestroyEnemy1 - 問題ないな。
+DestroyEnemy2 - 上出来だ。
+DestroyEnemy3 - うむ、見事だ。
+CondFreeze - くっ……！
+CondBurn - うぐっ……！
+CondShock - うっ……うぅ。
+CondPoison - む……くっ……。
+CondPanic - ぐぬ……。
+CondStan - むう……！
+CondMirage - し、視界が……。
+CondInjury - うぅ。
+Die - すまない、離脱する。
+ThankHeal - 感謝する。
+ThankBuff - 助かる。
+ThankCure - すまない。
+DefeatEnemy - よし、片付いたな。
+LevelUp - どんどん強くなるな。
+InvokeSkill1 - はあっ！
+InvokeSkill2 - いくぞ！
+InvokeSkill3 - 覚悟するんだな！
+TechFire - たあっ！
+TechIce - はっ！
+TechThunder - ふんっ！
+TechWind - とうっ！
+TechLight - せいっ！
+TechDark - はあっ……！
+PBFull - ここは任せてくれ。
+PBRelease - 私の前に立ったこと、後悔するがいい。
+Avoid - ふっ！
+HealOther - 回復しておくぞ。
+BuffOther - 役立ててくれ。
+HP30 - 戦況を変えなければ……。
+HP10 - まずいな……。
+ItemRare - うむ、いいものだな。
+DamageSmall - くっ！
+DamageMiddle - うっ！
+DamageLarge - ちっ！
+MemberDamaged - 大丈夫か!?
+MemberDead - 私としたことが……。
+Resurrect - 借りは返すぞ！
+PartyJoin - 私も同行させてもらう。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - No issues here.
+DestroyEnemy2 - Wonderful work.
+DestroyEnemy3 - Mm, splendid.
+CondFreeze - Guh...!
+CondBurn - Gah, I'm burning up!
+CondShock - Sh-Sh-Shocking.
+CondPoison - Mngh... Ugh...
+CondPanic - Whoooa...
+CondStan - Hngh...!
+CondMirage - My field of vision...
+CondInjury - Urk...
+Die - Sorry, I gotta fall back.
+ThankHeal - You have my thanks!
+ThankBuff - Perfect timing!
+ThankCure - Appreciate it.
+DefeatEnemy - That's that taken care of.
+LevelUp - You just keep getting stronger.
+InvokeSkill1 - Haah!
+InvokeSkill2 - You're in for it, now!
+InvokeSkill3 - It’s over for you!
+TechFire - Haah!
+TechIce - Hah!
+TechThunder - Hrrngh!
+TechWind - Hohh!
+TechLight - Sei!
+TechDark - Haaah!
+PBFull - I'll take care of this.
+PBRelease - You'll wish you had never met me.
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Hnh!
+HealOther - Let's get you back in shape.
+BuffOther - Make it count.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - We need to turn this around...
+HP10 - This is bad...
+ItemRare - My, my. What a find.
+DamageSmall - Urk!
+DamageMiddle - Oof!
+DamageLarge - Damn.
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Do take care!
+MemberDead - How could I let this happen...?
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - They'll pay for that!
+PartyJoin - I'll be joining you.
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7001002
+Group 0
+DestroyEnemy1 - やったわね。
+DestroyEnemy2 - さすがね。
+DestroyEnemy3 - 順調ね。
+CondFreeze - うぅ……。
+CondBurn - くっ！
+CondShock - あ……あぁ。
+CondPoison - うぐぅ……。
+CondPanic - はあ……はあ……。
+CondStan - くっ……うぅ。
+CondMirage - ……当たらない……。
+CondInjury - ぐうぅ……。
+Die - こんなところで……。
+ThankHeal - ありがとう。
+ThankBuff - 助かるわ。
+ThankCure - 助かったわ。
+DefeatEnemy - なんとかなったわね。
+LevelUp - ふふっ、強くなったようね。
+InvokeSkill1 - はっ！
+InvokeSkill2 - やあっ！
+InvokeSkill3 - これでっ！
+TechFire - はあっ！
+TechIce - やあっ！
+TechThunder - はあぁ！
+TechWind - ふっ！
+TechLight - やあっ！
+TechDark - はあぁ……！
+PBFull - 離れてて。
+PBRelease - これならどうかしら？
+Avoid - ……っと。
+HealOther - 回復するわね。
+BuffOther - これを。
+HP30 - ……まだまだ。
+HP10 - このままだと危険……ね。
+ItemRare - あら、いいわね。
+DamageSmall - くっ！
+DamageMiddle - くぅ！
+DamageLarge - うっ！
+MemberDamaged - 大丈夫!?
+MemberDead - し……しっかりして！
+Resurrect - 行きましょう。
+PartyJoin - よろしく。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Got them.
+DestroyEnemy2 - Just as I thought.
+DestroyEnemy3 - Nicely done.
+CondFreeze - Urk...
+CondBurn - Yeowch!
+CondShock - A-Argh.
+CondPoison - Ugh...
+CondPanic - Huh... Huh...
+CondStan - Urgh... Ugh.
+CondMirage - I can't hit them...
+CondInjury - Ungh...
+Die - In a place like this...
+ThankHeal - Thanks!
+ThankBuff - I appreciate the support!
+ThankCure - Whew, all better now.
+DefeatEnemy - We toughed it out!
+LevelUp - Nice, you've gotten stronger!
+InvokeSkill1 - Hah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - This should do it!
+TechFire - Yaaah!
+TechIce - Yaaah!
+TechThunder - Haaah!
+TechWind - Hmph!
+TechLight - Here we go!
+TechDark - Haaah...!
+PBFull - Stand back!
+PBRelease - How do you like this?
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - ...Oh.
+HealOther - Healing coming right up.
+BuffOther - Here's a boost!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - ...Still standing.
+HP10 - Things aren't... looking so good.
+ItemRare - Oho, what have we here?
+DamageSmall - Yeowch!
+DamageMiddle - Ugh...
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You okay!?
+MemberDead - H-Hey, stay with us!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Let's get going!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7001004
+Group 0
+DestroyEnemy1 - やったわね。
+DestroyEnemy2 - さすがね。
+DestroyEnemy3 - 順調ね。
+CondFreeze - うぅ……。
+CondBurn - くっ！
+CondShock - あ……あぁ。
+CondPoison - うぐぅ……。
+CondPanic - はあ……はあ……。
+CondStan - くっ……うぅ。
+CondMirage - ……当たらない……。
+CondInjury - ぐうぅ……。
+Die - こんなところで……。
+ThankHeal - ありがとう。
+ThankBuff - 助かるわ。
+ThankCure - 助かったわ。
+DefeatEnemy - なんとかなったわね。
+LevelUp - ふふっ、強くなったようね。
+InvokeSkill1 - はっ！
+InvokeSkill2 - やあっ！
+InvokeSkill3 - これでっ！
+TechFire - はあっ！
+TechIce - やあっ！
+TechThunder - はあぁ！
+TechWind - ふっ！
+TechLight - やあっ！
+TechDark - はあぁ……！
+PBFull - 離れてて。
+PBRelease - これならどうかしら？
+Avoid - ……っと。
+HealOther - 回復するわね。
+BuffOther - これを。
+HP30 - ……まだまだ。
+HP10 - このままだと危険……ね。
+ItemRare - あら、いいわね。
+DamageSmall - くっ！
+DamageMiddle - くぅ！
+DamageLarge - うっ！
+MemberDamaged - 大丈夫!?
+MemberDead - し……しっかりして！
+Resurrect - 行きましょう。
+PartyJoin - よろしく。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Got them.
+DestroyEnemy2 - Just as I thought.
+DestroyEnemy3 - Nicely done.
+CondFreeze - Urk...
+CondBurn - Yeowch!
+CondShock - A-Argh.
+CondPoison - Ugh...
+CondPanic - Huh... Huh...
+CondStan - Urgh... Ugh.
+CondMirage - I can't hit them...
+CondInjury - Ungh...
+Die - In a place like this...
+ThankHeal - Thanks!
+ThankBuff - I appreciate the support!
+ThankCure - Whew, all better now.
+DefeatEnemy - We toughed it out!
+LevelUp - Nice, you've gotten stronger!
+InvokeSkill1 - Hah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - This should do it!
+TechFire - Yaaah!
+TechIce - Yaaah!
+TechThunder - Haaah!
+TechWind - Hmph!
+TechLight - Here we go!
+TechDark - Haaah...!
+PBFull - Stand back!
+PBRelease - How do you like this?
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - ...Oh.
+HealOther - Healing coming right up.
+BuffOther - Here's a boost!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - ...Still standing.
+HP10 - Things aren't... looking so good.
+ItemRare - Oho, what have we here?
+DamageSmall - Yeowch!
+DamageMiddle - Ugh...
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You okay!?
+MemberDead - H-Hey, stay with us!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Let's get going!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7001006
+Group 0
+DestroyEnemy1 - やったわね。
+DestroyEnemy2 - さすがね。
+DestroyEnemy3 - 順調ね。
+CondFreeze - うぅ……。
+CondBurn - くっ！
+CondShock - あ……あぁ。
+CondPoison - うぐぅ……。
+CondPanic - はあ……はあ……。
+CondStan - くっ……うぅ。
+CondMirage - ……当たらない……。
+CondInjury - ぐうぅ……。
+Die - こんなところで……。
+ThankHeal - ありがとう。
+ThankBuff - 助かるわ。
+ThankCure - 助かったわ。
+DefeatEnemy - なんとかなったわね。
+LevelUp - ふふっ、強くなったようね。
+InvokeSkill1 - はっ！
+InvokeSkill2 - やあっ！
+InvokeSkill3 - これでっ！
+TechFire - はあっ！
+TechIce - やあっ！
+TechThunder - はあぁ！
+TechWind - ふっ！
+TechLight - やあっ！
+TechDark - はあぁ……！
+PBFull - 離れてて。
+PBRelease - これならどうかしら？
+Avoid - ……っと。
+HealOther - 回復するわね。
+BuffOther - これを。
+HP30 - ……まだまだ。
+HP10 - このままだと危険……ね。
+ItemRare - あら、いいわね。
+DamageSmall - くっ！
+DamageMiddle - くぅ！
+DamageLarge - うっ！
+MemberDamaged - 大丈夫!?
+MemberDead - し……しっかりして！
+Resurrect - 行きましょう。
+PartyJoin - よろしく。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Got them.
+DestroyEnemy2 - Just as I thought.
+DestroyEnemy3 - Nicely done.
+CondFreeze - Urk...
+CondBurn - Yeowch!
+CondShock - A-Argh.
+CondPoison - Ugh...
+CondPanic - Huh... Huh...
+CondStan - Urgh... Ugh.
+CondMirage - I can't hit them...
+CondInjury - Ungh...
+Die - In a place like this...
+ThankHeal - Thanks!
+ThankBuff - I appreciate the support!
+ThankCure - Whew, all better now.
+DefeatEnemy - We toughed it out!
+LevelUp - Nice, you've gotten stronger!
+InvokeSkill1 - Hah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - This should do it!
+TechFire - Yaaah!
+TechIce - Yaaah!
+TechThunder - Haaah!
+TechWind - Hmph!
+TechLight - Here we go!
+TechDark - Haaah...!
+PBFull - Stand back!
+PBRelease - How do you like this?
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - ...Oh.
+HealOther - Healing coming right up.
+BuffOther - Here's a boost!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - ...Still standing.
+HP10 - Things aren't... looking so good.
+ItemRare - Oho, what have we here?
+DamageSmall - Yeowch!
+DamageMiddle - Ugh...
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You okay!?
+MemberDead - H-Hey, stay with us!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Let's get going!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7002008
+Group 0
+DestroyEnemy1 - やったね！
+DestroyEnemy2 - いい感じだね。
+DestroyEnemy3 - すごい！
+CondFreeze - つ、つめた……！
+CondBurn - あ、あちち……！
+CondShock - しびびび……！
+CondPoison - うぅ……。
+CondPanic - あ、あれれ……？
+CondStan - う、うぅ……。
+CondMirage - ね、狙いが……。
+CondInjury - いたっ！
+Die - ごめん……みんな……。
+ThankHeal - ありがとう！
+ThankBuff - 助かるよ！
+ThankCure - ありがとう！
+DefeatEnemy - やったね！
+LevelUp - おめでとう！また強くなったね！
+InvokeSkill1 - はあっ！
+InvokeSkill2 - そこだ！
+InvokeSkill3 - 当たれっ！
+TechFire - はあっ！
+TechIce - えいっ！
+TechThunder - やあっ！
+TechWind - やっ！
+TechLight - たあっ！
+TechDark - たっ！
+PBFull - よし、準備オーケー！
+PBRelease - もう負けないんだから！
+Avoid - わっと……！
+HealSelf - 回復っと！
+BuffSelf - これでよし！
+HealOther - 大丈夫？　回復するね。
+BuffOther - はい、どうぞ！
+HP30 - まだまだ、これから……！
+HP10 - なんとかしないと……。
+ItemRare - わぁ、よかったね！
+DamageSmall - いたっ！
+DamageMiddle - うっ！
+DamageLarge - うわっ！
+MemberDamaged - 大丈夫!?
+MemberDead - え！　そんな……。
+Resurrect - まだまだ行くよ！
+PartyJoin - よろしくね！
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Awesome!
+DestroyEnemy2 - We've got this.
+DestroyEnemy3 - Nice!
+CondFreeze - Th-That's real cold...!
+CondBurn - I'm burning up!
+CondShock - I got z-z-zapped!
+CondPoison - Urk...
+CondPanic - Where am I...?
+CondStan - Ah, ugh...
+CondMirage - G-Get back here...
+CondInjury - Ouch!
+Die - I let you all... down...
+ThankHeal - Thank you!
+ThankBuff - Sweet, thanks!
+ThankCure - Fixed me right up!
+DefeatEnemy - Awesome!
+LevelUp - Brilliant! You're really going places!
+InvokeSkill1 - Haaah!
+InvokeSkill2 - There you are!
+InvokeSkill3 - Take this!
+TechFire - Haaah!
+TechIce - Freeze!
+TechThunder - Yaaah!
+TechWind - Feel the tempest!
+TechLight - Haah!
+TechDark - Hah!
+PBFull - Just say the word!
+PBRelease - Just try and stop me!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Swoosh...!
+HealSelf - Need to heal!
+BuffSelf - Don't mind if I do!
+HealOther - Still with us? Healing you up.
+BuffOther - This'll get you going!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - It'll take more than that...!
+HP10 - Need to stay focused...
+ItemRare - Wow, how lucky!
+DamageSmall - Ow!
+DamageMiddle - Ugh!
+DamageLarge - Aaah!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You hurt!?
+MemberDead - There's no way...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Back on my feet!
+PartyJoin - Let's get to work!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7903001
+Group 0
+DestroyEnemy1 - やりますね。
+DestroyEnemy2 - お見事です。
+DestroyEnemy3 - 流石です。
+CondFreeze - うあっ！
+CondBurn - ああっ！
+CondShock - くっ……！
+CondPoison - うぐぁ……！
+CondPanic - うああ!?
+CondStan - ……ああ！
+CondMirage - んっ!?
+CondInjury - むぅ……！
+Die - うっ……力及ばず……。
+ThankHeal - ありがとうございます。
+ThankBuff - 助かります。
+ThankCure - 助かりました。
+DefeatEnemy - 付近に反応なし。
+LevelUp - また、強くなりましたね。
+InvokeSkill1 - やぁ！
+InvokeSkill2 - とぅ！
+InvokeSkill3 - 大人しくしなさい！
+PBFull - 準備は整いました。
+PBRelease - これが私の力です！
+Avoid - よっと！
+HealSelf - 回復！
+BuffSelf - 備えあれば憂いなし。
+HealOther - 大丈夫ですか。
+BuffOther - これで、いかがでしょう。
+HP30 - まだまだ行けます。
+HP10 - 危険な状態です……。
+ItemRare - おや、珍しいですね。
+DamageSmall - たいしたことありません。
+DamageMiddle - なんのこれしき！
+DamageLarge - これはさすがに！
+MemberDamaged - 気をつけてください。
+MemberDead - 私の力及ばず……。
+Resurrect - ご恩に報いましょう。
+PartyJoin - よろしくお願いします。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Well done.
+DestroyEnemy2 - Exemplary.
+DestroyEnemy3 - I’d expect nothing less.
+CondFreeze - Brrrr...
+CondBurn - Agh!
+CondShock - Yowch...
+CondPoison - Ugh...
+CondPanic - Wha?
+CondStan - Aah!
+CondMirage - Huh!?
+CondInjury - Mgh...
+Die - I... I've failed...
+ThankHeal - Thank you very much.
+ThankBuff - I appreciate it.
+ThankCure - I appreciate that.
+DefeatEnemy - Enemy eliminated.
+LevelUp - You just keep getting stronger.
+InvokeSkill1 - Hyaaah!
+InvokeSkill2 - Hngh!
+InvokeSkill3 - Settle down!
+TechIce - That should hold them off a bit!
+TechThunder - Thinking I'm powerless will be your downfall!
+PBFull - Ready and waiting.
+PBRelease - Feel my might!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Whoops!
+HealSelf - Much better!
+BuffSelf - Can never be too prepared!
+HealOther - Are you okay?
+BuffOther - Is this helpful?
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - I'm totally fine.
+HP10 - This is getting bad...
+ItemRare - Wow, that's rare.
+DamageSmall - You'll have to do better than that.
+DamageMiddle - Is that all you've got!?
+DamageLarge - Okay, that one hurt!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Please be careful.
+MemberDead - I failed you...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - I am in your debt.
+PartyJoin - Looking forward to this.
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7904001
+Group 0
+DestroyEnemy1 - いいわね。
+DestroyEnemy2 - その調子よ。
+DestroyEnemy3 - 上々ね。
+CondFreeze - なっ……。
+CondBurn - うっ……。
+CondShock - くっ……。
+CondPoison - うぐっ……。
+CondPanic - く……うぅ。
+CondStan - うぐっ……。
+CondMirage - ぐっ……。
+CondInjury - くうぅ……。
+Die - 私としたことが……。
+ThankHeal - 礼を言うわ。
+ThankBuff - ああ、助かるわ。
+ThankCure - 礼を言うわ。
+DefeatEnemy - こんなものかしら。
+LevelUp - まだまだ伸びしろがありそうね。
+InvokeSkill1 - はっ！
+InvokeSkill2 - ふっ！
+InvokeSkill3 - くらいなさい！
+PBFull - いいものを見せてあげるわ。
+PBRelease - 覚悟しなさい。
+Avoid - はあっ……！
+HealOther - しっかりしなさい。
+BuffOther - 役立ててちょうだい。
+HP30 - なかなか厄介ね……。
+HP10 - このままじゃ終わらないわ。
+ItemRare - 大事に使うのよ。
+DamageSmall - うっ……。
+DamageMiddle - くっ……。
+DamageLarge - なっ……!?
+MemberDamaged - 攻撃をよく見て。
+MemberDead - なんてこと……。
+Resurrect - 借りは返すわよ。拳が唸るわ。
+PartyJoin - よろしく。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Very nice.
+DestroyEnemy2 - That's it.
+DestroyEnemy3 - Excellent!
+CondFreeze - Wha--?
+CondBurn - Ugh...
+CondShock - Urk...
+CondPoison - Ecch...
+CondPanic - Gah...
+CondStan - Ecch...
+CondMirage - Wuh...
+CondInjury - Ow...
+Die - How could I let this happen...?
+ThankHeal - My thanks.
+ThankBuff - Ah, that helps.
+ThankCure - My thanks.
+DefeatEnemy - Is that it?
+LevelUp - And you still have so much potential.
+InvokeSkill1 - Hah!
+InvokeSkill2 - Hnh!
+InvokeSkill3 - Take this!
+TechIce - That should hold them off a bit!
+TechThunder - Thinking I'm powerless will be your downfall!
+PBFull - Now I'll show you something.
+PBRelease - Prepare yourself.
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Haaah!
+HealOther - Step it up.
+BuffOther - Make good use of it.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - This is getting a bit dangerous...
+HP10 - I won't go out like this.
+ItemRare - Take good care of that.
+DamageSmall - Ugh...
+DamageMiddle - Urk...
+DamageLarge - Wha--!?
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Keep your eyes on the enemy.
+MemberDead - How could this happen...?
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - I won't forget this... Back to action!
+PartyJoin - Leave it to me!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7905001
+Group 0
+DestroyEnemy1 - やるな。
+DestroyEnemy2 - ほう。
+DestroyEnemy3 - 負けてられんな。
+CondFreeze - ちっ！
+CondBurn - くそっ！
+CondShock - うわっ！
+CondPoison - うぇっ！
+CondPanic - あぁぁ！
+CondStan - マジかよっ！
+CondMirage - なん……だと！
+CondInjury - ちっ、マズいな。
+Die - まさかっ……油断したぜ……。
+ThankHeal - 助かる。
+ThankBuff - 成果で返すぜ。
+ThankCure - すまないな。
+DefeatEnemy - こんなものか。
+LevelUp - その調子で派手にいこうぜ。
+InvokeSkill1 - おりゃ！
+InvokeSkill2 - 遅いんだよ！
+InvokeSkill3 - 消えなっ！
+PBFull - いつでもやれるぜ？
+PBRelease - 食らいやがれ！
+Avoid - 甘いっ！
+HealSelf - どうにか凌ぐぜ。
+BuffSelf - ここは慎重に……。
+HealOther - まだやれるだろ？
+BuffOther - まだまだ働いてもらうぜ。
+HP30 - まだまだ！
+HP10 - こいつぁ……。
+ItemRare - いいもん出たな！
+DamageSmall - かすり傷だ。
+DamageMiddle - ぐはぁ……！
+DamageLarge - ぐっ……マズいかもしれん。
+MemberDamaged - しっかりしろ！
+MemberDead - おいおい、ウソだろ!?
+Resurrect - 信じていたぜ。
+PartyJoin - 俺が必要だろ？
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Not bad.
+DestroyEnemy2 - Wow.
+DestroyEnemy3 - Look at you.
+CondFreeze - Damn.
+CondBurn - Damn!
+CondShock - Aaah!
+CondPoison - Geh!
+CondPanic - Aaagh!
+CondStan - Are you serious?
+CondMirage - What in the...!?
+CondInjury - Aw, man.
+Die - No way... I got sloppy...
+ThankHeal - Perfect timing!
+ThankBuff - You'll be glad you did that.
+ThankCure - Appreciate that.
+DefeatEnemy - I guess that's it.
+LevelUp - Nice. Keep smashing it up.
+InvokeSkill1 - Uraaagh!
+InvokeSkill2 - Too slow!
+InvokeSkill3 - Die!
+TechIce - That should hold them off a bit!
+TechThunder - Thinking I'm powerless will be your downfall!
+PBFull - I'm ready whenever.
+PBRelease - Get bent!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Not even close!
+HealSelf - That'll keep me going.
+BuffSelf - Gotta be careful here...
+HealOther - Come on. You're fine.
+BuffOther - I need you to keep working.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - I'm still good!
+HP10 - Not good...
+ItemRare - Ooh, that's a nice one!
+DamageSmall - Just a scratch.
+DamageMiddle - Oof...!
+DamageLarge - Ugh... That one stung.
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Look alive!
+MemberDead - Wait. No way!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - I knew you'd come through.
+PartyJoin - I know you need me.
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7906001
+Group 0
+DestroyEnemy1 - いいですね！
+DestroyEnemy2 - 素晴らしいです。
+DestroyEnemy3 - さすがです！
+CondFreeze - うっ……くっ。
+CondBurn - うぐっ……。
+CondShock - ぐっ……。
+CondPoison - ぐぐっ……。
+CondPanic - あ……ああ……。
+CondStan - うう……。
+CondMirage - なっ。
+CondInjury - くぅ……！
+Die - 一旦退きます……すみません。
+ThankHeal - ありがとうございます！
+ThankBuff - 恐れ入ります！
+ThankCure - とても助かります！
+DefeatEnemy - 一段落ですね。
+LevelUp - 私も負けてられません！
+InvokeSkill1 - はいっ！
+InvokeSkill2 - やあっ！
+InvokeSkill3 - とらえた！
+PBFull - この時を待ってました。
+PBRelease - 思いっきりいきます！
+Avoid - ……はっ！
+HealSelf - これで一安心。
+BuffSelf - 念のために。
+HealOther - これで大丈夫ですか？
+BuffOther - これをどうぞ。
+HP30 - 踏ん張らないと……！
+HP10 - まだ、終わってません……！
+ItemRare - あれ？　いいですね。
+DamageSmall - あっ。
+DamageMiddle - ううっ。
+DamageLarge - くっ！
+MemberDamaged - あっ、大丈夫ですか!?
+MemberDead - そんな……。
+Resurrect - 仕切り直しです！
+PartyJoin - 一緒に頑張りましょう！
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Good!
+DestroyEnemy2 - Excellent.
+DestroyEnemy3 - Amazing, as always!
+CondFreeze - Oof... Ugh.
+CondBurn - Ecch...
+CondShock - Wuh...
+CondPoison - Urgh...
+CondPanic - Agh... Aaaagh!
+CondStan - Mnh...
+CondMirage - Wha--?
+CondInjury - Ow...
+Die - Sorry... I need to drop back.
+ThankHeal - Thank you!
+ThankBuff - You shouldn't have!
+ThankCure - That really helps!
+DefeatEnemy - Time for a breather.
+LevelUp - I'll catch up. You just watch!
+InvokeSkill1 - Hah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - I've got you now!
+PBFull - I've been waiting for this.
+PBRelease - No holding back now!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Hah!
+HealSelf - That gives me a little breathing room.
+BuffSelf - Just in case.
+HealOther - Does that help?
+BuffOther - Hope that helps.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - Time to get tough!
+HP10 - I'm still in the fight!
+ItemRare - Huh? Oh, nice!
+DamageSmall - Agh!
+DamageMiddle - Ooh...
+DamageLarge - Urk!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Ah, are you okay?
+MemberDead - Oh, no!
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Do over!
+PartyJoin - Let's work together!
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7907001
+Group 0
+DestroyEnemy1 - 倒したー。
+DestroyEnemy2 - はい、終わりー。
+DestroyEnemy3 - はーい。
+CondFreeze - つめたっ！
+CondBurn - あっつ！
+CondShock - はー、ショック……。
+CondPoison - 気持ち悪いー。
+CondPanic - あははは！
+CondStan - くらくらするー。
+CondMirage - あちゃー。
+CondInjury - これマズいかもー。
+Die - ホサーニャ、ここに眠る……。
+ThankHeal - ありがとー。
+ThankBuff - 強くなった気がするー。
+ThankCure - ありがとー！
+DefeatEnemy - 敵、もう居ない？
+LevelUp - おめでとー。
+InvokeSkill1 - はぁー。
+InvokeSkill2 - やぁー。
+InvokeSkill3 - いっけー。
+TechFire - 熱いのいくよー。
+TechIce - 冷たいのいくよー。
+TechThunder - 電撃はどうかなー。
+TechWind - 風が……泣いている。
+TechLight - 眩しいぞー。
+TechDark - 闇は怖いぞー。
+PBFull - いつでも出せるよー。
+PBRelease - どかーん。
+Avoid - 当たらないよーだ！
+HealSelf - 危なかったー。
+BuffSelf - ホサーニャ、強くなる！
+HealOther - これで痛くない！
+BuffOther - 強くなーれ。
+HP30 - いたたっ。
+HP10 - ピンチ！
+ItemRare - あー、いいなー。
+DamageSmall - いて。
+DamageMiddle - やったなー。
+DamageLarge - いったーい！
+MemberDamaged - うわ、だいじょーぶ？
+MemberDead - 間に合わなかったよー。
+Resurrect - 助けてくれてありがとー。
+PartyJoin - 私でいいのー？
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - See ya!
+DestroyEnemy2 - Buh-bye!
+DestroyEnemy3 - Yep!
+CondFreeze - Cold!
+CondBurn - Yeowch!
+CondShock - I'm shocked...
+CondPoison - I feel gross.
+CondPanic - Ah ha ha ha!
+CondStan - I'm all dizzy.
+CondMirage - Whaaa...?
+CondInjury - This is not good.
+Die - Hosanna, here I lay me down...
+ThankHeal - Thanks!
+ThankBuff - I feel like I got stronger.
+ThankCure - Thanks!
+DefeatEnemy - Enemies gone?
+LevelUp - Congrats!
+InvokeSkill1 - Haaah!
+InvokeSkill2 - Yaaah!
+InvokeSkill3 - Here I go!
+TechFire - This one's hot!
+TechIce - This one's cold!
+TechThunder - How about a little shock?
+TechWind - The wind... It weeps.
+TechLight - It's blinding!
+TechDark - The dark is spooky!
+PBFull - I'm ready to unload.
+PBRelease - Booooom!
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Hee hee. You missed me!
+HealSelf - Whew.
+BuffSelf - Hosanna, getting stronger!
+HealOther - Pain, pain, go away!
+BuffOther - There you go!
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - Ow, ow, ow.
+HP10 - Crisis!
+ItemRare - I'm so jealous!
+DamageSmall - Ow.
+DamageMiddle - You're starting to annoy me.
+DamageLarge - OW!
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - Oh, no! Are you okay?
+MemberDead - I'm sorry I couldn't help...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Thanks for saving me.
+PartyJoin - I hope I can help.
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+
+7908001
+Group 0
+DestroyEnemy1 - いい調子だね。
+DestroyEnemy2 - 感心、感心。
+DestroyEnemy3 - ほれぼれするよ。
+CondFreeze - あっ……。
+CondBurn - うっ……。
+CondShock - あだだ……。
+CondPoison - うー……。
+CondPanic - うーん……。
+CondStan - ぐうぅ……。
+CondMirage - あれ……。
+CondInjury - おや……。
+Die - ごめん、これ以上は無理そう……。
+ThankHeal - いやあ、悪いね。
+ThankBuff - おや、助かるよ。
+ThankCure - 助かったよ。
+DefeatEnemy - まあ、ざっとこんなもんだね。
+LevelUp - 優秀、優秀。
+InvokeSkill1 - よっ。
+InvokeSkill2 - ほっ。
+InvokeSkill3 - はっ。
+TechFire - たっ。
+TechIce - やっ。
+TechThunder - ほっ。
+TechWind - はっ。
+TechLight - はあっ。
+TechDark - せいっ。
+PBFull - ここは引き受けるよ。
+PBRelease - 少し……本気を出すとしよう。
+Avoid - おっと。
+HealSelf - 回復しておこうかな。
+BuffSelf - これでよし、と。
+HealOther - 回復するよ。
+BuffOther - 遠慮はいらないよ。
+HP30 - 焦らずに……焦らずに……。
+HP10 - これは、まずいかも……。
+ItemRare - おや、よかったね。
+DamageSmall - あっ。
+DamageMiddle - あれっ。
+DamageLarge - いたたっ。
+MemberDamaged - 大丈夫かい!?
+MemberDead - ……ボクの責任だ……。
+Resurrect - どうもありがとう。
+PartyJoin - よーし、はりきっていこう。
+
+Group 1
+EnemyWeak - I can handle this one, no problem!
+EnemyLarge - That is NOT a small enemy!
+EnemyBoss - I don't suppose running is an option...?
+EnemyRare - Whoa! Isn't that a rare one?
+EnemyBoost - Er, this one looks like a real challenge...
+DestroyEnemy1 - Looking good.
+DestroyEnemy2 - Impressive, impressive.
+DestroyEnemy3 - I think I'm in love.
+CondFreeze - Agh...
+CondBurn - Ugh...
+CondShock - Whoa.
+CondPoison - Yuck...
+CondPanic - Urgh...
+CondStan - Ungh...
+CondMirage - What...?
+CondInjury - Oh, my...
+Die - I'm sorry. I can't take any more...
+ThankHeal - Sorry to trouble you.
+ThankBuff - Oh, thank you.
+ThankCure - I needed that.
+DefeatEnemy - Huh. That was easy.
+LevelUp - A cut above the rest.
+InvokeSkill1 - Yoh.
+InvokeSkill2 - Hoh.
+InvokeSkill3 - Hah.
+TechFire - Tah.
+TechIce - Yah.
+TechThunder - Hoh.
+TechWind - Hah.
+TechLight - Haaah.
+TechDark - Sei.
+PBFull - I'll take it from here.
+PBRelease - Time to get a little serious...
+TacticsFree - Alright, I'll just play it by ear!
+TacticsGuard - I'll stay on guard and wait for my chance!
+TacticsMassedAttack - There's no way we can fail<br>if we work together!
+TacticsAttack - Y-You want me to draw them in?<br>Sure, no pressure or anything...
+Avoid - Whoops.
+HealSelf - Better heal up.
+BuffSelf - That'll do the trick.
+HealOther - I'll heal you.
+BuffOther - No need to thank me.
+QuestStart1 - Here we go!
+QuestStart2 - Here we go,<br><%me>.
+QuestEnd1 - It's over... right?
+QuestEnd2 - We're safe and sound,<br><%me>.<br>Awesome!
+IncidentStart - Wh-What's going on?
+IncidentSuccess - Alright!
+IncidentFailure - Uhh...
+PSE - It's that time, huh?
+PSELevelUp - Let's keep at it!
+PSEBurst - Woo! Success! Now let's make it count!
+HP30 - Keep calm... Keep calm...
+HP10 - This isn't looking good...
+ItemRare - Oh, my. Very nice.
+DamageSmall - Agh!
+DamageMiddle - Hey!
+DamageLarge - Ow, ow, ow.
+Trap - I-It's a trap!
+ThankTrapRescue - Thanks for that...
+TrapRescueOther - Are you okay?
+MemberDamaged - You okay!?
+MemberDead - I take responsibility...
+AbilityExe - /toge Now we're talkin'!
+AbilitySpecial - /toge I've got this!
+Resurrect - Much appreciated.
+PartyJoin - Let's give it all we've got.
+Marvelous - Whoa!
+IncidentJsApcBegin - /ci2 1 Perfect timing! I'm up to my neck right now.<br>Can you gimme a hand?
+IncidentJsApcFailure - Ugh, this is too much for me...<br>Sorry, I'm pulling back...
+IncidentJsApcSuccess - /ci2 3 Phew, we made it through somehow.<br>You're a life-saver. See you around, then!
+IncidentJsApcBeginEvo - /ci3 1 Uh oh... I sense something nasty nearby.<br>Keep your eyes peeled!
+
+

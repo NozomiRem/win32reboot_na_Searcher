@@ -1,0 +1,21 @@
+qst_1100050100.text was created: 8/9/2021 12:20:45 AM
+Filesize is: 1184 bytes
+
+MainText
+Group 0
+name010 - グイーデン
+name020 - ブルーダー
+text010 - コクーンの中に入れたようだな。<br>それでは、案内を始めよう。
+text020 - そこは、アークスが基本技能を学ぶためのコクーンだ。<br>正面の転送装置から訓練場に移動してくれ。
+text030 - それでは始めよう。
+text040 - ここは、アークスが基本技能を学ぶためのコクーンだ。<br>正面の転送装置から訓練場に移動してくれ。
+
+Group 1
+name010 - Guiden
+name020 - Dozer
+text010 - Looks like you're inside a Cocoon. I'll give you a rundown.
+text020 - Cocoons are places where ARKS defenders can learn basic skills.<br>Use the Teleporter ahead of you to go to the training area.
+text030 - Ok, let's start.
+text040 - Cocoons are places where ARKS defenders can learn basic skills.<br>Use the Teleporter ahead of you to go to the training area.
+
+

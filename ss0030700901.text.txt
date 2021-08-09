@@ -1,0 +1,23 @@
+ss0030700901.text was created: 8/9/2021 12:20:41 AM
+Filesize is: 976 bytes
+
+Required
+Group 0
+Title - レゾルの森の怪電波
+Summary - オペレーターのオランジェから、<br>レゾルの森で発生している<br>謎の電波の調査を頼まれる。
+
+Group 1
+Title - An Ominous Radio Signal in Resol Forest
+Summary - Operator Oranje asks the trio to investigate<br>a mysterious radio signal coming from<br>Resol Forest.
+
+
+SubObjectives
+Group 0
+text0101 - レゾルの森に向かう
+text0102 - レゾルの森でドールズを倒す
+
+Group 1
+text0101 - Head to Resol Forest
+text0102 - Defeat the Resol Forest DOLLS
+
+
